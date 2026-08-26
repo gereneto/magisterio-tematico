@@ -1,0 +1,142 @@
+:root{
+  --fundo:#fbfaf7;
+  --papel:#ffffff;
+  --tinta:#22201d;
+  --suave:#6b655c;
+  --linha:#e2ddd2;
+  --realce:#7a2e2e;
+  --realce-suave:#f3ece6;
+  --serif:"Iowan Old Style","Palatino Linotype",Palatino,"Book Antiqua",Georgia,serif;
+  --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+}
+@media (prefers-color-scheme:dark){
+  :root{
+    --fundo:#161513;
+    --papel:#1d1c19;
+    --tinta:#e8e4dc;
+    --suave:#9d968a;
+    --linha:#332f2a;
+    --realce:#d99a9a;
+    --realce-suave:#2a2320;
+  }
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0;
+  background:var(--fundo);
+  color:var(--tinta);
+  font-family:var(--serif);
+  font-size:19px;
+  line-height:1.62;
+}
+a{color:inherit}
+
+/* ---------- topo e rodapé ---------- */
+.topo{
+  display:flex;justify-content:space-between;align-items:baseline;gap:1rem;
+  max-width:46rem;margin:0 auto;padding:1.4rem 1.5rem .9rem;
+  border-bottom:1px solid var(--linha);
+}
+.marca{font-family:var(--sans);font-size:.82rem;letter-spacing:.09em;
+  text-transform:uppercase;text-decoration:none;font-weight:600}
+.crit{font-family:var(--sans);font-size:.78rem;color:var(--suave);text-decoration:none}
+.crit:hover{color:var(--realce)}
+.rodape{
+  max-width:46rem;margin:4rem auto 0;padding:1.2rem 1.5rem 3rem;
+  border-top:1px solid var(--linha);
+  font-family:var(--sans);font-size:.78rem;color:var(--suave);
+}
+.rodape a{color:var(--suave);text-decoration:none}
+.rodape a:hover{color:var(--realce)}
+main{max-width:46rem;margin:0 auto;padding:2.2rem 1.5rem 0}
+
+/* ---------- títulos ---------- */
+h1{font-size:1.72rem;line-height:1.22;font-weight:600;margin:.2rem 0 1rem;letter-spacing:-.01em}
+h2{font-size:1.06rem;font-weight:600;margin:2.4rem 0 .9rem;letter-spacing:.01em}
+h3{font-size:.98rem;font-weight:600;margin:1.8rem 0 .6rem}
+.fio{font-family:var(--sans);font-size:.76rem;letter-spacing:.05em;
+  text-transform:uppercase;color:var(--suave);margin:0 0 .5rem}
+.fio a{text-decoration:none}
+.fio a:hover{color:var(--realce)}
+
+/* ---------- cabeçalho do trecho ---------- */
+.fonte{font-family:var(--sans);font-size:.82rem;color:var(--suave);
+  margin:0 0 .8rem;line-height:1.5}
+.resumo{
+  font-size:1.02rem;color:var(--tinta);margin:0 0 1.6rem;
+  padding:.85rem 1.1rem;background:var(--realce-suave);
+  border-left:3px solid var(--realce);border-radius:0 4px 4px 0;
+}
+.pg-indice .resumo,.pg-capa .resumo{background:none;border:0;padding:0;
+  color:var(--suave);font-size:1.05rem;margin-bottom:2rem}
+
+/* ---------- corpo do texto ---------- */
+.texto p{margin:0 0 1.15rem;text-align:justify;hyphens:auto}
+.texto h2{border-top:1px solid var(--linha);padding-top:1.5rem}
+.texto b{font-weight:600}
+.texto .nota{
+  font-size:.86rem;line-height:1.55;color:var(--suave);
+  border-left:2px solid var(--linha);padding:.1rem 0 .1rem .9rem;
+  margin:-.35rem 0 1.4rem;text-align:left;
+}
+
+/* ---------- navegação entre trechos ---------- */
+.passo{
+  display:flex;gap:1rem;margin:3.5rem 0 0;padding-top:1.4rem;
+  border-top:1px solid var(--linha);
+}
+.passo a,.passo .vazio{flex:1 1 0;min-width:0}
+.passo a{
+  display:block;text-decoration:none;padding:.8rem 1rem;
+  border:1px solid var(--linha);border-radius:5px;background:var(--papel);
+  font-size:.92rem;line-height:1.35;
+}
+.passo a:hover{border-color:var(--realce);color:var(--realce)}
+.passo span{display:block;font-family:var(--sans);font-size:.68rem;
+  letter-spacing:.09em;text-transform:uppercase;color:var(--suave);margin-bottom:.25rem}
+.passo .prox{text-align:right}
+
+/* ---------- listas de índice ---------- */
+.lista{list-style:none;margin:0;padding:0;counter-reset:n}
+.lista li{border-bottom:1px solid var(--linha)}
+.lista li:first-child{border-top:1px solid var(--linha)}
+.lista a{display:block;padding:.85rem .2rem;text-decoration:none}
+.lista a:hover{background:var(--realce-suave)}
+.lista b{display:block;font-weight:600;font-size:1rem}
+.lista span{display:block;font-size:.86rem;color:var(--suave);line-height:1.45;margin-top:.15rem}
+
+/* ---------- capa ---------- */
+.capa{font-size:2rem;margin-top:1.5rem}
+.eixos{display:grid;gap:1rem;margin:2rem 0}
+.cartao{
+  display:block;text-decoration:none;padding:1.2rem 1.3rem;
+  border:1px solid var(--linha);border-radius:6px;background:var(--papel);
+}
+.cartao:hover{border-color:var(--realce)}
+.cartao b{display:block;font-size:1.18rem;font-weight:600;margin-bottom:.3rem}
+.cartao span{display:block;color:var(--suave);font-size:.95rem;line-height:1.45}
+.cartao em{display:block;font-style:normal;font-family:var(--sans);
+  font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;
+  color:var(--suave);margin-top:.6rem}
+.obs{color:var(--suave);font-size:.9rem;line-height:1.6}
+
+/* ---------- documento de critérios ---------- */
+.doc p{margin:0 0 1rem}
+.doc ul{padding-left:1.2rem}
+.doc li{margin-bottom:.4rem}
+.tab{overflow-x:auto;margin:0 0 1.4rem}
+.doc table{border-collapse:collapse;width:100%;font-size:.88rem}
+.doc th,.doc td{border:1px solid var(--linha);padding:.45rem .6rem;
+  text-align:left;vertical-align:top}
+.doc th{background:var(--realce-suave);font-weight:600}
+
+@media (max-width:640px){
+  body{font-size:18px}
+  h1{font-size:1.45rem}
+  .capa{font-size:1.7rem}
+  .passo{flex-direction:column}
+  .passo .prox{text-align:left}
+  .passo .vazio{display:none}
+  .texto p{text-align:left}
+}
