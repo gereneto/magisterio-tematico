@@ -5,16 +5,32 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Dei Filius, capítulo 1 e cânones correspondentes — Magistério temático</title>
 <meta name="description" content="Contra o materialismo e o panteísmo do século XIX, o concílio define os atributos de Deus e a sua distinção real em relação ao mundo">
+<meta name="theme-color" content="#131110">
+<script>try{if(localStorage.getItem('tema')==='claro')document.documentElement.setAttribute('data-tema','claro')}catch(e){}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../assets/style.css">
 </head>
 <body class="pg-trecho">
 <header class="topo">
   <a class="marca" href="../index.html">Magistério temático</a>
-  <a class="crit" href="../criterios.html">Critérios</a>
+  <nav>
+    <a class="crit" href="../criterios.html">Critérios</a>
+    <button class="tema" type="button" aria-label="Alternar tema claro e escuro">
+      <svg viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+        <path class="lua" d="M13.4 10.3A5.6 5.6 0 0 1 5.7 2.6a5.9 5.9 0 1 0 7.7 7.7z"/>
+        <g class="sol">
+          <circle cx="8" cy="8" r="3"/>
+          <path d="M8 .8v2M8 13.2v2M.8 8h2M13.2 8h2M2.9 2.9l1.4 1.4M11.7 11.7l1.4 1.4M13.1 2.9l-1.4 1.4M4.3 11.7l-1.4 1.4"/>
+        </g>
+      </svg>
+    </button>
+  </nav>
 </header>
 <main>
 <article class="trecho">
-<p class="fio"><a href="index.html">Eixo 2 — Trindade</a> · V. Concílio Vaticano I</p>
+<p class="fio"><a href="index.html">Eixo 2 — Trindade</a><i>◆</i>V. Concílio Vaticano I</p>
 <h1><i>Dei Filius</i>, capítulo 1 e cânones correspondentes</h1>
 <p class="fonte">Constituição dogmática sobre a fé católica, 24 de abril de 1870. Capítulo 1 e cânones 1 a 4 do primeiro grupo. Cf. DH 3001–3003, 3021–3024.</p>
 <p class="resumo">Contra o materialismo e o panteísmo do século XIX, o concílio define os atributos de Deus e a sua distinção real em relação ao mundo</p>
@@ -26,20 +42,28 @@
 <p>Ora, tudo o que criou, Deus o guarda e o governa pela sua providência, alcançando com força de uma extremidade à outra e dispondo tudo com suavidade. Pois todas as coisas estão nuas e patentes aos seus olhos, mesmo aquelas que hão de acontecer pela ação livre das criaturas.</p>
 <h2>Cânones — De Deus criador de todas as coisas</h2>
 <p class="nota">Contra o materialismo e o panteísmo</p>
-<p><b>1.</b> Se alguém negar que há um só Deus verdadeiro, criador e senhor das coisas visíveis e invisíveis, seja anátema.</p>
-<p><b>2.</b> Se alguém não se envergonhar de afirmar que nada existe além da matéria, seja anátema.</p>
-<p><b>3.</b> Se alguém disser que uma e a mesma é a substância ou essência de Deus e de todas as coisas, seja anátema.</p>
-<p><b>4.</b> Se alguém disser que as coisas finitas, tanto corpóreas como espirituais, ou ao menos as espirituais, emanaram da substância divina; ou que a essência divina, por manifestação ou desenvolvimento de si mesma, se torna todas as coisas; ou, enfim, que Deus é o ser universal ou indefinido que, determinando-se a si mesmo, constitui a universalidade das coisas distinta em gêneros, espécies e indivíduos: seja anátema.</p>
+<p><span class="v">1.</span>Se alguém negar que há um só Deus verdadeiro, criador e senhor das coisas visíveis e invisíveis, seja anátema.</p>
+<p><span class="v">2.</span>Se alguém não se envergonhar de afirmar que nada existe além da matéria, seja anátema.</p>
+<p><span class="v">3.</span>Se alguém disser que uma e a mesma é a substância ou essência de Deus e de todas as coisas, seja anátema.</p>
+<p><span class="v">4.</span>Se alguém disser que as coisas finitas, tanto corpóreas como espirituais, ou ao menos as espirituais, emanaram da substância divina; ou que a essência divina, por manifestação ou desenvolvimento de si mesma, se torna todas as coisas; ou, enfim, que Deus é o ser universal ou indefinido que, determinando-se a si mesmo, constitui a universalidade das coisas distinta em gêneros, espécies e indivíduos: seja anátema.</p>
 </div>
 <nav class="passo">
-<a class="ant" href="28-concilio-de-florenca-1442.html"><span>Anterior</span>Concílio de Florença, 1442</a>
-<a class="prox" href="30-leao-xiii-divinum-illud-munus.html"><span>Próximo</span>Leão XIII, <i>Divinum illud munus</i></a>
+<a class="ant" href="28-concilio-de-florenca-1442.html"><span>Anterior</span><b>Concílio de Florença, 1442</b></a>
+<a class="prox" href="30-leao-xiii-divinum-illud-munus.html"><span>Próximo</span><b>Leão XIII, <i>Divinum illud munus</i></b></a>
 </nav>
 </article>
 </main>
 <footer class="rodape">
-  <a href="../index.html">Índice geral</a> ·
+  <a href="../index.html">Índice geral</a> &middot;
   <a href="https://github.com/gereneto/magisterio-tematico">Repositório</a>
 </footer>
+<script>
+document.querySelector('.tema').addEventListener('click',function(){
+  var r=document.documentElement,
+      claro=r.getAttribute('data-tema')==='claro';
+  if(claro){r.removeAttribute('data-tema')}else{r.setAttribute('data-tema','claro')}
+  try{localStorage.setItem('tema',claro?'escuro':'claro')}catch(e){}
+});
+</script>
 </body>
 </html>

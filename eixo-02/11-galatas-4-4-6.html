@@ -5,32 +5,56 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Gálatas 4,4–6 — Magistério temático</title>
 <meta name="description" content="O Pai envia o Filho e envia o Espírito do Filho: as duas missões pelas quais a Trindade se dá a conhecer na história">
+<meta name="theme-color" content="#131110">
+<script>try{if(localStorage.getItem('tema')==='claro')document.documentElement.setAttribute('data-tema','claro')}catch(e){}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../assets/style.css">
 </head>
 <body class="pg-trecho">
 <header class="topo">
   <a class="marca" href="../index.html">Magistério temático</a>
-  <a class="crit" href="../criterios.html">Critérios</a>
+  <nav>
+    <a class="crit" href="../criterios.html">Critérios</a>
+    <button class="tema" type="button" aria-label="Alternar tema claro e escuro">
+      <svg viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+        <path class="lua" d="M13.4 10.3A5.6 5.6 0 0 1 5.7 2.6a5.9 5.9 0 1 0 7.7 7.7z"/>
+        <g class="sol">
+          <circle cx="8" cy="8" r="3"/>
+          <path d="M8 .8v2M8 13.2v2M.8 8h2M13.2 8h2M2.9 2.9l1.4 1.4M11.7 11.7l1.4 1.4M13.1 2.9l-1.4 1.4M4.3 11.7l-1.4 1.4"/>
+        </g>
+      </svg>
+    </button>
+  </nav>
 </header>
 <main>
 <article class="trecho">
-<p class="fio"><a href="index.html">Eixo 2 — Trindade</a> · I. Escritura</p>
+<p class="fio"><a href="index.html">Eixo 2 — Trindade</a><i>◆</i>I. Escritura</p>
 <h1>Gálatas 4,4–6</h1>
 <p class="resumo">O Pai envia o Filho e envia o Espírito do Filho: as duas missões pelas quais a Trindade se dá a conhecer na história</p>
 <div class="texto">
-<p><b>4</b> Mas, quando veio a plenitude do tempo, enviou Deus o seu Filho, nascido de mulher, nascido sob a Lei,</p>
-<p><b>5</b> para resgatar os que estavam sob a Lei, a fim de que recebêssemos a adoção filial.</p>
-<p><b>6</b> E, porque sois filhos, enviou Deus aos nossos corações o Espírito do seu Filho, que clama: Abba, Pai!</p>
+<p><span class="v">4</span>Mas, quando veio a plenitude do tempo, enviou Deus o seu Filho, nascido de mulher, nascido sob a Lei,</p>
+<p><span class="v">5</span>para resgatar os que estavam sob a Lei, a fim de que recebêssemos a adoção filial.</p>
+<p><span class="v">6</span>E, porque sois filhos, enviou Deus aos nossos corações o Espírito do seu Filho, que clama: Abba, Pai!</p>
 </div>
 <nav class="passo">
-<a class="ant" href="10-romanos-8-9-17-26-27.html"><span>Anterior</span>Romanos 8,9–17.26–27</a>
-<a class="prox" href="12-1-corintios-12-4-6.html"><span>Próximo</span>1 Coríntios 12,4–6</a>
+<a class="ant" href="10-romanos-8-9-17-26-27.html"><span>Anterior</span><b>Romanos 8,9–17.26–27</b></a>
+<a class="prox" href="12-1-corintios-12-4-6.html"><span>Próximo</span><b>1 Coríntios 12,4–6</b></a>
 </nav>
 </article>
 </main>
 <footer class="rodape">
-  <a href="../index.html">Índice geral</a> ·
+  <a href="../index.html">Índice geral</a> &middot;
   <a href="https://github.com/gereneto/magisterio-tematico">Repositório</a>
 </footer>
+<script>
+document.querySelector('.tema').addEventListener('click',function(){
+  var r=document.documentElement,
+      claro=r.getAttribute('data-tema')==='claro';
+  if(claro){r.removeAttribute('data-tema')}else{r.setAttribute('data-tema','claro')}
+  try{localStorage.setItem('tema',claro?'escuro':'claro')}catch(e){}
+});
+</script>
 </body>
 </html>

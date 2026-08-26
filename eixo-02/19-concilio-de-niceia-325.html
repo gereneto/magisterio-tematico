@@ -5,16 +5,32 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Concílio de Niceia, 325 — Magistério temático</title>
 <meta name="description" content="Contra Ário, que fazia do Filho a primeira das criaturas, o concílio define que ele é gerado e não feito, e consubstancial ao Pai — e para isso teve de adotar uma palavra que não está na Escritura">
+<meta name="theme-color" content="#131110">
+<script>try{if(localStorage.getItem('tema')==='claro')document.documentElement.setAttribute('data-tema','claro')}catch(e){}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../assets/style.css">
 </head>
 <body class="pg-trecho">
 <header class="topo">
   <a class="marca" href="../index.html">Magistério temático</a>
-  <a class="crit" href="../criterios.html">Critérios</a>
+  <nav>
+    <a class="crit" href="../criterios.html">Critérios</a>
+    <button class="tema" type="button" aria-label="Alternar tema claro e escuro">
+      <svg viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+        <path class="lua" d="M13.4 10.3A5.6 5.6 0 0 1 5.7 2.6a5.9 5.9 0 1 0 7.7 7.7z"/>
+        <g class="sol">
+          <circle cx="8" cy="8" r="3"/>
+          <path d="M8 .8v2M8 13.2v2M.8 8h2M13.2 8h2M2.9 2.9l1.4 1.4M11.7 11.7l1.4 1.4M13.1 2.9l-1.4 1.4M4.3 11.7l-1.4 1.4"/>
+        </g>
+      </svg>
+    </button>
+  </nav>
 </header>
 <main>
 <article class="trecho">
-<p class="fio"><a href="index.html">Eixo 2 — Trindade</a> · III. Símbolos e concílios antigos</p>
+<p class="fio"><a href="index.html">Eixo 2 — Trindade</a><i>◆</i>III. Símbolos e concílios antigos</p>
 <h1>Concílio de Niceia, 325</h1>
 <p class="fonte">Primeiro concílio ecumênico, 325. Símbolo e anátema final. Cf. DH 125–126.</p>
 <p class="resumo">Contra Ário, que fazia do Filho a primeira das criaturas, o concílio define que ele é gerado e não feito, e consubstancial ao Pai — e para isso teve de adotar uma palavra que não está na Escritura</p>
@@ -29,14 +45,22 @@
 <p>Quanto aos que dizem: houve quando não era, e: antes de ser gerado não era; e que afirmam que veio a existir a partir do que não é, ou que dizem ser o Filho de Deus de outra hipóstase ou substância, ou criado, ou mutável ou alterável — a esses a Igreja católica e apostólica anatematiza.</p>
 </div>
 <nav class="passo">
-<a class="ant" href="18-agostinho-de-trinitate-v-5-6-v-9-10-xv-26-47.html"><span>Anterior</span>Agostinho, <i>De Trinitate</i> V,5,6; V,9,10; XV,26,47</a>
-<a class="prox" href="20-concilio-de-constantinopla-381.html"><span>Próximo</span>Concílio de Constantinopla, 381</a>
+<a class="ant" href="18-agostinho-de-trinitate-v-5-6-v-9-10-xv-26-47.html"><span>Anterior</span><b>Agostinho, <i>De Trinitate</i> V,5,6; V,9,10; XV,26,47</b></a>
+<a class="prox" href="20-concilio-de-constantinopla-381.html"><span>Próximo</span><b>Concílio de Constantinopla, 381</b></a>
 </nav>
 </article>
 </main>
 <footer class="rodape">
-  <a href="../index.html">Índice geral</a> ·
+  <a href="../index.html">Índice geral</a> &middot;
   <a href="https://github.com/gereneto/magisterio-tematico">Repositório</a>
 </footer>
+<script>
+document.querySelector('.tema').addEventListener('click',function(){
+  var r=document.documentElement,
+      claro=r.getAttribute('data-tema')==='claro';
+  if(claro){r.removeAttribute('data-tema')}else{r.setAttribute('data-tema','claro')}
+  try{localStorage.setItem('tema',claro?'escuro':'claro')}catch(e){}
+});
+</script>
 </body>
 </html>

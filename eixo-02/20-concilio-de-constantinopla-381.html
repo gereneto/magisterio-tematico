@@ -5,16 +5,32 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Concílio de Constantinopla, 381 — Magistério temático</title>
 <meta name="description" content="É o símbolo que a Igreja canta na liturgia. Contra os que negavam a divindade do Espírito Santo, o concílio amplia o terceiro artigo de Niceia, que tinha três palavras">
+<meta name="theme-color" content="#131110">
+<script>try{if(localStorage.getItem('tema')==='claro')document.documentElement.setAttribute('data-tema','claro')}catch(e){}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../assets/style.css">
 </head>
 <body class="pg-trecho">
 <header class="topo">
   <a class="marca" href="../index.html">Magistério temático</a>
-  <a class="crit" href="../criterios.html">Critérios</a>
+  <nav>
+    <a class="crit" href="../criterios.html">Critérios</a>
+    <button class="tema" type="button" aria-label="Alternar tema claro e escuro">
+      <svg viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+        <path class="lua" d="M13.4 10.3A5.6 5.6 0 0 1 5.7 2.6a5.9 5.9 0 1 0 7.7 7.7z"/>
+        <g class="sol">
+          <circle cx="8" cy="8" r="3"/>
+          <path d="M8 .8v2M8 13.2v2M.8 8h2M13.2 8h2M2.9 2.9l1.4 1.4M11.7 11.7l1.4 1.4M13.1 2.9l-1.4 1.4M4.3 11.7l-1.4 1.4"/>
+        </g>
+      </svg>
+    </button>
+  </nav>
 </header>
 <main>
 <article class="trecho">
-<p class="fio"><a href="index.html">Eixo 2 — Trindade</a> · III. Símbolos e concílios antigos</p>
+<p class="fio"><a href="index.html">Eixo 2 — Trindade</a><i>◆</i>III. Símbolos e concílios antigos</p>
 <h1>Concílio de Constantinopla, 381</h1>
 <p class="fonte">Segundo concílio ecumênico, 381. Símbolo niceno-constantinopolitano. Cf. DH 150.</p>
 <p class="resumo">É o símbolo que a Igreja canta na liturgia. Contra os que negavam a divindade do Espírito Santo, o concílio amplia o terceiro artigo de Niceia, que tinha três palavras</p>
@@ -25,14 +41,22 @@
 <p>e na Igreja una, santa, católica e apostólica. Confesso um só batismo para a remissão dos pecados. Espero a ressurreição dos mortos e a vida do século que há de vir. Amém.</p>
 </div>
 <nav class="passo">
-<a class="ant" href="19-concilio-de-niceia-325.html"><span>Anterior</span>Concílio de Niceia, 325</a>
-<a class="prox" href="21-sinodo-romano-sob-o-papa-damaso-382.html"><span>Próximo</span>Sínodo romano sob o papa Dâmaso, 382</a>
+<a class="ant" href="19-concilio-de-niceia-325.html"><span>Anterior</span><b>Concílio de Niceia, 325</b></a>
+<a class="prox" href="21-sinodo-romano-sob-o-papa-damaso-382.html"><span>Próximo</span><b>Sínodo romano sob o papa Dâmaso, 382</b></a>
 </nav>
 </article>
 </main>
 <footer class="rodape">
-  <a href="../index.html">Índice geral</a> ·
+  <a href="../index.html">Índice geral</a> &middot;
   <a href="https://github.com/gereneto/magisterio-tematico">Repositório</a>
 </footer>
+<script>
+document.querySelector('.tema').addEventListener('click',function(){
+  var r=document.documentElement,
+      claro=r.getAttribute('data-tema')==='claro';
+  if(claro){r.removeAttribute('data-tema')}else{r.setAttribute('data-tema','claro')}
+  try{localStorage.setItem('tema',claro?'escuro':'claro')}catch(e){}
+});
+</script>
 </body>
 </html>

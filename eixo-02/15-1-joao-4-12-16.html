@@ -5,34 +5,58 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>1 João 4,12–16 — Magistério temático</title>
 <meta name="description" content="O Pai envia o Filho e nos dá o seu Espírito; e Deus é definido pelo amor">
+<meta name="theme-color" content="#131110">
+<script>try{if(localStorage.getItem('tema')==='claro')document.documentElement.setAttribute('data-tema','claro')}catch(e){}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../assets/style.css">
 </head>
 <body class="pg-trecho">
 <header class="topo">
   <a class="marca" href="../index.html">Magistério temático</a>
-  <a class="crit" href="../criterios.html">Critérios</a>
+  <nav>
+    <a class="crit" href="../criterios.html">Critérios</a>
+    <button class="tema" type="button" aria-label="Alternar tema claro e escuro">
+      <svg viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+        <path class="lua" d="M13.4 10.3A5.6 5.6 0 0 1 5.7 2.6a5.9 5.9 0 1 0 7.7 7.7z"/>
+        <g class="sol">
+          <circle cx="8" cy="8" r="3"/>
+          <path d="M8 .8v2M8 13.2v2M.8 8h2M13.2 8h2M2.9 2.9l1.4 1.4M11.7 11.7l1.4 1.4M13.1 2.9l-1.4 1.4M4.3 11.7l-1.4 1.4"/>
+        </g>
+      </svg>
+    </button>
+  </nav>
 </header>
 <main>
 <article class="trecho">
-<p class="fio"><a href="index.html">Eixo 2 — Trindade</a> · I. Escritura</p>
+<p class="fio"><a href="index.html">Eixo 2 — Trindade</a><i>◆</i>I. Escritura</p>
 <h1>1 João 4,12–16</h1>
 <p class="resumo">O Pai envia o Filho e nos dá o seu Espírito; e Deus é definido pelo amor</p>
 <div class="texto">
-<p><b>12</b> A Deus ninguém jamais viu; se nos amamos uns aos outros, Deus permanece em nós, e o seu amor é perfeito em nós.</p>
-<p><b>13</b> Nisto conhecemos que permanecemos nele e ele em nós: porque nos deu do seu Espírito.</p>
-<p><b>14</b> E nós vimos e damos testemunho de que o Pai enviou o Filho como salvador do mundo.</p>
-<p><b>15</b> Todo aquele que confessar que Jesus é o Filho de Deus, Deus permanece nele e ele em Deus.</p>
-<p><b>16</b> E nós conhecemos e cremos no amor que Deus tem por nós. Deus é amor, e quem permanece no amor permanece em Deus, e Deus permanece nele.</p>
+<p><span class="v">12</span>A Deus ninguém jamais viu; se nos amamos uns aos outros, Deus permanece em nós, e o seu amor é perfeito em nós.</p>
+<p><span class="v">13</span>Nisto conhecemos que permanecemos nele e ele em nós: porque nos deu do seu Espírito.</p>
+<p><span class="v">14</span>E nós vimos e damos testemunho de que o Pai enviou o Filho como salvador do mundo.</p>
+<p><span class="v">15</span>Todo aquele que confessar que Jesus é o Filho de Deus, Deus permanece nele e ele em Deus.</p>
+<p><span class="v">16</span>E nós conhecemos e cremos no amor que Deus tem por nós. Deus é amor, e quem permanece no amor permanece em Deus, e Deus permanece nele.</p>
 </div>
 <nav class="passo">
-<a class="ant" href="14-efesios-4-4-6.html"><span>Anterior</span>Efésios 4,4–6</a>
-<a class="prox" href="16-1-joao-5-5-8.html"><span>Próximo</span>1 João 5,5–8</a>
+<a class="ant" href="14-efesios-4-4-6.html"><span>Anterior</span><b>Efésios 4,4–6</b></a>
+<a class="prox" href="16-1-joao-5-5-8.html"><span>Próximo</span><b>1 João 5,5–8</b></a>
 </nav>
 </article>
 </main>
 <footer class="rodape">
-  <a href="../index.html">Índice geral</a> ·
+  <a href="../index.html">Índice geral</a> &middot;
   <a href="https://github.com/gereneto/magisterio-tematico">Repositório</a>
 </footer>
+<script>
+document.querySelector('.tema').addEventListener('click',function(){
+  var r=document.documentElement,
+      claro=r.getAttribute('data-tema')==='claro';
+  if(claro){r.removeAttribute('data-tema')}else{r.setAttribute('data-tema','claro')}
+  try{localStorage.setItem('tema',claro?'escuro':'claro')}catch(e){}
+});
+</script>
 </body>
 </html>

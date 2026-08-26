@@ -119,6 +119,15 @@ def partes(corpo):
     return cabeca, resto
 
 
+def numeral(par):
+    """Destaca o numeral de versículo ou de cânon que abre o parágrafo."""
+    m = re.match(r'^\*\*([^*]{1,14})\*\*\s*', par)
+    if m and re.search(r'\d', m.group(1)):
+        ref = m.group(1).strip()
+        return '<span class="v">%s</span>%s' % (esc(ref), inline(par[m.end():]))
+    return inline(par)
+
+
 def corpo_html(blocos):
     out = []
     for b in blocos:
@@ -127,7 +136,7 @@ def corpo_html(blocos):
         elif so_italico(b) and '\n' not in b:
             out.append('<p class="nota">%s</p>' % inline(b.strip('_*')))
         else:
-            out.append('<p>%s</p>' % inline(b.replace('\n', ' ')))
+            out.append('<p>%s</p>' % numeral(b.replace('\n', ' ')))
     return '\n'.join(out)
 
 
@@ -144,20 +153,46 @@ def pagina(titulo, corpo, prof=0, classe='', descricao=''):
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>%(titulo)s</title>
 <meta name="description" content="%(desc)s">
+<meta name="theme-color" content="#131110">
+<script>try{if(localStorage.getItem('tema')==='claro')\
+document.documentElement.setAttribute('data-tema','claro')}catch(e){}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&\
+family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="%(base)sassets/style.css">
 </head>
 <body class="%(classe)s">
 <header class="topo">
   <a class="marca" href="%(base)sindex.html">%(site)s</a>
-  <a class="crit" href="%(base)scriterios.html">Critérios</a>
+  <nav>
+    <a class="crit" href="%(base)scriterios.html">Critérios</a>
+    <button class="tema" type="button" aria-label="Alternar tema claro e escuro">
+      <svg viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+        <path class="lua" d="M13.4 10.3A5.6 5.6 0 0 1 5.7 2.6a5.9 5.9 0 1 0 7.7 7.7z"/>
+        <g class="sol">
+          <circle cx="8" cy="8" r="3"/>
+          <path d="M8 .8v2M8 13.2v2M.8 8h2M13.2 8h2M2.9 2.9l1.4 1.4M11.7 11.7l1.4 1.4M13.1 2.9l-1.4 1.4M4.3 11.7l-1.4 1.4"/>
+        </g>
+      </svg>
+    </button>
+  </nav>
 </header>
 <main>
 %(corpo)s
 </main>
 <footer class="rodape">
-  <a href="%(base)sindex.html">Índice geral</a> ·
+  <a href="%(base)sindex.html">Índice geral</a> &middot;
   <a href="https://github.com/gereneto/magisterio-tematico">Repositório</a>
 </footer>
+<script>
+document.querySelector('.tema').addEventListener('click',function(){
+  var r=document.documentElement,
+      claro=r.getAttribute('data-tema')==='claro';
+  if(claro){r.removeAttribute('data-tema')}else{r.setAttribute('data-tema','claro')}
+  try{localStorage.setItem('tema',claro?'escuro':'claro')}catch(e){}
+});
+</script>
 </body>
 </html>
 """ % {'titulo': esc(titulo), 'corpo': corpo, 'base': base, 'classe': classe,
@@ -176,7 +211,7 @@ def gerar():
     for n, tr in enumerate(seq):
         cabeca, resto = partes(tr['corpo'])
         h = ['<article class="trecho">']
-        h.append('<p class="fio"><a href="index.html">%s</a> · %s</p>'
+        h.append('<p class="fio"><a href="index.html">%s</a><i>◆</i>%s</p>'
                  % (esc(tr['eixo']['titulo']), esc(tr['secao'])))
         h.append('<h1>%s</h1>' % inline(tr['titulo']))
         # a ultima linha do cabecalho e o resumo; as anteriores sao contexto
@@ -192,13 +227,13 @@ def gerar():
         h.append('<nav class="passo">')
         if ant:
             rel = ('../' + ant['url']) if ant['eixo'] is not tr['eixo'] else ant['arquivo']
-            h.append('<a class="ant" href="%s"><span>Anterior</span>%s</a>'
+            h.append('<a class="ant" href="%s"><span>Anterior</span><b>%s</b></a>'
                      % (rel, inline(ant['titulo'])))
         else:
             h.append('<span class="ant vazio"></span>')
         if prox:
             rel = ('../' + prox['url']) if prox['eixo'] is not tr['eixo'] else prox['arquivo']
-            h.append('<a class="prox" href="%s"><span>Próximo</span>%s</a>'
+            h.append('<a class="prox" href="%s"><span>Próximo</span><b>%s</b></a>'
                      % (rel, inline(prox['titulo'])))
         else:
             h.append('<span class="prox vazio"></span>')
@@ -241,6 +276,7 @@ def gerar():
     # --- capa ---
     h = ['<h1 class="capa">%s</h1>' % esc(SITE),
          '<p class="resumo">%s</p>' % esc(SUBTITULO),
+         '<span class="fleuron">✦✦✦</span>',
          '<div class="eixos">']
     for e in eixos:
         h.append('<a class="cartao" href="%s/index.html"><b>%s</b><span>%s</span>'

@@ -5,37 +5,61 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>João 1,1–5.14.18 — Magistério temático</title>
 <meta name="description" content="O Verbo é anterior ao tempo, é distinto de Deus e é Deus — as três afirmações que a primeira linha do Evangelho reúne">
+<meta name="theme-color" content="#131110">
+<script>try{if(localStorage.getItem('tema')==='claro')document.documentElement.setAttribute('data-tema','claro')}catch(e){}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../assets/style.css">
 </head>
 <body class="pg-trecho">
 <header class="topo">
   <a class="marca" href="../index.html">Magistério temático</a>
-  <a class="crit" href="../criterios.html">Critérios</a>
+  <nav>
+    <a class="crit" href="../criterios.html">Critérios</a>
+    <button class="tema" type="button" aria-label="Alternar tema claro e escuro">
+      <svg viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+        <path class="lua" d="M13.4 10.3A5.6 5.6 0 0 1 5.7 2.6a5.9 5.9 0 1 0 7.7 7.7z"/>
+        <g class="sol">
+          <circle cx="8" cy="8" r="3"/>
+          <path d="M8 .8v2M8 13.2v2M.8 8h2M13.2 8h2M2.9 2.9l1.4 1.4M11.7 11.7l1.4 1.4M13.1 2.9l-1.4 1.4M4.3 11.7l-1.4 1.4"/>
+        </g>
+      </svg>
+    </button>
+  </nav>
 </header>
 <main>
 <article class="trecho">
-<p class="fio"><a href="index.html">Eixo 2 — Trindade</a> · I. Escritura</p>
+<p class="fio"><a href="index.html">Eixo 2 — Trindade</a><i>◆</i>I. Escritura</p>
 <h1>João 1,1–5.14.18</h1>
 <p class="resumo">O Verbo é anterior ao tempo, é distinto de Deus e é Deus — as três afirmações que a primeira linha do Evangelho reúne</p>
 <div class="texto">
-<p><b>1</b> No princípio era o Verbo, e o Verbo estava junto de Deus, e o Verbo era Deus.</p>
-<p><b>2</b> Ele estava no princípio junto de Deus.</p>
-<p><b>3</b> Tudo foi feito por meio dele, e sem ele nada foi feito do que foi feito.</p>
-<p><b>4</b> Nele estava a vida, e a vida era a luz dos homens;</p>
-<p><b>5</b> e a luz brilha nas trevas, e as trevas não a apreenderam.</p>
-<p><b>14</b> E o Verbo se fez carne e habitou entre nós, e vimos a sua glória, glória como do Unigênito do Pai, cheio de graça e de verdade.</p>
-<p><b>18</b> A Deus ninguém jamais viu; o Deus unigênito, que está no seio do Pai, esse o deu a conhecer.</p>
+<p><span class="v">1</span>No princípio era o Verbo, e o Verbo estava junto de Deus, e o Verbo era Deus.</p>
+<p><span class="v">2</span>Ele estava no princípio junto de Deus.</p>
+<p><span class="v">3</span>Tudo foi feito por meio dele, e sem ele nada foi feito do que foi feito.</p>
+<p><span class="v">4</span>Nele estava a vida, e a vida era a luz dos homens;</p>
+<p><span class="v">5</span>e a luz brilha nas trevas, e as trevas não a apreenderam.</p>
+<p><span class="v">14</span>E o Verbo se fez carne e habitou entre nós, e vimos a sua glória, glória como do Unigênito do Pai, cheio de graça e de verdade.</p>
+<p><span class="v">18</span>A Deus ninguém jamais viu; o Deus unigênito, que está no seio do Pai, esse o deu a conhecer.</p>
 <p class="nota">Os manuscritos mais antigos leem Deus unigênito; os posteriores e a Vulgata leem Filho unigênito, que é a forma conhecida pelo uso litúrgico.</p>
 </div>
 <nav class="passo">
-<a class="ant" href="01-deuteronomio-6-4-5.html"><span>Anterior</span>Deuteronômio 6,4–5</a>
-<a class="prox" href="03-filipenses-2-5-7.html"><span>Próximo</span>Filipenses 2,5–7</a>
+<a class="ant" href="01-deuteronomio-6-4-5.html"><span>Anterior</span><b>Deuteronômio 6,4–5</b></a>
+<a class="prox" href="03-filipenses-2-5-7.html"><span>Próximo</span><b>Filipenses 2,5–7</b></a>
 </nav>
 </article>
 </main>
 <footer class="rodape">
-  <a href="../index.html">Índice geral</a> ·
+  <a href="../index.html">Índice geral</a> &middot;
   <a href="https://github.com/gereneto/magisterio-tematico">Repositório</a>
 </footer>
+<script>
+document.querySelector('.tema').addEventListener('click',function(){
+  var r=document.documentElement,
+      claro=r.getAttribute('data-tema')==='claro';
+  if(claro){r.removeAttribute('data-tema')}else{r.setAttribute('data-tema','claro')}
+  try{localStorage.setItem('tema',claro?'escuro':'claro')}catch(e){}
+});
+</script>
 </body>
 </html>
