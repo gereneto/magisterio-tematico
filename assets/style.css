@@ -34,7 +34,7 @@
 }
 
 @media (max-width:700px){
-  :root{ --corpo:1.7rem }  /* 27px — celular */
+  :root{ --corpo:1.5rem }  /* 24px — celular */
 }
 
 :root[data-tema="claro"]{
