@@ -8,6 +8,7 @@ Le  conteudo/*.md  e escreve  index.html, criterios.html  e  eixo-NN/*.html.
 Nao depende de nenhuma biblioteca externa.
 """
 
+import hashlib
 import io
 import os
 import re
@@ -21,6 +22,8 @@ EIXOS = [
     ('eixo-01', 'eixo-01-revelacao.md'),
     ('eixo-02', 'eixo-02-trindade.md'),
 ]
+
+VERSAO = ''   # marca do estilo, calculada em gerar(); evita cache velho
 
 SITE = 'Magistério temático'
 SUBTITULO = 'Os textos que formam a doutrina católica, em tradução própria e ordenados por assunto'
@@ -160,7 +163,7 @@ document.documentElement.setAttribute('data-tema','claro')}catch(e){}</script>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&\
 family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="%(base)sassets/style.css">
+<link rel="stylesheet" href="%(base)sassets/style.css?v=%(versao)s">
 </head>
 <body class="%(classe)s">
 <header class="topo">
@@ -196,7 +199,7 @@ document.querySelector('.tema').addEventListener('click',function(){
 </body>
 </html>
 """ % {'titulo': esc(titulo), 'corpo': corpo, 'base': base, 'classe': classe,
-       'site': esc(SITE), 'desc': esc(descricao or SUBTITULO)}
+       'site': esc(SITE), 'desc': esc(descricao or SUBTITULO), 'versao': VERSAO}
 
 
 # --------------------------------------------------------------------------
@@ -204,6 +207,10 @@ document.querySelector('.tema').addEventListener('click',function(){
 # --------------------------------------------------------------------------
 
 def gerar():
+    global VERSAO
+    css = io.open(os.path.join(RAIZ, 'assets', 'style.css'), 'rb').read()
+    VERSAO = hashlib.md5(css).hexdigest()[:8]
+
     eixos = [ler_eixo(os.path.join(CONTEUDO, arq), pasta) for pasta, arq in EIXOS]
     seq = [tr for e in eixos for tr in e['trechos']]
 
@@ -294,7 +301,8 @@ def gerar():
     escreve(os.path.join(RAIZ, 'criterios.html'),
             pagina('Critérios — ' + SITE, criterios_html(md), prof=0, classe='pg-criterios'))
 
-    print('paginas geradas: %d trechos, %d eixos' % (len(seq), len(eixos)))
+    print('paginas geradas: %d trechos, %d eixos | estilo v%s'
+          % (len(seq), len(eixos), VERSAO))
 
 
 def criterios_html(md):
