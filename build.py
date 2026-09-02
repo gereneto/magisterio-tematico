@@ -23,6 +23,8 @@ EIXOS = [
     ('eixo-02', 'eixo-02-trindade.md'),
 ]
 
+AUTORIDADE = '*Autoridade: '
+
 VERSAO = ''   # marca do estilo, calculada em gerar(); evita cache velho
 
 SITE = 'Magistério temático'
@@ -52,6 +54,19 @@ def inline(t):
     t = re.sub(r'(?<!\w)\*(?!\s)(.+?)(?<!\s)\*(?!\w)', r'<i>\1</i>', t)
     t = re.sub(r'(?<!\w)_(?!\s)(.+?)(?<!\s)_(?!\w)', r'<i>\1</i>', t)
     return t
+
+
+def cabecalho_html(linha):
+    """Linha de metadados. O parágrafo é itálico; os trechos entre pares de
+    asteriscos são títulos de obra e ficam em romano (itálico invertido)."""
+    if linha.startswith('_') and linha.endswith('_'):
+        linha = '*' + linha[1:-1] + '*'
+    out = []
+    for k, parte in enumerate(linha.split('*')):
+        if not parte:
+            continue
+        out.append(esc(parte) if k % 2 else '<span class="ri">%s</span>' % esc(parte))
+    return ''.join(out)
 
 
 def so_italico(par):
@@ -221,10 +236,15 @@ def gerar():
         h.append('<p class="fio"><a href="index.html">%s</a><i>◆</i>%s</p>'
                  % (esc(tr['eixo']['titulo']), esc(tr['secao'])))
         h.append('<h1>%s</h1>' % inline(tr['titulo']))
-        # a ultima linha do cabecalho e o resumo; as anteriores sao contexto
+        # ordem no arquivo: fonte, autoridade, resumo
         for k, c in enumerate(cabeca):
-            cls = 'resumo' if (k == len(cabeca) - 1 and c.startswith('_')) else 'fonte'
-            h.append('<p class="%s">%s</p>' % (cls, inline(c.strip('_*'))))
+            if c.startswith(AUTORIDADE):
+                h.append('<p class="autoridade"><span class="rot">Autoridade</span>'
+                         '%s</p>' % cabecalho_html('*' + c[len(AUTORIDADE):]))
+            elif k == len(cabeca) - 1 and c.startswith('_'):
+                h.append('<p class="resumo">%s</p>' % cabecalho_html(c))
+            else:
+                h.append('<p class="fonte">%s</p>' % cabecalho_html(c))
         h.append('<div class="texto">')
         h.append(corpo_html(resto))
         h.append('</div>')
@@ -270,9 +290,10 @@ def gerar():
             res = ''
             for c in cabeca:
                 if c.startswith('_'):
-                    res = c.strip('_')
+                    res = c
             h.append('<li><a href="%s"><b>%s</b><span>%s</span></a></li>'
-                     % (tr['arquivo'], inline(tr['titulo']), inline(res)))
+                     % (tr['arquivo'], inline(tr['titulo']),
+                        cabecalho_html(res) if res else ''))
         if aberta:
             h.append('</ol>')
         html = '\n'.join(h)

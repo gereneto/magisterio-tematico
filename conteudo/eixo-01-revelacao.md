@@ -149,6 +149,8 @@ _As cartas paulinas são tratadas como Escrituras_
 ## Irineu de Lião, *Adversus haereses* III,3,1–2 e IV,26,2
 _Escrito aproximadamente em 180_
 
+*Autoridade: texto patrístico, sem autoridade magisterial própria. Entra no corpus porque a* Dei Verbum *8 lhe cita literalmente a expressão carisma certo da verdade.*
+
 ### III,3,1–2
 
 _A tradição da Igreja não se encontra em mistérios ocultos, mas nos ensinamentos dos apóstolos e dos bispos_
@@ -165,6 +167,8 @@ _A tradição da Igreja não se encontra em mistérios ocultos, mas nos ensiname
 
 ## Basílio de Cesareia, *De Spiritu Sancto* 27,66
 _Escrito em 375_
+
+*Autoridade: texto patrístico. O concílio de Trento cita este capítulo na sessão IV, ao equiparar a Escritura e as tradições apostólicas.*
 
 _A importância da tradição não escrita. Nessa época, parte da Missa ainda era reservada apenas aos batizados_
 
@@ -185,6 +189,8 @@ Uma coisa é o dogma, outra a proclamação. Os dogmas guardam-se em silêncio; 
 ## Agostinho, *De baptismo contra donatistas* IV,24,31
 _Escrito por volta de 400, em Hipona_
 
+*Autoridade: texto patrístico, não citado literalmente por documento algum. Formula a regra prática que Trento, o Vaticano I e a* Dei Verbum *8 aplicam.*
+
 _Naquilo em que as Escrituras não forem indiscutíveis, cabe seguir o costume da Igreja_
 
 Se ninguém apresentar autoridade certa desta questão a partir das Escrituras canônicas, deve-se contudo seguir também nisto a verdade das mesmas Escrituras, quando fazemos o que já agradou a toda a Igreja, que a autoridade das próprias Escrituras recomenda — de modo que, uma vez que a Escritura santa não pode enganar, quem quer que tema ser enganado pela obscuridade desta questão consulte acerca dela a mesma Igreja, a qual a Escritura santa demonstra sem ambiguidade alguma.
@@ -195,6 +201,8 @@ Com efeito, muitas coisas que a Igreja universal sustenta, e por isso mesmo se c
 
 ## Vicente de Lérins, *Commonitorium* 2 e 23
 _Escrito por volta de 434 no mosteiro de Lérins, sob o pseudônimo de Peregrino_
+
+*Autoridade: texto patrístico. O Concílio Vaticano I incorpora-lhe literalmente a fórmula final — no mesmo dogma, no mesmo sentido, na mesma sentença — no cap. 4 da* Dei Filius.*
 
 ### Capítulo 2
 
@@ -231,6 +239,8 @@ Assim também convém que o dogma da religião cristã siga estas leis do progre
 ## Sessão IV, 8 de abril de 1546
 
 *Cf. DH 1501–1508.*
+
+*Autoridade: concílio ecumênico. Decreto doutrinal fechado por anátema — definição dogmática, que obriga toda a Igreja.*
 
 _Confirmação do cânone bíblico; autenticidade da Vulgata; a interpretação das Escrituras_
 
@@ -278,6 +288,8 @@ O cânon pertence a este eixo pela distinção que a sua formulação impõe. Os
 
 *Carta ao arcebispo de Munique-Frisinga, 21 de dezembro de 1863. Cf. DH 2875–2880.*
 
+*Autoridade: carta pontifícia particular, magistério ordinário, sem definição solene. Sete anos depois, o Concílio Vaticano I recolheu a sua doutrina no cap. 3 da* Dei Filius.*
+
 _O magistério ordinário também exige assentimento dos fiéis_
 
 Ainda que se trate daquela submissão que se deve prestar por um ato de fé divina, não se deveria contudo limitá-la somente àquilo que foi definido por decretos expressos dos concílios ecumênicos ou dos romanos pontífices e desta Sé, mas estendê-la também àquilo que é transmitido como divinamente revelado pelo magistério ordinário de toda a Igreja dispersa por todo o mundo, e que por isso mesmo é tido pelo consenso universal e constante dos teólogos católicos como pertencente à fé.
@@ -287,6 +299,8 @@ Ainda que se trate daquela submissão que se deve prestar por um ato de fé divi
 ## *Dei Filius*, 24 de abril de 1870
 
 *Constituição dogmática sobre a fé católica, capítulos 2 a 4 e cânones correspondentes. Cf. DH 3004–3020, 3026–3043.*
+
+*Autoridade: concílio ecumênico. Os capítulos expõem a doutrina; os cânones, com anátema, definem-na. É o grau mais alto do magistério.*
 
 ### Capítulo 2 — Da revelação
 
@@ -372,6 +386,8 @@ Por isso deve ser sempre conservado perpetuamente aquele sentido dos sagrados do
 
 *Encíclica sobre o estudo das Escrituras, 18 de novembro de 1893. Cf. DH 3291–3294.*
 
+*Autoridade: encíclica, magistério pontifício ordinário. Não define, mas obriga o assentimento religioso dos fiéis.*
+
 _A infalibilidade bíblica não vem dos autores sagrados, mas sim do Espírito Santo; a respeito das coisas visíveis, os autores escreviam desde as limitações próprias do seu tempo_
 
 **20.** Convém, porém, que todos os intérpretes tenham por certo e fixo o princípio de que de modo algum se deve admitir que o autor sagrado tenha errado. Pois a natureza da inspiração não só exclui todo erro, mas o exclui e o rejeita tão necessariamente quanto é necessário que Deus, suma Verdade, não seja de modo algum autor de erro algum.
@@ -391,6 +407,8 @@ E, uma vez que na linguagem popular se apresentam primeiro e sobretudo aquelas c
 ## Pio X, *Lamentabili*
 
 *Decreto do Santo Ofício, 3 de julho de 1907. Cf. DH 3401–3466*
+
+*Autoridade: decreto do Santo Ofício aprovado pelo Papa. Não ensina positivamente: condena proposições, e a doutrina católica é o contrário de cada uma.*
 
 ### *Lamentabili* — proposições condenadas
 
@@ -440,6 +458,8 @@ _(ou seja, o progresso das ciências não exige que se reformem os conceitos da 
 
 *Encíclica de 8 de setembro de 1907. Cf. DH 3401–3466, 3483.*
 
+*Autoridade: encíclica, magistério pontifício ordinário. O trecho abaixo expõe o sistema modernista, que a encíclica condena em seguida.*
+
 _Não há nada nos dogmas que deva ser mudado_
 
 Pelo que se disse, alguns modernistas concluem que nos dogmas se deve distinguir entre o elemento divino e o elemento humano, e que aquele deve ser conservado, ao passo que este pode e deve ser mudado. Assim, no dogma, o que é divino seria apenas o sentimento religioso, e o resto — as fórmulas, os conceitos, as próprias verdades — seria obra da mente, sujeito por isso à mudança e ao progresso.
@@ -460,6 +480,8 @@ E sendo assim tão precária e instável a força das fórmulas dogmáticas, nã
 
 *Encíclica sobre são Jerônimo e os estudos bíblicos, 15 de setembro de 1920, no décimo quinto centenário da morte do Doutor. Cf. DH 3650–3654.*
 
+*Autoridade: encíclica, magistério pontifício ordinário. Reprova expressamente, com autoridade apostólica, a distinção que examina.*
+
 _Não se deve distinguir na Escritura um elemento religioso e outro profano_
 
 **19.** Nem se deve tolerar, de modo algum, o que alguns católicos há pouco começaram a introduzir, os quais, entendendo que se deve distinguir na Escritura como que um elemento primário ou religioso e outro secundário ou profano, concedem de bom grado que a inspiração se estende a todas e cada uma das sentenças, e ainda a cada palavra da Bíblia, mas restringem e limitam os seus efeitos, e sobretudo a imunidade de erro e a absoluta verdade, ao elemento primário ou religioso.
@@ -477,6 +499,8 @@ E, no entanto, ninguém advertiu mais claramente do que ele que os escritores sa
 ## Pio XII, *Divino afflante Spiritu*, nn. 14–16, 21, 35–36
 
 *Encíclica sobre os estudos bíblicos, 30 de setembro de 1943, no cinquentenário da* Providentissimus Deus. *Cf. DH 3825–3831.*
+
+*Autoridade: encíclica, magistério pontifício ordinário. É a carta que passou a reger os estudos bíblicos católicos, e a* Dei Verbum *12 recolhe-lhe o critério.*
 
 _Para entender a Escritura é preciso saber o que o autor sagrado quis dizer, e para isso conhecer o seu tempo e o seu modo de escrever; a autenticidade da Vulgata não impede o recurso aos textos originais_
 
@@ -512,6 +536,8 @@ Pois, assim como o Verbo substancial de Deus se fez semelhante aos homens em tud
 
 *Encíclica sobre algumas opiniões falsas que ameaçam arruinar os fundamentos da doutrina católica, 12 de agosto de 1950. Cf. DH 3886.*
 
+*Autoridade: encíclica, magistério pontifício ordinário. A* Dei Verbum *10 recolhe em forma conciliar a distinção enunciada aqui.*
+
 _Interpretar autenticamente o depósito da fé cabe ao magistério, e não a cada fiel ou a cada teólogo_
 
 Juntamente com estas fontes da revelação divina, Deus deu à sua Igreja o magistério vivo, também para esclarecer e explicar aquilo que no depósito da fé se contém apenas de modo obscuro e como que implícito. Ora, este depósito o divino Redentor não o confiou a cada um dos fiéis, nem aos próprios teólogos, para que o interpretassem autenticamente, mas somente ao magistério da Igreja.
@@ -531,6 +557,8 @@ Por isso o nosso predecessor, de imortal memória, Pio IX, ao ensinar que a mais
 ## *Dei Verbum*, 18 de novembro de 1965
 
 *Constituição dogmática sobre a revelação divina, nn. 2–6, 7–10, 11–12 e 19. Tradução do texto latino oficial das Acta Apostolicae Sedis. Cf. DH 4201–4235.*
+
+*Autoridade: concílio ecumênico, e a forma mais solene do seu magistério. O Vaticano II não anexou anátemas às suas constituições, mas o que elas ensinam é doutrina da Igreja.*
 
 ### Capítulo I — A revelação em si mesma
 
@@ -620,6 +648,8 @@ Escreveram, com efeito, seja da sua própria memória e lembrança, seja do test
 
 *Declaração para defender a doutrina católica sobre a Igreja contra alguns erros atuais, 24 de junho de 1973. Cf. DH 4536–4540.*
 
+*Autoridade: declaração da Congregação para a Doutrina da Fé, aprovada pelo Papa. Magistério ordinário da Santa Sé: não define nada de novo, expõe o que já é doutrina.*
+
 _As fórmulas dogmáticas são limitadas pela língua e pelo tempo em que nasceram, mas exprimem verdadeiramente a doutrina revelada e continuam a exprimi-la_
 
 Deve-se crer que os fiéis não são de modo algum privados da possibilidade de exprimir a fé com palavras verdadeiras, ainda que essas palavras sejam por vezes empregadas de modo analógico. De outra sorte, a fé da Igreja ficaria sem fundamento, e a comunicação da mesma fé entre os homens tornar-se-ia impossível.
@@ -642,6 +672,8 @@ Por esta razão acontece frequentemente que fórmulas dogmáticas antigas e outr
 
 *Carta encíclica sobre as relações entre fé e razão, 14 de setembro de 1998.*
 
+*Autoridade: encíclica, magistério pontifício ordinário. O número reafirma a* Dei Verbum *4, sem acrescentar definição nova.*
+
 _A revelação aconteceu dentro do tempo e da história, e foi dada de uma vez por todas em Cristo_
 
 A revelação de Deus insere-se, portanto, no tempo e na história. Mais ainda: a encarnação de Jesus Cristo realiza-se na plenitude dos tempos. Vinte séculos depois daquele acontecimento, sinto o dever de reafirmar com força que na cristandade o tempo tem uma importância fundamental.
@@ -655,6 +687,8 @@ A verdade acerca de si mesmo e da sua vida que Deus confiou à humanidade está 
 ## João Paulo II, *Fides et ratio*, n. 95
 
 *Carta encíclica sobre as relações entre fé e razão, 14 de setembro de 1998.*
+
+*Autoridade: encíclica, magistério pontifício ordinário. Retoma a matéria da* Mysterium Ecclesiae *5 e nomeia a posição contrária, o historicismo.*
 
 _A verdade não muda quando muda a cultura; as diversas formas de exprimi-la não podem contradizer-se naquilo que é fundamental_
 

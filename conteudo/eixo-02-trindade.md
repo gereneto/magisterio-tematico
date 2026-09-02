@@ -508,6 +508,8 @@ _A fórmula do batismo nomeia os três sob um só nome, no singular; é o dado q
 
 _Escrito entre 399 e 419, em Hipona_
 
+*Autoridade: texto patrístico, não citado literalmente por definição alguma. Formula a doutrina da relação que Latrão IV e Florença vão aplicar.*
+
 _As pessoas divinas distinguem-se pela relação de uma com a outra, e não por alguma diferença de substância; é o princípio que os concílios medievais vão aplicar_
 
 ### Livro V, capítulo 5, n. 6
@@ -544,6 +546,8 @@ Acrescentei principalmente porque se acha que o Espírito Santo procede também 
 
 *Primeiro concílio ecumênico, 325. Símbolo e anátema final. Cf. DH 125–126.*
 
+*Autoridade: concílio ecumênico. Símbolo de fé fechado por anátema — definição dogmática, e o texto fundador de toda a doutrina trinitária.*
+
 _Contra Ário, que fazia do Filho a primeira das criaturas, o concílio define que ele é gerado e não feito, e consubstancial ao Pai — e para isso teve de adotar uma palavra que não está na Escritura_
 
 ### Símbolo
@@ -568,6 +572,8 @@ Quanto aos que dizem: houve quando não era, e: antes de ser gerado não era; e 
 
 *Segundo concílio ecumênico, 381. Símbolo niceno-constantinopolitano. Cf. DH 150.*
 
+*Autoridade: concílio ecumênico. Reuniu apenas bispos do Oriente, mas a Igreja inteira o recebeu como ecumênico, e o seu símbolo é o único professado em comum pelo Oriente e pelo Ocidente.*
+
 _É o símbolo que a Igreja canta na liturgia. Contra os que negavam a divindade do Espírito Santo, o concílio amplia o terceiro artigo de Niceia, que tinha três palavras_
 
 Cremos em um só Deus, Pai todo-poderoso, criador do céu e da terra, de todas as coisas visíveis e invisíveis;
@@ -583,6 +589,8 @@ e na Igreja una, santa, católica e apostólica. Confesso um só batismo para a 
 ## Sínodo romano sob o papa Dâmaso, 382
 
 *Chamado Tomo de Dâmaso. Cf. DH 152–177. Seleção dos anatematismos de matéria trinitária.*
+
+*Autoridade: sínodo local de Roma, presidido pelo Papa. Não é concílio ecumênico; vale como magistério da Sé romana, e foi por essa via que fixou a terminologia latina.*
 
 _Roma fixa em latim, no ano seguinte a Constantinopla, o vocabulário que os concílios ocidentais usarão daqui em diante: três pessoas verdadeiras, uma só divindade, potência, majestade e substância_
 
@@ -623,6 +631,8 @@ Esta é a salvação dos cristãos: que, crendo na Trindade, isto é, no Pai e n
 ## Símbolo *Quicumque*
 
 *Chamado Símbolo atanasiano. Composição latina, entre 430 e 500. Recitado no ofício divino durante séculos e citado como regra de fé pelos concílios medievais. Cf. DH 75–76.*
+
+*Autoridade: não vem de concílio nem de papa — a sua autoridade é de recepção. A Igreja adotou-o na liturgia e os concílios medievais citam-no como regra de fé.*
 
 _O primeiro texto que, em vez de professar a fé, a expõe: enuncia cada atributo três vezes, uma por pessoa, e conclui de cada vez que não são três, mas um_
 
@@ -716,6 +726,8 @@ _O primeiro texto que, em vez de professar a fé, a expõe: enuncia cada atribut
 
 *Quinto concílio ecumênico, 553. Cânon 1. Cf. DH 421.*
 
+*Autoridade: concílio ecumênico. Cânon fechado por anátema — definição dogmática.*
+
 _Antes de tratar de Cristo, o concílio estabelece a fé trinitária como pressuposto, e fixa o vocabulário: uma só natureza em três hipóstases ou pessoas_
 
 **1.** Se alguém não confessa que é uma só a natureza ou substância do Pai e do Filho e do Espírito Santo, e uma só a virtude e o poder, Trindade consubstancial, uma só divindade adorada em três hipóstases ou pessoas, seja anátema. Pois um só é Deus e Pai, do qual são todas as coisas; e um só o Senhor Jesus Cristo, por meio do qual são todas as coisas; e um só o Espírito Santo, no qual são todas as coisas.
@@ -725,6 +737,8 @@ _Antes de tratar de Cristo, o concílio estabelece a fé trinitária como pressu
 ## Concílio de Toledo XI, 675
 
 *Concílio provincial, 675. Símbolo de fé, trechos. Cf. DH 525–532.*
+
+*Autoridade: concílio local de dezessete bispos, sem confirmação romana. Não é definição: vale como texto que a tradição latina recebeu por expressão exata da fé comum, e por isso entrou no Denzinger.*
 
 _O texto antigo mais preciso sobre a distinção das pessoas, e a regra que resolve a maior parte dos mal-entendidos: perguntado de cada um, confessa-se Deus; perguntado de todos juntos, um só Deus_
 
@@ -758,6 +772,8 @@ Nem, porque são três as pessoas, pregamos três substâncias, mas uma só subs
 
 *Décimo segundo concílio ecumênico, 1215. Constituições 1 e 2, trechos doutrinais. Cf. DH 800–806.*
 
+*Autoridade: concílio ecumênico. As duas constituições são doutrinais, e a segunda decide uma questão disputada nomeando o erro — definição dogmática.*
+
 _A doutrina trinitária inteira em quatro linhas; e, contra Joaquim de Fiore, a definição de que a essência divina não é um quarto termo ao lado das pessoas_
 
 ### Constituição 1 — Da fé católica
@@ -788,6 +804,8 @@ Quanto ao que diz Joaquim, que os fiéis são um só, isto é, uma só realidade
 
 *Décimo quarto concílio ecumênico, 1274. Constituição* Fideli ac devota *e profissão de fé de Miguel VIII Paleólogo, trechos. Cf. DH 850–851.*
 
+*Autoridade: concílio ecumênico. A constituição define e condena os dois erros contrários — definição dogmática. A profissão do imperador é ato de adesão, e não peça de magistério.*
+
 _Primeiro pronunciamento conciliar sobre a origem do Espírito Santo: procede do Pai e do Filho, mas como de um só princípio e por uma só espiração_
 
 ### Constituição *Fideli ac devota*
@@ -810,7 +828,9 @@ Cremos na santa Trindade — Pai e Filho e Espírito Santo —, um só Deus todo
 
 ## Concílio de Florença, 1439
 
-*Décimo sétimo concílio ecumênico. Decreto de união com os gregos,* Laetentur caeli, *1439, trecho sobre a processo do Espírito Santo. Cf. DH 1300–1302.*
+*Décimo sétimo concílio ecumênico. Decreto de união com os gregos,* Laetentur caeli, *1439, trecho sobre a processão do Espírito Santo. Cf. DH 1300–1302.*
+
+*Autoridade: concílio ecumênico. O decreto emprega a fórmula solene — definimos que esta verdade de fé seja crida por todos os cristãos: definição dogmática.*
 
 _O concílio define a doutrina latina e declara que a fórmula grega — do Pai por meio do Filho — significa o mesmo_
 
@@ -827,6 +847,8 @@ Definimos, além disso, que a explicação daquelas palavras e do Filho foi líc
 ## Concílio de Florença, 1442
 
 *Décimo sétimo concílio ecumênico, sessão XI. Bula* Cantate Domino, *1442. Trecho inicial, sobre a Trindade. Cf. DH 1330–1331.*
+
+*Autoridade: bula publicada em sessão do concílio ecumênico — ato conciliar e pontifício ao mesmo tempo. O trecho expõe a fé que a Igreja romana crê, professa e prega.*
 
 _A exposição mais compacta já feita: em Deus tudo é comum, e só distingue aquilo em que uma pessoa se opõe à outra por relação_
 
@@ -849,6 +871,8 @@ Tudo o que o Pai é ou tem, não o tem de outro, mas de si; e é princípio sem 
 ## *Dei Filius*, capítulo 1 e cânones correspondentes
 
 *Constituição dogmática sobre a fé católica, 24 de abril de 1870. Capítulo 1 e cânones 1 a 4 do primeiro grupo. Cf. DH 3001–3003, 3021–3024.*
+
+*Autoridade: concílio ecumênico. O capítulo expõe a doutrina; os cânones, com anátema, definem-na.*
 
 _Contra o materialismo e o panteísmo do século XIX, o concílio define os atributos de Deus e a sua distinção real em relação ao mundo_
 
@@ -884,6 +908,8 @@ _Contra o materialismo e o panteísmo_
 
 *Carta encíclica sobre o Espírito Santo, 9 de maio de 1897. Trechos. Cf. DH 3326, 3331.*
 
+*Autoridade: encíclica, magistério pontifício ordinário. Não define: recolhe e reafirma doutrina já assente na tradição teológica.*
+
 _Tudo o que Deus faz fora de si é obra das três pessoas juntas, ainda que se atribua a uma delas; e o Espírito não age apenas no justo, mas habita nele_
 
 ### Das obras comuns e das apropriações
@@ -910,6 +936,8 @@ Esta admirável união, que por seu próprio nome se chama inabitação, difere 
 
 *Constituição dogmática sobre a Igreja, 21 de novembro de 1964.*
 
+*Autoridade: concílio ecumênico, na forma mais solene do seu magistério. O trecho é exposição doutrinal, sem cânones anexos.*
+
 _A Igreja nasce do desígnio do Pai, da missão do Filho e da santificação pelo Espírito: um povo reunido pela unidade dos três_
 
 **2.** O eterno Pai, pelo liberríssimo e secreto desígnio da sua sabedoria e bondade, criou o mundo inteiro, decretou elevar os homens à participação da vida divina, e não os abandonou depois que caíram em Adão, dando-lhes sempre auxílios para a salvação, em atenção a Cristo redentor.
@@ -932,6 +960,8 @@ Assim, a Igreja inteira aparece como um povo reunido pela unidade do Pai e do Fi
 
 *Decreto sobre a atividade missionária da Igreja, 7 de dezembro de 1965.*
 
+*Autoridade: concílio ecumênico. Um decreto está abaixo de uma constituição dogmática na ordem dos documentos, mas é magistério conciliar autêntico.*
+
 _Tudo procede do amor do Pai, que é princípio sem princípio; e o concílio emprega aqui a fórmula grega: o Espírito procede do Pai por meio do Filho_
 
 **2.** A Igreja peregrina é por sua natureza missionária, uma vez que tira a sua origem da missão do Filho e da missão do Espírito Santo, segundo o desígnio de Deus Pai.
@@ -943,6 +973,8 @@ Ora, este desígnio brota do amor que é fonte, isto é, da caridade de Deus Pai
 ## *Gaudium et spes*, n. 24
 
 *Constituição pastoral sobre a Igreja no mundo de hoje, 7 de dezembro de 1965. Trecho final do número.*
+
+*Autoridade: concílio ecumênico, em constituição que o próprio título declara pastoral. Não define doutrina; propõe uma semelhança, e com reservas expressas no texto.*
 
 _A união das pessoas divinas é proposta como certa semelhança da união dos homens entre si_
 
@@ -959,6 +991,8 @@ Esta semelhança manifesta que o homem, única criatura na terra que Deus quis p
 ## Paulo VI, *Solene profissão de fé*, nn. 8–11
 
 *Chamada Credo do Povo de Deus, 30 de junho de 1968. Cf. DH 4820–4823.*
+
+*Autoridade: profissão de fé feita pelo Papa em nome de toda a Igreja. Não é definição nova — repete e confirma solenemente a fé de sempre.*
 
 _Depois do Concílio, Paulo VI retoma a terminologia técnica e fecha com a fórmula do Quicumque: venerar a unidade na Trindade e a Trindade na unidade_
 

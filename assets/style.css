@@ -154,7 +154,20 @@ h3{font-family:var(--romana);font-weight:600;font-size:.86em;
 }
 .fonte{
   font-size:.85em;line-height:1.4;color:var(--suave);
-  margin:0 0 1.3em;font-style:italic;
+  margin:0 0 .8em;font-style:italic;
+}
+/* itálico invertido: título de obra dentro de linha itálica */
+.ri{font-style:normal}
+
+.autoridade{
+  font-size:.82em;line-height:1.45;color:var(--suave);font-style:italic;
+  margin:0 0 1.5em;padding:.6em .85em;
+  background:var(--ouro-veu);border-radius:2px;
+}
+.autoridade .rot{
+  font-family:var(--romana);font-style:normal;font-size:.72em;
+  letter-spacing:.14em;text-transform:uppercase;color:var(--ouro);
+  margin-right:.75em;white-space:nowrap;
 }
 .resumo{
   font-size:1.02em;line-height:1.42;color:var(--tinta);
