@@ -514,9 +514,11 @@ Pois, assim como o Verbo substancial de Deus se fez semelhante aos homens em tud
 
 _Interpretar autenticamente o depósito da fé cabe ao magistério, e não a cada fiel ou a cada teólogo_
 
-Juntamente com estas fontes da revelação divina, Deus deu à sua Igreja o magistério vivo, também para esclarecer e explicar aquilo que no depósito da fé se contém apenas de modo obscuro e como que implícito. Este depósito, nem a cada um dos fiéis, nem aos próprios teólogos, entregou Cristo para ser autenticamente interpretado, mas somente ao magistério da Igreja.
+Juntamente com estas fontes da revelação divina, Deus deu à sua Igreja o magistério vivo, também para esclarecer e explicar aquilo que no depósito da fé se contém apenas de modo obscuro e como que implícito. Ora, este depósito o divino Redentor não o confiou a cada um dos fiéis, nem aos próprios teólogos, para que o interpretassem autenticamente, mas somente ao magistério da Igreja.
 
-Ora, se a Igreja exerce este seu ofício, como muitas vezes ao longo dos séculos o exerceu, seja por via ordinária, seja por via extraordinária, é evidente que é falso o método pelo qual se explica o que é claro por meio do que é obscuro; antes, é necessário que todos sigam a ordem inversa.
+E, uma vez que a Igreja exerce este seu ofício, como muitas vezes ao longo dos séculos o exerceu, seja por via ordinária, seja por via extraordinária, é manifestamente falso o método que parte do obscuro para explicar o que é claro. A ordem que todos devem seguir é a contrária.
+
+_Claro é aquilo que o magistério já definiu; obscuro, aquilo que nas fontes está apenas implícito. Pio XII responde a quem pretendia reinterpretar dogmas definidos à luz de textos antigos de sentido discutido._
 
 Por isso o nosso predecessor, de imortal memória, Pio IX, ao ensinar que a mais nobre função da teologia é mostrar de que modo a doutrina definida pela Igreja se contém nas fontes, acrescentou não sem grave causa aquelas palavras: no mesmo sentido em que foi definida.
 
@@ -532,7 +534,7 @@ Por isso o nosso predecessor, de imortal memória, Pio IX, ao ensinar que a mais
 
 ### Capítulo I — A revelação em si mesma
 
-_Deus revela a si mesmo, e não apenas verdades a seu respeito; Cristo é ao mesmo tempo o mediador e a plenitude dessa revelação, que se encerrou com ele_
+_Deus se revelou por inteiro; a nossa resposta à revelação deve ser a fé_
 
 **2.** Aprouve a Deus, na sua bondade e sabedoria, revelar-se a si mesmo e dar a conhecer o mistério da sua vontade, pelo qual os homens, por meio de Cristo, Verbo feito carne, têm acesso ao Pai no Espírito Santo e se tornam participantes da natureza divina. Nesta revelação, o Deus invisível, pela abundância do seu amor, fala aos homens como a amigos e convive com eles, para os convidar e receber na sua companhia.
 
