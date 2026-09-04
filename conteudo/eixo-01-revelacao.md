@@ -544,8 +544,6 @@ Juntamente com estas fontes da revelação divina, Deus deu à sua Igreja o magi
 
 E, uma vez que a Igreja exerce este seu ofício, como muitas vezes ao longo dos séculos o exerceu, seja por via ordinária, seja por via extraordinária, é manifestamente falso o método que parte do obscuro para explicar o que é claro. A ordem que todos devem seguir é a contrária.
 
-_Claro é aquilo que o magistério já definiu; obscuro, aquilo que nas fontes está apenas implícito. Pio XII responde a quem pretendia reinterpretar dogmas definidos à luz de textos antigos de sentido discutido._
-
 Por isso o nosso predecessor, de imortal memória, Pio IX, ao ensinar que a mais nobre função da teologia é mostrar de que modo a doutrina definida pela Igreja se contém nas fontes, acrescentou não sem grave causa aquelas palavras: no mesmo sentido em que foi definida.
 
 ---
@@ -586,7 +584,7 @@ O santo concílio professa que Deus, princípio e fim de todas as coisas, pode s
 
 ### Capítulo II — A transmissão da revelação divina
 
-_A Tradição e a Escritura vêm da mesma fonte e formam um só depósito; a compreensão dele cresce na Igreja, e o magistério não está acima da palavra de Deus, mas a serve_
+_Relação entre a santa Escritura, a santa Tradição, e o Magistério da Igreja_
 
 **7.** Deus dispôs benignamente que aquilo que revelara para a salvação de todos os povos permanecesse íntegro para sempre e fosse transmitido a todas as gerações. Por isso Cristo Senhor, em quem se consuma toda a revelação do Deus altíssimo, mandou aos apóstolos que pregassem a todos os homens o Evangelho, como fonte de toda verdade salutar e da disciplina dos costumes, comunicando-lhes os dons divinos — Evangelho antes prometido pelos profetas, por ele cumprido e promulgado pela sua própria boca.
 
@@ -598,7 +596,7 @@ E para que o Evangelho se conservasse sempre íntegro e vivo na Igreja, os após
 
 Esta Tradição que vem dos apóstolos progride na Igreja sob a assistência do Espírito Santo: cresce, com efeito, a compreensão tanto das coisas como das palavras transmitidas — seja pela contemplação e pelo estudo dos crentes, que as meditam no seu coração, seja pela inteligência penetrante das realidades espirituais que experimentam, seja pela pregação daqueles que, com a sucessão do episcopado, receberam o carisma certo da verdade. A Igreja, com efeito, ao longo dos séculos, tende continuamente para a plenitude da verdade divina, até que nela se cumpram as palavras de Deus.
 
-**9.** A sagrada Tradição, portanto, e a sagrada Escritura estão estreitamente unidas entre si e comunicam-se mutuamente. Pois ambas, procedendo da mesma fonte divina, unem-se de certo modo num só todo e tendem ao mesmo fim. Com efeito, a sagrada Escritura é a palavra de Deus enquanto consignada por escrito sob a inspiração do Espírito divino; a sagrada Tradição, por sua vez, transmite integralmente a palavra de Deus, confiada por Cristo Senhor e pelo Espírito Santo aos apóstolos, aos seus sucessores, para que estes, iluminados pelo Espírito da verdade, a conservem fielmente na pregação, a exponham e a difundam.
+**9.** A sagrada Tradição, portanto, e a sagrada Escritura estão estreitamente unidas entre si e comunicam-se mutuamente. Pois ambas, procedendo da mesma fonte divina, unem-se de certo modo num só todo e tendem ao mesmo fim. Com efeito, a sagrada Escritura é a palavra de Deus enquanto consignada por escrito sob a inspiração do Espírito divino; a sagrada Tradição, por sua vez, transmite integralmente aos sucessores dos apóstolos a palavra de Deus, que Cristo Senhor e o Espírito Santo confiaram aos apóstolos, para que esses sucessores, iluminados pelo Espírito da verdade, a conservem fielmente na pregação, a exponham e a difundam.
 
 Daí resulta que a Igreja não tira somente da Escritura sagrada a sua certeza acerca de todas as coisas reveladas. Por isso ambas devem ser recebidas e veneradas com igual afeto de piedade e reverência.
 

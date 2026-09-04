@@ -38,8 +38,6 @@ _O Verbo é anterior ao tempo, é distinto de Deus e é Deus — as três afirma
 
 **18** A Deus ninguém jamais viu; o Deus unigênito, que está no seio do Pai, esse o deu a conhecer.
 
-_Os manuscritos mais antigos leem Deus unigênito; os posteriores e a Vulgata leem Filho unigênito, que é a forma conhecida pelo uso litúrgico._
-
 ---
 
 ## Filipenses 2,5–7
@@ -60,8 +58,6 @@ _O Filho é imagem do Deus invisível e aquele em quem tudo foi criado — está
 
 **15** Ele é imagem do Deus invisível, primogênito de toda criatura,
 
-_Primogênito não quer dizer primeiro dos seres criados: o versículo seguinte dá a razão do título ao dizer que nele tudo foi criado._
-
 **16** porque nele foram criadas todas as coisas nos céus e na terra, as visíveis e as invisíveis, sejam tronos, sejam dominações, sejam principados, sejam potestades: tudo foi criado por meio dele e para ele.
 
 **17** E ele é antes de todas as coisas, e todas as coisas nele subsistem.
@@ -74,8 +70,6 @@ _O Filho é a impressão exata daquilo que o Pai é_
 
 **3** Ele, que é resplendor da glória e impressão da sua hipóstase, e que sustenta todas as coisas pela palavra do seu poder, tendo realizado a purificação dos pecados, sentou-se à direita da Majestade nas alturas.
 
-_Hipóstase conserva-se transliterado porque o sentido do termo muda com o tempo: aqui e em Niceia equivale a substância; a partir do século V passa a designar a pessoa._
-
 ---
 
 ## João 10,30–38
@@ -83,8 +77,6 @@ _Hipóstase conserva-se transliterado porque o sentido do termo muda com o tempo
 _Jesus afirma a sua unidade com o Pai, e os ouvintes entendem imediatamente que ele se declara Deus_
 
 **30** Eu e o Pai somos um.
-
-_O grego diz uma só coisa, e não uma só pessoa: a frase afirma ao mesmo tempo que são dois e que aquilo que são é um só._
 
 **31** Os judeus pegaram de novo em pedras para o apedrejar.
 
@@ -178,8 +170,6 @@ _Quem vê o Filho vê o Pai; e o Pai enviará outro Paráclito, que ficará para
 
 **28** Ouvistes que eu vos disse: Vou e volto a vós. Se me amásseis, haveríeis de alegrar-vos de que eu vá para o Pai, porque o Pai é maior do que eu.
 
-_Foi o versículo dos arianos. A resposta da Igreja está no Quicumque 33: igual ao Pai segundo a divindade, menor que o Pai segundo a humanidade._
-
 **29** E agora eu o disse a vós antes que aconteça, para que, quando acontecer, creiais.
 
 **30** Já não falarei muito convosco, pois vem o príncipe deste mundo; e ele nada tem em mim,
@@ -241,8 +231,6 @@ _Permanecer em Cristo é a condição de todo fruto; o Espírito da verdade dar�
 **25** Mas foi para que se cumprisse a palavra escrita na sua Lei: Odiaram-me sem motivo.
 
 **26** Quando vier o Paráclito, que eu vos enviarei da parte do Pai, o Espírito da verdade, que procede do Pai, ele dará testemunho de mim;
-
-_O verbo grego indica a origem última; o latim traduziu-o por um verbo mais amplo, que serve também para a origem por intermédio de outro. Daí a discussão sobre o Filioque, retomada em Lyon II e em Florença._
 
 **27** e vós também dareis testemunho, porque estais comigo desde o princípio.
 
@@ -483,8 +471,6 @@ _O Espírito, a água e o sangue dão testemunho concorde de que Jesus é o Filh
 **7** Pois três são os que dão testemunho:
 
 **8** o Espírito, e a água, e o sangue; e os três concordam num só.
-
-_Entre os vv. 7 e 8, as edições antigas traziam um acréscimo sobre o Pai, o Verbo e o Espírito Santo. Não consta dos manuscritos gregos antigos nem dos Padres gregos, e a Nova Vulgata o suprime._
 
 ---
 
