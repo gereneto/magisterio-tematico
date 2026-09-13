@@ -91,9 +91,13 @@ def ler_eixo(caminho, pasta):
     buf = []
 
     def fecha():
-        if atual is not None:
-            atual['corpo'] = '\n'.join(buf).strip()
-            eixo['trechos'].append(atual)
+        # nada a fazer se nao ha trecho aberto, ou se ele ja foi fechado
+        if atual is None or 'corpo' in atual:
+            return
+        # linhas iniciadas por > sao nota ao editor: saem do corpo do trecho
+        atual['editor'] = '\n'.join(l for l in buf if l.startswith('>'))
+        atual['corpo'] = '\n'.join(l for l in buf if not l.startswith('>')).strip()
+        eixo['trechos'].append(atual)
 
     i = 0
     while i < len(linhas):
@@ -106,6 +110,8 @@ def ler_eixo(caminho, pasta):
             if j < len(linhas) and not linhas[j].startswith('#'):
                 eixo['resumo'] = linhas[j].strip()
         elif ln.startswith('# ') and not ln.startswith('# Eixo'):
+            fecha()
+            atual = None
             secao = ln[2:].strip()
         elif ln.startswith('## '):
             fecha()
@@ -135,6 +141,40 @@ def partes(corpo):
             no_corpo = True
             resto.append(b)
     return cabeca, resto
+
+
+def editor_html(texto):
+    """Bloco de nota ao editor (linhas iniciadas por >). Não integra o corpus."""
+    linhas = [re.sub(r'^>\s?', '', l) for l in texto.split('\n')]
+    pars = re.split(r'\n\s*\n', '\n'.join(linhas))
+    out = []
+    for p in pars:
+        p = p.strip()
+        if p:
+            out.append('<p>%s</p>' % inline(p.replace('\n', ' ')))
+    return ('<aside class="editor"><span class="rot">Nota ao editor · em avaliação</span>'
+            + ''.join(out) + '</aside>')
+
+
+def resumo_do_trecho(corpo):
+    """Resumo que aparece no índice: a linha _..._ do cabeçalho posterior à
+    linha de autoridade; na falta dela, o resumo da primeira subseção."""
+    cabeca, resto = partes(corpo)
+    res, viu_aut = '', False
+    for c in cabeca:
+        if c.startswith(AUTORIDADE):
+            viu_aut, res = True, ''
+        elif c.startswith('_'):
+            res = c
+    tem_aut = any(c.startswith(AUTORIDADE) for c in cabeca)
+    if res and (viu_aut or not tem_aut):
+        return res
+    for i, b in enumerate(resto):
+        if b.startswith('### ') and i + 1 < len(resto):
+            nxt = resto[i + 1]
+            if nxt.startswith('_') and nxt.endswith('_'):
+                return nxt
+    return res
 
 
 def numeral(par):
@@ -229,10 +269,21 @@ def gerar():
     eixos = [ler_eixo(os.path.join(CONTEUDO, arq), pasta) for pasta, arq in EIXOS]
     seq = [tr for e in eixos for tr in e['trechos']]
 
+    # apaga as paginas geradas antes: quando os trechos mudam de ordem ou de
+    # nome, os enderecos mudam, e as paginas velhas ficariam orfas no site
+    for pasta, _arq in EIXOS:
+        d = os.path.join(RAIZ, pasta)
+        if os.path.isdir(d):
+            for f in os.listdir(d):
+                if f.endswith('.html'):
+                    os.remove(os.path.join(d, f))
+
     # --- paginas de trecho ---
     for n, tr in enumerate(seq):
         cabeca, resto = partes(tr['corpo'])
         h = ['<article class="trecho">']
+        if tr.get('editor'):
+            h.append(editor_html(tr['editor']))
         h.append('<p class="fio"><a href="index.html">%s</a><i>◆</i>%s</p>'
                  % (esc(tr['eixo']['titulo']), esc(tr['secao'])))
         h.append('<h1>%s</h1>' % inline(tr['titulo']))
@@ -286,13 +337,10 @@ def gerar():
                 h.append('<h2>%s</h2>' % esc(sec))
                 h.append('<ol class="lista">')
                 aberta = True
-            cabeca, _ = partes(tr['corpo'])
-            res = ''
-            for c in cabeca:
-                if c.startswith('_'):
-                    res = c
-            h.append('<li><a href="%s"><b>%s</b><span>%s</span></a></li>'
-                     % (tr['arquivo'], inline(tr['titulo']),
+            res = resumo_do_trecho(tr['corpo'])
+            marca = '<em class="aval">em avaliação</em>' if tr.get('editor') else ''
+            h.append('<li><a href="%s"><b>%s%s</b><span>%s</span></a></li>'
+                     % (tr['arquivo'], inline(tr['titulo']), marca,
                         cabecalho_html(res) if res else ''))
         if aberta:
             h.append('</ol>')

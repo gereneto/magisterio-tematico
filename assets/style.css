@@ -26,6 +26,8 @@
   --ouro-veu:rgba(200,164,92,.07);
   --vinho:#a8524f;
   --sombra:0 1px 2px rgba(0,0,0,.35);
+  --aval:#7fa7bd;
+  --aval-veu:rgba(127,167,189,.08);
 
   --romana:"Cinzel","Trajan Pro","Optima","Palatino Linotype",Georgia,serif;
   --texto:"EB Garamond","Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
@@ -52,6 +54,8 @@
   --ouro-veu:rgba(138,106,36,.06);
   --vinho:#7d2b28;
   --sombra:0 1px 2px rgba(60,45,20,.08);
+  --aval:#3f6f87;
+  --aval-veu:rgba(63,111,135,.07);
 
   color-scheme:light;
 }
@@ -156,6 +160,27 @@ h3{font-family:var(--romana);font-weight:600;font-size:.86em;
   font-size:.85em;line-height:1.4;color:var(--suave);
   margin:0 0 .8em;font-style:italic;
 }
+/* nota ao editor: provisória, não integra o corpus */
+.editor{
+  font-family:var(--texto);font-size:.82em;line-height:1.45;
+  margin:2rem 0 0;padding:.8em 1em .3em;
+  border:1px dashed var(--aval);border-radius:3px;
+  background:var(--aval-veu);color:var(--tinta);
+}
+.editor .rot{
+  display:block;font-family:var(--romana);font-size:.66em;font-weight:600;
+  letter-spacing:.14em;text-transform:uppercase;color:var(--aval);
+  margin-bottom:.6em;
+}
+.editor p{margin:0 0 .7em}
+.editor + .fio{margin-top:1.4rem}
+.lista .aval{
+  display:inline-block;margin-left:.6em;padding:.05em .45em;
+  font-family:var(--romana);font-style:normal;font-weight:600;font-size:.55em;
+  letter-spacing:.1em;text-transform:uppercase;vertical-align:middle;
+  color:var(--aval);border:1px dashed var(--aval);border-radius:2px;
+}
+
 /* itálico invertido: título de obra dentro de linha itálica */
 .ri{font-style:normal}
 

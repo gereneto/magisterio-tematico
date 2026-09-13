@@ -101,13 +101,13 @@ A ordem entre os eixos é **sistemática**, não histórica — segue a estrutur
 
 (Esse é o ponto de partida, poderei desmembrar esses eixos ou criar novos eixos ao longo do projeto)
 
-### 4.2. Ordem interna dos eixos
+### 4.2. Partes e ordem interna
 
-**Rigorosamente cronológica**: Escritura, Padres, concílios antigos, Trento, Vaticano I, magistério dos séculos XIX–XX, Vaticano II, magistério posterior ao Concílio.
+Cada eixo divide-se em **partes** temáticas, que reúnem os textos segundo o aspecto da doutrina de que tratam. No eixo 1: Deus se revela · A Escritura · A Tradição · O Magistério · Os três num só depósito · O desenvolvimento da doutrina.
 
-A sistemática ordena os eixos; a cronologia ordena o interior de cada um. É no interior que o desenvolvimento fica visível.
+Dentro de cada parte, vêm primeiro os textos da Escritura, em **ordem didática**, do dado mais simples ao que depende dele; depois os demais, em **ordem cronológica**: Padres, concílios antigos, Trento, Vaticano I, magistério dos séculos XIX–XX, Vaticano II, magistério posterior ao Concílio.
 
-Dentro da seção bíblica, a ordem deve ser didática, de modo a facilitar a compreensão do todo: parte-se do dado mais simples e avança-se para o que depende dele.
+Um documento cujos capítulos tratam de assuntos distintos divide-se em trechos, e cada trecho vai para a parte que lhe corresponde.
 
 ### 4.3. Textos de eixo duplo
 
