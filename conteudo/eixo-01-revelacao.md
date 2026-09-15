@@ -18,7 +18,7 @@ _Deus se revela através de suas obras_
 
 **18** Pois a ira de Deus se revela do céu contra toda a impiedade e injustiça dos homens que detêm a verdade na injustiça;
 
-**19** porquanto o que de Deus se pode conhecer é manifesto entre eles, pois Deus lho manifestou.
+**19** porquanto o que de Deus se pode conhecer é manifesto entre eles, pois Deus o manifestou a eles.
 
 **20** Com efeito, desde a criação do mundo, as suas perfeições invisíveis são percebidas pela inteligência por meio das obras, tanto o seu eterno poder como a sua divindade, de modo que são inescusáveis.
 
@@ -59,36 +59,6 @@ _Pela grandeza e beleza das criaturas se contempla o Criador_
 **8** Mas nem mesmo estes são desculpáveis;
 
 **9** pois, se foram capazes de saber tanto que puderam investigar o universo, como não encontraram mais depressa o Senhor dessas coisas?
-
----
-
-## Atos 17,22–31
-
-> **Por que entrar.** mostra numa cena, e não num argumento, a passagem do Deus buscado às apalpadelas ao Deus que se anuncia — e o anúncio termina no que só a revelação pode dizer: o juízo e a ressurreição. Para o leitor, é o texto mais vivo da parte.
->
-> **Por que não.** nenhum documento do eixo o cita, e o conteúdo principal — o conhecimento natural de Deus — já está em Rm 1 e no Salmo 18. É longo para o que acrescenta.
-
-_Paulo no Areópago: o Deus desconhecido que agora se anuncia_
-
-**22** Então Paulo, de pé no meio do Areópago, disse: Atenienses, vejo que em tudo sois extremamente religiosos.
-
-**23** Pois, passando e observando os objetos do vosso culto, encontrei também um altar em que estava escrito: Ao Deus desconhecido. Aquele, pois, que venerais sem conhecer, é esse que eu vos anuncio.
-
-**24** O Deus que fez o mundo e tudo o que nele há, sendo Senhor do céu e da terra, não habita em templos feitos por mãos humanas,
-
-**25** nem é servido por mãos humanas, como se necessitasse de alguma coisa, ele que dá a todos a vida, a respiração e todas as coisas.
-
-**26** De um só fez toda a raça dos homens, para habitarem sobre toda a face da terra, fixando os tempos determinados e os limites da sua habitação,
-
-**27** para que buscassem a Deus e, tateando, o pudessem talvez encontrar; embora não esteja longe de cada um de nós.
-
-**28** Pois nele vivemos, nos movemos e existimos, como disseram também alguns dos vossos poetas: Porque somos também da sua linhagem.
-
-**29** Sendo, pois, linhagem de Deus, não devemos pensar que a divindade seja semelhante ao ouro, à prata ou à pedra, trabalhados pela arte e pela imaginação do homem.
-
-**30** Deus, porém, não levando em conta os tempos da ignorância, anuncia agora aos homens que todos, em toda parte, se arrependam,
-
-**31** porque fixou um dia em que há de julgar o mundo com justiça, por meio de um homem que designou, dando a todos garantia disso ao ressuscitá-lo dentre os mortos.
 
 ---
 
@@ -208,45 +178,13 @@ E porque o que o santo concílio de Trento decretou salutarmente acerca da inter
 
 ---
 
-## *Dei Filius*, cap. 3 — Da fé
+## *Dei Verbum*, nn. 2–4 e 6 — A revelação em si mesma
 
-*Constituição dogmática sobre a fé católica, 24 de abril de 1870. Capítulo 3 e cânones correspondentes. Cf. DH 3008–3014, 3031–3036.*
-
-*Autoridade: concílio ecumênico. O capítulo expõe a doutrina; os cânones, com anátema, definem-na. É o grau mais alto do magistério.*
-
-_Deus auxilia a nossa fé para que creiamos em sua revelação_
-
-Sendo o homem inteiramente dependente de Deus como seu criador e senhor, e estando a razão criada inteiramente sujeita à Verdade incriada, somos obrigados a prestar pela fé, ao Deus que revela, o pleno obséquio da inteligência e da vontade. Ora, esta fé, que é o princípio da salvação humana, a Igreja católica professa que é uma virtude sobrenatural pela qual, sob a inspiração e o auxílio da graça de Deus, cremos serem verdadeiras as coisas por ele reveladas — não pela verdade intrínseca das coisas percebida pela luz natural da razão, mas pela autoridade do próprio Deus que revela, o qual não pode enganar-se nem enganar.
-
-Contudo, para que o obséquio da nossa fé fosse conforme à razão, quis Deus que aos auxílios interiores do Espírito Santo se juntassem argumentos exteriores da sua revelação, a saber, fatos divinos, e em primeiro lugar os milagres e as profecias, os quais, mostrando com clareza a onipotência e a ciência infinita de Deus, são sinais certíssimos da revelação divina e acomodados à inteligência de todos.
-
-Ainda que o assentimento da fé de modo algum seja um movimento cego do espírito, ninguém contudo pode aderir à pregação evangélica como convém para alcançar a salvação sem a iluminação e a inspiração do Espírito Santo, que dá a todos suavidade em consentir e crer na verdade. Por isso a fé em si mesma, ainda que não opere pela caridade, é dom de Deus, e o seu ato é uma obra pertencente à salvação, pela qual o homem presta a Deus mesmo livre obediência, consentindo e cooperando com a sua graça, à qual poderia resistir.
-
-Deve-se crer com fé divina e católica tudo aquilo que está contido na palavra de Deus escrita ou transmitida, e que é proposto pela Igreja para ser crido como divinamente revelado, seja por juízo solene, seja pelo magistério ordinário e universal.
-
-### Cânones
-
-**1.** Se alguém disser que a razão humana é de tal modo independente que Deus não lhe possa impor a fé, seja anátema.
-
-**2.** Se alguém disser que a fé divina não se distingue da ciência natural acerca de Deus e das coisas morais, e que por isso não se requer para a fé divina que se creia como verdadeira a verdade revelada pela autoridade de Deus que revela, seja anátema.
-
-**3.** Se alguém disser que a revelação divina não pode tornar-se crível por sinais exteriores, e que por isso os homens devem ser movidos à fé somente pela experiência interior de cada um ou por inspiração privada, seja anátema.
-
-**4.** Se alguém disser que não pode haver milagres alguns, e que por isso todas as narrações a seu respeito, mesmo as contidas na Escritura sagrada, devem ser relegadas entre as fábulas e os mitos; ou que os milagres nunca podem ser conhecidos com certeza, nem se prova legitimamente por eles a origem divina da religião cristã, seja anátema.
-
-**5.** Se alguém disser que o assentimento da fé cristã não é livre, mas que se produz necessariamente pelos argumentos da razão humana; ou que a graça de Deus é necessária somente para a fé viva que opera pela caridade, seja anátema.
-
-**6.** Se alguém disser que a condição dos fiéis e a dos que ainda não chegaram à única fé verdadeira é igual, de modo que os católicos possam ter justa causa para suspender o assentimento e pôr em dúvida a fé que já receberam sob o magistério da Igreja, até que tenham completado a demonstração científica da credibilidade e da verdade da sua fé, seja anátema.
-
----
-
-## *Dei Verbum*, cap. I — A revelação em si mesma
-
-*Constituição dogmática sobre a revelação divina, 18 de novembro de 1965. Capítulo I, nn. 2–6.*
+*Constituição dogmática sobre a revelação divina, 18 de novembro de 1965. Capítulo I, nn. 2–4 e 6.*
 
 *Autoridade: concílio ecumênico, e a forma mais solene do seu magistério. O Vaticano II não anexou anátemas às suas constituições, mas o que elas ensinam é doutrina da Igreja.*
 
-_Deus se revelou por inteiro; a nossa resposta à revelação deve ser a fé_
+_Deus se revelou por obras e palavras, e em Cristo levou a revelação à plenitude_
 
 **2.** Aprouve a Deus, na sua bondade e sabedoria, revelar-se a si mesmo e dar a conhecer o mistério da sua vontade, pelo qual os homens, por meio de Cristo, Verbo feito carne, têm acesso ao Pai no Espírito Santo e se tornam participantes da natureza divina. Nesta revelação, o Deus invisível, pela abundância do seu amor, fala aos homens como a amigos e convive com eles, para os convidar e receber na sua companhia.
 
@@ -261,8 +199,6 @@ No tempo devido, chamou Abraão para dele fazer um grande povo, que depois de os
 Por isso, aquele que vê o Filho vê também o Pai. Com toda a sua presença e manifestação de si, com palavras e obras, com sinais e milagres, e sobretudo com a sua morte e gloriosa ressurreição dentre os mortos, e enfim com o envio do Espírito da verdade, ele completa e leva à plenitude a revelação, e confirma com o testemunho divino que Deus está conosco para nos libertar das trevas do pecado e da morte e nos ressuscitar para a vida eterna.
 
 A economia cristã, portanto, sendo a aliança nova e definitiva, nunca passará, e já não se deve esperar nenhuma nova revelação pública antes da manifestação gloriosa de nosso Senhor Jesus Cristo.
-
-**5.** A Deus que revela deve-se prestar a obediência da fé, pela qual o homem livremente se entrega inteiro a Deus, prestando ao Deus que revela o pleno obséquio da inteligência e da vontade e assentindo voluntariamente à revelação por ele dada. Para se prestar esta fé, é necessária a graça de Deus, que previne e ajuda, e os auxílios interiores do Espírito Santo, que move o coração e o converte a Deus, abre os olhos da mente e dá a todos suavidade em consentir e crer na verdade. E para que a inteligência da revelação se torne cada vez mais profunda, o mesmo Espírito Santo aperfeiçoa continuamente a fé por meio dos seus dons.
 
 **6.** Pela revelação divina, quis Deus manifestar e comunicar a si mesmo e os decretos eternos da sua vontade acerca da salvação dos homens, isto é, para os fazer participantes dos bens divinos, que superam inteiramente a compreensão da mente humana.
 
@@ -624,7 +560,7 @@ _A transmissão do Evangelho na Igreja apostólica_
 
 **1** Visto que muitos empreenderam compor uma narração dos fatos que entre nós se cumpriram,
 
-**2** conforme no-los transmitiram os que desde o princípio foram testemunhas oculares e ministros da palavra,
+**2** conforme os transmitiram a nós os que desde o princípio foram testemunhas oculares e ministros da palavra,
 
 **3** pareceu-me bem também a mim, depois de ter investigado tudo cuidadosamente desde a origem, escrever-te ordenadamente, excelentíssimo Teófilo,
 
@@ -637,24 +573,6 @@ _A transmissão do Evangelho na Igreja apostólica_
 _A primeira comunidade perseverava na doutrina dos apóstolos_
 
 **42** Eles perseveravam na doutrina dos apóstolos e na comunhão, na fração do pão e nas orações.
-
----
-
-## Romanos 10,14–17
-
-> **Por que entrar.** a fé vem pela escuta da pregação, e a pregação supõe enviados: é a Tradição na sua forma mais simples, a palavra transmitida de viva voz por quem recebeu a missão. A *Verbum Domini* 25 cita-o.
->
-> **Por que não.** o tema central é a fé, e não a transmissão; a menção aos enviados toca o Magistério apenas de passagem.
-
-_A fé vem pela escuta, e a escuta pela palavra de Cristo_
-
-**14** Como, pois, invocarão aquele em quem não creram? E como crerão naquele de quem não ouviram falar? E como ouvirão, se não houver quem pregue?
-
-**15** E como pregarão, se não forem enviados? Como está escrito: Quão belos os pés dos que anunciam boas notícias!
-
-**16** Mas nem todos obedeceram ao Evangelho. Pois Isaías diz: Senhor, quem creu na nossa pregação?
-
-**17** Logo, a fé vem pela escuta, e a escuta pela palavra de Cristo.
 
 ---
 
@@ -1483,5 +1401,79 @@ A hermenêutica da descontinuidade corre o risco de terminar numa ruptura entre 
 À hermenêutica da descontinuidade opõe-se a hermenêutica da reforma, tal como a apresentaram primeiro o Papa João XXIII, no seu discurso de abertura do Concílio, a 11 de outubro de 1962, e depois o Papa Paulo VI, no discurso de encerramento, a 7 de dezembro de 1965. Quero citar aqui apenas as palavras bem conhecidas de João XXIII, nas quais esta hermenêutica é expressa de modo inequívoco, quando diz que o Concílio quer transmitir pura e íntegra a doutrina, sem atenuações nem deformações; e continua: o nosso dever não é somente guardar este tesouro precioso, como se nos preocupássemos unicamente com a antiguidade, mas dedicar-nos com vontade pronta e sem temor à obra que a nossa época exige... É necessário que esta doutrina certa e imutável, que deve ser fielmente respeitada, seja aprofundada e apresentada de modo que corresponda às exigências do nosso tempo. Uma coisa é, com efeito, o depósito da fé, isto é, as verdades contidas na nossa venerável doutrina, e outra é o modo como elas são enunciadas, conservando-lhes contudo o mesmo sentido e o mesmo alcance.
 
 É precisamente neste conjunto de continuidade e descontinuidade em níveis diversos que consiste a natureza da verdadeira reforma. Neste processo de novidade na continuidade, devíamos aprender a compreender mais concretamente do que antes que as decisões da Igreja referentes a coisas contingentes — por exemplo, certas formas concretas de liberalismo ou de interpretação liberal da Bíblia — tinham necessariamente de ser elas mesmas contingentes, precisamente porque se referiam a uma realidade determinada, em si mesma mutável. Era preciso aprender a reconhecer que, em tais decisões, só os princípios exprimem o aspecto duradouro, permanecendo no fundo e motivando a decisão a partir de dentro. Não são igualmente permanentes as formas concretas, que dependem da situação histórica e podem, por isso, estar sujeitas a mudanças. Assim, as decisões de fundo podem permanecer válidas, ao passo que as formas da sua aplicação a contextos novos podem mudar.
+
+---
+
+# Parte VII — A fé, resposta à revelação
+
+---
+
+## Romanos 10,14–17
+
+_A fé vem pela escuta, e a escuta pela palavra de Cristo_
+
+**14** Como, pois, invocarão aquele em quem não creram? E como crerão naquele de quem não ouviram falar? E como ouvirão, se não houver quem pregue?
+
+**15** E como pregarão, se não forem enviados? Como está escrito: Quão belos os pés dos que anunciam boas notícias!
+
+**16** Mas nem todos obedeceram ao Evangelho. Pois Isaías diz: Senhor, quem creu na nossa pregação?
+
+**17** Logo, a fé vem pela escuta, e a escuta pela palavra de Cristo.
+
+---
+
+## Hebreus 11,1.3.6
+
+_Sem fé é impossível agradar a Deus_
+
+**1** A fé é a garantia das coisas que se esperam, a prova das realidades que não se veem.
+
+**3** Pela fé entendemos que os séculos foram formados pela palavra de Deus, de modo que o que se vê não proveio do que é visível.
+
+**6** Ora, sem fé é impossível agradar-lhe; pois quem se aproxima de Deus deve crer que ele existe e que recompensa os que o buscam.
+
+---
+
+## *Dei Filius*, cap. 3 — Da fé
+
+*Constituição dogmática sobre a fé católica, 24 de abril de 1870. Capítulo 3 e cânones correspondentes. Cf. DH 3008–3014, 3031–3036.*
+
+*Autoridade: concílio ecumênico. O capítulo expõe a doutrina; os cânones, com anátema, definem-na. É o grau mais alto do magistério.*
+
+_Deus auxilia a nossa fé para que creiamos em sua revelação_
+
+Sendo o homem inteiramente dependente de Deus como seu criador e senhor, e estando a razão criada inteiramente sujeita à Verdade incriada, somos obrigados a prestar pela fé, ao Deus que revela, o pleno obséquio da inteligência e da vontade. Ora, esta fé, que é o princípio da salvação humana, a Igreja católica professa que é uma virtude sobrenatural pela qual, sob a inspiração e o auxílio da graça de Deus, cremos serem verdadeiras as coisas por ele reveladas — não pela verdade intrínseca das coisas percebida pela luz natural da razão, mas pela autoridade do próprio Deus que revela, o qual não pode enganar-se nem enganar.
+
+Contudo, para que o obséquio da nossa fé fosse conforme à razão, quis Deus que aos auxílios interiores do Espírito Santo se juntassem argumentos exteriores da sua revelação, a saber, fatos divinos, e em primeiro lugar os milagres e as profecias, os quais, mostrando com clareza a onipotência e a ciência infinita de Deus, são sinais certíssimos da revelação divina e acomodados à inteligência de todos.
+
+Ainda que o assentimento da fé de modo algum seja um movimento cego do espírito, ninguém contudo pode aderir à pregação evangélica como convém para alcançar a salvação sem a iluminação e a inspiração do Espírito Santo, que dá a todos suavidade em consentir e crer na verdade. Por isso a fé em si mesma, ainda que não opere pela caridade, é dom de Deus, e o seu ato é uma obra pertencente à salvação, pela qual o homem presta a Deus mesmo livre obediência, consentindo e cooperando com a sua graça, à qual poderia resistir.
+
+Deve-se crer com fé divina e católica tudo aquilo que está contido na palavra de Deus escrita ou transmitida, e que é proposto pela Igreja para ser crido como divinamente revelado, seja por juízo solene, seja pelo magistério ordinário e universal.
+
+### Cânones
+
+**1.** Se alguém disser que a razão humana é de tal modo independente que Deus não lhe possa impor a fé, seja anátema.
+
+**2.** Se alguém disser que a fé divina não se distingue da ciência natural acerca de Deus e das coisas morais, e que por isso não se requer para a fé divina que se creia como verdadeira a verdade revelada pela autoridade de Deus que revela, seja anátema.
+
+**3.** Se alguém disser que a revelação divina não pode tornar-se crível por sinais exteriores, e que por isso os homens devem ser movidos à fé somente pela experiência interior de cada um ou por inspiração privada, seja anátema.
+
+**4.** Se alguém disser que não pode haver milagres alguns, e que por isso todas as narrações a seu respeito, mesmo as contidas na Escritura sagrada, devem ser relegadas entre as fábulas e os mitos; ou que os milagres nunca podem ser conhecidos com certeza, nem se prova legitimamente por eles a origem divina da religião cristã, seja anátema.
+
+**5.** Se alguém disser que o assentimento da fé cristã não é livre, mas que se produz necessariamente pelos argumentos da razão humana; ou que a graça de Deus é necessária somente para a fé viva que opera pela caridade, seja anátema.
+
+**6.** Se alguém disser que a condição dos fiéis e a dos que ainda não chegaram à única fé verdadeira é igual, de modo que os católicos possam ter justa causa para suspender o assentimento e pôr em dúvida a fé que já receberam sob o magistério da Igreja, até que tenham completado a demonstração científica da credibilidade e da verdade da sua fé, seja anátema.
+
+---
+
+## *Dei Verbum*, n. 5 — A obediência da fé
+
+*Constituição dogmática sobre a revelação divina, 18 de novembro de 1965. Capítulo I, n. 5.*
+
+*Autoridade: concílio ecumênico, e a forma mais solene do seu magistério. O Vaticano II não anexou anátemas às suas constituições, mas o que elas ensinam é doutrina da Igreja.*
+
+_Ao Deus que revela, o homem responde entregando-se inteiro a ele pela fé_
+
+**5.** A Deus que revela deve-se prestar a obediência da fé, pela qual o homem livremente se entrega inteiro a Deus, prestando ao Deus que revela o pleno obséquio da inteligência e da vontade e assentindo voluntariamente à revelação por ele dada. Para se prestar esta fé, é necessária a graça de Deus, que previne e ajuda, e os auxílios interiores do Espírito Santo, que move o coração e o converte a Deus, abre os olhos da mente e dá a todos suavidade em consentir e crer na verdade. E para que a inteligência da revelação se torne cada vez mais profunda, o mesmo Espírito Santo aperfeiçoa continuamente a fé por meio dos seus dons.
 
 ---

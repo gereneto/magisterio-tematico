@@ -55,7 +55,7 @@ Quando o ato romano de confirmação sobrevive, ele entra no corpus (a carta *Pe
 | Sabedoria 13,1–9 | Entra | Paralelo veterotestamentário de Rm 1,20, que ajuda a compreendê-lo (critério 3) |
 | Êxodo 33,18–23 | Fora | Trata do que Deus não mostra, e não de que ele se revela |
 | 1 Timóteo 6,15–16 | Fora do eixo 1 | Candidato ao eixo 2, onde o *Credo do Povo de Deus* o cita |
-| Hebreus 11,1–6 | Fora | Trata da resposta à revelação, e não da revelação |
+| Hebreus 11,1.3.6 | Entra, na parte VII | Trata da resposta à revelação; a *Dei Filius* cap. 3 cita-o |
 | Newman, *Essay* | Em avaliação | Não magisterial nem citado literalmente, mas formula a teoria do desenvolvimento |
 | Culto das imagens | Sem eixo próprio | O argumento de Niceia II é cristológico; cabe no eixo Cristo, com remissão desde Ex 20,4 |
 
@@ -106,7 +106,7 @@ A ordem entre os eixos é **sistemática**, não histórica — segue a estrutur
 
 ### 4.2. Partes e ordem interna
 
-Cada eixo divide-se em **partes** temáticas, que reúnem os textos segundo o aspecto da doutrina de que tratam. No eixo 1: Deus se revela · A Escritura · A Tradição · O Magistério · Os três num só depósito · O desenvolvimento da doutrina.
+Cada eixo divide-se em **partes** temáticas, que reúnem os textos segundo o aspecto da doutrina de que tratam. No eixo 1: Deus se revela · A Escritura · A Tradição · O Magistério · Os três num só depósito · O desenvolvimento da doutrina · A fé, resposta à revelação.
 
 Dentro de cada parte, vêm primeiro os textos da Escritura, em **ordem didática**, do dado mais simples ao que depende dele; depois os demais, em **ordem cronológica**: Padres, concílios antigos, Trento, Vaticano I, magistério dos séculos XIX–XX, Vaticano II, magistério posterior ao Concílio.
 
