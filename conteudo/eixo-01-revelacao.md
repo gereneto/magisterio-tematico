@@ -8,9 +8,13 @@ Como Deus se dá a conhecer, e como o que ele revelou se conserva e se transmite
 
 ---
 
-## Romanos 1,18–20
+## Romanos 1,16–20
 
 _Deus se revela através de suas obras_
+
+**16** Pois não me envergonho do Evangelho: ele é poder de Deus para a salvação de todo aquele que crê, do judeu primeiro, e também do grego.
+
+**17** Pois nele se revela a justiça de Deus, de fé em fé, como está escrito: O justo viverá da fé.
 
 **18** Pois a ira de Deus se revela do céu contra toda a impiedade e injustiça dos homens que detêm a verdade na injustiça;
 
@@ -35,10 +39,6 @@ _Os céus narram a glória de Deus_
 ---
 
 ## Sabedoria 13,1–9
-
-> **Por que entrar.** é o paralelo do Antigo Testamento a Rm 1,20, e a *Verbum Domini* 8 cita-o lado a lado com Romanos. O v. 5 — pela grandeza e beleza das criaturas se contempla o seu autor — é a formulação mais clara da Escritura sobre o conhecimento natural de Deus, e o critério 3 hoje admite o que ajude a compreensão.
->
-> **Por que não.** a tabela de casos limítrofes dos critérios exclui-o expressamente, com a razão de que o texto que o Vaticano I tem em vista é Rm 1,20. E a parte já tem Rm 1 e o Salmo 18 sobre o mesmo ponto; um terceiro pode ser redundante.
 
 _Pela grandeza e beleza das criaturas se contempla o Criador_
 
@@ -120,42 +120,6 @@ _Nenhum povo ouviu a voz de Deus como Israel a ouviu_
 
 ---
 
-## Êxodo 33,18–23
-
-> **Por que entrar.** dá o limite da revelação: Deus mostra-se, mas não pode ser visto face a face nesta vida. É o que a *Dei Filius* 4 diz dos mistérios que permanecem velados, e o que a *Dei Verbum* 7 supõe ao falar da Igreja que peregrina até vê-lo face a face.
->
-> **Por que não.** a parte trata de que Deus se revela, e este texto trata do que ele não mostra. O mesmo ponto aparece, mais brevemente, em 1Tm 6,15–16, também em avaliação — convém ficar com um só dos dois.
-
-_Ninguém pode ver a face de Deus e continuar vivo_
-
-**18** Disse Moisés: Mostra-me, peço-te, a tua glória.
-
-**19** Respondeu o Senhor: Farei passar diante de ti toda a minha bondade, e proclamarei diante de ti o nome do Senhor; terei misericórdia de quem eu quiser ter misericórdia, e terei compaixão de quem eu quiser ter compaixão.
-
-**20** E acrescentou: Não poderás ver a minha face, porque o homem não pode ver-me e continuar vivo.
-
-**21** Disse ainda o Senhor: Eis aqui um lugar junto de mim; ficarás sobre a rocha.
-
-**22** E, quando passar a minha glória, eu te porei na fenda da rocha e te cobrirei com a minha mão, até que eu tenha passado.
-
-**23** Depois tirarei a minha mão, e verás as minhas costas; mas a minha face não se pode ver.
-
----
-
-## 1 Timóteo 6,15–16
-
-> **Por que entrar.** o *Credo do Povo de Deus* n. 9, que está no eixo 2, cita-o — habita numa luz inacessível —, e é a formulação mais concisa da Escritura sobre o limite do que se pode conhecer de Deus.
->
-> **Por que não.** repete o ponto de Ex 33,18–23. Se ficar só um dos dois, este é mais breve; o outro é mais narrativo.
-
-_Deus habita numa luz inacessível, que nenhum homem pode ver_
-
-**15** ... que a seu tempo há de mostrar o bem-aventurado e único Soberano, o Rei dos reis e Senhor dos senhores,
-
-**16** o único que possui a imortalidade, que habita numa luz inacessível, a quem nenhum homem viu nem pode ver; a ele honra e poder eterno. Amém.
-
----
-
 ## Hebreus 1,1–2
 
 _Deus se revelou pelos profetas e por Cristo_
@@ -211,46 +175,6 @@ _Deus deu-nos a conhecer o mistério da sua vontade_
 **9** dando-nos a conhecer o mistério da sua vontade, segundo o beneplácito que de antemão estabelecera em Cristo,
 
 **10** para realizá-lo na plenitude dos tempos: reunir sob uma só cabeça todas as coisas em Cristo, as que estão nos céus e as que estão na terra.
-
----
-
-## Romanos 10,14–17
-
-> **Por que entrar.** a fé vem pela escuta da pregação: liga a revelação, que é o assunto desta parte, à transmissão pela palavra pregada, que é o da parte III, e dá base bíblica ao cap. 3 da *Dei Filius*. A *Verbum Domini* 25 cita-o.
->
-> **Por que não.** pertence tanto à parte III quanto a esta, e o eixo da Graça há de tratar a fé como resposta de modo mais completo.
-
-_A fé vem pela escuta, e a escuta pela palavra de Cristo_
-
-**14** Como, pois, invocarão aquele em quem não creram? E como crerão naquele de quem não ouviram falar? E como ouvirão, se não houver quem pregue?
-
-**15** E como pregarão, se não forem enviados? Como está escrito: Quão belos os pés dos que anunciam boas notícias!
-
-**16** Mas nem todos obedeceram ao Evangelho. Pois Isaías diz: Senhor, quem creu na nossa pregação?
-
-**17** Logo, a fé vem pela escuta, e a escuta pela palavra de Cristo.
-
----
-
-## Hebreus 11,1–6
-
-> **Por que entrar.** é a definição bíblica da fé, e o cap. 3 da *Dei Filius*, que está nesta parte, descreve exatamente essa fé que crê no que não se vê, pela autoridade de Deus.
->
-> **Por que não.** a parte trata da revelação, e não da fé em si; os vv. 4–5, sobre Abel e Henoc, nada acrescentam aqui; e a fé terá lugar próprio no eixo da Graça. Se entrar, pode reduzir-se a 11,1.3.6.
-
-_Sem fé é impossível agradar a Deus_
-
-**1** A fé é a garantia das coisas que se esperam, a prova das realidades que não se veem.
-
-**2** Foi por ela que os antigos receberam bom testemunho.
-
-**3** Pela fé entendemos que os séculos foram formados pela palavra de Deus, de modo que o que se vê não proveio do que é visível.
-
-**4** Pela fé Abel ofereceu a Deus um sacrifício melhor que o de Caim; por ela recebeu o testemunho de que era justo, dando Deus testemunho a respeito das suas ofertas; e por ela, depois de morto, ainda fala.
-
-**5** Pela fé Henoc foi trasladado para não ver a morte, e não foi encontrado, porque Deus o trasladara; pois antes de ser trasladado recebeu o testemunho de ter agradado a Deus.
-
-**6** Ora, sem fé é impossível agradar-lhe; pois quem se aproxima de Deus deve crer que ele existe e que recompensa os que o buscam.
 
 ---
 
@@ -713,6 +637,24 @@ _A transmissão do Evangelho na Igreja apostólica_
 _A primeira comunidade perseverava na doutrina dos apóstolos_
 
 **42** Eles perseveravam na doutrina dos apóstolos e na comunhão, na fração do pão e nas orações.
+
+---
+
+## Romanos 10,14–17
+
+> **Por que entrar.** a fé vem pela escuta da pregação, e a pregação supõe enviados: é a Tradição na sua forma mais simples, a palavra transmitida de viva voz por quem recebeu a missão. A *Verbum Domini* 25 cita-o.
+>
+> **Por que não.** o tema central é a fé, e não a transmissão; a menção aos enviados toca o Magistério apenas de passagem.
+
+_A fé vem pela escuta, e a escuta pela palavra de Cristo_
+
+**14** Como, pois, invocarão aquele em quem não creram? E como crerão naquele de quem não ouviram falar? E como ouvirão, se não houver quem pregue?
+
+**15** E como pregarão, se não forem enviados? Como está escrito: Quão belos os pés dos que anunciam boas notícias!
+
+**16** Mas nem todos obedeceram ao Evangelho. Pois Isaías diz: Senhor, quem creu na nossa pregação?
+
+**17** Logo, a fé vem pela escuta, e a escuta pela palavra de Cristo.
 
 ---
 

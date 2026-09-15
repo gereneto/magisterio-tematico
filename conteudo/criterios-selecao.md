@@ -36,7 +36,7 @@ Textos patrísticos entram quando são citados literalmente por documento magist
 
 Irineu entra porque a *Dei Verbum* 8 cita literalmente *charisma veritatis certum*; Vicente de Lérins, porque a *Dei Filius* cap. 4 cita literalmente *eodem sensu eademque sententia*; Basílio, porque Trento o cita na sessão IV. Agostinho entra pelo segundo título: o critério de *De baptismo* IV,24,31 não é citado expressamente, mas é a regra prática que Trento, o Vaticano I e a *Dei Verbum* 8 aplicam.
 
-Este critério é o que mantém Tertuliano fora, apesar de o argumento da prescrição ser fundamental na história da doutrina.
+Por este critério Tertuliano ficaria fora, apesar de o argumento da prescrição ser fundamental na história da doutrina; o caso está em avaliação (ver 2.5).
 
 ### 2.4. Concílios locais
 
@@ -50,10 +50,13 @@ Quando o ato romano de confirmação sobrevive, ele entra no corpus (a carta *Pe
 |---|---|---|
 | Tomo de Dâmaso (382) | Entra | Fonte da terminologia trinitária latina fixada depois |
 | *Indiculus de gratia Dei* | Fora | Coletânea, não definição; Orange cobre o mesmo terreno com precisão maior e força vinculante |
-| Tertuliano, *De praescriptione* | Fora | Não citado literalmente por definição alguma |
-| Vicente, *Commonitorium* 3 | Fora | Decisão editorial |
-| Sabedoria 13 | Fora | O *locus classicus* do conhecimento natural definido pelo Vaticano I é Rm 1,20 |
-| Newman, *Essay* | Fora | Não magisterial e não citado literalmente |
+| Tertuliano, *De praescriptione* | Em avaliação | Não citado literalmente por definição alguma, mas formula o argumento da prescrição |
+| Vicente, *Commonitorium* 3 | Em avaliação | Aplica ao caso concreto a regra do cap. 2 |
+| Sabedoria 13,1–9 | Entra | Paralelo veterotestamentário de Rm 1,20, que ajuda a compreendê-lo (critério 3) |
+| Êxodo 33,18–23 | Fora | Trata do que Deus não mostra, e não de que ele se revela |
+| 1 Timóteo 6,15–16 | Fora do eixo 1 | Candidato ao eixo 2, onde o *Credo do Povo de Deus* o cita |
+| Hebreus 11,1–6 | Fora | Trata da resposta à revelação, e não da revelação |
+| Newman, *Essay* | Em avaliação | Não magisterial nem citado literalmente, mas formula a teoria do desenvolvimento |
 | Culto das imagens | Sem eixo próprio | O argumento de Niceia II é cristológico; cabe no eixo Cristo, com remissão desde Ex 20,4 |
 
 ---
@@ -283,5 +286,5 @@ Cirilo, *Ep. 4* · Cirilo, doze anatematismos · Fórmula de União (433) · Tom
 ### 7.4. Pendências metodológicas
 
 - Conferência das traduções com as edições de referência antes de qualquer uso impresso. Os pontos mais frágeis hoje são os anatematismos do Tomo de Dâmaso (numeração DH de cada parágrafo) e os trechos da *Divinum illud munus*
-- Candidatos ao eixo 2 ainda não traduzidos, admissíveis pelo critério 2.1(c): Basílio, *De Spiritu Sancto* · Gregório de Nazianzo, *Oratio* 31 · CDF, *Mysterium Filii Dei* (1972)
+- Candidatos ao eixo 2 ainda não traduzidos, admissíveis pelo critério 2.1(c): Basílio, *De Spiritu Sancto* · Gregório de Nazianzo, *Oratio* 31 · 1Tm 6,15–16 · CDF, *Mysterium Filii Dei* (1972)
 - Verificação jurídica antes da publicação, se comercial
