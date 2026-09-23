@@ -349,3 +349,8 @@ h3{font-family:var(--romana);font-weight:600;font-size:.86em;
   .topo,.rodape,.passo{display:none}
   body{background:#fff;color:#000;font-size:11pt}
 }
+
+/* --------------------------------------------------- menu das partes -- */
+.cartao .num{margin:0 0 .55em;color:var(--ouro)}
+.pg-parte .fio{margin-top:2.2rem}
+.pg-parte h1{margin-top:.2em}

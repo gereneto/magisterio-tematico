@@ -4,7 +4,9 @@ Gera o site a partir dos arquivos de conteudo.
 
     python build.py
 
-Le  conteudo/*.md  e escreve  index.html, criterios.html  e  eixo-NN/*.html.
+Le  conteudo/*.md  e escreve  index.html, criterios.html  e  eixo-NN/*.html:
+um indice de partes por eixo (eixo-NN/index.html), um indice de trechos por
+parte (eixo-NN/parte-NN.html) e uma pagina por trecho.
 Nao depende de nenhuma biblioteca externa.
 """
 
@@ -85,8 +87,9 @@ def ler_eixo(caminho, pasta):
     txt = re.sub(r'<!--.*?-->', '', txt, flags=re.S)
     linhas = txt.split('\n')
 
-    eixo = {'pasta': pasta, 'titulo': '', 'resumo': '', 'trechos': []}
+    eixo = {'pasta': pasta, 'titulo': '', 'resumo': '', 'trechos': [], 'partes': []}
     secao = ''
+    parte = None
     atual = None
     buf = []
 
@@ -113,9 +116,20 @@ def ler_eixo(caminho, pasta):
             fecha()
             atual = None
             secao = ln[2:].strip()
+            # a primeira linha de texto depois do titulo da parte e a sua descricao
+            desc = ''
+            j = i + 1
+            while j < len(linhas) and (not linhas[j].strip() or linhas[j].strip() == '---'):
+                j += 1
+            if j < len(linhas) and not linhas[j].startswith('#'):
+                desc = linhas[j].strip()
+            parte = {'titulo': secao, 'descricao': desc, 'trechos': []}
+            eixo['partes'].append(parte)
         elif ln.startswith('## '):
             fecha()
-            atual = {'titulo': ln[3:].strip(), 'secao': secao}
+            atual = {'titulo': ln[3:].strip(), 'secao': secao, 'parte': parte}
+            if parte is not None:
+                parte['trechos'].append(atual)
             buf = []
         elif atual is not None:
             if ln.strip() != '---':
@@ -127,6 +141,13 @@ def ler_eixo(caminho, pasta):
         tr['arquivo'] = '%02d-%s.html' % (n, slug(re.sub(r'[*_]', '', tr['titulo'])))
         tr['url'] = '%s/%s' % (pasta, tr['arquivo'])
         tr['eixo'] = eixo
+    eixo['partes'] = [pt for pt in eixo['partes'] if pt['trechos']]
+    for n, pt in enumerate(eixo['partes'], 1):
+        pt['n'] = n
+        pt['arquivo'] = 'parte-%02d.html' % n
+        m = re.match(r'^Parte\s+([IVXLC]+)\s*[—–-]\s*(.+)$', pt['titulo'])
+        pt['numero'], pt['nome'] = (('Parte ' + m.group(1)), m.group(2)) if m \
+            else ('', pt['titulo'])
     return eixo
 
 
@@ -284,8 +305,11 @@ def gerar():
         h = ['<article class="trecho">']
         if tr.get('editor'):
             h.append(editor_html(tr['editor']))
+        pt = tr.get('parte')
         h.append('<p class="fio"><a href="index.html">%s</a><i>◆</i>%s</p>'
-                 % (esc(tr['eixo']['titulo']), esc(tr['secao'])))
+                 % (esc(tr['eixo']['titulo']),
+                    '<a href="%s">%s</a>' % (pt['arquivo'], esc(pt['titulo'])) if pt
+                    else esc(tr['secao'])))
         h.append('<h1>%s</h1>' % inline(tr['titulo']))
         # ordem no arquivo: fonte, autoridade, resumo
         for k, c in enumerate(cabeca):
@@ -323,31 +347,58 @@ def gerar():
         escreve(dest, pagina(re.sub(r'[*_]', '', tr['titulo']) + ' — ' + SITE,
                              '\n'.join(h), prof=1, classe='pg-trecho', descricao=desc))
 
-    # --- indice de cada eixo ---
+    # --- indice de cada eixo: as partes ---
     for e in eixos:
         h = ['<h1>%s</h1>' % esc(e['titulo'])]
         if e['resumo']:
             h.append('<p class="resumo">%s</p>' % inline(e['resumo']))
-        sec, aberta = None, False
-        for tr in e['trechos']:
-            if tr['secao'] != sec:
-                if aberta:
-                    h.append('</ol>')
-                sec = tr['secao']
-                h.append('<h2>%s</h2>' % esc(sec))
-                h.append('<ol class="lista">')
-                aberta = True
-            res = resumo_do_trecho(tr['corpo'])
-            marca = '<em class="aval">em avaliação</em>' if tr.get('editor') else ''
-            h.append('<li><a href="%s"><b>%s%s</b><span>%s</span></a></li>'
-                     % (tr['arquivo'], inline(tr['titulo']), marca,
-                        cabecalho_html(res) if res else ''))
-        if aberta:
-            h.append('</ol>')
-        html = '\n'.join(h)
+        h.append('<div class="eixos partes">')
+        for pt in e['partes']:
+            aval = sum(1 for tr in pt['trechos'] if tr.get('editor'))
+            conta = '%d trecho%s' % (len(pt['trechos']), '' if len(pt['trechos']) == 1 else 's')
+            if aval:
+                conta += ' · %d em avaliação' % aval
+            h.append('<a class="cartao" href="%s">%s<b>%s</b>%s<em>%s</em></a>'
+                     % (pt['arquivo'],
+                        '<em class="num">%s</em>' % esc(pt['numero']) if pt['numero'] else '',
+                        inline(pt['nome']),
+                        '<span>%s</span>' % inline(pt['descricao'].strip('_*'))
+                        if pt['descricao'] else '',
+                        conta))
+        h.append('</div>')
         escreve(os.path.join(RAIZ, e['pasta'], 'index.html'),
-                pagina(e['titulo'] + ' — ' + SITE, html, prof=1,
-                       classe='pg-indice', descricao=e['resumo']))
+                pagina(e['titulo'] + ' — ' + SITE, '\n'.join(h), prof=1,
+                       classe='pg-indice pg-eixo', descricao=e['resumo']))
+
+    # --- indice de cada parte: os trechos ---
+    for e in eixos:
+        for k, pt in enumerate(e['partes']):
+            h = ['<p class="fio"><a href="index.html">%s</a></p>' % esc(e['titulo'])]
+            h.append('<h1>%s</h1>' % inline(pt['titulo']))
+            if pt['descricao']:
+                h.append('<p class="resumo">%s</p>' % inline(pt['descricao'].strip('_*')))
+            h.append('<ol class="lista">')
+            for tr in pt['trechos']:
+                res = resumo_do_trecho(tr['corpo'])
+                marca = '<em class="aval">em avaliação</em>' if tr.get('editor') else ''
+                h.append('<li><a href="%s"><b>%s%s</b><span>%s</span></a></li>'
+                         % (tr['arquivo'], inline(tr['titulo']), marca,
+                            cabecalho_html(res) if res else ''))
+            h.append('</ol>')
+            ant = e['partes'][k - 1] if k > 0 else None
+            prox = e['partes'][k + 1] if k < len(e['partes']) - 1 else None
+            h.append('<nav class="passo">')
+            h.append('<a class="ant" href="%s"><span>Parte anterior</span><b>%s</b></a>'
+                     % (ant['arquivo'], inline(ant['titulo'])) if ant
+                     else '<span class="ant vazio"></span>')
+            h.append('<a class="prox" href="%s"><span>Próxima parte</span><b>%s</b></a>'
+                     % (prox['arquivo'], inline(prox['titulo'])) if prox
+                     else '<span class="prox vazio"></span>')
+            h.append('</nav>')
+            escreve(os.path.join(RAIZ, e['pasta'], pt['arquivo']),
+                    pagina(re.sub(r'[*_]', '', pt['titulo']) + ' — ' + e['titulo'] + ' — ' + SITE,
+                           '\n'.join(h), prof=1, classe='pg-indice pg-parte',
+                           descricao=re.sub(r'[*_]', '', pt['descricao'])))
 
     # --- capa ---
     h = ['<h1 class="capa">%s</h1>' % esc(SITE),
@@ -356,11 +407,13 @@ def gerar():
          '<div class="eixos">']
     for e in eixos:
         h.append('<a class="cartao" href="%s/index.html"><b>%s</b><span>%s</span>'
-                 '<em>%d trechos</em></a>'
-                 % (e['pasta'], esc(e['titulo']), esc(e['resumo']), len(e['trechos'])))
+                 '<em>%d partes · %d trechos</em></a>'
+                 % (e['pasta'], esc(e['titulo']), esc(e['resumo']),
+                    len(e['partes']), len(e['trechos'])))
     h.append('</div>')
     h.append('<p class="obs">A ordem entre os eixos segue a estrutura da fé; '
-             'dentro de cada eixo, a ordem é cronológica, e didática na seção bíblica. '
+             'cada eixo divide-se em partes temáticas; dentro de cada parte vêm primeiro '
+             'os textos da Escritura, em ordem didática, e depois os demais, em ordem cronológica. '
              'Todas as traduções são feitas do grego e do latim.</p>')
     escreve(os.path.join(RAIZ, 'index.html'),
             pagina(SITE, '\n'.join(h), prof=0, classe='pg-capa'))

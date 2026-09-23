@@ -6,6 +6,8 @@ Como Deus se dá a conhecer, e como o que ele revelou se conserva e se transmite
 
 # Parte I — Deus se revela
 
+A revelação natural e a sobrenatural; Cristo, plenitude da revelação.
+
 ---
 
 ## Romanos 1,16–20
@@ -239,6 +241,8 @@ Como afirmaram os Padres sinodais, trata-se, pois, de um uso analógico da expre
 ---
 
 # Parte II — A Escritura
+
+O cânon, a inspiração, a inerrância e a interpretação dos livros sagrados.
 
 ---
 
@@ -542,6 +546,8 @@ Embora ignorasse, evidentemente, os recursos de natureza filológica e históric
 
 # Parte III — A Tradição
 
+A transmissão apostólica, e os Padres como testemunhas dela.
+
 ---
 
 ## João 21,24–25
@@ -828,6 +834,8 @@ E se, na própria antiguidade, se descobrir o erro de dois ou três homens, ou m
 
 # Parte IV — O Magistério
 
+Por que a revelação pede um intérprete vivo, e a que ele serve.
+
 ---
 
 ## Lucas 10,16
@@ -1034,6 +1042,8 @@ Compete ao magistério afirmar, em coerência com a natureza escatológica próp
 
 # Parte V — Os três num só depósito
 
+Escritura, Tradição e Magistério, unidos de tal modo que nenhum subsiste sem os outros.
+
 ---
 
 ## Concílio de Trento, sessão IV, 8 de abril de 1546
@@ -1101,6 +1111,8 @@ O cânon pertence a este eixo pela distinção que a sua formulação impõe. Os
 --- -->
 
 # Parte VI — O desenvolvimento da doutrina
+
+Como a doutrina cresce no mesmo sentido e na mesma sentença, e como não cresce.
 
 ---
 
@@ -1405,6 +1417,8 @@ A hermenêutica da descontinuidade corre o risco de terminar numa ruptura entre 
 ---
 
 # Parte VII — A fé, resposta à revelação
+
+O que é crer: dom de Deus, assentimento da inteligência, obediência.
 
 ---
 
