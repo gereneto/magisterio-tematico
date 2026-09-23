@@ -93,12 +93,12 @@ A ordem entre os eixos é **sistemática**, não histórica — segue a estrutur
 2. **Trindade** — quem é Deus
 3. **Antropologia** — criação, imagem, pecado original; põe o problema
 4. **Cristo** — a resposta
-5. **Maria** — corolário cristológico; o *Theotokos* protege a unidade de Cristo
-6. **Graça** — como a redenção alcança cada um
-7. **Lei e moral** — como o homem justificado age; segue-se da graça
-8. **Igreja** — natureza e necessidade; onde a graça é recebida
-9. **Autoridade** — estrutura e magistério; serve o que a precede
-10. **Sacramentos** — por que meios a graça é dada
+5. **Graça** — como a redenção alcança cada um
+6. **Maria** — corolário cristológico; o *Theotokos* protege a unidade de Cristo, e a Imaculada supõe a doutrina da graça
+7. **Igreja** — natureza e necessidade; onde a graça é recebida
+8. **Autoridade** — estrutura e magistério; serve o que a precede
+9. **Sacramentos** — por que meios a graça é dada
+10. **Lei e moral** — como o homem justificado age; segue-se da graça e dos sacramentos
 11. **Escatologia intermédia** — estado das almas antes da ressurreição
 12. **Escatologia final** — ressurreição, parusia, juízo
 
@@ -275,7 +275,7 @@ Cirilo, *Ep. 4* · Cirilo, doze anatematismos · Fórmula de União (433) · Tom
 
 ### 7.3. Próximas etapas incontornáveis
 
-- **Trento, sessão VI** (justificação) — o texto mais consequente ainda ausente; eixos 6 e 7 dependem dele
+- **Trento, sessão VI** (justificação) — o texto mais consequente ainda ausente; eixos 5 e 10 dependem dele
 - **Trento, sessões V, VII, XIII, XXII, XXIV** — antropologia e sacramentos
 - **Constantinopla II (553)** — canoniza formalmente os anatematismos de Cirilo
 - **Constantinopla III (681)** — as duas vontades

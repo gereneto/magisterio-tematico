@@ -858,7 +858,7 @@ _O Espírito Santo ensina a Igreja_
 
 > **Por que entrar.** dá base ao juízo da Igreja como instância última e à autoridade de ligar e desligar.
 >
-> **Por que não.** o contexto é disciplinar — a correção fraterna —, e não doutrinal; a autoridade de ligar e desligar pertence mais propriamente ao eixo 9, da Autoridade.
+> **Por que não.** o contexto é disciplinar — a correção fraterna —, e não doutrinal; a autoridade de ligar e desligar pertence mais propriamente ao eixo 8, da Autoridade.
 
 _Se não ouvir nem mesmo a Igreja..._
 

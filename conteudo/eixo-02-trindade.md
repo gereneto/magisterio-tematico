@@ -756,7 +756,7 @@ Nem, porque são três as pessoas, pregamos três substâncias, mas uma só subs
 
 ## Concílio de Latrão IV, 1215
 
-*Décimo segundo concílio ecumênico, 1215. Constituições 1 e 2, trechos doutrinais. Cf. DH 800–806.*
+*Décimo segundo concílio ecumênico, 1215. Constituições 1 e 2, trechos doutrinais. Cf. DH 800 e 803–806.*
 
 *Autoridade: concílio ecumênico. As duas constituições são doutrinais, e a segunda decide uma questão disputada nomeando o erro — definição dogmática.*
 
@@ -976,7 +976,7 @@ Esta semelhança manifesta que o homem, única criatura na terra que Deus quis p
 
 ## Paulo VI, *Solene profissão de fé*, nn. 8–11
 
-*Chamada Credo do Povo de Deus, 30 de junho de 1968. Cf. DH 4820–4823.*
+*Chamada Credo do Povo de Deus, 30 de junho de 1968. Não consta no DH; texto em AAS 60 (1968), 433–445.*
 
 *Autoridade: profissão de fé feita pelo Papa em nome de toda a Igreja. Não é definição nova — repete e confirma solenemente a fé de sempre.*
 
