@@ -253,21 +253,7 @@ Pós-conciliar: *Mysterium Ecclesiae* 5 · *Fides et ratio* 11 e 95.
 
 **Eixo 2 — Trindade**
 
-Escritura: Dt 6,4–5 · Jo 1,1–5.14.18 · Fl 2,5–7 · Cl 1,15–17 · Hb 1,3 · Jo 10,30–38 · Mt 3,16–17 · Jo 14–17 · At 5,3–4 · Rm 8,9–17.26–27 · Gl 4,4–6 · 1Cor 12,4–6 · 2Cor 13,13 · Ef 4,4–6 · 1Jo 4,12–16 · 1Jo 5,5–8 · Mt 28,18–20.
-
-Padres: Agostinho, *De Trinitate* V,5,6; V,9,10; XV,26,47.
-
-Símbolos e concílios antigos: Niceia (325) · Constantinopla I (381) · Tomo de Dâmaso (382) · *Quicumque* · Constantinopla II, cân. 1 (553) · Toledo XI (675).
-
-Concílios medievais: Latrão IV (1215) · Lyon II (1274) · Florença, *Laetentur caeli* (1439) · Florença, *Cantate Domino* (1442).
-
-Vaticano I: *Dei Filius*, cap. 1 e cânones.
-
-Séculos XIX–XX: *Divinum illud munus*.
-
-Vaticano II: *Lumen gentium* 2–4 · *Ad gentes* 2 · *Gaudium et spes* 24.
-
-Pós-conciliar: Credo do Povo de Deus, nn. 8–11.
+Oito partes: I. O Deus único · II. Pai, Filho e Espírito Santo: a Trindade revelada · III. Deus Pai · IV. O Filho, consubstancial ao Pai · V. O Espírito Santo, Senhor que dá a vida · VI. A processão do Espírito Santo · VII. Três pessoas, uma só substância · VIII. As missões e a inabitação. 135 trechos, dos quais dois em avaliação (Gregório de Nazianzo, *Oratio* 40,41; o esclarecimento de 1995 sobre o *Filioque*). Os textos que definem as relações estão inteiros na parte VII e recortados nas partes III, IV e VI. A lista completa dos candidatos, com os que ainda estão em avaliação e não foram traduzidos, está em `pesquisa/eixo-02-candidatos.md`.
 
 ### 7.2. Traduzido e ainda não distribuído por eixo
 
@@ -285,6 +271,6 @@ Cirilo, *Ep. 4* · Cirilo, doze anatematismos · Fórmula de União (433) · Tom
 
 ### 7.4. Pendências metodológicas
 
-- Conferência das traduções com as edições de referência antes de qualquer uso impresso. Os pontos mais frágeis hoje são os anatematismos do Tomo de Dâmaso (numeração DH de cada parágrafo) e os trechos da *Divinum illud munus*
+- Conferência das traduções com as edições de referência antes de qualquer uso impresso. Os pontos mais frágeis hoje são os trechos da *Divinum illud munus* e dois parágrafos de Toledo XI (sobre o Filho e sobre o Espírito Santo), cuja tradução não corresponde inteira ao latim de DH 526–527. A numeração DH dos anatematismos do Tomo de Dâmaso foi resolvida: §1 = 153, §2 = 154, §3 = 155, §4 = 156, §5–7 = 162–164, §8–10 = 168–170, §11–13 = 171–173, §14–15 = 174–175, anátema 24 = 176, conclusão = 177
 - Candidatos ao eixo 2 ainda não traduzidos, admissíveis pelo critério 2.1(c): Basílio, *De Spiritu Sancto* · Gregório de Nazianzo, *Oratio* 31 · 1Tm 6,15–16 · CDF, *Mysterium Filii Dei* (1972)
 - Verificação jurídica antes da publicação, se comercial
