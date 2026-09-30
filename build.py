@@ -20,10 +20,9 @@ import unicodedata
 RAIZ = os.path.dirname(os.path.abspath(__file__))
 CONTEUDO = os.path.join(RAIZ, 'conteudo')
 
-EIXOS = [
-    ('eixo-01', 'eixo-01-revelacao.md'),
-    ('eixo-02', 'eixo-02-trindade.md'),
-]
+# um arquivo conteudo/eixo-NN-nome.md por eixo; a pasta do site e eixo-NN
+EIXOS = sorted((re.match(r'(eixo-\d+)', f).group(1), f)
+               for f in os.listdir(CONTEUDO) if re.match(r'eixo-\d+-.*\.md$', f))
 
 AUTORIDADE = '*Autoridade: '
 

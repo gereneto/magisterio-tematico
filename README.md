@@ -10,9 +10,10 @@ Cada eixo divide-se em partes temáticas, e cada parte tem o seu índice. Cada t
 
 | Eixo | Situação |
 |---|---|
-| 1 — Revelação | 7 partes, 81 trechos |
-| 2 — Trindade | 8 partes, 135 trechos |
-| 3 a 12 | a fazer |
+| 1 — Revelação | 7 partes, 81 trechos (11 em avaliação) |
+| 2 — Trindade | 8 partes, 135 trechos (2 em avaliação) |
+| 3 — Antropologia | 8 partes, 210 trechos (106 em avaliação) |
+| 4, 5, 6, 7, 8, 9, 10, 11, 12 | a fazer |
 
 Os critérios de seleção e de tradução estão em [`conteudo/criterios-selecao.md`](conteudo/criterios-selecao.md) e publicados em `criterios.html`.
 
