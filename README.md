@@ -16,7 +16,8 @@ Cada eixo divide-se em partes temáticas, e cada parte tem o seu índice. Cada t
 | 4 — Cristo | 10 partes, 251 trechos (98 em avaliação) |
 | 5 — Graça | 8 partes, 171 trechos (64 em avaliação) |
 | 6 — Maria | 6 partes, 169 trechos (89 em avaliação) |
-| 7, 8, 9, 10, 11, 12 | a fazer |
+| 7 — Igreja | 8 partes, 221 trechos (92 em avaliação) |
+| 8, 9, 10, 11, 12 | a fazer |
 
 Os critérios de seleção e de tradução estão em [`conteudo/criterios-selecao.md`](conteudo/criterios-selecao.md) e publicados em `criterios.html`.
 
