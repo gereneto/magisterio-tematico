@@ -15,7 +15,8 @@ Cada eixo divide-se em partes temáticas, e cada parte tem o seu índice. Cada t
 | 3 — Antropologia | 8 partes, 210 trechos (106 em avaliação) |
 | 4 — Cristo | 10 partes, 251 trechos (98 em avaliação) |
 | 5 — Graça | 8 partes, 171 trechos (64 em avaliação) |
-| 6, 7, 8, 9, 10, 11, 12 | a fazer |
+| 6 — Maria | 6 partes, 169 trechos (89 em avaliação) |
+| 7, 8, 9, 10, 11, 12 | a fazer |
 
 Os critérios de seleção e de tradução estão em [`conteudo/criterios-selecao.md`](conteudo/criterios-selecao.md) e publicados em `criterios.html`.
 
