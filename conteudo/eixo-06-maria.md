@@ -16,19 +16,19 @@ Theotokos: aquele que nasceu de Maria é Deus.
 
 _Isabel, cheia do Espírito Santo, chama Maria mãe do meu Senhor: é o apoio bíblico mais direto do título de Mãe de Deus, que Éfeso defenderá_
 
-**39** Naqueles dias, Maria levantou-se e foi às pressas à região montanhosa, a uma cidade de Judá;
+**39** Naqueles dias, Maria levantou-se e foi apressadamente para a região montanhosa, a uma cidade de Judá.
 
-**40** entrou em casa de Zacarias e saudou Isabel.
+**40** Entrou na casa de Zacarias e saudou Isabel.
 
-**41** E aconteceu que, quando Isabel ouviu a saudação de Maria, a criança saltou no seu ventre, e Isabel ficou cheia do Espírito Santo,
+**41** Quando Isabel ouviu a saudação de Maria, a criança saltou no seu ventre, e Isabel ficou cheia do Espírito Santo.
 
-**42** e exclamou em alta voz: Bendita és tu entre as mulheres, e bendito é o fruto do teu ventre!
+**42** Com um grande grito, exclamou: Bendita és tu entre as mulheres, e bendito é o fruto do teu ventre!
 
-**43** E donde me vem isto, que a mãe do meu Senhor venha a mim?
+**43** Donde me vem que a mãe do meu Senhor venha a mim?
 
-**44** Pois, logo que a voz da tua saudação chegou aos meus ouvidos, a criança saltou de alegria no meu ventre.
+**44** Pois, quando a voz da tua saudação chegou aos meus ouvidos, a criança saltou de alegria no meu ventre.
 
-**45** Bem-aventurada aquela que acreditou que se cumpririam as coisas que lhe foram ditas da parte do Senhor.
+**45** Bem-aventurada a que creu, porque se cumprirá o que da parte do Senhor foi dito a ela.
 
 ---
 
@@ -38,9 +38,9 @@ _Isabel, cheia do Espírito Santo, chama Maria mãe do meu Senhor: é o apoio b�
 
 _Deus enviou o seu Filho, nascido de mulher: quem nasce de Maria é o próprio Filho de Deus, e não outro sujeito — o nascido de mulher que os símbolos vão repetir_
 
-**4** Mas, quando veio a plenitude do tempo, enviou Deus o seu Filho, nascido de mulher, nascido sob a Lei,
+**4** Mas, quando veio a plenitude do tempo, Deus enviou o seu Filho, nascido de mulher, nascido sob a lei,
 
-**5** para resgatar os que estavam sob a Lei, a fim de que recebêssemos a adoção filial.
+**5** para resgatar os que estavam sob a lei, a fim de recebermos a adoção de filhos.
 
 ---
 
@@ -50,7 +50,7 @@ _Deus enviou o seu Filho, nascido de mulher: quem nasce de Maria é o próprio F
 
 _O Verbo se fez carne: não se uniu a um homem já nascido, mas nasceu ele mesmo segundo a carne, e é daqui que Cirilo e Calcedônia argumentam_
 
-**14** E o Verbo se fez carne e habitou entre nós, e vimos a sua glória, glória como do Unigênito do Pai, cheio de graça e de verdade.
+**14** E o Verbo se fez carne e habitou entre nós; e vimos a sua glória, glória como do Unigênito do Pai, cheio de graça e de verdade.
 
 ---
 
@@ -452,13 +452,13 @@ Virgem na concepção, no parto e depois do parto.
 
 _O sinal dado à casa de Davi: a virgem conceberá e dará à luz um filho — a profecia que Mateus vê cumprida na concepção de Jesus, e em que o sínodo de Milão lê que a virgem não só conceberia, mas também daria à luz_
 
-**10** O Senhor falou ainda a Acaz, dizendo:
+**10** O Senhor falou ainda a Acaz:
 
-**11** Pede para ti um sinal ao Senhor teu Deus, seja lá embaixo, nas profundezas, seja lá em cima, nas alturas.
+**11** Pede um sinal ao Senhor teu Deus, seja nas profundezas da morada dos mortos, seja nas alturas lá em cima.
 
-**12** Mas Acaz respondeu: Não pedirei, e não tentarei o Senhor.
+**12** Acaz respondeu: Não pedirei, não quero tentar o Senhor.
 
-**13** Então disse Isaías: Ouvi, pois, casa de Davi: Acaso não vos basta cansar os homens, para que canseis também o meu Deus?
+**13** Então Isaías disse: Ouvi, pois, casa de Davi: não vos basta cansar a paciência dos homens, e quereis cansar também a do meu Deus?
 
 **14** Por isso o próprio Senhor vos dará um sinal: Eis que a virgem conceberá e dará à luz um filho, e lhe porá o nome de Emanuel.
 
@@ -470,21 +470,21 @@ _O sinal dado à casa de Davi: a virgem conceberá e dará à luz um filho — a
 
 _O que nela foi gerado vem do Espírito Santo, e José não a conheceu até que ela deu à luz: a concepção virginal contada do lado de José, com o até que em que Helvídio quis ler um depois, e a que Jerônimo responde_
 
-**18** A origem de Jesus Cristo foi assim: Maria, sua mãe, estava desposada com José, e, antes que coabitassem, achou-se grávida do Espírito Santo.
+**18** A origem de Jesus Cristo foi assim: Maria, sua mãe, estava desposada com José; antes de coabitarem, achou-se grávida por obra do Espírito Santo.
 
-**19** José, seu esposo, que era justo e não queria expô-la à infâmia, resolveu repudiá-la em segredo.
+**19** José, seu esposo, sendo justo e não querendo expô-la publicamente, resolveu deixá-la em segredo.
 
-**20** Enquanto ele pensava nisso, eis que um anjo do Senhor lhe apareceu em sonho e disse: José, filho de Davi, não temas receber Maria, tua mulher, pois o que nela foi gerado vem do Espírito Santo.
+**20** Enquanto pensava nisso, eis que um anjo do Senhor apareceu a ele em sonho, dizendo: José, filho de Davi, não temas receber Maria, tua esposa, pois o que nela foi gerado vem do Espírito Santo.
 
-**21** Ela dará à luz um filho, e tu lhe porás o nome de Jesus, pois ele salvará o seu povo dos seus pecados.
+**21** Ela dará à luz um filho, e tu o chamarás Jesus, porque ele salvará o seu povo dos seus pecados.
 
-**22** Tudo isso aconteceu para que se cumprisse o que o Senhor tinha dito por meio do profeta:
+**22** Tudo isso aconteceu para que se cumprisse o que o Senhor dissera pelo profeta:
 
-**23** Eis que a virgem conceberá e dará à luz um filho, e lhe porão o nome de Emanuel, que quer dizer: Deus conosco.
+**23** Eis que a virgem conceberá e dará à luz um filho, e o chamarão Emanuel, que significa: Deus conosco.
 
-**24** Ao despertar do sono, José fez como o anjo do Senhor lhe havia ordenado e recebeu a sua mulher.
+**24** Despertando do sono, José fez como o anjo do Senhor ordenara e recebeu a sua esposa.
 
-**25** E não a conheceu até que ela deu à luz um filho; e ele lhe pôs o nome de Jesus.
+**25** E não a conhecia, até que ela deu à luz um filho; e ele o chamou Jesus.
 
 ---
 
@@ -498,27 +498,27 @@ _Como será isso, se não conheço homem? O Espírito Santo virá sobre ti: a co
 
 **27** a uma virgem desposada com um homem chamado José, da casa de Davi; e o nome da virgem era Maria.
 
-**28** E, entrando onde ela estava, o anjo disse-lhe: Ave, cheia de graça, o Senhor é contigo.
+**28** Entrando onde ela estava, disse: Alegra-te, cheia de graça, o Senhor está contigo.
 
-**29** Ela perturbou-se com estas palavras e perguntava-se que saudação seria esta.
+**29** Ela turbou-se com essas palavras e refletia que saudação seria essa.
 
-**30** Disse-lhe o anjo: Não temas, Maria, porque achaste graça diante de Deus.
+**30** O anjo disse a ela: Não temas, Maria, porque encontraste graça diante de Deus.
 
-**31** Eis que conceberás no teu seio e darás à luz um filho, e lhe porás o nome de Jesus.
+**31** Eis que conceberás no ventre e darás à luz um filho, e o chamarás Jesus.
 
-**32** Ele será grande e será chamado Filho do Altíssimo; o Senhor Deus lhe dará o trono de Davi, seu pai,
+**32** Ele será grande, será chamado Filho do Altíssimo, e o Senhor Deus dará a ele o trono de Davi, seu pai;
 
-**33** e ele reinará sobre a casa de Jacó para sempre, e o seu reino não terá fim.
+**33** reinará para sempre sobre a casa de Jacó, e o seu reino não terá fim.
 
-**34** Maria disse ao anjo: Como será isso, se não conheço homem?
+**34** Maria disse ao anjo: Como será isso, se eu não conheço homem?
 
-**35** O anjo respondeu-lhe: O Espírito Santo virá sobre ti, e o poder do Altíssimo te cobrirá com a sua sombra; por isso também o santo que há de nascer será chamado Filho de Deus.
+**35** O anjo respondeu a ela: O Espírito Santo virá sobre ti, e o poder do Altíssimo te cobrirá com a sua sombra; por isso, o que nascer será santo e será chamado Filho de Deus.
 
-**36** Eis que também Isabel, tua parenta, concebeu um filho na sua velhice, e este é o sexto mês para aquela que chamavam estéril;
+**36** Eis que Isabel, tua parenta, também concebeu um filho na velhice, e este é o sexto mês daquela que chamavam estéril,
 
-**37** porque nenhuma coisa será impossível para Deus.
+**37** porque para Deus nada é impossível.
 
-**38** Disse então Maria: Eis a serva do Senhor; faça-se em mim segundo a tua palavra. E o anjo retirou-se de junto dela.
+**38** Disse então Maria: Eis a serva do Senhor; faça-se em mim segundo a tua palavra. E o anjo retirou-se dela.
 
 ---
 
@@ -528,19 +528,19 @@ _Como será isso, se não conheço homem? O Espírito Santo virá sobre ti: a co
 
 _Maria dá à luz o seu filho primogênito e ela mesma o envolve em faixas: o nascimento em que a Lumen gentium 57 vê não a perda, mas a consagração da integridade virginal da mãe_
 
-**1** Naqueles dias, saiu um decreto de César Augusto para que se fizesse o recenseamento de toda a terra.
+**1** Naqueles dias, saiu um decreto de César Augusto para que se recenseasse toda a terra.
 
 **2** Este primeiro recenseamento foi feito quando Quirino era governador da Síria.
 
 **3** E todos iam recensear-se, cada um à sua cidade.
 
-**4** Também José subiu da Galileia, da cidade de Nazaré, à Judeia, à cidade de Davi, que se chama Belém, por ser da casa e da família de Davi,
+**4** José também subiu da Galileia, da cidade de Nazaré, para a Judeia, à cidade de Davi, chamada Belém, por ser da casa e da família de Davi,
 
-**5** para se recensear com Maria, que lhe fora desposada e estava grávida.
+**5** para recensear-se com Maria, sua esposa, que estava grávida.
 
-**6** E, enquanto ali estavam, completaram-se os dias em que ela devia dar à luz,
+**6** Enquanto estavam ali, completaram-se os dias de ela dar à luz,
 
-**7** e deu à luz o seu filho primogênito, envolveu-o em faixas e deitou-o numa manjedoura, porque não havia lugar para eles na hospedaria.
+**7** e deu à luz o seu filho primogênito; envolveu-o em faixas e reclinou-o numa manjedoura, porque não havia lugar para eles na hospedaria.
 
 ---
 
@@ -558,25 +558,25 @@ _Os que o povo de Nazaré chama irmãos de Jesus, Tiago e José, aparecem junto 
 
 _Não se chama sua mãe Maria, e seus irmãos Tiago, José, Simão e Judas?_
 
-**54** E, vindo à sua pátria, ensinava-os na sinagoga deles, de modo que se admiravam e diziam: De onde lhe vêm esta sabedoria e estes milagres?
+**54** E, vindo à sua pátria, ensinava-os na sinagoga deles, de tal modo que se admiravam e diziam: Donde lhe vêm esta sabedoria e estes prodígios?
 
 **55** Não é este o filho do carpinteiro? Não se chama sua mãe Maria, e seus irmãos Tiago, José, Simão e Judas?
 
-**56** E as suas irmãs não estão todas entre nós? De onde lhe vem, pois, tudo isso?
+**56** E não estão entre nós todas as suas irmãs? Donde lhe vem, então, tudo isso?
 
-**57** E escandalizavam-se nele. Mas Jesus lhes disse: Um profeta só é desprezado na sua pátria e na sua casa.
+**57** E escandalizavam-se nele. Mas Jesus lhes disse: Um profeta não fica sem honra senão na sua pátria e na sua casa.
 
 ### Marcos 6,3
 
 _O filho de Maria, irmão de Tiago e de Joset_
 
-**3** Não é este o carpinteiro, o filho de Maria, e irmão de Tiago, de Joset, de Judas e de Simão? E as suas irmãs não estão aqui entre nós? E escandalizavam-se nele.
+**3** Não é este o carpinteiro, filho de Maria, e irmão de Tiago, José, Judas e Simão? E não estão aqui entre nós as suas irmãs? E escandalizavam-se nele.
 
 ### Mateus 27,55–56
 
 _Junto à cruz, Maria, mãe de Tiago e de José, é uma das discípulas vindas da Galileia_
 
-**55** Estavam ali também muitas mulheres, olhando de longe, que tinham seguido Jesus desde a Galileia para o servir;
+**55** Estavam ali, olhando de longe, muitas mulheres que tinham seguido Jesus desde a Galileia, servindo-o;
 
 **56** entre elas estavam Maria Madalena, Maria, mãe de Tiago e de José, e a mãe dos filhos de Zebedeu.
 
@@ -592,9 +592,9 @@ _A porta oriental do santuário ficará fechada, porque o Senhor, o Deus de Isra
 >
 > **Por que não.** É uma leitura acomodatícia, e nenhum documento magisterial cita o texto diretamente; é o mesmo problema que o eixo 1 apontou em Ap 22,18–19.
 
-**1** Ele fez-me voltar pelo caminho da porta exterior do santuário, a que dá para o oriente; e ela estava fechada.
+**1** Depois me fez voltar pelo caminho da porta exterior do santuário, que dava para o oriente; ela estava fechada.
 
-**2** E o Senhor disse-me: Esta porta ficará fechada; não será aberta, e ninguém entrará por ela, porque o Senhor, o Deus de Israel, entrou por ela; por isso ficará fechada.
+**2** E o Senhor me disse: Esta porta ficará fechada; não será aberta, e ninguém passará por ela, porque o Senhor, o Deus de Israel, entrou por ela; ficará fechada.
 
 ---
 
@@ -610,7 +610,7 @@ _Os que creem são gerados não do sangue nem da vontade do homem, mas de Deus; 
 
 **12** Mas a todos os que o receberam deu o poder de se tornarem filhos de Deus: aos que creem no seu nome,
 
-**13** os quais não foram gerados do sangue, nem da vontade da carne, nem da vontade do homem, mas de Deus.
+**13** os quais não nasceram do sangue, nem da vontade da carne, nem da vontade do homem, mas de Deus.
 
 ---
 
@@ -632,17 +632,17 @@ _O testemunho mais antigo fora do Novo Testamento: Cristo nasceu verdadeiramente
 
 _Da descendência de Davi e do Espírito Santo; três mistérios realizados no silêncio de Deus_
 
-Pois o nosso Deus, Jesus, o Cristo, foi trazido no seio por Maria segundo a economia de Deus, da descendência de Davi, sim, mas do Espírito Santo; ele nasceu e foi batizado, para purificar a água com a sua paixão.
+Pois o nosso Deus, Jesus, o Cristo, foi trazido no seio por Maria, segundo o desígnio de Deus, da semente de Davi, sim, mas do Espírito Santo; ele nasceu e foi batizado para purificar a água com a sua paixão.
 
-E ficaram ocultos ao príncipe deste mundo a virgindade de Maria e o seu parto, assim como a morte do Senhor: três mistérios clamorosos, que se realizaram no silêncio de Deus.
+E ficaram ocultos ao príncipe deste mundo a virgindade de Maria e o seu parto, e também a morte do Senhor: três mistérios de clamor, que se realizaram no silêncio de Deus.
 
 ### Aos Esmirnenses 1,1–2
 
 _Verdadeiramente nascido de uma virgem_
 
-Glorifico Jesus Cristo, o Deus que vos fez tão sábios. Pois percebi que estais bem firmados numa fé inabalável, como que pregados, na carne e no espírito, à cruz do Senhor Jesus Cristo, e consolidados no amor pelo sangue de Cristo, plenamente convencidos acerca de nosso Senhor: que ele é verdadeiramente da descendência de Davi segundo a carne, Filho de Deus segundo a vontade e o poder de Deus, verdadeiramente nascido de uma virgem, batizado por João, para que por ele se cumprisse toda a justiça;
+Glorifico Jesus Cristo, o Deus que assim vos tornou sábios; pois percebi que estais bem formados numa fé inabalável, como que pregados na cruz do Senhor Jesus Cristo, na carne e no espírito, e firmados no amor pelo sangue de Cristo, plenamente convencidos acerca de nosso Senhor, que é verdadeiramente da descendência de Davi segundo a carne, Filho de Deus segundo a vontade e o poder de Deus, verdadeiramente nascido de uma virgem, batizado por João para que por ele se cumprisse toda a justiça;
 
-verdadeiramente pregado por nós na carne, sob Pôncio Pilatos e o tetrarca Herodes — e desse fruto somos nós, da sua paixão bem-aventurada em Deus —, para que, pela ressurreição, levantasse para sempre um estandarte para os seus santos e fiéis, quer entre os judeus, quer entre os gentios, no único corpo da sua Igreja.
+verdadeiramente pregado na carne em nosso favor, sob Pôncio Pilatos e o tetrarca Herodes (desse fruto somos nós, da sua paixão divinamente bem-aventurada), para levantar, pela ressurreição, um estandarte para todos os séculos, para os seus santos e fiéis, quer entre os judeus quer entre os gentios, no único corpo da sua Igreja.
 
 ---
 
@@ -1414,9 +1414,9 @@ Preservada de toda mancha do pecado original desde o primeiro instante da sua co
 
 _Deus põe inimizade entre a serpente e a mulher, e entre a descendência de uma e a da outra: o protoevangelho, que a Ineffabilis Deus lê como sinal de que a Mãe do Redentor nunca esteve sob o poder da serpente_
 
-**14** E o Senhor Deus disse à serpente: Porque fizeste isto, maldita és entre todos os animais domésticos e entre todos os animais do campo; sobre o teu ventre andarás, e pó comerás todos os dias da tua vida.
+**14** Então o Senhor Deus disse à serpente: Porque fizeste isso, maldita és entre todos os animais domésticos e entre todas as feras do campo! Sobre o teu ventre andarás e pó comerás todos os dias da tua vida.
 
-**15** Porei inimizade entre ti e a mulher, entre a tua descendência e a descendência dela; ele te ferirá a cabeça, e tu lhe ferirás o calcanhar.
+**15** Porei inimizade entre ti e a mulher, entre a tua descendência e a descendência dela: esta te ferirá a cabeça, e tu lhe ferirás o calcanhar.
 
 _No hebraico, quem fere a cabeça da serpente é ele, isto é, a descendência da mulher. A Vulgata leu ela (ipsa conteret caput tuum, ela te esmagará a cabeça), e é assim que a Ineffabilis Deus cita o versículo; mas a bula argumenta sobretudo a partir da inimizade, que vale nas duas leituras_
 
@@ -1428,11 +1428,11 @@ _No hebraico, quem fere a cabeça da serpente é ele, isto é, a descendência d
 
 _O anjo saúda Maria como cheia de graça, e Isabel a chama bendita entre as mulheres: as duas saudações em que os Padres e a bula de 1854 leem uma santidade sem exceção_
 
-**28** E, entrando onde ela estava, o anjo disse-lhe: Ave, cheia de graça, o Senhor é contigo.
+**28** Entrando onde ela estava, disse: Alegra-te, cheia de graça, o Senhor está contigo.
 
-**30** E o anjo disse-lhe: Não temas, Maria, porque achaste graça diante de Deus.
+**30** O anjo disse a ela: Não temas, Maria, porque encontraste graça diante de Deus.
 
-**42** E Isabel exclamou em alta voz: Bendita és tu entre as mulheres, e bendito é o fruto do teu ventre!
+**42** Com um grande grito, exclamou: Bendita és tu entre as mulheres, e bendito é o fruto do teu ventre!
 
 ---
 
@@ -1446,13 +1446,13 @@ _O Pai nos escolheu em Cristo antes da fundação do mundo, para sermos santos e
 >
 > **Por que não.** A bula de 1854 não o cita, e Ef 1,3–10 já está no corpus (eixo 1, e 1,3–14 no eixo 2): bastaria uma remissão.
 
-**3** Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, que nos abençoou com toda bênção espiritual nos céus, em Cristo,
+**3** Bendito seja Deus, Pai de nosso Senhor Jesus Cristo, que nos abençoou com toda bênção espiritual, nos céus, em Cristo.
 
-**4** assim como nele nos escolheu antes da fundação do mundo, para sermos santos e irrepreensíveis diante dele no amor,
+**4** Nele nos escolheu, antes da criação do mundo, para sermos santos e imaculados diante dele, no amor.
 
-**5** predestinando-nos para sermos seus filhos adotivos por meio de Jesus Cristo, segundo o beneplácito da sua vontade,
+**5** Ele nos predestinou a ser seus filhos adotivos, por Jesus Cristo, segundo o beneplácito da sua vontade,
 
-**6** para louvor da glória da sua graça, com a qual nos agraciou no Amado.
+**6** para louvor da glória da sua graça, com que nos agraciou no Amado.
 
 ---
 
@@ -1468,29 +1468,29 @@ _A amada toda bela e sem mancha, e a Sabedoria gerada antes de todas as coisas: 
 
 ### Cântico 4,7
 
-**7** Toda és bela, minha amada, e não há mancha em ti.
+**7** Tu és toda bela, minha amada, e não há mancha em ti.
 
 ### Provérbios 8,22–31
 
-**22** O Senhor criou-me como princípio do seu caminho, antes das suas obras, desde então.
+**22** O Senhor me possuiu, primícia dos seus caminhos, antes das suas obras mais antigas.
 
 **23** Desde a eternidade fui estabelecida, desde o princípio, antes das origens da terra.
 
-**24** Quando ainda não havia os abismos, fui gerada; quando ainda não havia as fontes carregadas de água.
+**24** Quando ainda não havia os abismos, fui gerada, quando ainda não havia as fontes carregadas de água.
 
-**25** Antes que os montes fossem assentados, antes das colinas, fui gerada,
+**25** Antes que os montes fossem assentados, antes das colinas, eu fui gerada,
 
-**26** quando ele ainda não tinha feito a terra e os campos, nem o primeiro pó do mundo.
+**26** quando ele ainda não tinha feito a terra e os campos, nem os primeiros torrões do mundo.
 
 **27** Quando ele firmava os céus, lá estava eu; quando traçava um círculo sobre a face do abismo,
 
 **28** quando condensava as nuvens no alto, quando se tornavam fortes as fontes do abismo,
 
-**29** quando punha ao mar o seu limite, para que as águas não passassem além da sua ordem, quando assentava os fundamentos da terra,
+**29** quando fixava ao mar o seu limite, para que as águas não ultrapassassem as suas margens, quando assentava os fundamentos da terra,
 
-**30** eu estava junto dele como artífice, e era as suas delícias dia após dia, brincando diante dele em todo o tempo,
+**30** eu estava junto dele como artífice; eu era as suas delícias dia após dia, brincando diante dele em todo o tempo,
 
-**31** brincando sobre o orbe da sua terra; e as minhas delícias estão com os filhos dos homens.
+**31** brincando sobre a face da sua terra, e as minhas delícias eram estar com os filhos dos homens.
 
 ---
 
@@ -2030,27 +2030,27 @@ Terminado o curso da vida terrena, levada em corpo e alma à glória celeste.
 
 _Cristo, primícias dos que adormeceram, destrói por último a morte, e a morte é tragada na vitória: o argumento paulino da Munificentissimus Deus, para a qual a Mãe, associada à vitória do Filho sobre o pecado, não podia ficar fora da vitória sobre a morte_
 
-**20** Mas agora Cristo ressuscitou dos mortos, primícias dos que adormeceram.
+**20** Mas, de fato, Cristo ressuscitou dos mortos, como primícias dos que adormeceram.
 
-**21** Porque, visto que por um homem veio a morte, também por um homem veio a ressurreição dos mortos.
+**21** Porque, assim como por um homem veio a morte, também por um homem veio a ressurreição dos mortos.
 
-**22** Pois, assim como em Adão todos morrem, assim também em Cristo todos serão vivificados.
+**22** E, assim como em Adão todos morrem, assim também em Cristo todos serão vivificados.
 
-**23** Mas cada um na sua ordem: Cristo, as primícias; depois, os que são de Cristo, na sua vinda;
+**23** Cada um, porém, na sua ordem: Cristo, as primícias; depois, os que são de Cristo, na sua vinda;
 
-**24** depois, o fim, quando ele entregar o reino a Deus e Pai, quando tiver destruído todo principado, e toda autoridade e poder.
+**24** em seguida, o fim, quando ele entregar o Reino a Deus e Pai, depois de destruir todo principado e toda autoridade e poder.
 
-**25** Pois é preciso que ele reine até que tenha posto todos os inimigos debaixo dos seus pés.
+**25** Porque é preciso que ele reine, até que ponha todos os inimigos debaixo dos seus pés.
 
 **26** O último inimigo a ser destruído é a morte.
 
-**54** E, quando este corpo corruptível se tiver revestido de incorruptibilidade, e este corpo mortal se tiver revestido de imortalidade, então se cumprirá a palavra que está escrita: A morte foi tragada na vitória.
+**54** Quando isto que é corruptível se revestir da incorruptibilidade, e isto que é mortal se revestir da imortalidade, então se cumprirá a palavra que está escrita: A morte foi tragada pela vitória.
 
 **55** Onde está, ó morte, a tua vitória? Onde está, ó morte, o teu aguilhão?
 
-**56** O aguilhão da morte é o pecado, e a força do pecado é a lei.
+**56** O aguilhão da morte é o pecado, e a força do pecado é a Lei.
 
-**57** Mas graças a Deus, que nos dá a vitória por nosso Senhor Jesus Cristo.
+**57** Graças, porém, a Deus, que nos dá a vitória por nosso Senhor Jesus Cristo.
 
 ---
 
@@ -2060,29 +2060,29 @@ _Cristo, primícias dos que adormeceram, destrói por último a morte, e a morte
 
 _A arca da aliança aparece no templo do céu, e logo o grande sinal: a mulher vestida do sol, que dá à luz o Messias e é perseguida pelo dragão; a Munificentissimus Deus não o alega como prova, mas lembra que os doutores escolásticos viram nesta mulher a Virgem assunta, e a Igreja o lê na missa de 15 de agosto_
 
-**11,19** E abriu-se o templo de Deus que está no céu, e apareceu no seu templo a arca da sua aliança; e houve relâmpagos, e vozes, e trovões, e um terremoto, e uma grande saraivada.
+**11,19** Então se abriu o templo de Deus que está no céu, e apareceu no seu templo a arca da sua aliança; e houve relâmpagos, vozes, um terremoto e uma grande chuva de granizo.
 
-**12,1** E apareceu no céu um grande sinal: uma mulher vestida do sol, e a lua debaixo dos seus pés, e sobre a sua cabeça uma coroa de doze estrelas;
+**12,1** Apareceu no céu um grande sinal: uma mulher vestida de sol, com a lua debaixo dos pés e, sobre a cabeça, uma coroa de doze estrelas.
 
-**2** e, estando grávida, grita com as dores do parto e com o tormento de dar à luz.
+**2** Estava grávida e gritava com as dores do parto, atormentada para dar à luz.
 
-**3** E apareceu outro sinal no céu: eis um grande dragão cor de fogo, que tinha sete cabeças e dez chifres, e sobre as suas cabeças sete diademas;
+**3** Apareceu então outro sinal no céu: eis um grande dragão, vermelho como fogo, com sete cabeças e dez chifres, e sobre as cabeças sete diademas;
 
-**4** e a sua cauda arrasta a terça parte das estrelas do céu, e lançou-as sobre a terra. E o dragão postou-se diante da mulher que estava para dar à luz, a fim de devorar-lhe o filho, logo que ela o desse à luz.
+**4** a sua cauda arrastava a terça parte das estrelas do céu e as lançou sobre a terra. E o dragão se pôs diante da mulher que estava para dar à luz, a fim de devorar o filho dela assim que nascesse.
 
-**5** E ela deu à luz um filho, um varão, que há de apascentar todas as nações com vara de ferro; e o seu filho foi arrebatado para junto de Deus e do seu trono.
+**5** Ela deu à luz um filho, um menino, que há de governar todas as nações com cetro de ferro; e o seu filho foi arrebatado para junto de Deus e do seu trono.
 
-**6** E a mulher fugiu para o deserto, onde tem um lugar preparado por Deus, para que ali a sustentem durante mil duzentos e sessenta dias.
+**6** A mulher fugiu para o deserto, onde Deus lhe tinha preparado um lugar, para que ali a alimentassem durante mil duzentos e sessenta dias.
 
-**13** E, quando o dragão viu que tinha sido precipitado sobre a terra, perseguiu a mulher que dera à luz o varão.
+**13** Quando o dragão viu que tinha sido precipitado sobre a terra, perseguiu a mulher que tinha dado à luz o menino.
 
-**14** E foram dadas à mulher as duas asas da grande águia, para que voasse para o deserto, para o seu lugar, onde é sustentada por um tempo, e tempos, e metade de um tempo, longe da face da serpente.
+**14** Mas foram dadas à mulher as duas asas da grande águia, para que voasse para o deserto, para o seu lugar, onde é alimentada por um tempo, dois tempos e metade de um tempo, longe da serpente.
 
-**15** E a serpente lançou da sua boca, atrás da mulher, água como um rio, para que ela fosse arrastada pela corrente.
+**15** A serpente lançou da boca, atrás da mulher, água como um rio, para que o rio a arrastasse.
 
-**16** Mas a terra socorreu a mulher: abriu a terra a sua boca e engoliu o rio que o dragão lançara da sua boca.
+**16** Mas a terra socorreu a mulher: abriu a boca e engoliu o rio que o dragão tinha lançado da boca.
 
-**17** E o dragão irou-se contra a mulher, e foi fazer guerra ao resto da descendência dela, aos que guardam os mandamentos de Deus e têm o testemunho de Jesus.
+**17** O dragão se enfureceu contra a mulher e foi fazer guerra contra o resto da descendência dela, os que guardam os mandamentos de Deus e têm o testemunho de Jesus.
 
 ---
 
@@ -2098,25 +2098,25 @@ _Levanta-te, Senhor, para o teu repouso, tu e a arca; a rainha está à tua dire
 
 ### Salmo 131 (132),8
 
-**8** Levanta-te, Senhor, para o teu lugar de repouso, tu e a arca do teu poder.
+**8** Levanta-te, Senhor, e vem para o teu repouso, tu e a arca do teu poder.
 
 _A Vulgata, que os Padres latinos e a bula de 1950 citam, lê: tu e a arca da tua santificação_
 
 ### Salmo 44 (45),10–16
 
-**10** Filhas de reis estão entre as tuas mais estimadas; a rainha está à tua direita, com ouro de Ofir.
+**10** Filhas de reis vêm ao teu encontro; à tua direita está a rainha, com ouro de Ofir.
 
-**11** Ouve, filha, e vê, e inclina o teu ouvido; esquece o teu povo e a casa do teu pai,
+**11** Ouve, filha, vê e inclina o teu ouvido: esquece o teu povo e a casa de teu pai.
 
-**12** e o rei desejará a tua beleza; porque ele é o teu senhor, prostra-te diante dele.
+**12** O rei deseja a tua beleza; ele é o teu senhor: prostra-te diante dele.
 
-**13** A filha de Tiro virá com presentes; os ricos do povo buscarão o teu favor.
+**13** A filha de Tiro vem com presentes; os ricos do povo buscam o teu favor.
 
-**14** Toda gloriosa é a filha do rei, lá dentro; de tecido entremeado de ouro é a sua veste.
+**14** Toda gloriosa, lá dentro, está a filha do rei; a sua veste é tecida de ouro.
 
-**15** Em vestes bordadas é conduzida ao rei; as virgens, suas companheiras, vêm atrás dela, e são trazidas a ti.
+**15** Em vestes bordadas é conduzida ao rei; atrás dela, as virgens suas companheiras são levadas à tua presença.
 
-**16** São conduzidas com alegria e júbilo, e entram no palácio do rei.
+**16** São conduzidas entre alegria e júbilo, e entram no palácio do rei.
 
 ---
 
@@ -2518,11 +2518,11 @@ _De Belém sairá o que há de governar Israel, quando tiver dado à luz aquela 
 >
 > **Por que não.** A referência à mãe ocupa meia linha, e nenhuma definição se apoia nele.
 
-**1** E tu, Belém Efrata, pequena para estares entre os milhares de Judá, de ti me sairá aquele que há de ser governante em Israel; e as suas origens são desde o princípio, desde os dias da eternidade.
+**1** Mas tu, Belém de Efrata, pequena entre os clãs de Judá, de ti sairá para mim aquele que há de ser o chefe em Israel; a sua origem vem de tempos antigos, dos dias da eternidade.
 
-**2** Por isso os entregará até o tempo em que aquela que deve dar à luz tiver dado à luz; e o resto dos seus irmãos voltará para os filhos de Israel.
+**2** Por isso ele os entregará até o tempo em que der à luz aquela que há de dar à luz; e o resto dos seus irmãos voltará para os filhos de Israel.
 
-**3** E ele se levantará e apascentará com a força do Senhor, com a majestade do nome do Senhor, seu Deus; e habitarão em segurança, porque agora ele será grande até os confins da terra.
+**3** Ele se levantará e apascentará o rebanho com a força do Senhor, com a majestade do nome do Senhor, seu Deus; e habitarão em segurança, pois agora ele será grande até os confins da terra,
 
 **4** E ele mesmo será a paz.
 
@@ -2534,33 +2534,33 @@ _De Belém sairá o que há de governar Israel, quando tiver dado à luz aquela 
 
 _Simeão anuncia que o menino será sinal de contradição e que uma espada traspassará a alma da mãe: desde a apresentação no templo, a mãe fica associada à sorte do Filho, como leem a Lumen gentium 57 e a Redemptoris Mater 16_
 
-**22** E, quando se completaram os dias da purificação deles, segundo a Lei de Moisés, levaram-no a Jerusalém para o apresentar ao Senhor,
+**22** Quando se completaram os dias da purificação deles, segundo a Lei de Moisés, levaram-no a Jerusalém para apresentá-lo ao Senhor,
 
-**23** como está escrito na Lei do Senhor: Todo varão que abre o seio materno será chamado santo para o Senhor;
+**23** como está escrito na Lei do Senhor: Todo primogênito varão será consagrado ao Senhor,
 
-**24** e para oferecer um sacrifício, segundo o que está dito na Lei do Senhor: um par de rolas ou dois pombinhos.
+**24** e para oferecer em sacrifício, segundo o que se diz na Lei do Senhor, um par de rolas ou dois pombinhos.
 
-**25** E eis que havia em Jerusalém um homem chamado Simeão; este homem era justo e piedoso, esperava a consolação de Israel, e o Espírito Santo estava sobre ele.
+**25** Havia em Jerusalém um homem chamado Simeão; era justo e piedoso, esperava a consolação de Israel, e o Espírito Santo estava sobre ele.
 
-**26** E tinha-lhe sido revelado pelo Espírito Santo que não veria a morte antes de ter visto o Cristo do Senhor.
+**26** Fora revelado a ele pelo Espírito Santo que não veria a morte antes de ver o Cristo do Senhor.
 
-**27** E, movido pelo Espírito, veio ao templo; e, quando os pais introduziram o menino Jesus, para cumprirem a respeito dele o que a Lei prescrevia,
+**27** Movido pelo Espírito, foi ao Templo; e, quando os pais trouxeram o menino Jesus para cumprirem a seu respeito o costume da Lei,
 
-**28** ele o tomou nos braços, bendisse a Deus e disse:
+**28** ele o tomou nos braços e bendisse a Deus, dizendo:
 
-**29** Agora, Senhor, deixas ir em paz o teu servo, segundo a tua palavra;
+**29** Agora, Senhor, deixas ir em paz o teu servo, segundo a tua palavra,
 
 **30** porque os meus olhos viram a tua salvação,
 
 **31** que preparaste diante de todos os povos:
 
-**32** luz para revelação às nações e glória do teu povo Israel.
+**32** luz para iluminar as nações e glória do teu povo Israel.
 
-**33** E seu pai e sua mãe estavam admirados das coisas que se diziam dele.
+**33** Seu pai e sua mãe admiravam-se do que se dizia a respeito dele.
 
-**34** E Simeão os abençoou e disse a Maria, sua mãe: Eis que este está posto para queda e para reerguimento de muitos em Israel, e para sinal de contradição
+**34** Simeão os abençoou e disse a Maria, sua mãe: Eis que este menino está posto para queda e reerguimento de muitos em Israel e como sinal de contradição
 
-**35** — e a ti mesma uma espada traspassará a alma —, para que se revelem os pensamentos de muitos corações.
+**35** — e uma espada traspassará a tua própria alma —, para que se revelem os pensamentos de muitos corações.
 
 ---
 
@@ -2574,27 +2574,27 @@ _No templo, os pais não compreendem a palavra do Filho, e a mãe guarda tudo no
 >
 > **Por que não.** Nenhum documento argumenta a partir dele em favor da cooperação ou da maternidade espiritual; o v. 51 já está no eixo 1, e o resto é sobretudo narrativo.
 
-**41** Seus pais iam todos os anos a Jerusalém, na festa da Páscoa.
+**41** Seus pais iam todos os anos a Jerusalém, para a festa da Páscoa.
 
-**42** E, quando ele completou doze anos, subindo eles segundo o costume da festa,
+**42** Quando ele completou doze anos, subiram, segundo o costume da festa;
 
-**43** e, terminados os dias, ao voltarem, o menino Jesus ficou em Jerusalém, sem que seus pais o soubessem.
+**43** terminados aqueles dias, ao voltarem, o menino Jesus ficou em Jerusalém, sem que os seus pais o soubessem.
 
-**44** Pensando que ele estivesse na caravana, fizeram um dia de caminho e procuravam-no entre os parentes e conhecidos;
+**44** Pensando que ele estava na caravana, caminharam um dia e procuravam-no entre os parentes e conhecidos;
 
-**45** e, não o encontrando, voltaram a Jerusalém à sua procura.
+**45** não o encontrando, voltaram a Jerusalém à sua procura.
 
-**46** E aconteceu que, depois de três dias, o encontraram no templo, sentado no meio dos mestres, ouvindo-os e fazendo-lhes perguntas.
+**46** Depois de três dias, encontraram-no no Templo, sentado no meio dos doutores, ouvindo-os e interrogando-os;
 
-**47** E todos os que o ouviam estavam admirados da sua inteligência e das suas respostas.
+**47** e todos os que o ouviam pasmavam da sua inteligência e das suas respostas.
 
-**48** E, ao vê-lo, ficaram espantados, e sua mãe lhe disse: Filho, por que nos fizeste isto? Eis que teu pai e eu te procurávamos aflitos.
+**48** Ao vê-lo, ficaram atônitos, e sua mãe disse a ele: Filho, por que agiste assim conosco? Eis que teu pai e eu, aflitos, te procurávamos.
 
-**49** E ele lhes disse: Por que me procuráveis? Não sabíeis que eu devo estar naquilo que é de meu Pai?
+**49** Ele respondeu: Por que me procuráveis? Não sabíeis que devo estar nas coisas de meu Pai?
 
-**50** E eles não compreenderam a palavra que lhes disse.
+**50** Mas eles não compreenderam a palavra que dissera a eles.
 
-**51** Desceu com eles, foi para Nazaré e era-lhes submisso. E sua mãe guardava todas estas coisas no seu coração.
+**51** Desceu com eles, foi para Nazaré e era submisso a eles. Sua mãe conservava todas essas coisas no coração.
 
 ---
 
@@ -2606,21 +2606,21 @@ _Quem faz a vontade de Deus é mãe de Jesus, e mais feliz do que o ventre que o
 
 ### Marcos 3,31–35
 
-**31** E chegam sua mãe e seus irmãos e, ficando do lado de fora, mandaram chamá-lo.
+**31** Chegaram sua mãe e seus irmãos e, ficando de fora, mandaram chamá-lo.
 
-**32** E uma multidão estava sentada ao redor dele, e dizem-lhe: Eis que tua mãe, teus irmãos e tuas irmãs estão lá fora e te procuram.
+**32** A multidão estava sentada ao redor dele; e disseram-lhe: Eis que tua mãe e teus irmãos estão lá fora à tua procura.
 
-**33** E ele lhes responde: Quem é minha mãe e meus irmãos?
+**33** Ele lhes respondeu: Quem é minha mãe e meus irmãos?
 
-**34** E, olhando em redor para os que estavam sentados à sua volta, diz: Eis minha mãe e meus irmãos.
+**34** E, olhando ao redor para os que estavam sentados em volta dele, disse: Eis minha mãe e meus irmãos.
 
-**35** Quem fizer a vontade de Deus, esse é meu irmão, minha irmã e minha mãe.
+**35** Porque quem fizer a vontade de Deus, esse é meu irmão, minha irmã e minha mãe.
 
 ### Lucas 11,27–28
 
-**27** E aconteceu que, enquanto ele dizia estas coisas, uma mulher do meio da multidão levantou a voz e lhe disse: Bem-aventurado o ventre que te trouxe e os seios que te amamentaram!
+**27** Ora, enquanto ele dizia essas coisas, certa mulher do meio da multidão levantou a voz e lhe disse: Bem-aventurado o ventre que te trouxe e os peitos que te amamentaram!
 
-**28** Ele, porém, disse: Antes, bem-aventurados os que ouvem a palavra de Deus e a guardam.
+**28** Mas ele disse: Antes, bem-aventurados os que ouvem a palavra de Deus e a guardam!
 
 ---
 
@@ -2630,27 +2630,27 @@ _Quem faz a vontade de Deus é mãe de Jesus, e mais feliz do que o ventre que o
 
 _Em Caná, a mãe apresenta ao Filho a falta dos outros e manda fazer o que ele disser, e o primeiro sinal acontece a partir da sua intervenção: é daqui que a Redemptoris Mater 21–22 tira a noção de mediação materna_
 
-**1** E, ao terceiro dia, houve umas bodas em Caná da Galileia, e a mãe de Jesus estava lá.
+**1** Três dias depois, houve umas bodas em Caná da Galileia, e a mãe de Jesus estava ali.
 
-**2** Foi também convidado para as bodas Jesus, com os seus discípulos.
+**2** Também Jesus foi convidado para as bodas, com os seus discípulos.
 
-**3** E, tendo faltado o vinho, a mãe de Jesus diz-lhe: Não têm vinho.
+**3** Faltando o vinho, a mãe de Jesus disse a ele: Não têm vinho.
 
-**4** E Jesus diz-lhe: Que há entre mim e ti, mulher? Ainda não chegou a minha hora.
+**4** Jesus respondeu: Que há entre mim e ti, mulher? Ainda não chegou a minha hora.
 
-**5** Sua mãe diz aos serventes: Fazei tudo o que ele vos disser.
+**5** Sua mãe disse aos que serviam: Fazei tudo o que ele vos disser.
 
-**6** Ora, estavam ali seis talhas de pedra, postas para a purificação dos judeus, cada uma com capacidade de duas ou três medidas.
+**6** Havia ali seis talhas de pedra, destinadas à purificação dos judeus, cada uma com capacidade de duas ou três medidas.
 
-**7** Jesus diz-lhes: Enchei de água as talhas. E encheram-nas até em cima.
+**7** Jesus disse a eles: Enchei as talhas de água. E encheram-nas até em cima.
 
-**8** E diz-lhes: Tirai agora e levai ao mestre-sala. E eles levaram.
+**8** Então disse: Tirai agora e levai ao mestre-sala. E levaram.
 
-**9** E, quando o mestre-sala provou a água feita vinho, sem saber de onde vinha — mas sabiam-no os serventes que tinham tirado a água —, o mestre-sala chama o noivo
+**9** Quando o mestre-sala provou a água transformada em vinho — e não sabia donde vinha, mas sabiam os que serviam, que tinham tirado a água —, chamou o esposo
 
-**10** e diz-lhe: Todo homem serve primeiro o vinho bom e, quando já beberam bem, o inferior; tu guardaste o vinho bom até agora.
+**10** e disse: Todo homem serve primeiro o vinho bom e, quando já beberam bastante, o inferior; tu guardaste o vinho bom até agora.
 
-**11** Este princípio dos sinais fez Jesus em Caná da Galileia, e manifestou a sua glória, e os seus discípulos creram nele.
+**11** Este princípio dos sinais, Jesus o fez em Caná da Galileia; manifestou a sua glória, e os seus discípulos creram nele.
 
 ---
 
@@ -2660,11 +2660,11 @@ _Em Caná, a mãe apresenta ao Filho a falta dos outros e manda fazer o que ele 
 
 _Da cruz, Jesus entrega a mãe ao discípulo e o discípulo à mãe: o texto de que o magistério, de Leão XIII à Redemptoris Mater, tira a maternidade espiritual de Maria_
 
-**25** Estavam de pé junto à cruz de Jesus sua mãe, a irmã de sua mãe, Maria, mulher de Clopas, e Maria Madalena.
+**25** Junto à cruz de Jesus estavam de pé sua mãe, a irmã de sua mãe, Maria, mulher de Clopas, e Maria Madalena.
 
-**26** Jesus, vendo a mãe e, junto dela, o discípulo que ele amava, diz à mãe: Mulher, eis o teu filho.
+**26** Vendo Jesus sua mãe e, junto dela, o discípulo que amava, disse à sua mãe: Mulher, eis o teu filho.
 
-**27** Depois diz ao discípulo: Eis a tua mãe. E, desde aquela hora, o discípulo recebeu-a no que era seu.
+**27** Depois disse ao discípulo: Eis a tua mãe. E, desde aquela hora, o discípulo recebeu-a em sua casa.
 
 ---
 
@@ -2674,11 +2674,11 @@ _Da cruz, Jesus entrega a mãe ao discípulo e o discípulo à mãe: o texto de 
 
 _Depois da Ascensão, os apóstolos perseveram unânimes na oração com as mulheres e com Maria, a mãe de Jesus: a mãe está presente no nascimento da Igreja, à espera do Espírito, como observa a Lumen gentium 59_
 
-**12** Então voltaram para Jerusalém, do monte chamado das Oliveiras, que está perto de Jerusalém, à distância de uma caminhada de sábado.
+**12** Então voltaram para Jerusalém, do monte chamado das Oliveiras, que fica perto de Jerusalém, à distância da caminhada de um sábado.
 
-**13** E, quando entraram, subiram à sala de cima, onde costumavam ficar: Pedro e João, Tiago e André, Filipe e Tomé, Bartolomeu e Mateus, Tiago, filho de Alfeu, Simão, o Zelota, e Judas, filho de Tiago.
+**13** Tendo entrado na cidade, subiram à sala do andar de cima, onde se hospedavam Pedro e João, Tiago e André, Filipe e Tomé, Bartolomeu e Mateus, Tiago, filho de Alfeu, Simão, o Zelote, e Judas, filho de Tiago.
 
-**14** Todos estes perseveravam unânimes na oração, com as mulheres, com Maria, a mãe de Jesus, e com os irmãos dele.
+**14** Todos eles perseveravam unânimes na oração, com as mulheres, com Maria, a mãe de Jesus, e com os irmãos dele.
 
 ---
 
@@ -2688,9 +2688,9 @@ _Depois da Ascensão, os apóstolos perseveram unânimes na oração com as mulh
 
 _Um só é Deus, e um só o mediador entre Deus e os homens, o homem Cristo Jesus: o texto com que a Lumen gentium 60 abre, e o limite dentro do qual tem de caber tudo o que esta parte diz da cooperação de Maria_
 
-**5** Porque há um só Deus, e um só mediador entre Deus e os homens, o homem Cristo Jesus,
+**5** Porque há um só Deus, e um só mediador entre Deus e os homens: Cristo Jesus, homem,
 
-**6** que se deu a si mesmo em resgate por todos: é este o testemunho dado no tempo devido.
+**6** que se entregou a si mesmo em resgate por todos — testemunho dado a seu tempo.
 
 ---
 
@@ -2996,7 +2996,7 @@ _Maria, que deu à luz Jesus, o nutriu e o ofereceu como vítima junto à cruz, 
 
 ### *Miserentissimus Redemptor*, fim (1928)
 
-Sorria enfim a estes nossos votos e iniciativas a benigníssima Virgem Mãe de Deus, que, tendo-nos dado à luz Jesus Redentor, tendo-o nutrido e oferecido como vítima junto à cruz, pela misteriosa união com Cristo e por uma graça dele inteiramente singular, se tornou também reparadora, e piedosamente assim é chamada. Confiados na sua intercessão junto de Cristo, o qual, sendo o único Mediador entre Deus e os homens, quis associar a si a sua Mãe como advogada dos pecadores e ministra e medianeira da graça, como penhor dos dons celestes e testemunho da nossa paterna benevolência, concedemos com muito amor a bênção apostólica a vós, veneráveis irmãos, e a todo o rebanho confiado aos vossos cuidados.
+Sorria, enfim, propícia a estes votos e iniciativas Nossas a benigníssima Virgem Mãe de Deus, que, por nos ter dado Jesus Redentor, por tê-lo criado e oferecido como vítima junto à cruz, pela sua misteriosa união com Cristo e por uma graça dele de todo singular, foi também Reparadora e assim é piamente chamada. Confiando na sua intercessão junto de Cristo, que, sendo o único “Mediador entre Deus e os homens”, quis tomar a sua Mãe como advogada dos pecadores e dispensadora e medianeira da graça, como penhor dos dons celestes e testemunho da Nossa paterna benevolência, concedemos com todo o amor a bênção apostólica a vós, Veneráveis Irmãos, e a todo o rebanho confiado aos vossos cuidados.
 
 ### Radiomensagem de Lourdes, oração final (1935), fragmento
 
@@ -3688,25 +3688,25 @@ _Todas as gerações me chamarão bem-aventurada: a própria Maria anuncia o lou
 >
 > **Por que não.** O magistério sobre o culto a Maria cita só os vv. 48–49; o resto do cântico é comentado sobretudo na *Redemptoris Mater* 37, a propósito da opção pelos pobres, tema que pertence à doutrina social.
 
-**46** E Maria disse: A minha alma engrandece o Senhor,
+**46** Maria então disse: A minha alma engrandece o Senhor,
 
-**47** e o meu espírito exultou em Deus, meu Salvador,
+**47** e o meu espírito exulta em Deus, meu Salvador,
 
-**48** porque olhou para a humildade da sua serva. Pois eis que, desde agora, todas as gerações me chamarão bem-aventurada,
+**48** porque olhou para a humildade da sua serva. Eis que, desde agora, todas as gerações me chamarão bem-aventurada,
 
 **49** porque o Poderoso fez em mim grandes coisas, e santo é o seu nome;
 
-**50** e a sua misericórdia vai de geração em geração sobre os que o temem.
+**50** a sua misericórdia se estende de geração em geração sobre os que o temem.
 
-**51** Agiu com a força do seu braço, dispersou os soberbos nos pensamentos do seu coração;
+**51** Manifestou o poder do seu braço, dispersou os soberbos nos pensamentos do seu coração;
 
-**52** derrubou dos tronos os poderosos e exaltou os humildes;
+**52** depôs os poderosos dos tronos e exaltou os humildes;
 
-**53** encheu de bens os famintos e despediu vazios os ricos;
+**53** encheu de bens os famintos e despediu vazios os ricos.
 
-**54** acolheu Israel, seu servo, lembrando-se da sua misericórdia,
+**54** Socorreu Israel, seu servo, recordando a sua misericórdia,
 
-**55** como tinha falado a nossos pais, a Abraão e à sua descendência, para sempre.
+**55** conforme falara a nossos pais, em favor de Abraão e da sua descendência para sempre.
 
 ---
 

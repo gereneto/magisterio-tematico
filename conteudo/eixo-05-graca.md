@@ -20,15 +20,15 @@ _Eu sou a videira, vós os ramos: sem mim nada podeis fazer — o versículo que
 
 **2** Todo ramo em mim que não dá fruto, ele o corta; e todo o que dá fruto, ele o limpa, para que dê mais fruto.
 
-**3** Vós já estais limpos por causa da palavra que vos falei.
+**3** Vós já estais limpos, por causa da palavra que vos disse.
 
 **4** Permanecei em mim, e eu em vós. Como o ramo não pode dar fruto por si mesmo, se não permanecer na videira, assim também vós, se não permanecerdes em mim.
 
 **5** Eu sou a videira, vós os ramos. Quem permanece em mim, e eu nele, esse dá muito fruto; porque sem mim nada podeis fazer.
 
-**6** Se alguém não permanecer em mim, é lançado fora como o ramo, e seca; e recolhem-nos, lançam-nos ao fogo, e ardem.
+**6** Se alguém não permanecer em mim, é lançado fora, como o ramo, e seca; e os ajuntam, lançam-nos no fogo, e ardem.
 
-**7** Se permanecerdes em mim, e as minhas palavras permanecerem em vós, pedi o que quiserdes, e vos será feito.
+**7** Se permanecerdes em mim, e as minhas palavras permanecerem em vós, pedi o que quiserdes, e vos será concedido.
 
 **8** Nisto é glorificado meu Pai: que deis muito fruto e vos torneis meus discípulos.
 
@@ -40,11 +40,11 @@ _Eu sou a videira, vós os ramos: sem mim nada podeis fazer — o versículo que
 
 _Não somos capazes, por nós mesmos, de pensar coisa alguma como vinda de nós: a nossa capacidade vem de Deus — o versículo com que Orange, cân. 7, prova que até o primeiro pensamento bom é dom_
 
-**4** Tal é a confiança que temos, por Cristo, diante de Deus.
+**4** Tal é a confiança que temos diante de Deus, por Cristo.
 
-**5** Não que sejamos capazes, por nós mesmos, de pensar coisa alguma como vinda de nós; mas a nossa capacidade vem de Deus,
+**5** Não que sejamos capazes, por nós mesmos, de pensar alguma coisa como vinda de nós; mas a nossa capacidade vem de Deus,
 
-**6** que também nos fez capazes de ser ministros de uma nova aliança, não da letra, mas do Espírito; porque a letra mata, mas o Espírito vivifica.
+**6** que também nos fez capazes de ser ministros de uma nova aliança, não da letra, mas do Espírito; pois a letra mata, mas o Espírito dá vida.
 
 ---
 
@@ -58,29 +58,29 @@ _Quero o bem e não o faço; quem me livrará? — a impotência da vontade sob 
 >
 > **Por que não.** A sua interpretação é disputada (fala o homem sob a lei, ou o justo?), e o trecho já está no eixo 3, parte VIII, com a concupiscência; aqui pode bastar uma remissão.
 
-**14** Sabemos, com efeito, que a Lei é espiritual; mas eu sou carnal, vendido ao pecado.
+**14** Sabemos que a lei é espiritual; eu, porém, sou carnal, vendido ao pecado.
 
-**15** Pois não entendo o que faço: não pratico o que quero, mas faço o que detesto.
+**15** Não entendo o que faço: não faço o que quero, mas o que detesto, isso faço.
 
-**16** Ora, se faço o que não quero, concordo com a Lei, reconhecendo que é boa.
+**16** Ora, se faço o que não quero, reconheço que a lei é boa.
 
-**17** Agora, porém, já não sou eu quem o faz, mas o pecado que habita em mim.
+**17** Então já não sou eu que o faço, mas o pecado que habita em mim.
 
-**18** Pois sei que em mim, isto é, na minha carne, não habita o bem: o querer está ao meu alcance, mas o realizar o bem, não.
+**18** Sei que em mim, isto é, na minha carne, não habita o bem; pois o querer está em mim, mas o realizar o bem, não.
 
-**19** Pois não faço o bem que quero, mas pratico o mal que não quero.
+**19** Não faço o bem que quero, mas o mal que não quero, esse pratico.
 
-**20** Ora, se faço o que eu não quero, já não sou eu quem o faz, mas o pecado que habita em mim.
+**20** Ora, se faço o que não quero, já não sou eu que o faço, mas o pecado que habita em mim.
 
-**21** Encontro, pois, esta lei: quando quero fazer o bem, é o mal que está ao meu alcance.
+**21** Descubro, portanto, esta lei: quando quero fazer o bem, é o mal que se me apresenta.
 
-**22** Porque me comprazo na lei de Deus segundo o homem interior;
+**22** Deleito-me, segundo o homem interior, na lei de Deus;
 
-**23** mas vejo nos meus membros outra lei, que guerreia contra a lei da minha mente e me faz prisioneiro da lei do pecado que está nos meus membros.
+**23** mas vejo nos meus membros outra lei, que guerreia contra a lei da minha mente e me faz cativo da lei do pecado, que está nos meus membros.
 
-**24** Infeliz de mim! Quem me livrará deste corpo de morte?
+**24** Infeliz homem que sou! Quem me livrará deste corpo de morte?
 
-**25** Graças a Deus, por Jesus Cristo nosso Senhor! Assim, pois, eu mesmo sirvo com a mente à lei de Deus, e com a carne à lei do pecado.
+**25** Graças a Deus, por Jesus Cristo, nosso Senhor! Assim, eu mesmo, pela mente, sirvo à lei de Deus; pela carne, porém, à lei do pecado.
 
 ---
 
@@ -94,11 +94,11 @@ _Os gentios, sem ter a lei, fazem por natureza o que a lei manda: a Escritura re
 >
 > **Por que não.** O plano já o põe no eixo 10, parte I, com a lei natural, e aqui pode bastar uma remissão.
 
-**14** Quando, pois, os gentios, que não têm a lei, fazem por natureza o que é da lei, esses, não tendo lei, são lei para si mesmos;
+**14** Quando os gentios, que não têm lei, fazem por natureza o que a lei manda, eles, sem terem lei, são lei para si mesmos;
 
-**15** eles mostram a obra da lei escrita nos seus corações, dando-lhes testemunho a sua consciência e os seus pensamentos, que entre si ora os acusam, ora também os defendem,
+**15** e mostram que a obra da lei está escrita nos seus corações, dando disso testemunho a sua consciência e os seus pensamentos, que ora os acusam, ora os defendem,
 
-**16** no dia em que Deus julgar as coisas ocultas dos homens, segundo o meu evangelho, por Cristo Jesus.
+**16** no dia em que Deus julgar o que há de oculto nos homens, segundo o meu Evangelho, por Cristo Jesus.
 
 ---
 
@@ -118,21 +118,21 @@ _Dá o que mandas, e manda o que quiseres: o próprio mandamento de Deus supõe 
 
 ### Livro X, 29,40
 
-E toda a minha esperança não está senão na tua misericórdia, que é muito grande. Dá o que mandas, e manda o que quiseres. Tu nos ordenas a continência. E, como eu soubesse, diz alguém, que ninguém pode ser continente se Deus não o conceder, também isto era sabedoria: saber de quem era este dom. Pela continência, com efeito, somos recolhidos e reconduzidos à unidade, da qual nos dispersamos no múltiplo. Pois ama-te menos quem ama contigo alguma coisa que não ama por causa de ti. Ó amor, que sempre ardes e nunca te apagas, caridade, meu Deus, acende-me! Mandas a continência: dá o que mandas, e manda o que quiseres.
+E toda a minha esperança não está senão na tua imensa misericórdia. Dá o que mandas e manda o que queres. Impões-nos a continência. “E, como eu soubesse”, diz alguém, “que ninguém pode ser continente se Deus não lho der, também isto era próprio da sabedoria: saber de quem era este dom.” Pela continência, de fato, somos recolhidos e reconduzidos à unidade, da qual nos derramamos na multiplicidade. Pois te ama menos quem ama contigo alguma coisa que não ama por tua causa. Ó amor, que sempre ardes e nunca te extingues, caridade, meu Deus, inflama-me! Mandas a continência: dá o que mandas e manda o que queres.
 
 ### Livro X, 31,45
 
 _Sobre a temperança no comer e no beber_
 
-Ouço a voz do meu Deus, que manda: Não se tornem pesados os vossos corações com a glutonaria e a embriaguez. A embriaguez está longe de mim: terás misericórdia, para que não se aproxime de mim. A glutonaria, porém, às vezes se insinua no teu servo: terás misericórdia, para que se afaste de mim. Ninguém, com efeito, pode ser continente, se tu não o concederes. Muitas coisas nos dás quando oramos; e todo o bem que recebemos antes de orar, de ti o recebemos; e também o reconhecê-lo depois, de ti o recebemos. Beberrão nunca fui, mas conheci beberrões que tu tornaste sóbrios. De ti, pois, veio que não o fossem os que nunca o foram; de ti veio que não o fossem para sempre os que o foram; de ti veio ainda que uns e outros soubessem de quem isso veio.
+Ouço a voz do meu Deus que manda: “Não se tornem pesados os vossos corações com a glutonaria e a embriaguez.” A embriaguez está longe de mim: terás misericórdia, para que não se aproxime de mim. Mas a glutonaria às vezes se insinua no teu servo: terás misericórdia, para que se afaste de mim. Pois ninguém pode ser continente se tu não lho deres. Muitas coisas nos concedes quando oramos; e todo o bem que recebemos antes de orar, de ti o recebemos; e o reconhecê-lo depois, de ti o recebemos. Bêbado nunca fui; mas conheci bêbados que tu tornaste sóbrios. Foste tu, pois, que fizeste que não fossem tais os que nunca o foram; tu, que fizeste que não o fossem sempre os que o foram; tu, que fizeste também que uns e outros soubessem quem o fez.
 
-… Ouvi também outra voz: Aprendi a bastar-me no estado em que estou; sei viver na abundância e sei padecer necessidade. Tudo posso naquele que me fortalece. Eis um soldado dos acampamentos celestes, e não o pó que nós somos. Mas lembra-te, Senhor, de que somos pó, e de que do pó fizeste o homem, e ele estava perdido e foi achado. Nem aquele pôde nada em si mesmo, porque era o mesmo pó, aquele a quem tanto amei quando, ao sopro da tua inspiração, dizia: Tudo posso naquele que me fortalece. Fortalece-me, para que eu possa. Dá o que mandas, e manda o que quiseres. Este confessa que recebeu, e aquilo de que se gloria, gloria-se no Senhor. Ouvi outro que pedia para receber: Tira de mim, diz, as concupiscências do ventre. Donde se vê, meu santo Deus, que és tu que dás, quando se faz o que mandas que se faça.
+… Ouvi também outra: “Pois aprendi a bastar-me no estado em que estou, e sei viver na abundância e sei padecer penúria. Tudo posso naquele que me fortalece.” Eis um soldado dos acampamentos celestes, não o pó que nós somos. Mas lembra-te, Senhor, de que somos pó, e do pó fizeste o homem, e ele estava perdido e foi encontrado. Nem aquele pôde por si, porque era pó também ele, a quem amei quando dizia tais coisas pelo sopro da tua inspiração: “Tudo posso”, diz, “naquele que me fortalece.” Fortalece-me, para que eu possa. Dá o que mandas e manda o que queres. Este confessa que recebeu, e, quando se gloria, gloria-se no Senhor. Ouvi outro que pedia para receber: “Afasta de mim”, diz, “as concupiscências do ventre.” Por onde se vê, meu santo Deus, que és tu quem dá, quando se faz o que mandas que se faça.
 
 ### Livro X, 37,60
 
 _Sobre o amor do louvor_
 
-Somos tentados por estas tentações todos os dias, Senhor; somos tentados sem cessar. A nossa fornalha de cada dia é a língua humana. Também neste gênero nos mandas a continência: dá o que mandas, e manda o que quiseres.
+Somos tentados por estas tentações todos os dias, Senhor; somos tentados sem cessar. A nossa fornalha cotidiana é a língua humana. Também neste gênero nos impões a continência: dá o que mandas e manda o que queres.
 
 ---
 
@@ -702,7 +702,7 @@ Contra os semipelagianos: até o começo da fé é dom de Deus.
 
 _Que tens tu que não tenhas recebido? O versículo que, segundo o próprio Agostinho, o fez abandonar a ideia de que o início da fé vem de nós, e que Orange cita duas vezes_
 
-**7** Pois quem te distingue? Que tens tu que não tenhas recebido? E, se o recebeste, por que te glorias como se não o tivesses recebido?
+**7** Pois quem te distingue? Que tens tu que não tenhas recebido? E, se recebeste, por que te glorias, como se não tivesses recebido?
 
 ---
 
@@ -714,15 +714,15 @@ _Ninguém pode vir a mim, se o Pai que me enviou não o atrair: o próprio vir a
 
 ### João 6,44–45
 
-**44** Ninguém pode vir a mim, se o Pai, que me enviou, não o atrair; e eu o ressuscitarei no último dia.
+**44** Ninguém pode vir a mim se o Pai, que me enviou, não o atrair; e eu o ressuscitarei no último dia.
 
-**45** Está escrito nos profetas: E todos serão ensinados por Deus. Todo aquele que ouviu o Pai e aprendeu dele vem a mim.
+**45** Está escrito nos profetas: E serão todos ensinados por Deus. Todo aquele que ouviu o Pai e aprendeu vem a mim.
 
 ### João 6,64–65
 
-**64** Mas há alguns de vós que não creem. Pois Jesus sabia desde o princípio quem eram os que não criam e quem era aquele que o havia de entregar.
+**64** Mas há entre vós alguns que não creem. Porque Jesus sabia desde o princípio quais eram os que não criam e quem havia de entregá-lo.
 
-**65** E dizia: Por isso vos disse que ninguém pode vir a mim, se não lhe for concedido pelo Pai.
+**65** E dizia: Por isso vos disse que ninguém pode vir a mim se não lhe for concedido pelo Pai.
 
 ---
 
@@ -734,11 +734,11 @@ _Aquele que começou em vós a boa obra há de levá-la a termo; e a vós foi co
 
 ### Filipenses 1,6
 
-**6** Estou convencido disto mesmo: aquele que começou em vós a boa obra há de levá-la a termo até o dia de Cristo Jesus.
+**6** E estou certo de que aquele que começou em vós a boa obra há de levá-la a bom termo até o dia de Cristo Jesus.
 
 ### Filipenses 1,29
 
-**29** Pois a vós foi concedido, por Cristo, não só crer nele, mas também padecer por ele.
+**29** Porque vos foi concedida a graça, a respeito de Cristo, não só de crer nele, mas também de sofrer por ele,
 
 ---
 
@@ -748,25 +748,25 @@ _Aquele que começou em vós a boa obra há de levá-la a termo; e a vós foi co
 
 _Mortos pelos pecados, fomos salvos pela graça, mediante a fé, e isto não vem de nós, é dom de Deus; e fomos criados em Cristo para as boas obras que Deus preparou: o texto que Orange cita para a gratuidade da própria fé_
 
-**1** Também vós estáveis mortos pelas vossas faltas e pelos vossos pecados,
+**1** E vós estáveis mortos pelas vossas faltas e pecados,
 
-**2** nos quais outrora andastes, segundo o curso deste mundo, segundo o príncipe do poder do ar, o espírito que agora age nos filhos da desobediência.
+**2** nos quais outrora andastes, segundo o modo deste mundo, segundo o príncipe do poder do ar, o espírito que agora age nos filhos da rebeldia.
 
-**3** Entre eles também nós todos outrora vivemos, nos desejos da nossa carne, fazendo a vontade da carne e dos pensamentos; e éramos por natureza filhos da ira, como os demais.
+**3** Entre eles também todos nós vivemos outrora, nos desejos da nossa carne, fazendo a vontade da carne e dos pensamentos; e éramos, por natureza, filhos da ira, como os demais.
 
 **4** Mas Deus, que é rico em misericórdia, pelo grande amor com que nos amou,
 
-**5** estando nós mortos pelas nossas faltas, deu-nos a vida juntamente com Cristo — é pela graça que fostes salvos —,
+**5** estando nós mortos pelas faltas, deu-nos vida com Cristo — é pela graça que fostes salvos —
 
 **6** e com ele nos ressuscitou e nos fez sentar nos céus, em Cristo Jesus,
 
-**7** para mostrar nos séculos vindouros a riqueza superabundante da sua graça, pela sua bondade para conosco em Cristo Jesus.
+**7** para mostrar, nos séculos vindouros, a riqueza sobreabundante da sua graça, pela bondade que teve para conosco em Cristo Jesus.
 
-**8** Pois é pela graça que fostes salvos, mediante a fé; e isto não vem de vós, é dom de Deus;
+**8** Porque é pela graça que fostes salvos, mediante a fé; e isso não vem de vós: é dom de Deus.
 
-**9** não vem das obras, para que ninguém se glorie.
+**9** Não vem das obras, para que ninguém se glorie.
 
-**10** Pois somos obra sua, criados em Cristo Jesus para as boas obras que Deus preparou de antemão, para que nelas andemos.
+**10** Somos, com efeito, obra sua, criados em Cristo Jesus para as boas obras que Deus de antemão preparou, a fim de que nelas caminhemos.
 
 ---
 
@@ -776,7 +776,7 @@ _Mortos pelos pecados, fomos salvos pela graça, mediante a fé, e isto não vem
 
 _Se é pela graça, já não é pelas obras; do contrário, a graça já não seria graça: a regra que Agostinho e Trento aplicam a tudo o que precede a justificação_
 
-**5** Assim, pois, também no tempo presente subsiste um resto, segundo a eleição da graça.
+**5** Assim também, no tempo presente, subsiste um resto, escolhido pela graça.
 
 **6** E, se é pela graça, já não é pelas obras; do contrário, a graça já não seria graça.
 
@@ -794,27 +794,27 @@ _Ninguém diz Jesus é Senhor senão no Espírito Santo; Deus deixa-se achar pel
 
 ### 1 Coríntios 12,3
 
-**3** Por isso vos faço saber que ninguém que fale no Espírito de Deus diz: Anátema seja Jesus; e ninguém pode dizer: Jesus é Senhor, senão no Espírito Santo.
+**3** Por isso vos declaro: ninguém, falando no Espírito de Deus, diz: Jesus seja maldito; e ninguém pode dizer: Jesus é o Senhor, senão no Espírito Santo.
 
 ### Isaías 65,1
 
 _Do hebraico_
 
-**1** Deixei-me consultar por aqueles que não perguntavam por mim; deixei-me achar por aqueles que não me buscavam. Eu disse: Eis-me aqui, eis-me aqui, a uma nação que não invocava o meu nome.
+**1** Deixei-me procurar por quem não perguntava por mim, deixei-me encontrar por quem não me procurava. Eu disse a uma nação que não invocava o meu nome: Eis-me aqui, eis-me aqui!
 
 ### Romanos 10,20
 
 _Paulo cita Isaías segundo a Septuaginta, e é nesta forma que Orange o cita_
 
-**20** E Isaías atreve-se a dizer: Fui achado pelos que não me buscavam, manifestei-me aos que não perguntavam por mim.
+**20** E Isaías ousa dizer: Fui achado pelos que não me buscavam; manifestei-me aos que não perguntavam por mim.
 
 ### Tiago 1,17
 
-**17** Toda dádiva boa e todo dom perfeito vêm do alto, e descem do Pai das luzes, em quem não há variação nem sombra de mudança.
+**17** Toda dádiva boa e todo dom perfeito vêm do alto, descem do Pai das luzes, em quem não há mudança nem sombra de variação.
 
 ### João 3,27
 
-**27** Respondeu João: O homem não pode receber coisa alguma, se não lhe for dada do céu.
+**27** João respondeu: Ninguém pode receber coisa alguma, se não for dada a ele do céu.
 
 ---
 
@@ -848,11 +848,11 @@ _A forma que a Vetus Latina transmitiu aos Padres latinos e a Orange: praeparatu
 
 _Não fomos nós que amamos a Deus, foi ele que nos amou primeiro: o fundo do último cânon de Orange, que diz que amar a Deus é dom de Deus_
 
-**9** Nisto se manifestou o amor de Deus entre nós: Deus enviou ao mundo o seu Filho unigênito, para que vivamos por meio dele.
+**9** Nisto se manifestou entre nós o amor de Deus: Deus enviou ao mundo o seu Filho único, para que por ele vivamos.
 
-**10** Nisto está o amor: não fomos nós que amamos a Deus, mas foi ele que nos amou e enviou o seu Filho como propiciação pelos nossos pecados.
+**10** Nisto está o amor: não fomos nós que amamos a Deus, mas foi ele que nos amou e enviou o seu Filho como vítima de expiação pelos nossos pecados.
 
-**19** Nós amamos, porque ele nos amou primeiro.
+**19** Nós amamos porque ele nos amou primeiro.
 
 ---
 
@@ -1170,9 +1170,9 @@ A graça não suprime a liberdade: o homem coopera, e pode resistir.
 
 _Operai a vossa salvação, porque é Deus quem opera em vós o querer e o operar: as duas metades da doutrina numa só frase, que Orange e Trento citam para dizer que a graça não dispensa o homem de agir_
 
-**12** Portanto, meus amados, assim como sempre obedecestes, não só como na minha presença, mas muito mais agora na minha ausência, operai a vossa salvação com temor e tremor;
+**12** Portanto, meus caríssimos, assim como sempre obedecestes, não só na minha presença, mas muito mais agora, na minha ausência, trabalhai a vossa salvação com temor e tremor.
 
-**13** pois é Deus quem opera em vós tanto o querer como o operar, segundo o seu beneplácito.
+**13** Porque é Deus quem opera em vós o querer e o realizar, segundo o seu beneplácito.
 
 ---
 
@@ -1184,11 +1184,11 @@ _Voltai-vos para mim, e eu me voltarei para vós; faze-nos voltar a ti, e voltar
 
 ### Zacarias 1,3
 
-**3** Dize-lhes, pois: Assim diz o Senhor dos exércitos: Voltai-vos para mim, oráculo do Senhor dos exércitos, e eu me voltarei para vós, diz o Senhor dos exércitos.
+**3** Dize-lhes, pois: Assim diz o Senhor dos exércitos: Voltai para mim, oráculo do Senhor dos exércitos, e eu voltarei para vós, diz o Senhor dos exércitos.
 
 ### Lamentações 5,21
 
-**21** Faze-nos voltar a ti, Senhor, e voltaremos; renova os nossos dias como outrora.
+**21** Faze-nos voltar a ti, Senhor, e voltaremos; renova os nossos dias como antigamente.
 
 ---
 
@@ -1198,9 +1198,9 @@ _Voltai-vos para mim, e eu me voltarei para vós; faze-nos voltar a ti, e voltar
 
 _Pela graça de Deus sou o que sou, e trabalhei mais que todos, não eu, mas a graça de Deus comigo: Paulo atribui tudo à graça sem negar que foi ele quem trabalhou_
 
-**9** Pois eu sou o menor dos apóstolos, nem sou digno de ser chamado apóstolo, porque persegui a Igreja de Deus.
+**9** Porque eu sou o menor dos apóstolos, e nem sou digno de ser chamado apóstolo, porque persegui a Igreja de Deus.
 
-**10** Mas pela graça de Deus sou o que sou, e a sua graça para comigo não foi vã; antes, trabalhei mais do que todos eles; não eu, porém, mas a graça de Deus comigo.
+**10** Mas, pela graça de Deus, sou o que sou, e a sua graça para comigo não foi vã; antes, trabalhei mais do que todos eles; não eu, porém, mas a graça de Deus comigo.
 
 ---
 
@@ -1210,25 +1210,25 @@ _Pela graça de Deus sou o que sou, e trabalhei mais que todos, não eu, mas a g
 
 _Deus fez o homem e o deixou na mão do seu próprio conselho, e não é ele a causa do pecado: o texto com que Gaudium et spes e o Catecismo ensinam que a liberdade é dom do Criador_
 
-**11** Não digas: Foi por causa do Senhor que me afastei; pois o que ele odeia, não o farás.
+**11** Não digas: O meu pecado vem de Deus; pois ele não faz o que detesta.
 
-**12** Não digas: Foi ele que me desencaminhou; pois não tem necessidade do homem pecador.
+**12** Não digas: Foi ele que me fez tropeçar; pois ele não tem necessidade do homem ímpio.
 
-**13** O Senhor odeia toda abominação, e ela não é amável para os que o temem.
+**13** O Senhor detesta toda abominação do erro, e ela não é amável para os que o temem.
 
-**14** Ele mesmo, no princípio, fez o homem, e deixou-o na mão do seu próprio conselho.
+**14** Deus criou o homem no princípio e o deixou nas mãos da sua própria decisão; entregou-o ao poder da sua vontade.
 
-**15** Se quiseres, guardarás os mandamentos, e proceder com fidelidade está no teu querer.
+**15** Acrescentou os seus mandamentos e os seus preceitos, e a inteligência para fazer o que lhe agrada.
 
-**16** Ele pôs diante de ti o fogo e a água: para onde quiseres, estenderás a tua mão.
+**16** Se quiseres guardar os mandamentos, eles te guardarão; se confiares nele, também tu viverás.
 
-**17** Diante dos homens estão a vida e a morte, e o que cada um preferir, isso lhe será dado.
+**17** Ele pôs diante de ti a água e o fogo: estende a mão para o que quiseres.
 
-**18** Porque grande é a sabedoria do Senhor; ele é forte em poder e vê todas as coisas;
+**18** Diante do homem estão a vida e a morte, o bem e o mal: o que ele escolher lhe será dado.
 
-**19** os seus olhos estão sobre os que o temem, e ele conhece toda obra do homem.
+**19** Pois grande é a sabedoria de Deus, forte é o seu poder, e ele vê todas as coisas sem cessar.
 
-**20** A ninguém mandou ser ímpio, e a ninguém deu licença para pecar.
+**20** Os olhos do Senhor estão sobre os que o temem, e ele conhece todas as obras do homem.
 
 ---
 
@@ -1238,17 +1238,17 @@ _Deus fez o homem e o deixou na mão do seu próprio conselho, e não é ele a c
 
 _Quem comete o pecado é escravo; se o Filho vos libertar, sereis de fato livres: a graça não tira a liberdade, devolve-a, e Orange cita este versículo para dizer que o livre-arbítrio ferido só se repara pela graça_
 
-**31** Dizia, pois, Jesus aos judeus que tinham crido nele: Se permanecerdes na minha palavra, sereis verdadeiramente meus discípulos,
+**31** Dizia, pois, Jesus aos judeus que nele creram: Se permanecerdes na minha palavra, sereis verdadeiramente meus discípulos;
 
 **32** e conhecereis a verdade, e a verdade vos libertará.
 
-**33** Responderam-lhe: Somos descendência de Abraão, e nunca fomos escravos de ninguém; como dizes tu: Sereis livres?
+**33** Responderam-lhe: Somos descendência de Abraão e jamais fomos escravos de ninguém; como dizes tu: Vós vos tornareis livres?
 
-**34** Respondeu-lhes Jesus: Em verdade, em verdade vos digo: todo aquele que comete o pecado é escravo do pecado.
+**34** Jesus lhes respondeu: Em verdade, em verdade vos digo: todo o que comete o pecado é escravo do pecado.
 
 **35** Ora, o escravo não permanece na casa para sempre; o filho permanece para sempre.
 
-**36** Se, pois, o Filho vos libertar, sereis de fato livres.
+**36** Se, pois, o Filho vos libertar, sereis verdadeiramente livres.
 
 ---
 
@@ -1264,15 +1264,15 @@ _Vós sempre resistis ao Espírito Santo; quantas vezes eu quis, e vós não qui
 
 ### Atos 7,51
 
-**51** Homens de dura cerviz e incircuncisos de coração e de ouvidos, vós sempre resistis ao Espírito Santo; como os vossos pais, assim também vós.
+**51** Homens de cabeça dura, incircuncisos de coração e de ouvidos, vós sempre resistis ao Espírito Santo; como os vossos pais, assim também vós.
 
 ### Mateus 23,37
 
-**37** Jerusalém, Jerusalém, que matas os profetas e apedrejas os que te são enviados! Quantas vezes eu quis reunir os teus filhos, como a galinha reúne os seus pintinhos debaixo das asas, e vós não quisestes!
+**37** Jerusalém, Jerusalém, que matas os profetas e apedrejas os que te são enviados! Quantas vezes quis reunir os teus filhos, como a galinha reúne os seus pintinhos debaixo das asas, e não quiseste!
 
 ### 2 Coríntios 6,1
 
-**1** Como cooperadores, nós vos exortamos também a que não recebais em vão a graça de Deus.
+**1** E, como cooperadores, também vos exortamos a não receberdes em vão a graça de Deus.
 
 ---
 
@@ -1760,17 +1760,17 @@ Deus quer que todos se salvem, e ninguém é predestinado ao mal.
 
 _Rezai por todos os homens, porque Deus quer que todos se salvem, e o único mediador deu-se em resgate por todos: o versículo que Quiercy, o Vaticano II e o Catecismo citam para a vontade salvífica universal_
 
-**1** Exorto, pois, antes de tudo, a que se façam súplicas, orações, intercessões e ações de graças por todos os homens,
+**1** Recomendo, pois, antes de tudo, que se façam súplicas, orações, intercessões e ações de graças por todos os homens,
 
-**2** pelos reis e por todos os que estão constituídos em autoridade, para que levemos uma vida tranquila e serena, em toda piedade e dignidade.
+**2** pelos reis e por todos os que estão no poder, para que levemos uma vida tranquila e serena, com toda piedade e dignidade.
 
 **3** Isto é bom e agradável diante de Deus, nosso Salvador,
 
-**4** que quer que todos os homens sejam salvos e cheguem ao conhecimento da verdade.
+**4** que quer que todos os homens se salvem e cheguem ao conhecimento da verdade.
 
-**5** Porque há um só Deus, e um só mediador entre Deus e os homens, o homem Cristo Jesus,
+**5** Porque há um só Deus, e um só mediador entre Deus e os homens: Cristo Jesus, homem,
 
-**6** que se deu a si mesmo em resgate por todos: é este o testemunho dado no tempo devido.
+**6** que se entregou a si mesmo em resgate por todos — testemunho dado a seu tempo.
 
 ---
 
@@ -1782,17 +1782,17 @@ _Deus não tem prazer na morte do ímpio, mas em que se converta e viva: a vonta
 
 ### Ezequiel 18,23.30–32
 
-**23** Acaso tenho eu prazer na morte do ímpio — oráculo do Senhor Deus —, e não antes em que ele se converta dos seus caminhos e viva?
+**23** Acaso tenho eu prazer na morte do ímpio, oráculo do Senhor Deus, e não antes em que se converta dos seus caminhos e viva?
 
-**30** Por isso, casa de Israel, julgarei cada um de vós segundo os seus caminhos — oráculo do Senhor Deus. Convertei-vos e afastai-vos de todas as vossas transgressões, e a iniquidade não será para vós ocasião de queda.
+**30** Por isso eu vos julgarei, casa de Israel, a cada um segundo os seus caminhos, oráculo do Senhor Deus. Convertei-vos e afastai-vos de todas as vossas transgressões, e a iniquidade não será para vós ocasião de queda.
 
-**31** Lançai de vós todas as transgressões que cometestes, e fazei-vos um coração novo e um espírito novo. Por que haveis de morrer, casa de Israel?
+**31** Lançai para longe de vós todas as transgressões que cometestes e fazei para vós um coração novo e um espírito novo. Por que haveríeis de morrer, casa de Israel?
 
-**32** Pois eu não tenho prazer na morte de quem morre — oráculo do Senhor Deus. Convertei-vos, pois, e vivei!
+**32** Pois eu não tenho prazer na morte de quem morre, oráculo do Senhor Deus. Convertei-vos e vivei!
 
 ### Ezequiel 33,11
 
-**11** Dize-lhes: Por minha vida — oráculo do Senhor Deus —, não tenho prazer na morte do ímpio, mas em que o ímpio se converta do seu caminho e viva. Convertei-vos, convertei-vos dos vossos maus caminhos! Por que haveis de morrer, casa de Israel?
+**11** Dize-lhes: Pela minha vida, oráculo do Senhor Deus, não tenho prazer na morte do ímpio, mas em que o ímpio se converta do seu caminho e viva. Convertei-vos, convertei-vos dos vossos maus caminhos! Por que haveríeis de morrer, casa de Israel?
 
 ---
 
@@ -1802,7 +1802,7 @@ _Deus não tem prazer na morte do ímpio, mas em que se converta e viva: a vonta
 
 _O Senhor não quer que ninguém pereça, mas que todos cheguem à conversão: o versículo com que o Catecismo nega que Deus predestine alguém ao inferno_
 
-**9** O Senhor não tarda em cumprir a promessa, como alguns pensam que tarda; mas usa de paciência para convosco, não querendo que alguns pereçam, mas que todos cheguem à conversão.
+**9** O Senhor não retarda a sua promessa, como alguns julgam; ele é paciente convosco, não querendo que alguém se perca, mas que todos cheguem à conversão.
 
 ---
 
@@ -1814,15 +1814,15 @@ _Cristo é propiciação pelos pecados do mundo inteiro, e um só morreu por tod
 
 ### 1 João 2,1–2
 
-**1** Filhinhos meus, escrevo-vos estas coisas para que não pequeis. Mas, se alguém pecar, temos um advogado junto do Pai, Jesus Cristo, o justo.
+**1** Meus filhinhos, escrevo-vos estas coisas para que não pequeis. Mas, se alguém pecar, temos junto do Pai um advogado: Jesus Cristo, o justo.
 
-**2** Ele é propiciação pelos nossos pecados, e não só pelos nossos, mas também pelos do mundo inteiro.
+**2** Ele é a vítima de expiação pelos nossos pecados; e não só pelos nossos, mas também pelos do mundo inteiro.
 
 ### 2 Coríntios 5,14–15
 
-**14** Pois o amor de Cristo nos impele, a nós que julgamos assim: um só morreu por todos; logo, todos morreram.
+**14** Porque o amor de Cristo nos pressiona, convencidos de que um só morreu por todos; logo, todos morreram.
 
-**15** E ele morreu por todos, para que os que vivem já não vivam para si mesmos, mas para aquele que por eles morreu e ressuscitou.
+**15** E ele morreu por todos, para que os que vivem já não vivam para si, mas para aquele que por eles morreu e ressuscitou.
 
 ---
 
@@ -1832,11 +1832,11 @@ _Cristo é propiciação pelos pecados do mundo inteiro, e um só morreu por tod
 
 _Aos que de antemão conheceu, Deus predestinou-os a serem conformes à imagem do seu Filho, e chamou-os, justificou-os, glorificou-os: a predestinação como a Escritura a apresenta, uma cadeia de graças que vai do desígnio eterno à glória_
 
-**28** Sabemos que todas as coisas cooperam para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu desígnio.
+**28** Sabemos que Deus faz concorrer todas as coisas para o bem dos que o amam, daqueles que são chamados segundo o seu desígnio.
 
-**29** Porque aos que de antemão conheceu, também os predestinou a serem conformes à imagem do seu Filho, para que ele seja o primogênito entre muitos irmãos.
+**29** Porque aos que de antemão conheceu, também os predestinou a serem conformes à imagem de seu Filho, para que ele seja o primogênito entre muitos irmãos.
 
-**30** E aos que predestinou, também os chamou; e aos que chamou, também os justificou; e aos que justificou, também os glorificou.
+**30** E aos que predestinou, também os chamou; aos que chamou, também os justificou; e aos que justificou, também os glorificou.
 
 ---
 
@@ -1846,27 +1846,27 @@ _Aos que de antemão conheceu, Deus predestinou-os a serem conformes à imagem d
 
 _Escolhidos em Cristo antes da fundação do mundo e predestinados a ser filhos, para louvor da glória da sua graça: a predestinação dita em Cristo, e como motivo de bênção, não de angústia_
 
-**3** Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, que nos abençoou com toda bênção espiritual nos céus, em Cristo,
+**3** Bendito seja Deus, Pai de nosso Senhor Jesus Cristo, que nos abençoou com toda bênção espiritual, nos céus, em Cristo.
 
-**4** assim como nele nos escolheu antes da fundação do mundo, para sermos santos e irrepreensíveis diante dele no amor,
+**4** Nele nos escolheu, antes da criação do mundo, para sermos santos e imaculados diante dele, no amor.
 
-**5** predestinando-nos para sermos seus filhos adotivos por meio de Jesus Cristo, segundo o beneplácito da sua vontade,
+**5** Ele nos predestinou a ser seus filhos adotivos, por Jesus Cristo, segundo o beneplácito da sua vontade,
 
-**6** para louvor da glória da sua graça, com a qual nos agraciou no Amado.
+**6** para louvor da glória da sua graça, com que nos agraciou no Amado.
 
-**7** Nele temos a redenção pelo seu sangue, a remissão das faltas, segundo a riqueza da sua graça,
+**7** Nele temos a redenção pelo seu sangue, a remissão dos pecados, segundo a riqueza da sua graça,
 
-**8** que ele fez transbordar sobre nós em toda sabedoria e inteligência,
+**8** que ele derramou sobre nós com abundância, em toda sabedoria e inteligência,
 
-**9** dando-nos a conhecer o mistério da sua vontade, segundo o beneplácito que de antemão estabelecera em Cristo,
+**9** dando-nos a conhecer o mistério da sua vontade, segundo o beneplácito que nele de antemão estabelecera,
 
-**10** para realizá-lo na plenitude dos tempos: reunir sob uma só cabeça todas as coisas em Cristo, as que estão nos céus e as que estão na terra.
+**10** para realizá-lo na plenitude dos tempos: recapitular em Cristo todas as coisas, as que estão nos céus e as que estão na terra.
 
-**11** Nele também recebemos a nossa parte na herança, predestinados segundo o desígnio daquele que realiza todas as coisas segundo o conselho da sua vontade,
+**11** Nele fomos também constituídos herdeiros, predestinados segundo o propósito daquele que tudo realiza conforme o conselho da sua vontade,
 
-**12** para sermos louvor da sua glória, nós que antes esperamos em Cristo.
+**12** para sermos, nós que primeiro esperamos em Cristo, louvor da sua glória.
 
-**13** Nele também vós, depois de ouvirdes a palavra da verdade, o Evangelho da vossa salvação, e de nele crerdes, fostes selados com o Espírito Santo da promessa,
+**13** Nele também vós, tendo ouvido a palavra da verdade, o Evangelho da vossa salvação, e nele tendo crido, fostes selados com o Espírito Santo da promessa,
 
 **14** que é o penhor da nossa herança, para a redenção do povo que ele adquiriu, para louvor da sua glória.
 
@@ -1882,71 +1882,71 @@ _Não depende de quem quer nem de quem corre, mas de Deus que usa de misericórd
 
 _A eleição é gratuita: não vem das obras, mas daquele que chama_
 
-**6** Não é, porém, que a palavra de Deus tenha falhado. Pois nem todos os que descendem de Israel são Israel,
+**6** Não que a palavra de Deus haja falhado. Porque nem todos os que descendem de Israel são Israel;
 
-**7** nem, por serem descendência de Abraão, são todos filhos; mas: Em Isaac será chamada a tua descendência.
+**7** nem, por serem descendência de Abraão, são todos filhos; mas: Em Isaac terás a tua descendência.
 
 **8** Isto é: não são os filhos da carne que são filhos de Deus, mas os filhos da promessa é que são contados como descendência.
 
-**9** Pois esta é a palavra da promessa: Por este tempo virei, e Sara terá um filho.
+**9** Porque esta é a palavra da promessa: Por este tempo virei, e Sara terá um filho.
 
-**10** E não só isto; mas também Rebeca, que concebeu de um só, de Isaac, nosso pai.
+**10** E não só isso: também Rebeca concebeu de um só homem, Isaac, nosso pai.
 
-**11** Pois, quando ainda não tinham nascido nem tinham feito coisa alguma boa ou má — para que permanecesse o desígnio de Deus segundo a eleição,
+**11** Pois, quando ainda não eram nascidos e nada tinham feito de bem ou de mal — para que permanecesse o desígnio de Deus segundo a eleição,
 
-**12** não por causa das obras, mas por causa daquele que chama —, foi-lhe dito: O mais velho servirá ao mais novo;
+**12** o qual não depende das obras, mas daquele que chama —, foi-lhe dito: O mais velho servirá ao mais novo,
 
-**13** como está escrito: Amei a Jacó e odiei a Esaú.
+**13** conforme está escrito: Amei a Jacó e odiei a Esaú.
 
-**14** Que diremos, então? Há injustiça em Deus? De modo nenhum!
+**14** Que diremos, pois? Haverá injustiça em Deus? De modo nenhum!
 
-**15** Pois ele diz a Moisés: Terei misericórdia de quem eu tiver misericórdia, e terei compaixão de quem eu tiver compaixão.
+**15** Porque a Moisés ele diz: Terei misericórdia de quem me aprouver, e me compadecerei de quem eu quiser.
 
-**16** Portanto, não depende de quem quer, nem de quem corre, mas de Deus, que usa de misericórdia.
+**16** Assim, não depende do que quer, nem do que corre, mas de Deus, que usa de misericórdia.
 
-**17** Pois a Escritura diz ao faraó: Para isto mesmo te suscitei: para mostrar em ti o meu poder, e para que o meu nome seja anunciado em toda a terra.
+**17** Pois a Escritura diz ao faraó: Para isto mesmo te levantei: para mostrar em ti o meu poder e para que o meu nome seja anunciado em toda a terra.
 
-**18** Portanto, ele usa de misericórdia com quem quer, e endurece a quem quer.
+**18** Portanto, de quem quer, tem misericórdia; e a quem quer, endurece.
 
-**19** Então me dirás: Por que ainda se queixa? Pois quem resiste à sua vontade?
+**19** Mas tu me dirás: Por que, então, ainda se queixa? Pois quem resiste à sua vontade?
 
-**20** Ó homem, quem és tu, afinal, para replicar a Deus? Acaso dirá a obra modelada a quem a modelou: Por que me fizeste assim?
+**20** Ó homem, quem és tu para replicares a Deus? Porventura dirá o vaso ao que o modelou: Por que me fizeste assim?
 
-**21** Ou não tem o oleiro poder sobre o barro, para fazer da mesma massa um vaso para uso nobre e outro para uso vil?
+**21** Ou não tem o oleiro poder sobre o barro, para da mesma massa fazer um vaso para uso nobre e outro para uso vil?
 
-**22** E que dizer, se Deus, querendo mostrar a sua ira e dar a conhecer o seu poder, suportou com muita paciência os vasos da ira, prontos para a perdição,
+**22** E que dizer, se Deus, querendo mostrar a sua ira e dar a conhecer o seu poder, suportou com muita paciência vasos de ira, prontos para a perdição,
 
-**23** a fim de dar a conhecer a riqueza da sua glória sobre os vasos de misericórdia, que de antemão preparou para a glória —
+**23** a fim de manifestar as riquezas da sua glória em vasos de misericórdia, que de antemão preparou para a glória?
 
-**24** sobre nós, a quem ele chamou, não só dentre os judeus, mas também dentre os gentios?
+**24** E esses somos nós, a quem chamou, não só dentre os judeus, mas também dentre os gentios.
 
 ### Romanos 11,25–36
 
 _O endurecimento de Israel é parcial e tem prazo, e a desobediência de todos serve à misericórdia para com todos; diante disso, Paulo não conclui com uma tese, mas com um louvor_
 
-**25** Pois não quero, irmãos, que ignoreis este mistério, para que não sejais sábios aos vossos próprios olhos: o endurecimento veio sobre uma parte de Israel até que tenha entrado a plenitude dos gentios;
+**25** Não quero, irmãos, que ignoreis este mistério — para que não vos tenhais por sábios —: o endurecimento de uma parte de Israel dura até que entre a plenitude dos gentios;
 
-**26** e assim todo o Israel será salvo, como está escrito: De Sião virá o libertador; ele afastará de Jacó as impiedades.
+**26** e assim todo o Israel será salvo, conforme está escrito: De Sião virá o libertador; ele afastará de Jacó as impiedades.
 
 **27** E esta será a minha aliança com eles, quando eu tirar os seus pecados.
 
-**28** Quanto ao Evangelho, são inimigos por causa de vós; mas, quanto à eleição, são amados por causa dos pais.
+**28** Quanto ao Evangelho, são inimigos, por vossa causa; mas, quanto à eleição, são amados, por causa dos pais.
 
-**29** Pois os dons e o chamado de Deus são sem arrependimento.
+**29** Porque os dons e o chamamento de Deus são irrevogáveis.
 
-**30** Assim como vós outrora fostes desobedientes a Deus, mas agora alcançastes misericórdia por causa da desobediência deles,
+**30** Assim como vós, outrora, fostes desobedientes a Deus, mas agora alcançastes misericórdia pela desobediência deles,
 
-**31** assim também eles agora se tornaram desobedientes, para que, pela misericórdia feita a vós, também eles agora alcancem misericórdia.
+**31** assim também eles agora foram desobedientes, para que, pela misericórdia que alcançastes, também eles alcancem misericórdia.
 
-**32** Pois Deus encerrou todos na desobediência, para usar de misericórdia com todos.
+**32** Porque Deus encerrou a todos na desobediência, para de todos ter misericórdia.
 
-**33** Ó profundidade da riqueza, e da sabedoria, e da ciência de Deus! Quão insondáveis são os seus juízos, e impenetráveis os seus caminhos!
+**33** Ó profundidade da riqueza, da sabedoria e da ciência de Deus! Quão insondáveis são os seus juízos e quão inescrutáveis, os seus caminhos!
 
-**34** Pois quem conheceu a mente do Senhor? Ou quem foi o seu conselheiro?
+**34** Pois quem conheceu o pensamento do Senhor? Ou quem foi o seu conselheiro?
 
-**35** Ou quem lhe deu primeiro, para que tenha de ser retribuído?
+**35** Ou quem lhe deu primeiro, para que lhe seja retribuído?
 
-**36** Porque dele, e por meio dele, e para ele são todas as coisas. A ele a glória pelos séculos. Amém.
+**36** Porque dele, por ele e para ele são todas as coisas. A ele a glória pelos séculos. Amém.
 
 ---
 
@@ -1962,9 +1962,9 @@ _O reino foi preparado para os justos desde a fundação do mundo, e o fogo eter
 
 _Os dois versículos são as duas sentenças do juízo sobre as nações, em Mt 25,31–46_
 
-**34** Então o Rei dirá aos que estiverem à sua direita: Vinde, benditos de meu Pai, recebei em herança o reino preparado para vós desde a fundação do mundo.
+**34** Então dirá o Rei aos que estiverem à sua direita: Vinde, benditos de meu Pai, recebei em herança o Reino que vos está preparado desde a fundação do mundo.
 
-**41** Então dirá também aos que estiverem à esquerda: Afastai-vos de mim, malditos, para o fogo eterno, preparado para o diabo e os seus anjos.
+**41** Depois dirá também aos que estiverem à esquerda: Afastai-vos de mim, malditos, para o fogo eterno, preparado para o diabo e os seus anjos.
 
 ---
 
@@ -2368,7 +2368,7 @@ O que é a justificação, as suas causas e a sua preparação; a fé e as obras
 
 _No Evangelho revela-se a justiça de Deus, de fé em fé: o justo viverá da fé — o versículo de que partiu a Reforma, e o ponto de partida de toda a doutrina da justificação_
 
-**16** Pois não me envergonho do Evangelho: ele é poder de Deus para a salvação de todo aquele que crê, do judeu primeiro, e também do grego.
+**16** Porque não me envergonho do Evangelho: ele é poder de Deus para a salvação de todo o que crê, primeiro do judeu e também do grego.
 
 **17** Pois nele se revela a justiça de Deus, de fé em fé, como está escrito: O justo viverá da fé.
 
@@ -2380,25 +2380,25 @@ _No Evangelho revela-se a justiça de Deus, de fé em fé: o justo viverá da f�
 
 _Todos pecaram, e todos são justificados gratuitamente pela graça, mediante a redenção em Cristo Jesus; o homem é justificado pela fé, sem as obras da lei: o texto que Trento cita para dizer em que sentido a justificação é gratuita_
 
-**21** Mas agora, sem a lei, manifestou-se a justiça de Deus, testemunhada pela lei e pelos profetas,
+**21** Agora, porém, sem a lei, manifestou-se a justiça de Deus, testemunhada pela Lei e pelos Profetas:
 
-**22** a justiça de Deus pela fé em Jesus Cristo, para todos os que creem. Pois não há distinção:
+**22** justiça de Deus pela fé em Jesus Cristo, para todos os que creem. Não há distinção:
 
-**23** todos pecaram e estão privados da glória de Deus,
+**23** todos pecaram e estão privados da glória de Deus;
 
-**24** e são justificados gratuitamente pela sua graça, por meio da redenção que está em Cristo Jesus,
+**24** e são justificados gratuitamente, pela graça dele, mediante a redenção que está em Cristo Jesus.
 
-**25** a quem Deus expôs como propiciação, pela fé, no seu sangue, para mostrar a sua justiça, por ter deixado passar os pecados cometidos outrora,
+**25** A ele Deus propôs como propiciação, pela fé, em seu sangue, para manifestar a sua justiça — pois deixara passar, na sua paciência, os pecados cometidos antes;
 
-**26** no tempo da paciência de Deus; para mostrar a sua justiça no tempo presente, de modo a ser ele justo e a justificar aquele que tem fé em Jesus.
+**26** para manifestar a sua justiça no tempo presente, a fim de ser ele justo e justificar aquele que vive da fé em Jesus.
 
-**27** Onde está, pois, o motivo de glória? Foi excluído. Por que lei? A das obras? Não, mas pela lei da fé.
+**27** Onde está, pois, a jactância? Foi excluída. Por qual lei? Pela das obras? Não, mas pela lei da fé.
 
-**28** Pois julgamos que o homem é justificado pela fé, sem as obras da lei.
+**28** Concluímos, portanto, que o homem é justificado pela fé, sem as obras da lei.
 
-**29** Ou Deus é só dos judeus? Não é também dos gentios? Sim, também dos gentios,
+**29** Ou será Deus apenas dos judeus? Não o é também dos gentios? Sim, também dos gentios,
 
-**30** visto que há um só Deus, que justificará pela fé os circuncisos e, por meio da fé, os incircuncisos.
+**30** pois um só é Deus, que justificará pela fé o circunciso, e mediante a fé o incircunciso.
 
 **31** Anulamos, então, a lei pela fé? De modo nenhum! Antes, confirmamos a lei.
 
@@ -2412,55 +2412,55 @@ _Abraão creu, e isso lhe foi contado como justiça: o versículo do Gênesis e 
 
 ### Gênesis 15,1–6
 
-**1** Depois destes acontecimentos, a palavra do Senhor foi dirigida a Abrão numa visão, dizendo: Não temas, Abrão! Eu sou o teu escudo; a tua recompensa será muito grande.
+**1** Depois destas coisas, a palavra do Senhor veio a Abrão numa visão, dizendo: Não temas, Abrão: eu sou o teu escudo, e a tua recompensa será muito grande.
 
-**2** Abrão disse: Senhor Deus, que me darás? Eu vou-me sem filhos, e quem há de possuir a minha casa é Eliezer de Damasco.
+**2** Respondeu Abrão: Senhor Deus, que me darás? Eu vou-me sem filhos, e o herdeiro da minha casa é Eliezer de Damasco.
 
-**3** E Abrão disse: Eis que não me deste descendência, e um servo nascido em minha casa será o meu herdeiro.
+**3** E acrescentou Abrão: Eis que não me deste descendência, e um servo nascido em minha casa será o meu herdeiro.
 
-**4** E eis que a palavra do Senhor lhe foi dirigida, dizendo: Não será esse o teu herdeiro; mas aquele que sair das tuas entranhas, esse será o teu herdeiro.
+**4** E eis que a palavra do Senhor lhe foi dirigida: Não será esse o teu herdeiro; o que sair das tuas entranhas, esse será o teu herdeiro.
 
-**5** E levou-o para fora e disse: Olha para o céu e conta as estrelas, se as puderes contar. E disse-lhe: Assim será a tua descendência.
+**5** E, tirando-o fora, disse-lhe: Olha para o céu e conta as estrelas, se és capaz de contá-las. E acrescentou: Assim será a tua descendência.
 
-**6** E ele creu no Senhor, e isso lhe foi contado como justiça.
+**6** E Abrão creu no Senhor, e isso lhe foi imputado como justiça.
 
 ### Romanos 4,1–8.16–25
 
-**1** Que diremos, pois, que encontrou Abraão, nosso pai segundo a carne?
+**1** Que diremos, pois, ter alcançado Abraão, nosso pai segundo a carne?
 
-**2** Se, de fato, Abraão foi justificado pelas obras, tem de que se gloriar; mas não diante de Deus.
+**2** Porque, se Abraão foi justificado pelas obras, tem de que se gloriar — mas não diante de Deus.
 
 **3** Pois que diz a Escritura? Abraão creu em Deus, e isso lhe foi contado como justiça.
 
-**4** Ora, ao que trabalha, o salário não é contado como graça, mas como dívida;
+**4** Ora, ao que trabalha, o salário não é contado como favor, mas como dívida;
 
-**5** mas ao que não trabalha, e sim crê naquele que justifica o ímpio, a sua fé é contada como justiça.
+**5** ao que, porém, não trabalha, mas crê naquele que justifica o ímpio, a sua fé lhe é contada como justiça.
 
-**6** Assim também Davi proclama a bem-aventurança do homem a quem Deus conta a justiça sem as obras:
+**6** Assim também Davi proclama bem-aventurado o homem a quem Deus atribui a justiça sem as obras:
 
 **7** Bem-aventurados aqueles cujas iniquidades foram perdoadas e cujos pecados foram cobertos;
 
-**8** bem-aventurado o homem a quem o Senhor não contará o pecado.
+**8** bem-aventurado o homem a quem o Senhor não imputa o pecado.
 
-**16** Por isso é pela fé, para que seja segundo a graça, a fim de que a promessa seja firme para toda a descendência, não só para a que é da lei, mas também para a que é da fé de Abraão, que é pai de todos nós,
+**16** Por isso é pela fé, para que seja por graça, e assim a promessa fique firme para toda a descendência — não só para a que é da lei, mas também para a que é da fé de Abraão, o qual é pai de todos nós,
 
-**17** como está escrito: Eu te constituí pai de muitas nações — diante daquele em quem creu, Deus, que dá vida aos mortos e chama o que não é como se fosse.
+**17** conforme está escrito: Eu te constituí pai de muitas nações. E ele o é diante daquele em quem creu, Deus, que vivifica os mortos e chama à existência as coisas que não são.
 
-**18** Ele, esperando contra toda esperança, creu, para vir a ser pai de muitas nações, segundo o que lhe fora dito: Assim será a tua descendência.
+**18** Esperando contra toda esperança, creu que viria a ser pai de muitas nações, segundo o que lhe fora dito: Assim será a tua descendência.
 
-**19** E, sem fraquejar na fé, considerou o seu próprio corpo já amortecido — tinha cerca de cem anos — e o seio amortecido de Sara;
+**19** E não enfraqueceu na fé ao considerar o seu corpo já amortecido — tinha quase cem anos — e o seio de Sara, igualmente morto.
 
-**20** diante da promessa de Deus não vacilou por incredulidade, mas fortaleceu-se na fé, dando glória a Deus,
+**20** Diante da promessa de Deus, não vacilou por incredulidade; ao contrário, fortaleceu-se na fé, dando glória a Deus,
 
-**21** plenamente convencido de que ele era poderoso para cumprir o que tinha prometido.
+**21** plenamente convencido de que Deus é poderoso para cumprir o que prometeu.
 
-**22** Por isso também isso lhe foi contado como justiça.
+**22** Por isso também lhe foi contado como justiça.
 
-**23** Ora, não foi só por causa dele que se escreveu que lhe foi contado,
+**23** E não foi só por causa dele que se escreveu: Foi-lhe contado;
 
-**24** mas também por causa de nós, a quem há de ser contado, a nós que cremos naquele que ressuscitou dentre os mortos Jesus, nosso Senhor,
+**24** mas também por causa de nós, a quem há de ser contado, a nós que cremos naquele que ressuscitou dos mortos a Jesus, nosso Senhor,
 
-**25** o qual foi entregue pelos nossos pecados e ressuscitado para a nossa justificação.
+**25** o qual foi entregue por causa das nossas faltas e ressuscitado para a nossa justificação.
 
 ---
 
@@ -2470,27 +2470,27 @@ _Abraão creu, e isso lhe foi contado como justiça: o versículo do Gênesis e 
 
 _Justificados pela fé, temos paz com Deus; o amor de Deus foi derramado em nossos corações pelo Espírito Santo; quando éramos inimigos, fomos reconciliados pela morte do Filho: o fruto da justificação, com o v. 5, que Trento cita ao falar da caridade derramada no justificado_
 
-**1** Justificados, pois, pela fé, temos paz com Deus por nosso Senhor Jesus Cristo,
+**1** Justificados, pois, pela fé, estamos em paz com Deus, por nosso Senhor Jesus Cristo,
 
-**2** por meio do qual também tivemos acesso, pela fé, a esta graça na qual estamos firmes, e nos gloriamos na esperança da glória de Deus.
+**2** por quem também temos acesso, pela fé, a esta graça em que nos mantemos firmes; e gloriamo-nos na esperança da glória de Deus.
 
-**3** E não só isso: também nos gloriamos nas tribulações, sabendo que a tribulação produz a perseverança,
+**3** E não só isso: gloriamo-nos até nas tribulações, sabendo que a tribulação produz a paciência;
 
-**4** a perseverança, a virtude provada, e a virtude provada, a esperança.
+**4** a paciência, a virtude provada; e a virtude provada, a esperança.
 
-**5** E a esperança não decepciona, porque o amor de Deus foi derramado nos nossos corações pelo Espírito Santo que nos foi dado.
+**5** Ora, a esperança não engana, porque o amor de Deus foi derramado nos nossos corações pelo Espírito Santo, que nos foi dado.
 
-**6** Pois Cristo, quando ainda éramos fracos, no tempo devido morreu pelos ímpios.
+**6** Com efeito, quando ainda éramos fracos, Cristo, no tempo devido, morreu pelos ímpios.
 
-**7** Dificilmente alguém morrerá por um justo; por um homem de bem talvez alguém ainda tenha a coragem de morrer.
+**7** Dificilmente alguém morre por um justo; por um homem de bem, talvez haja quem se atreva a morrer.
 
-**8** Mas Deus mostra o seu amor para conosco em que, quando ainda éramos pecadores, Cristo morreu por nós.
+**8** Mas Deus prova o seu amor para conosco: quando ainda éramos pecadores, Cristo morreu por nós.
 
-**9** Com muito mais razão, pois, justificados agora pelo seu sangue, seremos por ele salvos da ira.
+**9** Muito mais, pois, agora que fomos justificados em seu sangue, seremos por ele salvos da ira.
 
-**10** Porque, se, quando éramos inimigos, fomos reconciliados com Deus pela morte do seu Filho, com muito mais razão, uma vez reconciliados, seremos salvos pela sua vida.
+**10** Porque, se, quando éramos inimigos, fomos reconciliados com Deus pela morte de seu Filho, muito mais, já reconciliados, seremos salvos pela sua vida.
 
-**11** E não só isso: também nos gloriamos em Deus por nosso Senhor Jesus Cristo, por meio do qual agora recebemos a reconciliação.
+**11** E não só isso: gloriamo-nos em Deus, por nosso Senhor Jesus Cristo, por quem agora recebemos a reconciliação.
 
 ---
 
@@ -2502,31 +2502,31 @@ _O homem não é justificado pelas obras da lei, mas pela fé em Jesus Cristo; e
 
 ### Gálatas 2,16–21
 
-**16** sabendo, porém, que o homem não é justificado pelas obras da lei, senão pela fé em Jesus Cristo, também nós cremos em Cristo Jesus, para sermos justificados pela fé em Cristo, e não pelas obras da lei; porque pelas obras da lei ninguém será justificado.
+**16** sabendo que o homem não é justificado pelas obras da lei, mas pela fé em Jesus Cristo, também nós cremos em Cristo Jesus, para sermos justificados pela fé em Cristo e não pelas obras da lei; porque pelas obras da lei ninguém será justificado.
 
-**17** Mas, se, procurando ser justificados em Cristo, também nós fomos achados pecadores, será então Cristo ministro do pecado? De modo nenhum!
+**17** Ora, se, buscando ser justificados em Cristo, fomos também nós achados pecadores, seria então Cristo ministro do pecado? De modo nenhum!
 
-**18** Pois, se torno a edificar o que destruí, mostro que eu mesmo sou transgressor.
+**18** Pois, se torno a edificar o que destruí, constituo-me a mim mesmo transgressor.
 
-**19** Porque eu, pela lei, morri para a lei, a fim de viver para Deus. Fui crucificado com Cristo.
+**19** Na verdade, pela lei morri para a lei, a fim de viver para Deus. Estou crucificado com Cristo;
 
-**20** Vivo, mas já não sou eu: é Cristo que vive em mim. E a vida que agora vivo na carne, vivo-a na fé no Filho de Deus, que me amou e se entregou por mim.
+**20** e já não sou eu que vivo: é Cristo que vive em mim. E a vida que agora vivo na carne, vivo-a na fé no Filho de Deus, que me amou e se entregou por mim.
 
-**21** Não anulo a graça de Deus; pois, se a justiça vem pela lei, então Cristo morreu em vão.
+**21** Não anulo a graça de Deus; porque, se a justiça vem pela lei, então Cristo morreu em vão.
 
 ### Gálatas 5,1–6
 
-**1** Foi para a liberdade que Cristo nos libertou. Permanecei, pois, firmes, e não vos deixeis prender de novo ao jugo da escravidão.
+**1** Foi para a liberdade que Cristo nos libertou. Permanecei, pois, firmes, e não vos submetais de novo ao jugo da escravidão.
 
-**2** Eis que eu, Paulo, vos digo: se vos fizerdes circuncidar, Cristo de nada vos servirá.
+**2** Eis que eu, Paulo, vos digo: se vos deixardes circuncidar, Cristo de nada vos servirá.
 
-**3** E atesto de novo a todo homem que se faz circuncidar que está obrigado a cumprir a lei inteira.
+**3** Torno a declarar a todo homem que se deixa circuncidar: fica obrigado a cumprir a lei inteira.
 
-**4** Rompestes com Cristo, vós que procurais ser justificados pela lei; decaístes da graça.
+**4** Ficastes separados de Cristo, vós que buscais a justiça na lei; decaístes da graça.
 
 **5** Nós, porém, pelo Espírito, aguardamos da fé a esperança da justiça.
 
-**6** Pois em Cristo Jesus nem a circuncisão vale coisa alguma, nem a incircuncisão, mas a fé que opera pela caridade.
+**6** Porque, em Cristo Jesus, nem a circuncisão vale coisa alguma, nem a incircuncisão, mas a fé que age pelo amor.
 
 ---
 
@@ -2536,13 +2536,13 @@ _O homem não é justificado pelas obras da lei, mas pela fé em Jesus Cristo; e
 
 _Salvou-nos, não pelas obras de justiça que tivéssemos feito, mas pela sua misericórdia, pelo banho da regeneração: justificados pela sua graça, tornamo-nos herdeiros — o texto que Trento cita ao dizer que a justificação se dá pelo batismo_
 
-**4** Mas, quando se manifestaram a bondade de Deus, nosso Salvador, e o seu amor pelos homens,
+**4** Mas, quando se manifestaram a bondade e o amor de Deus, nosso Salvador, pelos homens,
 
-**5** ele nos salvou, não em virtude de obras de justiça que nós tivéssemos feito, mas segundo a sua misericórdia, pelo banho da regeneração e da renovação do Espírito Santo,
+**5** ele nos salvou, não por obras de justiça que tivéssemos feito, mas segundo a sua misericórdia, pelo banho da regeneração e da renovação do Espírito Santo,
 
-**6** que ele derramou abundantemente sobre nós por Jesus Cristo, nosso Salvador,
+**6** que ele derramou sobre nós com abundância, por Jesus Cristo, nosso Salvador;
 
-**7** a fim de que, justificados pela sua graça, nos tornássemos herdeiros da vida eterna, segundo a esperança.
+**7** para que, justificados pela graça dele, nos tornássemos herdeiros, segundo a esperança da vida eterna.
 
 ---
 
@@ -2552,31 +2552,31 @@ _Salvou-nos, não pelas obras de justiça que tivéssemos feito, mas pela sua mi
 
 _A fé sem obras é morta; o homem é justificado pelas obras, e não só pela fé: o mesmo versículo de Abraão que Paulo lê em Romanos 4, lido do outro lado, e que Trento cita para dizer que a justiça recebida cresce pelas obras_
 
-**14** De que aproveita, meus irmãos, se alguém diz que tem fé, mas não tem obras? Pode acaso a fé salvá-lo?
+**14** De que serve, meus irmãos, que alguém diga que tem fé, se não tem obras? Acaso poderá essa fé salvá-lo?
 
-**15** Se um irmão ou uma irmã estiverem nus e lhes faltar o alimento de cada dia,
+**15** Se um irmão ou uma irmã estão nus e lhes falta o alimento de cada dia,
 
-**16** e algum de vós lhes disser: Ide em paz, aquecei-vos e saciai-vos, mas não lhes derdes o que é necessário ao corpo, de que aproveita?
+**16** e algum de vós lhes diz: Ide em paz, aquecei-vos e saciai-vos — mas não lhes dais o necessário ao corpo, de que serve isso?
 
-**17** Assim também a fé: se não tiver obras, é morta em si mesma.
+**17** Assim também a fé, se não tiver obras, está morta em si mesma.
 
 **18** Mas alguém dirá: Tu tens fé, e eu tenho obras. Mostra-me a tua fé sem as obras, e eu, pelas minhas obras, te mostrarei a fé.
 
-**19** Tu crês que há um só Deus? Fazes bem. Também os demônios creem, e estremecem.
+**19** Tu crês que há um só Deus? Fazes bem. Também os demônios creem — e tremem.
 
-**20** Queres saber, ó homem vão, que a fé sem as obras é ociosa?
+**20** Queres saber, ó homem vão, que a fé sem obras é inútil?
 
-**21** Abraão, nosso pai, não foi justificado pelas obras, quando ofereceu sobre o altar o seu filho Isaac?
+**21** Abraão, nosso pai, não foi justificado pelas obras, ao oferecer o seu filho Isaac sobre o altar?
 
-**22** Vês que a fé cooperava com as suas obras, e que pelas obras a fé se tornou perfeita;
+**22** Vês que a fé cooperava com as suas obras, e que pelas obras a fé se tornou perfeita.
 
-**23** e cumpriu-se a Escritura que diz: Abraão creu em Deus, e isso lhe foi contado como justiça; e foi chamado amigo de Deus.
+**23** Assim se cumpriu a Escritura que diz: Abraão creu em Deus, e isso lhe foi contado como justiça; e foi chamado amigo de Deus.
 
-**24** Vedes que o homem é justificado pelas obras, e não só pela fé.
+**24** Vedes que o homem é justificado pelas obras, e não somente pela fé.
 
-**25** Do mesmo modo, também Raab, a prostituta, não foi justificada pelas obras, quando acolheu os mensageiros e os fez partir por outro caminho?
+**25** Do mesmo modo, não foi também Raab, a prostituta, justificada pelas obras, ao acolher os mensageiros e fazê-los sair por outro caminho?
 
-**26** Pois, assim como o corpo sem o espírito é morto, assim também a fé sem as obras é morta.
+**26** Porque, assim como o corpo sem espírito está morto, assim também a fé sem obras está morta.
 
 ---
 
@@ -2586,7 +2586,7 @@ _A fé sem obras é morta; o homem é justificado pelas obras, e não só pela f
 
 _Sem fé é impossível agradar a Deus: o versículo que Trento cita duas vezes, ao descrever a preparação para a justificação e ao dizer que a fé é o seu início, fundamento e raiz_
 
-**6** Ora, sem fé é impossível agradar-lhe; pois quem se aproxima de Deus deve crer que ele existe e que recompensa os que o buscam.
+**6** Ora, sem a fé é impossível agradar-lhe; pois é preciso que aquele que se aproxima de Deus creia que ele existe e que recompensa os que o buscam.
 
 ---
 
@@ -2600,17 +2600,17 @@ _O fariseu e o publicano: o que confiava na própria justiça volta para casa co
 >
 > **Por que não.** Nenhum documento do eixo a cita ao definir; o Catecismo cita-a só a propósito da oração.
 
-**9** Disse também esta parábola a alguns que confiavam em si mesmos, tendo-se por justos, e desprezavam os outros:
+**9** Disse também esta parábola a alguns que confiavam em si mesmos, por se julgarem justos, e desprezavam os outros:
 
-**10** Dois homens subiram ao templo para orar: um era fariseu, e o outro publicano.
+**10** Dois homens subiram ao templo para orar: um fariseu e o outro publicano.
 
-**11** O fariseu, de pé, orava assim consigo mesmo: Ó Deus, eu te dou graças porque não sou como os demais homens, ladrões, injustos, adúlteros, nem como este publicano.
+**11** O fariseu, de pé, orava assim consigo mesmo: Ó Deus, dou-te graças porque não sou como os outros homens, ladrões, injustos, adúlteros, nem como este publicano.
 
-**12** Jejuo duas vezes por semana, pago o dízimo de tudo o que adquiro.
+**12** Jejuo duas vezes por semana e pago o dízimo de tudo o que ganho.
 
-**13** O publicano, porém, mantendo-se à distância, nem sequer queria levantar os olhos ao céu, mas batia no peito, dizendo: Ó Deus, sê propício a mim, pecador!
+**13** O publicano, porém, mantendo-se à distância, nem sequer ousava levantar os olhos ao céu, mas batia no peito, dizendo: Ó Deus, tem piedade de mim, pecador.
 
-**14** Digo-vos: este desceu justificado para sua casa, e não aquele; porque todo aquele que se exalta será humilhado, e quem se humilha será exaltado.
+**14** Digo-vos que este desceu justificado para sua casa, e não aquele; porque todo o que se exalta será humilhado, e o que se humilha será exaltado.
 
 ---
 
@@ -2624,13 +2624,13 @@ _Ser achado em Cristo, não com a minha justiça, a que vem da lei, mas com a qu
 >
 > **Por que não.** A citação tridentina é só alusiva, e não há documento que o cite ao definir.
 
-**7** Mas o que para mim era lucro, isso considerei perda por causa de Cristo.
+**7** Mas o que era para mim lucro, isso considerei perda por causa de Cristo.
 
-**8** Mais ainda: considero tudo como perda, diante da sublimidade do conhecimento de Cristo Jesus, meu Senhor, por quem perdi todas as coisas, e as considero como lixo, a fim de ganhar Cristo
+**8** Sim, tudo considero perda, diante da sublimidade do conhecimento de Cristo Jesus, meu Senhor. Por ele perdi tudo, e tudo tenho por esterco, para ganhar a Cristo
 
-**9** e ser achado nele, não tendo a minha justiça, a que vem da lei, mas a que vem pela fé em Cristo, a justiça que vem de Deus, fundada na fé;
+**9** e nele ser achado, não com a minha justiça, a que vem da lei, mas com a que vem pela fé em Cristo, a justiça que vem de Deus e se apoia na fé;
 
-**10** para conhecê-lo, a ele e ao poder da sua ressurreição, e a comunhão nos seus sofrimentos, tornando-me conforme a ele na sua morte,
+**10** para conhecê-lo, e à força da sua ressurreição, e à comunhão dos seus sofrimentos, conformando-me à sua morte,
 
 **11** para ver se de algum modo chego à ressurreição dentre os mortos.
 
@@ -3194,23 +3194,23 @@ Participantes da natureza divina: a graça infusa, as virtudes, a filiação.
 
 _O poder divino deu-nos as promessas pelas quais nos tornamos participantes da natureza divina: é o versículo de que a teologia tira o nome da graça santificante, e o que se segue mostra que esse dom pede crescimento e firmeza_
 
-**3** O seu divino poder deu-nos tudo o que diz respeito à vida e à piedade, pelo conhecimento daquele que nos chamou pela sua própria glória e virtude.
+**3** O seu poder divino deu-nos tudo o que conduz à vida e à piedade, pelo conhecimento daquele que nos chamou pela sua própria glória e virtude.
 
-**4** Por elas nos foram dadas as preciosas e grandíssimas promessas, para que por meio delas vos torneis participantes da natureza divina, fugindo da corrupção que há no mundo pela concupiscência.
+**4** Por elas nos foram dadas as preciosas e enormes promessas, para que por elas vos torneis participantes da natureza divina, escapando à corrupção que a concupiscência gerou no mundo.
 
-**5** Por isso mesmo, pondo nisso todo o empenho, acrescentai à vossa fé a virtude, à virtude o conhecimento,
+**5** Por isso mesmo, ponde todo empenho em unir à vossa fé a virtude; à virtude, o conhecimento;
 
-**6** ao conhecimento o domínio de si, ao domínio de si a perseverança, à perseverança a piedade,
+**6** ao conhecimento, o domínio de si; ao domínio de si, a constância; à constância, a piedade;
 
-**7** à piedade o amor fraterno, e ao amor fraterno a caridade.
+**7** à piedade, o amor fraterno; e ao amor fraterno, a caridade.
 
-**8** Pois, se estas coisas estiverem em vós e forem crescendo, não vos deixarão inativos nem sem fruto no conhecimento de nosso Senhor Jesus Cristo.
+**8** Porque, se essas coisas existem em vós e crescem, não vos deixarão ociosos nem estéreis no conhecimento de nosso Senhor Jesus Cristo.
 
-**9** Quem não as tem é cego, de vista curta, e esqueceu-se da purificação dos seus antigos pecados.
+**9** Quem não as tem é cego, ou míope, esquecido da purificação dos seus antigos pecados.
 
-**10** Por isso, irmãos, esforçai-vos ainda mais por tornar firme a vossa vocação e eleição; pois, fazendo isto, jamais tropeçareis.
+**10** Por isso, irmãos, empenhai-vos ainda mais em tornar firme a vossa vocação e eleição; fazendo isso, jamais tropeçareis.
 
-**11** Assim vos será concedida com abundância a entrada no reino eterno de nosso Senhor e Salvador Jesus Cristo.
+**11** E assim vos será largamente concedida a entrada no Reino eterno de nosso Senhor e Salvador Jesus Cristo.
 
 ---
 
@@ -3222,7 +3222,7 @@ _Os que recebem o Verbo recebem o poder de se tornar filhos de Deus: a filiaçã
 
 **12** Mas a todos os que o receberam deu o poder de se tornarem filhos de Deus: aos que creem no seu nome,
 
-**13** os quais não foram gerados do sangue, nem da vontade da carne, nem da vontade do homem, mas de Deus.
+**13** os quais não nasceram do sangue, nem da vontade da carne, nem da vontade do homem, mas de Deus.
 
 ---
 
@@ -3234,13 +3234,13 @@ _Somos chamados filhos de Deus, e o somos já: a filiação não é só um nome,
 
 ### 1 João 3,1–2
 
-**1** Vede que grande amor nos deu o Pai: sermos chamados filhos de Deus; e nós o somos. Por isso o mundo não nos conhece: porque não o conheceu.
+**1** Vede que amor nos deu o Pai: que fôssemos chamados filhos de Deus — e nós o somos! Se o mundo não nos conhece, é porque não o conheceu a ele.
 
-**2** Amados, agora somos filhos de Deus, e ainda não se manifestou o que havemos de ser. Sabemos que, quando se manifestar, seremos semelhantes a ele, porque o veremos tal como é.
+**2** Caríssimos, agora somos filhos de Deus, e ainda não se manifestou o que havemos de ser. Sabemos que, quando ele se manifestar, seremos semelhantes a ele, porque o veremos tal como é.
 
 ### 1 João 3,9
 
-**9** Todo aquele que foi gerado de Deus não comete pecado, porque a sua semente permanece nele; e não pode pecar, porque foi gerado de Deus.
+**9** Todo o que nasceu de Deus não comete pecado, porque a semente de Deus permanece nele; e não pode pecar, porque nasceu de Deus.
 
 ---
 
@@ -3258,7 +3258,7 @@ _Viremos a ele e nele faremos morada: o texto em que se apoia a doutrina da inab
 
 **16** E eu rogarei ao Pai, e ele vos dará outro Paráclito, para que esteja convosco para sempre:
 
-**17** o Espírito da verdade, que o mundo não pode receber, porque não o vê nem o conhece; vós o conheceis, porque permanece junto de vós e estará em vós.
+**17** o Espírito da verdade, que o mundo não pode receber, porque não o vê nem o conhece; vós o conheceis, porque permanece convosco e estará em vós.
 
 **18** Não vos deixarei órfãos; virei a vós.
 
@@ -3266,11 +3266,11 @@ _Viremos a ele e nele faremos morada: o texto em que se apoia a doutrina da inab
 
 **20** Naquele dia conhecereis que eu estou em meu Pai, e vós em mim, e eu em vós.
 
-**21** Quem tem os meus mandamentos e os guarda, esse é que me ama; e quem me ama será amado por meu Pai, e eu o amarei e me manifestarei a ele.
+**21** Quem tem os meus mandamentos e os guarda, esse é o que me ama; e quem me ama será amado por meu Pai, e eu o amarei e me manifestarei a ele.
 
-**22** Disse-lhe Judas, não o Iscariotes: Senhor, que aconteceu, para que hajas de manifestar-te a nós e não ao mundo?
+**22** Disse-lhe Judas, não o Iscariotes: Senhor, como é que te hás de manifestar a nós e não ao mundo?
 
-**23** Respondeu Jesus e disse-lhe: Se alguém me ama, guardará a minha palavra, e meu Pai o amará, e viremos a ele e nele faremos morada.
+**23** Respondeu-lhe Jesus: Se alguém me ama, guardará a minha palavra, e meu Pai o amará, e viremos a ele e faremos nele a nossa morada.
 
 ### Romanos 8,14–17
 
@@ -3278,23 +3278,23 @@ _Recebestes o Espírito de adoção filial: o versículo 15 é o que Trento cita
 
 **14** Pois todos os que são conduzidos pelo Espírito de Deus, esses são filhos de Deus.
 
-**15** Não recebestes um espírito de escravidão, para recairdes no temor, mas recebestes o Espírito de adoção filial, no qual clamamos: Abba, Pai!
+**15** E não recebestes um espírito de escravidão, para recairdes no temor; recebestes o Espírito de adoção, no qual clamamos: Abba, Pai!
 
-**16** O próprio Espírito dá testemunho ao nosso espírito de que somos filhos de Deus.
+**16** O próprio Espírito dá testemunho, junto ao nosso espírito, de que somos filhos de Deus.
 
-**17** E, se filhos, também herdeiros: herdeiros de Deus e coerdeiros de Cristo, se é que sofremos com ele, para que também com ele sejamos glorificados.
+**17** E, se filhos, também herdeiros: herdeiros de Deus e coerdeiros de Cristo, contanto que soframos com ele, para com ele sermos glorificados.
 
 ### Gálatas 4,4–7
 
 _O Pai envia o Filho para que recebamos a adoção, e envia o Espírito do Filho porque somos filhos: já não escravo, mas filho e herdeiro_
 
-**4** Mas, quando veio a plenitude do tempo, enviou Deus o seu Filho, nascido de mulher, nascido sob a Lei,
+**4** Mas, quando veio a plenitude do tempo, Deus enviou o seu Filho, nascido de mulher, nascido sob a lei,
 
-**5** para resgatar os que estavam sob a Lei, a fim de que recebêssemos a adoção filial.
+**5** para resgatar os que estavam sob a lei, a fim de recebermos a adoção de filhos.
 
-**6** E, porque sois filhos, enviou Deus aos nossos corações o Espírito do seu Filho, que clama: Abba, Pai!
+**6** E, porque sois filhos, Deus enviou aos nossos corações o Espírito de seu Filho, que clama: Abba, Pai!
 
-**7** De modo que já não és escravo, mas filho; e, se filho, também herdeiro, por obra de Deus.
+**7** Portanto, já não és escravo, mas filho; e, se filho, também herdeiro, por graça de Deus.
 
 ---
 
@@ -3310,7 +3310,7 @@ _A comunidade é templo de Deus porque o Espírito de Deus habita nela_
 
 **16** Não sabeis que sois templo de Deus e que o Espírito de Deus habita em vós?
 
-**17** Se alguém destruir o templo de Deus, Deus o destruirá; pois o templo de Deus é santo, e esse templo sois vós.
+**17** Se alguém destruir o templo de Deus, Deus o destruirá; porque o templo de Deus é santo, e esse templo sois vós.
 
 ### 1 Coríntios 6,19–20
 
@@ -3318,7 +3318,7 @@ _O próprio corpo de cada fiel é templo do Espírito Santo_
 
 **19** Ou não sabeis que o vosso corpo é templo do Espírito Santo, que está em vós e que recebestes de Deus, e que não pertenceis a vós mesmos?
 
-**20** Pois fostes comprados por alto preço. Glorificai, pois, a Deus no vosso corpo.
+**20** Porque fostes comprados por um preço. Glorificai, pois, a Deus no vosso corpo.
 
 ---
 
@@ -3330,25 +3330,25 @@ _Quem está em Cristo é nova criatura, e reveste-se do homem novo, criado segun
 
 ### 2 Coríntios 5,17–21
 
-**17** Por isso, se alguém está em Cristo, é nova criatura: o que era antigo passou, e eis que se fizeram coisas novas.
+**17** Portanto, se alguém está em Cristo, é nova criatura: as coisas antigas passaram; eis que surgiram coisas novas.
 
-**18** E tudo vem de Deus, que nos reconciliou consigo por meio de Cristo e nos deu o ministério da reconciliação;
+**18** E tudo isso vem de Deus, que nos reconciliou consigo por Cristo e nos confiou o ministério da reconciliação.
 
-**19** porque era Deus que, em Cristo, reconciliava o mundo consigo, não lhes imputando as suas transgressões, e pôs em nós a palavra da reconciliação.
+**19** Porque Deus estava em Cristo reconciliando consigo o mundo, não imputando aos homens as suas transgressões, e pôs em nós a palavra da reconciliação.
 
-**20** Somos, pois, embaixadores em nome de Cristo, como se Deus exortasse por meio de nós. Em nome de Cristo vos pedimos: reconciliai-vos com Deus.
+**20** Somos, pois, embaixadores de Cristo, como se Deus exortasse por meio de nós. Em nome de Cristo vos suplicamos: deixai-vos reconciliar com Deus.
 
-**21** Aquele que não conheceu o pecado, Deus o fez pecado por nós, para que nós nos tornássemos nele justiça de Deus.
+**21** Aquele que não conheceu pecado, Deus o fez pecado por nós, para que nele nos tornássemos justiça de Deus.
 
 ### Efésios 4,22–24
 
 _A frase depende do v. 21: foi isto que aprendestes em Cristo. O v. 23 é o que Trento cita para dizer que na justificação somos renovados no espírito da nossa mente_
 
-**22** que vos despojeis, quanto ao vosso antigo modo de viver, do homem velho, que se vai corrompendo segundo as concupiscências do engano,
+**22** que deveis despojar-vos do homem velho, do vosso modo antigo de viver, corrompido pelas concupiscências enganadoras,
 
-**23** que vos renoveis no espírito da vossa mente,
+**23** renovar-vos no espírito da vossa mente,
 
-**24** e que vos revistais do homem novo, criado segundo Deus na justiça e na santidade da verdade.
+**24** e revestir-vos do homem novo, criado segundo Deus na justiça e na santidade da verdade.
 
 ---
 
@@ -3714,13 +3714,13 @@ _Os mandamentos de Deus não são pesados, e o jugo de Cristo é suave: os dois 
 
 ### 1 João 5,3
 
-**3** Pois este é o amor de Deus: que guardemos os seus mandamentos; e os seus mandamentos não são pesados.
+**3** Porque o amor de Deus consiste em guardarmos os seus mandamentos — e os seus mandamentos não são pesados.
 
 ### Mateus 11,28–30
 
-**28** Vinde a mim, todos vós que estais cansados e sobrecarregados, e eu vos darei descanso.
+**28** Vinde a mim, todos vós que estais cansados e sobrecarregados, e eu vos aliviarei.
 
-**29** Tomai sobre vós o meu jugo e aprendei de mim, que sou manso e humilde de coração, e encontrareis descanso para as vossas almas.
+**29** Tomai sobre vós o meu jugo e aprendei de mim, porque sou manso e humilde de coração, e encontrareis descanso para as vossas almas.
 
 **30** Porque o meu jugo é suave, e o meu fardo é leve.
 
@@ -3732,9 +3732,9 @@ _Os mandamentos de Deus não são pesados, e o jugo de Cristo é suave: os dois 
 
 _Quem julga estar de pé cuide de não cair; e Deus, que é fiel, não permite a tentação acima das forças: o v. 12 está no capítulo de Trento sobre a perseverança, e o v. 13 é o que a primeira proposição de Jansênio contradiz_
 
-**12** Portanto, quem julga estar de pé cuide de não cair.
+**12** Portanto, quem julga estar de pé, veja que não caia.
 
-**13** Nenhuma tentação vos sobreveio que não fosse humana. Deus é fiel: não permitirá que sejais tentados acima das vossas forças, mas com a tentação dará também a saída, para que possais suportá-la.
+**13** Não vos sobreveio tentação que não fosse humana; e Deus é fiel: ele não permitirá que sejais tentados acima das vossas forças, mas, com a tentação, dará também a saída, para que possais suportar.
 
 ---
 
@@ -3746,21 +3746,21 @@ _O Apóstolo corre para não ser reprovado, e só quem perseverar até o fim ser
 
 ### 1 Coríntios 9,24–27
 
-**24** Não sabeis que os que correm no estádio correm todos, mas um só recebe o prêmio? Correi de tal modo que o alcanceis.
+**24** Não sabeis que os que correm no estádio, todos correm, mas um só recebe o prêmio? Correi de tal modo que o alcanceis.
 
-**25** Todo atleta se abstém de tudo; eles, para receberem uma coroa corruptível; nós, porém, uma incorruptível.
+**25** Todo atleta se abstém de tudo; eles, para receber uma coroa corruptível; nós, uma incorruptível.
 
-**26** Eu, pois, corro assim, não como quem corre sem rumo; luto assim, não como quem dá golpes no ar.
+**26** Eu, portanto, corro assim: não como quem corre sem rumo; luto assim: não como quem golpeia o ar.
 
-**27** Mas castigo o meu corpo e o reduzo à servidão, para que não suceda que, tendo pregado aos outros, eu mesmo seja reprovado.
+**27** Mas trato duramente o meu corpo e o reduzo à servidão, para que, tendo pregado aos outros, não venha eu mesmo a ser reprovado.
 
 ### Mateus 10,22
 
-**22** E sereis odiados por todos por causa do meu nome; mas quem perseverar até o fim, esse será salvo.
+**22** E sereis odiados por todos por causa do meu nome; mas quem perseverar até ao fim, esse será salvo.
 
 ### Mateus 24,13
 
-**13** Mas quem perseverar até o fim, esse será salvo.
+**13** Mas quem perseverar até ao fim, esse será salvo.
 
 ---
 
@@ -3770,11 +3770,11 @@ _O Apóstolo corre para não ser reprovado, e só quem perseverar até o fim ser
 
 _Se dissermos que não temos pecado, enganamo-nos a nós mesmos: o texto que Cartago, cân. 6, manda entender como verdade e não como modéstia; Tg 3,2 e o perdoai-nos as nossas dívidas de Mt 6,12 vêm citados dentro dos cânones seguintes_
 
-**8** Se dissermos que não temos pecado, enganamo-nos a nós mesmos, e a verdade não está em nós.
+**8** Se dizemos que não temos pecado, enganamo-nos a nós mesmos, e a verdade não está em nós.
 
-**9** Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça.
+**9** Se confessamos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça.
 
-**10** Se dissermos que não pecamos, fazemos dele um mentiroso, e a sua palavra não está em nós.
+**10** Se dizemos que não pecamos, fazemos dele um mentiroso, e a sua palavra não está em nós.
 
 ---
 
@@ -3784,11 +3784,11 @@ _Se dissermos que não temos pecado, enganamo-nos a nós mesmos: o texto que Car
 
 _Nem os impuros, nem os ladrões, nem os avarentos herdarão o reino de Deus — e isso eram alguns de vós, mas fostes lavados: com os v. 9–10 Trento prova que não é só a infidelidade que exclui do reino, mas todo pecado mortal_
 
-**9** Ou não sabeis que os injustos não herdarão o reino de Deus? Não vos enganeis: nem os impuros, nem os idólatras, nem os adúlteros, nem os efeminados, nem os sodomitas,
+**9** Ou não sabeis que os injustos não herdarão o Reino de Deus? Não vos enganeis: nem fornicadores, nem idólatras, nem adúlteros, nem efeminados, nem sodomitas,
 
-**10** nem os ladrões, nem os avarentos, nem os bêbados, nem os maldizentes, nem os rapaces herdarão o reino de Deus.
+**10** nem ladrões, nem avarentos, nem beberrões, nem maldizentes, nem assaltantes herdarão o Reino de Deus.
 
-**11** E isso éreis alguns de vós; mas fostes lavados, fostes santificados, fostes justificados no nome do Senhor Jesus Cristo e no Espírito do nosso Deus.
+**11** E isto fostes alguns de vós; mas fostes lavados, mas fostes santificados, mas fostes justificados, no nome do Senhor Jesus Cristo e no Espírito do nosso Deus.
 
 ---
 
@@ -3798,29 +3798,29 @@ _Nem os impuros, nem os ladrões, nem os avarentos herdarão o reino de Deus —
 
 _Não reine o pecado no vosso corpo mortal; oferecei os vossos membros à justiça, para a santificação, e o fim é a vida eterna: a passagem com que Trento, cap. 10 e 11, descreve o crescimento do justificado_
 
-**12** Não reine, pois, o pecado no vosso corpo mortal, de modo que obedeçais aos seus desejos;
+**12** Não reine, portanto, o pecado no vosso corpo mortal, de modo que obedeçais aos seus desejos;
 
-**13** nem ofereçais os vossos membros ao pecado como armas de injustiça; mas oferecei-vos a Deus, como vivos que voltaram dentre os mortos, e os vossos membros a Deus como armas de justiça.
+**13** nem ofereçais os vossos membros ao pecado como armas de injustiça; mas oferecei-vos a Deus como vivos, saídos da morte, e os vossos membros a Deus, como armas de justiça.
 
-**14** Pois o pecado não terá domínio sobre vós, porque não estais sob a lei, mas sob a graça.
+**14** O pecado não terá domínio sobre vós, pois não estais sob a lei, mas sob a graça.
 
-**15** Quê, pois? Havemos de pecar, porque não estamos sob a lei, mas sob a graça? De modo nenhum!
+**15** Que então? Havemos de pecar, porque não estamos sob a lei, mas sob a graça? De modo nenhum!
 
-**16** Não sabeis que, àquele a quem vos ofereceis como servos para lhe obedecer, desse sois servos, a quem obedeceis: seja do pecado, para a morte, seja da obediência, para a justiça?
+**16** Não sabeis que, quando vos ofereceis a alguém como escravos para lhe obedecer, sois escravos daquele a quem obedeceis — ou do pecado, para a morte, ou da obediência, para a justiça?
 
-**17** Mas graças a Deus, porque, tendo sido servos do pecado, obedecestes de coração à forma de doutrina a que fostes entregues;
+**17** Graças a Deus, porém, porque fostes escravos do pecado, mas obedecestes de coração à forma de doutrina a que fostes entregues;
 
-**18** e, libertos do pecado, fostes feitos servos da justiça.
+**18** e, libertados do pecado, vos tornastes servos da justiça.
 
-**19** Falo à maneira humana, por causa da fraqueza da vossa carne. Assim como oferecestes os vossos membros como servos à impureza e à iniquidade, para a iniquidade, assim oferecei agora os vossos membros como servos à justiça, para a santificação.
+**19** Falo à maneira humana, por causa da fraqueza da vossa carne. Assim como oferecestes os vossos membros como escravos da impureza e da iniquidade, para a iniquidade, assim agora oferecei os vossos membros como servos da justiça, para a santificação.
 
-**20** Pois, quando éreis servos do pecado, éreis livres em relação à justiça.
+**20** Quando éreis escravos do pecado, éreis livres quanto à justiça.
 
-**21** Que fruto tínheis então? Coisas de que agora vos envergonhais, porque o fim delas é a morte.
+**21** Que fruto colhíeis então daquilo de que agora vos envergonhais? O fim de tais coisas é a morte.
 
-**22** Mas agora, libertos do pecado e feitos servos de Deus, tendes o vosso fruto para a santificação, e o fim, a vida eterna.
+**22** Agora, porém, libertados do pecado e feitos servos de Deus, tendes por fruto a santificação, e por fim, a vida eterna.
 
-**23** Porque o salário do pecado é a morte; mas o dom gratuito de Deus é a vida eterna em Cristo Jesus, nosso Senhor.
+**23** Porque o salário do pecado é a morte; mas o dom gratuito de Deus é a vida eterna, em Cristo Jesus, nosso Senhor.
 
 ---
 
@@ -3838,17 +3838,17 @@ _O justo continue a praticar a justiça; não esperes a morte para te justificar
 
 _Trento cita este versículo na forma da Vulgata: Quem é justo justifique-se ainda_
 
-**11** O injusto continue a praticar a injustiça, e o impuro continue a manchar-se; e o justo continue a praticar a justiça, e o santo continue a santificar-se.
+**11** Quem faz o mal continue a fazer o mal, e quem é impuro continue na impureza; o justo continue a praticar a justiça, e o santo continue a santificar-se.
 
 ### Eclesiástico 18,22
 
 _O grego fala do voto, que se deve cumprir sem demora. Trento cita o versículo na forma da Vulgata: Não receies justificar-te até a morte_
 
-**22** Que nada te impeça de cumprir o voto no tempo devido, e não esperes até a morte para te justificares.
+**22** Não deixes que nada te impeça de cumprir um voto no tempo oportuno, e não esperes a morte para te justificares, pois a recompensa de Deus permanece para sempre.
 
 ### 2 Coríntios 4,16
 
-**16** Por isso não desanimamos; mas, ainda que o nosso homem exterior se vá desfazendo, o homem interior renova-se dia a dia.
+**16** Por isso não desanimamos; pelo contrário, ainda que o nosso homem exterior se vá desgastando, o interior se renova dia após dia.
 
 ---
 
@@ -3864,35 +3864,35 @@ _Se o justo se desviar da sua justiça, morrerá; e o gentio enxertado na olivei
 
 ### Ezequiel 18,21–28
 
-**21** Mas, se o ímpio se converter de todos os pecados que cometeu, guardar todos os meus estatutos e praticar o direito e a justiça, certamente viverá; não morrerá.
+**21** Mas, se o ímpio se converter de todos os pecados que cometeu, guardar todos os meus preceitos e praticar o direito e a justiça, certamente viverá; não morrerá.
 
-**22** De todas as transgressões que cometeu, nenhuma lhe será lembrada; pela justiça que praticou, viverá.
+**22** Nenhuma das transgressões que cometeu será lembrada contra ele; viverá por causa da justiça que praticou.
 
-**23** Acaso tenho eu prazer na morte do ímpio — oráculo do Senhor Deus —, e não antes em que ele se converta dos seus caminhos e viva?
+**23** Acaso tenho eu prazer na morte do ímpio, oráculo do Senhor Deus, e não antes em que se converta dos seus caminhos e viva?
 
-**24** Mas, se o justo se desviar da sua justiça e praticar a iniquidade, agindo segundo todas as abominações que o ímpio pratica, acaso viverá? De todas as obras justas que praticou, nenhuma será lembrada; pela infidelidade que cometeu e pelo pecado em que caiu, por eles morrerá.
+**24** Mas, se o justo se afastar da sua justiça e praticar a iniquidade, segundo todas as abominações que o ímpio costuma praticar, viverá ele? Nenhuma das obras justas que praticou será lembrada; por causa da infidelidade que cometeu e do pecado em que caiu, por isso morrerá.
 
-**25** E dizeis: O caminho do Senhor não é reto. Ouvi, pois, casa de Israel: acaso é o meu caminho que não é reto? Não são antes os vossos caminhos que não são retos?
+**25** E vós dizeis: O caminho do Senhor não é justo. Ouvi, pois, casa de Israel: É o meu caminho que não é justo? Não são antes os vossos caminhos que são tortos?
 
-**26** Quando o justo se desvia da sua justiça e pratica a iniquidade, morre por causa disso; morre pela iniquidade que praticou.
+**26** Quando o justo se afasta da sua justiça e pratica a iniquidade, morrerá; morrerá pela iniquidade que praticou.
 
-**27** E, quando o ímpio se desvia da impiedade que cometeu e pratica o direito e a justiça, conserva a vida da sua alma.
+**27** E quando o ímpio se afasta da impiedade que praticou e pratica o direito e a justiça, ele conserva a sua vida;
 
-**28** Porque refletiu e se converteu de todas as transgressões que cometeu, certamente viverá; não morrerá.
+**28** porque refletiu e se afastou de todas as transgressões que cometeu, certamente viverá; não morrerá.
 
 ### Romanos 11,17–22
 
-**17** Se, porém, alguns dos ramos foram cortados, e tu, sendo zambujeiro, foste enxertado entre eles e te tornaste participante da raiz e da seiva da oliveira,
+**17** Se alguns ramos foram cortados, e tu, oliveira brava, foste enxertado no lugar deles e feito participante da raiz e da seiva da oliveira,
 
-**18** não te glories contra os ramos; e, se te glorias, sabe que não és tu que sustentas a raiz, mas a raiz a ti.
+**18** não te glories contra os ramos. Se te glorias, lembra-te de que não és tu que sustentas a raiz, mas a raiz é que te sustenta.
 
-**19** Dirás então: Os ramos foram cortados para que eu fosse enxertado.
+**19** Dirás, então: Os ramos foram cortados para que eu fosse enxertado.
 
-**20** Bem: foram cortados pela incredulidade, e tu estás de pé pela fé. Não te ensoberbeças, mas teme.
+**20** Muito bem. Foram cortados por causa da incredulidade; tu, porém, estás firme pela fé. Não te ensoberbeças; antes, teme.
 
-**21** Porque, se Deus não poupou os ramos naturais, também não te poupará a ti.
+**21** Porque, se Deus não poupou os ramos naturais, também não há de poupar-te a ti.
 
-**22** Considera, pois, a bondade e a severidade de Deus: severidade para com os que caíram; para contigo, a bondade de Deus, se permaneceres na bondade; do contrário, também tu serás cortado.
+**22** Considera, pois, a bondade e a severidade de Deus: severidade para com os que caíram; bondade de Deus para contigo, se permaneceres nessa bondade — do contrário, também tu serás cortado.
 
 ---
 
@@ -4350,11 +4350,11 @@ As boas obras do justo, dom de Deus e mérito do homem.
 
 _Paulo, no fim da vida, espera a coroa da justiça que o Senhor, justo juiz, lhe há de retribuir, a ele e a todos os que amaram a sua vinda: o versículo em que Trento lê a vida eterna ao mesmo tempo como graça e como recompensa_
 
-**6** Quanto a mim, já estou sendo oferecido em libação, e chegou o tempo da minha partida.
+**6** Quanto a mim, já estou a ser derramado em libação, e o tempo da minha partida está próximo.
 
-**7** Combati o bom combate, terminei a corrida, guardei a fé.
+**7** Travei o bom combate, terminei a corrida, guardei a fé.
 
-**8** Quanto ao mais, está-me reservada a coroa da justiça, que o Senhor, o justo juiz, me retribuirá naquele dia; e não só a mim, mas a todos os que amaram a sua manifestação.
+**8** Resta-me agora receber a coroa da justiça, que o Senhor, justo juiz, me dará naquele dia — e não só a mim, mas também a todos os que amam a sua manifestação.
 
 ---
 
@@ -4366,25 +4366,25 @@ _Deus não se esquece da obra dos seus, a confiança tem grande recompensa, e ne
 
 ### Hebreus 6,10–12
 
-**10** Porque Deus não é injusto para se esquecer da vossa obra e do amor que mostrastes pelo seu nome, vós que servistes os santos e ainda os servis.
+**10** Porque Deus não é injusto para esquecer a vossa obra e o amor que mostrastes ao seu nome, servindo aos santos, como ainda servis.
 
-**11** Desejamos, porém, que cada um de vós mostre o mesmo zelo até o fim, para a plena certeza da esperança,
+**11** Desejamos, porém, que cada um de vós mostre o mesmo zelo até o fim, para a plena realização da esperança;
 
-**12** para que não vos torneis indolentes, mas imitadores daqueles que, pela fé e pela paciência, herdam as promessas.
+**12** e que não vos torneis indolentes, mas imitadores dos que, pela fé e pela paciência, herdam as promessas.
 
 ### Hebreus 10,35–36
 
-**35** Não percais, pois, a vossa confiança, que tem grande recompensa.
+**35** Não percais, pois, a vossa confiança, à qual está reservada grande recompensa.
 
-**36** Porque tendes necessidade de perseverança, para que, tendo feito a vontade de Deus, alcanceis a promessa.
+**36** Tendes necessidade de constância, para que, cumprindo a vontade de Deus, alcanceis a promessa.
 
 ### Mateus 10,40–42
 
-**40** Quem vos recebe, a mim recebe; e quem me recebe, recebe aquele que me enviou.
+**40** Quem vos recebe, a mim me recebe; e quem me recebe, recebe aquele que me enviou.
 
-**41** Quem recebe um profeta por ser profeta receberá recompensa de profeta; e quem recebe um justo por ser justo receberá recompensa de justo.
+**41** Quem recebe um profeta na qualidade de profeta receberá recompensa de profeta; e quem recebe um justo na qualidade de justo receberá recompensa de justo.
 
-**42** E quem der de beber, ainda que seja só um copo de água fresca, a um destes pequeninos, por ser meu discípulo, em verdade vos digo: não perderá a sua recompensa.
+**42** E quem der a um destes pequeninos ainda que seja um copo de água fresca, na qualidade de discípulo, em verdade vos digo: não perderá a sua recompensa.
 
 ---
 
@@ -4394,17 +4394,17 @@ _Deus não se esquece da obra dos seus, a confiança tem grande recompensa, e ne
 
 _Deus retribuirá a cada um segundo as suas obras: a vida eterna aos que, perseverando no bem, buscam a glória e a incorruptibilidade; é o v. 6 que Trento cita para fechar a doutrina do mérito_
 
-**5** Mas, pela tua dureza e pelo teu coração impenitente, acumulas para ti ira para o dia da ira e da revelação do justo juízo de Deus,
+**5** Pela tua dureza e pelo teu coração impenitente, acumulas contra ti ira para o dia da ira e da revelação do justo juízo de Deus,
 
 **6** que retribuirá a cada um segundo as suas obras:
 
-**7** a vida eterna aos que, perseverando nas boas obras, buscam a glória, a honra e a incorruptibilidade;
+**7** a vida eterna aos que, perseverando em fazer o bem, buscam glória, honra e incorruptibilidade;
 
-**8** mas ira e indignação aos que, por espírito de rivalidade, desobedecem à verdade e obedecem à injustiça.
+**8** mas ira e indignação aos que, por espírito de contenda, não obedecem à verdade e se entregam à injustiça.
 
-**9** Tribulação e angústia sobre toda alma humana que pratica o mal, do judeu primeiro, e também do grego;
+**9** Tribulação e angústia sobre toda alma humana que faz o mal: primeiro do judeu e também do grego;
 
-**10** mas glória, honra e paz a todo aquele que pratica o bem, ao judeu primeiro, e também ao grego.
+**10** glória, honra e paz a todo o que faz o bem: primeiro ao judeu e também ao grego.
 
 **11** Porque em Deus não há acepção de pessoas.
 
@@ -4424,27 +4424,27 @@ _Cristo é a fonte que jorra para a vida eterna, só o Senhor julga, e quem se g
 
 _A água que eu lhe der será nele fonte para a vida eterna_
 
-**13** Jesus respondeu-lhe: Todo aquele que bebe desta água tornará a ter sede;
+**13** Jesus respondeu: Todo o que bebe desta água terá sede de novo,
 
-**14** mas quem beber da água que eu lhe darei nunca mais terá sede; pelo contrário, a água que eu lhe darei se tornará nele uma fonte de água que jorra para a vida eterna.
+**14** mas quem beber da água que eu darei a ele nunca mais terá sede: a água que eu darei se tornará nele uma fonte de água que jorra para a vida eterna.
 
 ### 1 Coríntios 4,3–5
 
 _Quem me julga é o Senhor_
 
-**3** A mim pouco me importa ser julgado por vós ou por um tribunal humano; nem sequer eu me julgo a mim mesmo.
+**3** Quanto a mim, pouco me importa ser julgado por vós ou por tribunal humano; nem eu julgo a mim mesmo.
 
-**4** Porque, embora de nada me acuse a consciência, nem por isso estou justificado; quem me julga é o Senhor.
+**4** Porque de nada me acusa a consciência, mas não é por isso que estou justificado: quem me julga é o Senhor.
 
-**5** Portanto, não julgueis coisa alguma antes do tempo, até que venha o Senhor, o qual iluminará o que está escondido nas trevas e manifestará os desígnios dos corações; e então cada um receberá de Deus o seu louvor.
+**5** Portanto, não julgueis nada antes do tempo, até que venha o Senhor, que iluminará o que está escondido nas trevas e manifestará os desígnios dos corações; e então cada um receberá de Deus o seu louvor.
 
 ### 1 Coríntios 1,30–31
 
 _Quem se gloria, glorie-se no Senhor_
 
-**30** É por ele que vós estais em Cristo Jesus, o qual se tornou para nós, da parte de Deus, sabedoria, justiça, santificação e redenção,
+**30** É por ele que vós estais em Cristo Jesus, que se tornou para nós sabedoria da parte de Deus, justiça, santificação e redenção,
 
-**31** para que, como está escrito, quem se gloria, glorie-se no Senhor.
+**31** para que, como está escrito: Quem se gloria, glorie-se no Senhor.
 
 ---
 
@@ -4460,47 +4460,47 @@ _Os operários da última hora recebem o mesmo denário, porque o senhor é bom;
 
 ### Mateus 20,1–16
 
-**1** O reino dos céus é semelhante a um pai de família que saiu de madrugada a contratar operários para a sua vinha.
+**1** Porque o Reino dos céus é semelhante a um pai de família que saiu de madrugada para contratar trabalhadores para a sua vinha.
 
-**2** Tendo combinado com os operários um denário por dia, mandou-os para a sua vinha.
+**2** Tendo ajustado com os trabalhadores um denário por dia, mandou-os para a sua vinha.
 
-**3** Saindo por volta da terceira hora, viu outros que estavam na praça sem fazer nada,
+**3** Saindo cerca da hora terceira, viu outros que estavam na praça, desocupados,
 
-**4** e disse-lhes: Ide vós também para a vinha, e eu vos darei o que for justo.
+**4** e disse-lhes: Ide também vós para a vinha, e eu vos darei o que for justo.
 
-**5** E eles foram. Saiu de novo por volta da sexta e da nona hora, e fez o mesmo.
+**5** E eles foram. Saindo de novo cerca da hora sexta e da nona, fez o mesmo.
 
-**6** Saindo por volta da undécima, encontrou outros que lá estavam, e disse-lhes: Por que estais aqui o dia inteiro sem fazer nada?
+**6** Saindo cerca da hora undécima, encontrou outros que lá estavam e disse-lhes: Por que estais aqui o dia inteiro desocupados?
 
-**7** Responderam-lhe: Porque ninguém nos contratou. Disse-lhes: Ide vós também para a vinha.
+**7** Responderam-lhe: Porque ninguém nos contratou. Disse-lhes: Ide também vós para a vinha.
 
-**8** Ao cair da tarde, o senhor da vinha disse ao seu administrador: Chama os operários e paga-lhes o salário, começando pelos últimos até os primeiros.
+**8** Ao cair da tarde, disse o senhor da vinha ao seu administrador: Chama os trabalhadores e paga-lhes o salário, começando pelos últimos até aos primeiros.
 
-**9** Vieram os da undécima hora e receberam um denário cada um.
+**9** Vindo os da hora undécima, receberam um denário cada um.
 
-**10** Quando vieram os primeiros, pensaram que haviam de receber mais; mas também eles receberam um denário cada um.
+**10** Vindo os primeiros, pensaram que haviam de receber mais; mas também eles receberam um denário cada um.
 
-**11** Ao recebê-lo, murmuravam contra o pai de família,
+**11** E, ao recebê-lo, murmuravam contra o pai de família,
 
-**12** dizendo: Estes últimos trabalharam uma hora só, e tu os igualaste a nós, que suportamos o peso do dia e o calor.
+**12** dizendo: Estes últimos trabalharam uma só hora, e tu os igualaste a nós, que suportamos o peso do dia e o calor.
 
-**13** Ele, respondendo a um deles, disse: Amigo, não te faço injustiça. Não combinaste comigo um denário?
+**13** Mas ele respondeu a um deles: Amigo, não te faço injustiça. Não ajustaste comigo um denário?
 
-**14** Toma o que é teu e vai-te. Eu quero dar a este último tanto como a ti.
+**14** Toma o que é teu e vai-te. Quero dar a este último tanto quanto a ti.
 
-**15** Não me é lícito fazer o que quero com o que é meu? Ou o teu olho é mau porque eu sou bom?
+**15** Não me é lícito fazer o que quero com o que é meu? Ou é mau o teu olho porque eu sou bom?
 
-**16** Assim os últimos serão primeiros, e os primeiros, últimos.
+**16** Assim, os últimos serão primeiros, e os primeiros, últimos.
 
 ### Lucas 17,7–10
 
-**7** Qual de vós, tendo um servo a lavrar ou a apascentar o gado, lhe dirá, quando ele voltar do campo: Vem já sentar-te à mesa?
+**7** Qual de vós, tendo um servo lavrando ou apascentando, lhe dirá, quando ele voltar do campo: Vem depressa e senta-te à mesa?
 
-**8** Não lhe dirá antes: Prepara-me o jantar, cinge-te e serve-me enquanto eu como e bebo, e depois comerás e beberás tu?
+**8** Não lhe dirá antes: Prepara-me o jantar, cinge-te e serve-me, enquanto como e bebo; e depois comerás e beberás tu?
 
 **9** Acaso fica agradecido ao servo por ter feito o que lhe foi mandado?
 
-**10** Assim também vós, quando tiverdes feito tudo o que vos foi mandado, dizei: Somos servos inúteis; fizemos o que devíamos fazer.
+**10** Assim também vós, quando tiverdes feito tudo o que vos foi mandado, dizei: Somos servos inúteis; fizemos apenas o que devíamos fazer.
 
 ---
 

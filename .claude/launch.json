@@ -4,8 +4,24 @@
     {
       "name": "site",
       "runtimeExecutable": "python",
-      "runtimeArgs": ["-m", "http.server", "8791", "--bind", "127.0.0.1"],
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "8791",
+        "--bind",
+        "127.0.0.1"
+      ],
       "port": 8791
+    },
+    {
+      "name": "app",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": [
+        "-I",
+        "../../celular/magisterio/ferramentas/servidor-teste.py",
+        "8795"
+      ],
+      "port": 8795
     }
   ]
 }

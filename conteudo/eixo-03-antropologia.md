@@ -16,73 +16,73 @@ Criação do nada, livre e no tempo; um só princípio de tudo, contra o dualism
 
 _O relato dos seis dias: tudo vem de Deus, pela sua palavra, e tudo o que ele fez é bom — o texto de que partem todas as definições desta parte_
 
-**1** No princípio, Deus criou o céu e a terra.
+**1** No princípio criou Deus o céu e a terra.
 
-**2** A terra era informe e vazia, havia trevas sobre a face do abismo, e o espírito de Deus pairava sobre a face das águas.
+**2** A terra estava deserta e vazia, as trevas cobriam a face do abismo, e o Espírito de Deus pairava sobre as águas.
 
-**3** Deus disse: Haja luz. E houve luz.
+**3** E disse Deus: Faça-se a luz. E a luz se fez.
 
-**4** Deus viu que a luz era boa; e Deus separou a luz das trevas.
+**4** Viu Deus que a luz era boa, e separou a luz das trevas.
 
-**5** Deus chamou à luz dia, e às trevas chamou noite. Houve tarde e houve manhã: primeiro dia.
+**5** Chamou Deus à luz Dia, e às trevas chamou Noite. E houve tarde, e houve manhã: primeiro dia.
 
-**6** Deus disse: Haja um firmamento no meio das águas, e que ele separe umas águas das outras.
+**6** Disse Deus: Faça-se um firmamento no meio das águas, e que ele separe umas águas das outras.
 
-**7** Deus fez o firmamento, e separou as águas que estão debaixo do firmamento das águas que estão acima do firmamento. E assim foi.
+**7** E fez Deus o firmamento, e separou as águas que estavam debaixo do firmamento das que estavam por cima dele. E assim se fez.
 
-**8** Deus chamou ao firmamento céu. Houve tarde e houve manhã: segundo dia.
+**8** Chamou Deus ao firmamento Céu. E houve tarde, e houve manhã: segundo dia.
 
-**9** Deus disse: Juntem-se num só lugar as águas que estão debaixo do céu, e apareça a parte seca. E assim foi.
+**9** Disse Deus: Juntem-se num só lugar as águas que estão debaixo do céu, e apareça o solo enxuto. E assim se fez.
 
-**10** Deus chamou à parte seca terra, e ao ajuntamento das águas chamou mares. E Deus viu que era bom.
+**10** Chamou Deus ao solo enxuto Terra, e ao ajuntamento das águas chamou Mares. E viu Deus que era bom.
 
-**11** Deus disse: Produza a terra verdura, ervas que deem semente e árvores frutíferas que deem fruto segundo a sua espécie, com a sua semente dentro, sobre a terra. E assim foi.
+**11** Disse Deus: Faça a terra brotar vegetação: ervas que deem semente, e árvores frutíferas que deem fruto segundo a sua espécie, com a sua semente dentro, sobre a terra. E assim se fez.
 
-**12** A terra produziu verdura, ervas que dão semente segundo a sua espécie, e árvores que dão fruto com a sua semente dentro, segundo a sua espécie. E Deus viu que era bom.
+**12** A terra fez brotar vegetação: ervas que dão semente segundo a sua espécie, e árvores que dão fruto com a semente dentro, segundo a sua espécie. E viu Deus que era bom.
 
-**13** Houve tarde e houve manhã: terceiro dia.
+**13** E houve tarde, e houve manhã: terceiro dia.
 
-**14** Deus disse: Haja luzeiros no firmamento do céu, para separar o dia da noite; e sirvam de sinais para marcar as festas, os dias e os anos;
+**14** Disse Deus: Façam-se luzeiros no firmamento do céu, para separarem o dia da noite; e sejam sinais para marcar os tempos, os dias e os anos;
 
-**15** e sirvam de luzeiros no firmamento do céu, para iluminar a terra. E assim foi.
+**15** e sirvam de luzeiros no firmamento do céu, para iluminarem a terra. E assim se fez.
 
-**16** Deus fez os dois grandes luzeiros: o luzeiro maior, para governar o dia, e o luzeiro menor, para governar a noite; e fez as estrelas.
+**16** Fez Deus os dois grandes luzeiros: o luzeiro maior para governar o dia, e o luzeiro menor para governar a noite; e também as estrelas.
 
-**17** Deus pôs os luzeiros no firmamento do céu, para iluminar a terra,
+**17** E Deus os pôs no firmamento do céu, para iluminarem a terra,
 
-**18** para governar o dia e a noite, e para separar a luz das trevas. E Deus viu que era bom.
+**18** para governarem o dia e a noite, e para separarem a luz das trevas. E viu Deus que era bom.
 
-**19** Houve tarde e houve manhã: quarto dia.
+**19** E houve tarde, e houve manhã: quarto dia.
 
-**20** Deus disse: Fervilhem as águas de seres vivos, e voem as aves sobre a terra, diante do firmamento do céu.
+**20** Disse Deus: Fervilhem as águas de seres vivos, e voem aves sobre a terra, sob o firmamento do céu.
 
-**21** Deus criou os grandes monstros marinhos e todos os seres vivos que se movem, de que fervilham as águas, segundo a sua espécie, e todas as aves aladas, segundo a sua espécie. E Deus viu que era bom.
+**21** Criou Deus os grandes monstros marinhos e todos os seres vivos que se movem, de que fervilham as águas, segundo as suas espécies, e toda ave alada segundo a sua espécie. E viu Deus que era bom.
 
-**22** Deus abençoou-os, dizendo: Sede fecundos e multiplicai-vos, e enchei as águas dos mares; e multipliquem-se as aves sobre a terra.
+**22** E Deus os abençoou, dizendo: Sede fecundos e multiplicai-vos, enchei as águas dos mares, e as aves se multipliquem sobre a terra.
 
-**23** Houve tarde e houve manhã: quinto dia.
+**23** E houve tarde, e houve manhã: quinto dia.
 
-**24** Deus disse: Produza a terra seres vivos segundo a sua espécie: animais domésticos, répteis e feras da terra, segundo a sua espécie. E assim foi.
+**24** Disse Deus: Produza a terra seres vivos segundo a sua espécie: animais domésticos, répteis e feras da terra, segundo a sua espécie. E assim se fez.
 
-**25** Deus fez as feras da terra segundo a sua espécie, os animais domésticos segundo a sua espécie, e todos os répteis do solo segundo a sua espécie. E Deus viu que era bom.
+**25** Fez Deus as feras da terra segundo a sua espécie, os animais domésticos segundo a sua espécie e todos os répteis do solo segundo a sua espécie. E viu Deus que era bom.
 
-**26** Deus disse: Façamos o homem à nossa imagem, segundo a nossa semelhança; e domine sobre os peixes do mar, sobre as aves do céu, sobre os animais domésticos, sobre toda a terra e sobre todos os répteis que rastejam sobre a terra.
+**26** E disse Deus: Façamos o homem à nossa imagem, conforme a nossa semelhança; e domine sobre os peixes do mar, sobre as aves do céu, sobre os animais domésticos, sobre toda a terra e sobre todos os répteis que se movem sobre a terra.
 
-**27** Deus criou o homem à sua imagem; à imagem de Deus o criou; homem e mulher os criou.
+**27** E criou Deus o homem à sua imagem; à imagem de Deus o criou; homem e mulher os criou.
 
-**28** Deus abençoou-os e disse-lhes: Sede fecundos e multiplicai-vos, enchei a terra e submetei-a; dominai sobre os peixes do mar, sobre as aves do céu e sobre todos os seres vivos que rastejam sobre a terra.
+**28** E Deus os abençoou, e Deus lhes disse: Sede fecundos e multiplicai-vos, enchei a terra e submetei-a; dominai sobre os peixes do mar, sobre as aves do céu e sobre todos os animais que se movem sobre a terra.
 
-**29** Deus disse: Eis que vos dou todas as ervas que dão semente, que estão sobre a face de toda a terra, e todas as árvores cujo fruto dá semente: isso vos servirá de alimento.
+**29** E disse Deus: Eis que vos dou toda erva que dá semente, que está sobre a face de toda a terra, e toda árvore em que há fruto que dá semente: hão de servir-vos de alimento.
 
-**30** E a todos os animais da terra, a todas as aves do céu e a tudo o que rasteja sobre a terra e tem em si um sopro de vida, dou por alimento toda a verdura das ervas. E assim foi.
+**30** E a todos os animais da terra, a todas as aves do céu e a tudo o que se move sobre a terra e tem vida, dou toda a erva verde por alimento. E assim se fez.
 
-**31** Deus viu tudo o que tinha feito, e eis que era muito bom. Houve tarde e houve manhã: sexto dia.
+**31** E viu Deus tudo o que tinha feito, e eis que era muito bom. E houve tarde, e houve manhã: o sexto dia.
 
-**2,1** Assim foram acabados o céu e a terra, com todo o seu exército.
+**2,1** Assim foram concluídos o céu e a terra, e todo o seu exército.
 
-**2** No sétimo dia, Deus concluiu a obra que tinha feito; e no sétimo dia descansou de toda a obra que tinha feito.
+**2** No sétimo dia concluiu Deus a obra que fizera, e descansou no sétimo dia de toda a obra que fizera.
 
-**3** Deus abençoou o sétimo dia e santificou-o, porque nele descansou de toda a obra que tinha criado e feito.
+**3** E abençoou Deus o sétimo dia e o santificou, porque nele descansou de toda a obra que criara e fizera.
 
 **4** Esta é a origem do céu e da terra, quando foram criados.
 
@@ -96,13 +96,13 @@ _A mãe dos sete irmãos confessa que Deus fez o céu e a terra não de coisas j
 
 _A mãe, que viu morrer os sete filhos num só dia, exorta cada um deles_
 
-**22** Não sei como aparecestes no meu ventre; não fui eu que vos dei o espírito e a vida, nem fui eu que ordenei os elementos de que cada um de vós é feito.
+**22** Não sei como aparecestes no meu ventre; não fui eu que vos dei o espírito e a vida, nem fui eu que organizei os membros de cada um de vós.
 
-**23** Por isso o Criador do mundo, que modelou o homem na sua origem e deu origem a todas as coisas, vos há de devolver, na sua misericórdia, o espírito e a vida, visto que agora vos desprezais a vós mesmos por amor das suas leis.
+**23** Por isso o Criador do mundo, que formou o homem no seu nascimento e deu origem a todas as coisas, vos devolverá na sua misericórdia o espírito e a vida, porque agora vos desprezais a vós mesmos por amor às suas leis.
 
 _Ao mais novo_
 
-**28** Peço-te, filho, que olhes para o céu e para a terra, e que, vendo tudo o que neles há, reconheças que Deus não os fez de coisas já existentes; e assim também vem a existir o gênero humano.
+**28** Peço-te, filho, que olhes para o céu e para a terra e, vendo tudo o que neles há, reconheças que Deus não os fez de coisas que existiam; e assim também foi feito o gênero humano.
 
 ---
 
@@ -116,13 +116,13 @@ _Pela palavra do Senhor foram feitos os céus: ele falou, e tudo foi feito — a
 >
 > **Por que não.** Nenhuma definição o cita, e Gn 1 e Jo 1,3, que já estão nesta parte, dizem o mesmo.
 
-**6** Pela palavra do Senhor foram feitos os céus, e pelo sopro da sua boca todo o seu exército.
+**6** Pela palavra do Senhor foram feitos os céus, e pelo sopro da sua boca, todo o seu exército.
 
-**7** Ele junta como num montão as águas do mar, e guarda os abismos em reservatórios.
+**7** Ele junta como num dique as águas do mar, encerra em reservatórios os abismos.
 
-**8** Tema ao Senhor toda a terra; tremam diante dele todos os habitantes do mundo.
+**8** Tema o Senhor toda a terra; diante dele tremam todos os habitantes do mundo.
 
-**9** Porque ele falou, e tudo foi feito; ele mandou, e tudo se firmou.
+**9** Porque ele falou, e tudo se fez; ele ordenou, e tudo se firmou.
 
 ---
 
@@ -134,19 +134,19 @@ _Deus tudo dispôs com medida, número e peso, e ama tudo o que existe, porque n
 
 _O autor fala dos egípcios, que Deus poderia ter destruído sem recorrer a feras desconhecidas_
 
-**20** E, mesmo sem isso, poderiam ter caído de um só sopro, perseguidos pela justiça e dispersos pelo sopro do teu poder. Mas tu tudo dispuseste com medida, número e peso.
+**20** Mesmo sem isso, bastaria um sopro para fazê-los cair, perseguidos pela justiça e dispersos pelo sopro do teu poder. Mas tu dispuseste tudo com medida, número e peso.
 
-**21** Porque o grande poder está sempre ao teu alcance; e quem resistirá à força do teu braço?
+**21** Pois o grande poder está sempre à tua disposição, e quem pode resistir à força do teu braço?
 
-**22** O mundo inteiro é diante de ti como o grão que mal faz pender a balança, como a gota de orvalho que de manhã cai sobre a terra.
+**22** O mundo inteiro é diante de ti como um grão na balança, como uma gota de orvalho da manhã que cai sobre a terra.
 
-**23** Mas de todos tens compaixão, porque tudo podes, e fechas os olhos aos pecados dos homens, para que se arrependam.
+**23** Mas tens compaixão de todos, porque tudo podes, e não olhas os pecados dos homens, para que se arrependam.
 
-**24** Pois amas tudo o que existe, e nada detestas do que fizeste; porque, se odiasses alguma coisa, não a terias formado.
+**24** Pois amas todos os seres e não detestas nada do que fizeste; se odiasses alguma coisa, não a terias criado.
 
-**25** E como poderia subsistir alguma coisa, se tu não a quisesses? Ou como se conservaria o que por ti não tivesse sido chamado?
+**25** Como poderia subsistir alguma coisa, se não a quisesses? Ou como se conservaria o que não tivesses chamado à existência?
 
-**26** Mas a tudo poupas, porque tudo é teu, Senhor, amigo da vida.
+**26** Tu poupas a todos, porque todos são teus, Senhor, amigo da vida.
 
 ---
 
@@ -160,7 +160,7 @@ _Aquele que vive eternamente criou todas as coisas: na forma latina deste versí
 >
 > **Por que não.** É um só versículo, e a alusão dos concílios é tácita; pode resolver-se numa nota a Latrão IV.
 
-**1** Aquele que vive eternamente criou todas as coisas, sem exceção.
+**1** Aquele que vive eternamente criou todas as coisas juntas; só Deus será reconhecido justo e permanece rei invencível para sempre.
 
 _O grego diz koinē, todas juntas, isto é, sem exceção. A Vulgata leu criou todas as coisas ao mesmo tempo (simul), e é essa a forma que Latrão IV retoma — Deus criou simul, desde o início do tempo, uma e outra criatura — e que a Dei Filius repete_
 
@@ -176,13 +176,13 @@ _Eu sou o Senhor, e não há outro; eu formo a luz e crio as trevas: um só prin
 >
 > **Por que não.** Nenhum dos documentos antidualistas desta parte (Leão Magno, Braga, Latrão IV, Florença) o cita; os vv. 5–7 já estão no eixo 2, parte I; e o crio a desgraça do v. 7 pede explicação.
 
-**5** Eu sou o Senhor, e não há outro; fora de mim não há Deus. Eu te cingi, embora não me conhecesses,
+**5** Eu sou o Senhor, e não há outro: fora de mim não há Deus. Eu te cingi, embora não me conhecesses,
 
-**6** para que se saiba, desde o nascer do sol até o poente, que não há nada fora de mim. Eu sou o Senhor, e não há outro.
+**6** para que se saiba, do nascer ao pôr do sol, que não há nenhum fora de mim. Eu sou o Senhor, e não há outro;
 
-**7** Eu formo a luz e crio as trevas, faço a paz e crio a desgraça; eu, o Senhor, faço todas estas coisas.
+**7** eu formo a luz e crio as trevas, faço a paz e crio a desgraça: eu, o Senhor, faço todas estas coisas.
 
-**18** Porque assim diz o Senhor, que criou os céus — ele é Deus —, que formou a terra e a fez, e ele mesmo a firmou; não a criou para ser um vazio, mas formou-a para ser habitada: Eu sou o Senhor, e não há outro.
+**18** Pois assim diz o Senhor, que criou os céus, ele que é Deus, que formou a terra e a fez, ele que a firmou; não a criou para ser um caos, formou-a para ser habitada: Eu sou o Senhor, e não há outro.
 
 ---
 
@@ -196,7 +196,7 @@ _Tudo foi feito por meio do Verbo, e sem ele nada foi feito: a criação é obra
 
 **2** Ele estava no princípio junto de Deus.
 
-**3** Tudo foi feito por meio dele, e sem ele nada foi feito do que foi feito.
+**3** Todas as coisas foram feitas por meio dele, e sem ele nada se fez do que foi feito.
 
 ---
 
@@ -206,11 +206,11 @@ _Tudo foi feito por meio do Verbo, e sem ele nada foi feito: a criação é obra
 
 _Nele foram criadas todas as coisas, as visíveis e as invisíveis: a fonte do de todas as coisas visíveis e invisíveis do símbolo, que abrange também os anjos_
 
-**15** Ele é imagem do Deus invisível, primogênito de toda criatura,
+**15** Ele é a imagem do Deus invisível, o primogênito de toda criatura;
 
-**16** porque nele foram criadas todas as coisas nos céus e na terra, as visíveis e as invisíveis, sejam tronos, sejam dominações, sejam principados, sejam potestades: tudo foi criado por meio dele e para ele.
+**16** porque nele foram criadas todas as coisas, nos céus e na terra, as visíveis e as invisíveis: tronos, dominações, principados, potestades. Tudo foi criado por ele e para ele.
 
-**17** E ele é antes de todas as coisas, e todas as coisas nele subsistem.
+**17** Ele existe antes de tudo, e tudo nele subsiste.
 
 ---
 
@@ -220,7 +220,7 @@ _Nele foram criadas todas as coisas, as visíveis e as invisíveis: a fonte do d
 
 _Que o mundo foi formado pela palavra de Deus, e não do que se vê, sabe-se pela fé: a criação é verdade revelada, e não só conclusão da razão_
 
-**3** Pela fé entendemos que os séculos foram formados pela palavra de Deus, de modo que o que se vê não proveio do que é visível.
+**3** Pela fé compreendemos que os séculos foram formados pela palavra de Deus, de modo que o que se vê não provém do que aparece.
 
 ---
 
@@ -238,11 +238,11 @@ _Deus chama o que não é como se fosse, e dele, por meio dele e para ele são t
 
 _Paulo fala de Abraão, pai de todos os que creem_
 
-**17** como está escrito: Eu te constituí pai de muitas nações — diante daquele em quem creu, Deus, que dá vida aos mortos e chama o que não é como se fosse.
+**17** conforme está escrito: Eu te constituí pai de muitas nações. E ele o é diante daquele em quem creu, Deus, que vivifica os mortos e chama à existência as coisas que não são.
 
 ### Romanos 11,36
 
-**36** Porque dele, e por meio dele, e para ele são todas as coisas. A ele a glória pelos séculos. Amém.
+**36** Porque dele, por ele e para ele são todas as coisas. A ele a glória pelos séculos. Amém.
 
 ---
 
@@ -258,15 +258,15 @@ _O Deus que fez o mundo não precisa de nada, dá a todos a vida, e nele vivemos
 
 _Paulo, de pé no meio do Areópago, fala aos atenienses_
 
-**24** O Deus que fez o mundo e tudo o que nele há, sendo Senhor do céu e da terra, não habita em templos feitos por mãos de homem,
+**24** O Deus que fez o mundo e tudo o que nele existe, sendo Senhor do céu e da terra, não habita em templos feitos por mãos humanas,
 
 **25** nem é servido por mãos humanas, como se precisasse de alguma coisa, ele que dá a todos a vida, o alento e tudo o mais.
 
-**26** De um só fez todas as nações dos homens, para habitarem sobre toda a face da terra, e fixou os tempos determinados e os limites da sua habitação,
+**26** De um só fez todo o gênero humano, para habitar sobre toda a face da terra, fixando os tempos determinados e os limites da sua habitação,
 
-**27** para que buscassem a Deus e, tateando, talvez o encontrassem, embora não esteja longe de cada um de nós.
+**27** para que buscassem a Deus e, talvez tateando, o encontrassem, embora ele não esteja longe de cada um de nós.
 
-**28** Pois nele vivemos, nos movemos e existimos, como disseram também alguns dos vossos poetas: Porque somos também da sua linhagem.
+**28** Pois nele vivemos, nos movemos e existimos, como também disseram alguns dos vossos poetas: Pois somos também da sua raça.
 
 ---
 
@@ -278,7 +278,7 @@ _Tudo foi criado e existe pela vontade de Deus: a criação é livre, como a Dei
 
 _Os vinte e quatro anciãos prostram-se diante do que está sentado no trono, lançam as suas coroas diante dele e dizem_
 
-**11** Digno és, Senhor e Deus nosso, de receber a glória, a honra e o poder, porque tu criaste todas as coisas, e por tua vontade elas existiam e foram criadas.
+**11** Tu és digno, Senhor e Deus nosso, de receber a glória, a honra e o poder, porque tu criaste todas as coisas, e por tua vontade elas existiam e foram criadas.
 
 ---
 
@@ -288,15 +288,15 @@ _Os vinte e quatro anciãos prostram-se diante do que está sentado no trono, la
 
 _Toda criatura de Deus é boa, e nada é de rejeitar: contra os que proíbem o matrimônio e os alimentos — o texto que Florença cita e que está por trás dos cânones de Braga contra os priscilianistas_
 
-**1** O Espírito diz expressamente que, nos últimos tempos, alguns apostatarão da fé, dando ouvidos a espíritos enganadores e a doutrinas de demônios,
+**1** O Espírito diz expressamente que, nos últimos tempos, alguns hão de apostatar da fé, dando ouvidos a espíritos enganadores e a doutrinas de demônios,
 
-**2** por causa da hipocrisia de mentirosos que têm a própria consciência marcada a ferro,
+**2** pela hipocrisia de mentirosos, marcados a ferro na própria consciência,
 
-**3** os quais proíbem o matrimônio e mandam abster-se dos alimentos que Deus criou para serem tomados com ação de graças pelos fiéis e pelos que conheceram a verdade.
+**3** que proíbem o casamento e o uso de alimentos que Deus criou para serem recebidos com ação de graças pelos fiéis e pelos que conhecem a verdade.
 
-**4** Porque toda criatura de Deus é boa, e nada é de rejeitar, se é tomado com ação de graças;
+**4** Porque tudo o que Deus criou é bom, e nada é para rejeitar, quando se recebe com ação de graças:
 
-**5** pois é santificado pela palavra de Deus e pela oração.
+**5** fica santificado pela palavra de Deus e pela oração.
 
 ---
 
@@ -1168,7 +1168,7 @@ Deus conserva e governa o que criou; o mal não tem princípio próprio.
 
 _A sabedoria de Deus alcança o mundo de ponta a ponta e o governa com bondade: é o versículo com que a *Dei Filius* descreve a providência_
 
-**1** Ela estende-se com vigor de uma extremidade à outra e governa com bondade todas as coisas.
+**1** Ela se estende com vigor de um extremo ao outro do mundo e governa todas as coisas com suavidade.
 
 ---
 
@@ -1178,7 +1178,7 @@ _A sabedoria de Deus alcança o mundo de ponta a ponta e o governa com bondade: 
 
 _Nenhuma criatura escapa ao olhar de Deus: é o versículo que a *Dei Filius* cita para estender a providência até o que há de acontecer pela ação livre das criaturas_
 
-**13** E não há criatura que fique oculta diante dele; todas as coisas estão nuas e patentes aos olhos daquele a quem havemos de prestar contas.
+**13** Não há criatura que lhe fique oculta; tudo está nu e descoberto aos olhos daquele a quem havemos de prestar contas.
 
 ---
 
@@ -1190,33 +1190,33 @@ _O Pai alimenta as aves, veste os lírios e conta os cabelos da cabeça, e nem u
 
 ### Mateus 6,25–34
 
-**25** Por isso vos digo: não vos preocupeis com a vossa vida, com o que haveis de comer, nem com o vosso corpo, com o que haveis de vestir. Não é a vida mais do que o alimento, e o corpo mais do que a roupa?
+**25** Por isso vos digo: não andeis ansiosos pela vossa vida, sobre o que haveis de comer; nem pelo vosso corpo, sobre o que haveis de vestir. Não é a vida mais do que o alimento, e o corpo mais do que a veste?
 
-**26** Olhai as aves do céu: não semeiam, nem ceifam, nem recolhem em celeiros, e o vosso Pai celeste as alimenta. Não valeis vós muito mais do que elas?
+**26** Olhai as aves do céu: não semeiam, nem ceifam, nem ajuntam em celeiros; e o vosso Pai celeste as alimenta. Não valeis vós muito mais do que elas?
 
-**27** E qual de vós, por mais que se preocupe, pode acrescentar um só côvado à duração da sua vida?
+**27** Qual de vós, por mais que se inquiete, pode acrescentar um só côvado à sua estatura?
 
-**28** E por que vos preocupais com a roupa? Considerai como crescem os lírios do campo: não trabalham nem fiam.
+**28** E por que andais ansiosos com a veste? Considerai os lírios do campo, como crescem: não trabalham nem fiam.
 
 **29** E eu vos digo que nem Salomão, em toda a sua glória, se vestiu como um deles.
 
-**30** Se, pois, Deus veste assim a erva do campo, que hoje existe e amanhã é lançada ao forno, quanto mais a vós, homens de pouca fé?
+**30** Ora, se Deus veste assim a erva do campo, que hoje existe e amanhã é lançada no forno, quanto mais a vós, homens de pouca fé!
 
-**31** Não vos preocupeis, pois, dizendo: Que comeremos? ou: Que beberemos? ou: Com que nos vestiremos?
+**31** Não andeis, pois, ansiosos, dizendo: Que comeremos? ou: Que beberemos? ou: Com que nos vestiremos?
 
-**32** São os pagãos que procuram todas essas coisas; e o vosso Pai celeste sabe que tendes necessidade de tudo isso.
+**32** Por todas essas coisas se afadigam os gentios; ora, o vosso Pai celeste sabe que de tudo isso tendes necessidade.
 
-**33** Buscai primeiro o reino e a sua justiça, e todas essas coisas vos serão dadas por acréscimo.
+**33** Buscai primeiro o Reino de Deus e a sua justiça, e todas essas coisas vos serão acrescentadas.
 
-**34** Não vos preocupeis, pois, com o dia de amanhã, porque o dia de amanhã terá as suas preocupações. Basta a cada dia o seu mal.
+**34** Não vos inquieteis, pois, pelo dia de amanhã; o dia de amanhã cuidará de si mesmo. Basta a cada dia o seu próprio mal.
 
 ### Mateus 10,29–31
 
-**29** Não se vendem dois pardais por um asse? E nenhum deles cairá por terra sem o vosso Pai.
+**29** Não se vendem dois passarinhos por um asse? E nenhum deles cai por terra sem o vosso Pai.
 
 **30** Quanto a vós, até os cabelos da vossa cabeça estão todos contados.
 
-**31** Não temais, pois; valeis mais do que muitos pardais.
+**31** Não temais, pois; mais valeis vós do que muitos passarinhos.
 
 ---
 
@@ -1232,17 +1232,17 @@ _José diz aos irmãos que o venderam: não fostes vós que me enviastes para c�
 
 ### Gênesis 45,5–8
 
-**5** Agora, pois, não vos entristeçais nem vos pese terdes-me vendido para cá, porque foi para conservar a vida que Deus me enviou adiante de vós.
+**5** Mas agora não vos entristeçais nem vos aflijais por me terdes vendido para cá, pois foi para salvar vidas que Deus me enviou adiante de vós.
 
-**6** Já há dois anos que a fome está sobre a terra, e ainda restam cinco anos em que não haverá lavra nem colheita.
+**6** Já faz dois anos que há fome na terra, e ainda haverá cinco anos sem lavoura nem colheita.
 
-**7** Deus enviou-me adiante de vós para vos assegurar um resto sobre a terra e para vos conservar a vida por uma grande libertação.
+**7** Deus me enviou adiante de vós para vos conservar uma descendência na terra e salvar as vossas vidas por uma grande libertação.
 
-**8** Assim, não fostes vós que me enviastes para cá, mas Deus; e ele fez de mim como que um pai para o faraó, senhor de toda a sua casa e governador de toda a terra do Egito.
+**8** Não fostes vós que me enviastes para cá, mas Deus; e ele me fez como um pai para o faraó, senhor de toda a sua casa e governador de toda a terra do Egito.
 
 ### Gênesis 50,20
 
-**20** Vós planejastes o mal contra mim, mas Deus o planejou para o bem, para fazer o que hoje se vê: conservar a vida de um povo numeroso.
+**20** Vós planejastes o mal contra mim, mas Deus o transformou em bem, para me engrandecer, como hoje vedes, e para salvar a vida de muitos povos.
 
 ---
 
@@ -1252,7 +1252,7 @@ _José diz aos irmãos que o venderam: não fostes vós que me enviastes para c�
 
 _Para os que amam a Deus, tudo coopera para o bem: a certeza com que o Catecismo fecha o que diz da providência diante do mal_
 
-**28** Sabemos que todas as coisas cooperam para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu desígnio.
+**28** Sabemos que Deus faz concorrer todas as coisas para o bem dos que o amam, daqueles que são chamados segundo o seu desígnio.
 
 ---
 
@@ -1262,23 +1262,23 @@ _Para os que amam a Deus, tudo coopera para o bem: a certeza com que o Catecismo
 
 _Não digas que foi o Senhor que te fez pecar: ele fez o homem e o deixou na mão do seu próprio conselho, e a ninguém deu licença para pecar — o mal moral vem da liberdade da criatura, e não de Deus_
 
-**11** Não digas: Foi por causa do Senhor que me afastei; porque ele não faz o que odeia.
+**11** Não digas: O meu pecado vem de Deus; pois ele não faz o que detesta.
 
-**12** Não digas: Foi ele que me desencaminhou; porque não tem necessidade do homem pecador.
+**12** Não digas: Foi ele que me fez tropeçar; pois ele não tem necessidade do homem ímpio.
 
-**13** O Senhor odeia toda abominação, e ela não é amável aos que o temem.
+**13** O Senhor detesta toda abominação do erro, e ela não é amável para os que o temem.
 
-**14** Foi ele que no princípio fez o homem e o deixou na mão do seu próprio conselho.
+**14** Deus criou o homem no princípio e o deixou nas mãos da sua própria decisão; entregou-o ao poder da sua vontade.
 
-**16** Se quiseres, guardarás os mandamentos, e agir com fidelidade depende do teu querer.
+**16** Se quiseres guardar os mandamentos, eles te guardarão; se confiares nele, também tu viverás.
 
-**17** Pôs diante de ti o fogo e a água: estende a mão para o que quiseres.
+**17** Ele pôs diante de ti a água e o fogo: estende a mão para o que quiseres.
 
-**18** Diante dos homens estão a vida e a morte, e o que cada um preferir, isso lhe será dado.
+**18** Diante do homem estão a vida e a morte, o bem e o mal: o que ele escolher lhe será dado.
 
-**19** Porque grande é a sabedoria do Senhor; ele é forte em poder e vê todas as coisas;
+**19** Pois grande é a sabedoria de Deus, forte é o seu poder, e ele vê todas as coisas sem cessar.
 
-**20** os seus olhos estão sobre os que o temem, e ele conhece toda obra do homem.
+**20** Os olhos do Senhor estão sobre os que o temem, e ele conhece todas as obras do homem.
 
 **21** A ninguém mandou ser ímpio, e a ninguém deu licença para pecar.
 
@@ -1290,11 +1290,11 @@ _Não digas que foi o Senhor que te fez pecar: ele fez o homem e o deixou na mã
 
 _Deus não tenta ninguém: o pecado nasce da concupiscência de cada um, que concebe e dá à luz o pecado, e o pecado gera a morte_
 
-**13** Ninguém, quando é tentado, diga: É Deus que me tenta; porque Deus não pode ser tentado pelo mal, e ele mesmo não tenta ninguém.
+**13** Ninguém, ao ser tentado, diga: Sou tentado por Deus. Porque Deus não pode ser tentado pelo mal, e a ninguém tenta.
 
-**14** Mas cada um é tentado pela sua própria concupiscência, que o arrasta e o seduz.
+**14** Cada um é tentado pela própria concupiscência, que o atrai e seduz.
 
-**15** Depois, a concupiscência, tendo concebido, dá à luz o pecado; e o pecado, uma vez consumado, gera a morte.
+**15** Depois, a concupiscência concebe e dá à luz o pecado; e o pecado, uma vez consumado, gera a morte.
 
 ---
 
@@ -1584,7 +1584,7 @@ Criados bons por Deus; os demônios tornaram-se maus por si mesmos.
 
 _Tronos, dominações, principados, potestades: também as coisas invisíveis foram criadas no Filho, por meio dele e para ele — os anjos são criaturas, e é deles que fala o invisíveis do símbolo_
 
-**16** porque nele foram criadas todas as coisas nos céus e na terra, as visíveis e as invisíveis, sejam tronos, sejam dominações, sejam principados, sejam potestades: tudo foi criado por meio dele e para ele.
+**16** porque nele foram criadas todas as coisas, nos céus e na terra, as visíveis e as invisíveis: tronos, dominações, principados, potestades. Tudo foi criado por ele e para ele.
 
 ---
 
@@ -1598,21 +1598,21 @@ _Os anjos são poderosos executores da palavra de Deus, espíritos enviados a se
 
 _Os anjos cumprem a palavra de Deus e fazem a sua vontade_
 
-**20** Bendizei o Senhor, anjos seus, poderosos em força, que executais a sua palavra, obedecendo à voz da sua palavra.
+**20** Bendizei o Senhor, seus anjos, valentes e fortes, que cumpris a sua palavra, atentos à voz do seu mandato.
 
-**21** Bendizei o Senhor, todos os seus exércitos, ministros seus, que fazeis a sua vontade.
+**21** Bendizei o Senhor, todos os seus exércitos, seus servos, que fazeis a sua vontade.
 
 ### Hebreus 1,14
 
 _Depois de mostrar o Filho acima dos anjos, o autor diz o que eles são_
 
-**14** Não são todos eles espíritos servidores, enviados para servir por causa dos que hão de herdar a salvação?
+**14** Não são todos eles espíritos a serviço, enviados em missão em favor dos que hão de herdar a salvação?
 
 ### Mateus 18,10
 
 _Os anjos dos pequeninos_
 
-**10** Vede que não desprezeis nenhum destes pequeninos; porque eu vos digo que os seus anjos, nos céus, veem sem cessar a face de meu Pai, que está nos céus.
+**10** Guardai-vos de desprezar um destes pequeninos, porque eu vos digo que os seus anjos, nos céus, veem sempre a face de meu Pai, que está nos céus.
 
 ---
 
@@ -1622,7 +1622,7 @@ _Os anjos dos pequeninos_
 
 _O diabo foi homicida desde o princípio e não permaneceu na verdade: a frase que Leão Magno e Latrão IV leem como prova de que ele foi criado bom e se fez mau_
 
-**44** Vós sois do pai, o diabo, e quereis fazer os desejos do vosso pai. Ele era homicida desde o princípio, e não permaneceu na verdade, porque nele não há verdade. Quando diz a mentira, fala do que é seu, porque é mentiroso e pai da mentira.
+**44** Vós sois do pai, o diabo, e quereis realizar os desejos do vosso pai. Ele foi homicida desde o princípio e não permaneceu na verdade, porque não há verdade nele. Quando fala a mentira, fala do que lhe é próprio, porque é mentiroso e pai da mentira.
 
 ---
 
@@ -1636,13 +1636,13 @@ _Houve anjos que pecaram e não guardaram a sua dignidade, e Deus não os poupou
 
 _A frase continua nos versículos seguintes, com o dilúvio e Sodoma, e conclui no v. 9: o Senhor sabe livrar da provação os piedosos e reservar os injustos para o castigo no dia do juízo_
 
-**4** Pois, se Deus não poupou os anjos que pecaram, mas, precipitando-os no tártaro, os entregou às cadeias das trevas, reservados para o juízo;
+**4** Porque, se Deus não poupou os anjos que pecaram, mas os precipitou no abismo, entregando-os às cavernas tenebrosas, guardados para o juízo;
 
 ### Judas 6
 
 _Segundo exemplo de castigo; o primeiro, no v. 5, é o dos que o Senhor, depois de salvar o povo do Egito, fez perecer por não terem crido_
 
-**6** e os anjos que não guardaram a sua dignidade, mas abandonaram a sua própria morada, ele os guarda em cadeias eternas, debaixo das trevas, para o juízo do grande dia.
+**6** e que aos anjos que não guardaram a sua dignidade, mas deixaram a própria morada, ele os reserva em cadeias eternas, sob as trevas, para o juízo do grande dia.
 
 ---
 
@@ -1652,7 +1652,7 @@ _Segundo exemplo de castigo; o primeiro, no v. 5, é o dos que o Senhor, depois 
 
 _O diabo peca desde o princípio, e o Filho de Deus manifestou-se para destruir as obras do diabo_
 
-**8** Quem comete o pecado é do diabo, porque o diabo peca desde o princípio. Para isto se manifestou o Filho de Deus: para destruir as obras do diabo.
+**8** Quem comete o pecado é do diabo, porque o diabo peca desde o princípio. Foi para isso que o Filho de Deus se manifestou: para destruir as obras do diabo.
 
 ---
 
@@ -1666,11 +1666,11 @@ _Miguel e os seus anjos combatem o dragão, e o dragão é precipitado com os se
 >
 > **Por que não.** O plano reserva Ap 12 ao eixo 6 (Maria, parte IV); e o sentido literal da visão é escatológico, não protológico: não narra a queda no princípio, mas a derrota do dragão.
 
-**7** E houve uma guerra no céu: Miguel e os seus anjos combateram contra o dragão. E o dragão combateu, e os seus anjos,
+**7** Houve então uma batalha no céu: Miguel e os seus anjos combateram contra o dragão. O dragão e os seus anjos combateram,
 
-**8** mas não prevaleceu, e já não se achou lugar para eles no céu.
+**8** mas não prevaleceram, e já não houve lugar para eles no céu.
 
-**9** E foi precipitado o grande dragão, a antiga serpente, que se chama diabo e Satanás, o que seduz toda a terra habitada; foi precipitado sobre a terra, e os seus anjos foram precipitados com ele.
+**9** Foi precipitado o grande dragão, a antiga serpente, que se chama Diabo e Satanás, o sedutor do mundo inteiro; foi precipitado sobre a terra, e os seus anjos foram precipitados com ele.
 
 ---
 
@@ -1684,7 +1684,7 @@ _O fogo eterno foi preparado para o diabo e os seus anjos: a queda dos demônios
 >
 > **Por que não.** Pertence à escatologia: o plano põe o versículo nos eixos 11 e 12, e a ficha propunha aqui só uma remissão.
 
-**41** Então dirá também aos que estiverem à esquerda: Afastai-vos de mim, malditos, para o fogo eterno, preparado para o diabo e os seus anjos.
+**41** Depois dirá também aos que estiverem à esquerda: Afastai-vos de mim, malditos, para o fogo eterno, preparado para o diabo e os seus anjos.
 
 ---
 
@@ -1700,15 +1700,15 @@ _A luta do cristão não é contra a carne e o sangue, mas contra os poderes esp
 
 ### Efésios 6,11–12
 
-**11** Revesti-vos da armadura de Deus, para que possais resistir às ciladas do diabo.
+**11** Revesti-vos da armadura de Deus, para poderdes resistir às ciladas do diabo.
 
-**12** Porque a nossa luta não é contra o sangue e a carne, mas contra os principados, contra as potestades, contra os dominadores deste mundo de trevas, contra os espíritos do mal que estão nas regiões celestes.
+**12** Porque não é contra a carne e o sangue que temos de lutar, mas contra os principados, contra as potestades, contra os dominadores deste mundo de trevas, contra os espíritos do mal que estão nos céus.
 
 ### 1 Pedro 5,8–9
 
-**8** Sede sóbrios, vigiai. O vosso adversário, o diabo, anda ao redor como leão que ruge, procurando a quem devorar.
+**8** Sede sóbrios e vigiai. O vosso adversário, o diabo, ronda como leão que ruge, procurando a quem devorar.
 
-**9** Resisti-lhe firmes na fé, sabendo que os mesmos sofrimentos se cumprem na vossa fraternidade espalhada pelo mundo.
+**9** Resisti-lhe, firmes na fé, sabendo que os mesmos sofrimentos se cumprem nos vossos irmãos espalhados pelo mundo.
 
 ---
 
@@ -2148,15 +2148,15 @@ _O homem é feito à imagem de Deus, homem e mulher, e recebe o domínio sobre a
 
 ### Gênesis 1,26–28
 
-**26** E disse Deus: Façamos o homem à nossa imagem, conforme a nossa semelhança; e domine sobre os peixes do mar, sobre as aves do céu, sobre os animais domésticos, sobre toda a terra e sobre todos os répteis que rastejam sobre a terra.
+**26** E disse Deus: Façamos o homem à nossa imagem, conforme a nossa semelhança; e domine sobre os peixes do mar, sobre as aves do céu, sobre os animais domésticos, sobre toda a terra e sobre todos os répteis que se movem sobre a terra.
 
-**27** E Deus criou o homem à sua imagem; à imagem de Deus o criou; homem e mulher os criou.
+**27** E criou Deus o homem à sua imagem; à imagem de Deus o criou; homem e mulher os criou.
 
-**28** E Deus os abençoou, e Deus lhes disse: Sede fecundos e multiplicai-vos, enchei a terra e submetei-a; dominai sobre os peixes do mar, sobre as aves do céu e sobre todo ser vivo que rasteja sobre a terra.
+**28** E Deus os abençoou, e Deus lhes disse: Sede fecundos e multiplicai-vos, enchei a terra e submetei-a; dominai sobre os peixes do mar, sobre as aves do céu e sobre todos os animais que se movem sobre a terra.
 
 ### Gênesis 2,7
 
-**7** Então o Senhor Deus formou o homem com o pó da terra, soprou-lhe nas narinas um sopro de vida, e o homem tornou-se alma vivente.
+**7** Então o Senhor Deus formou o homem do pó do solo, soprou-lhe nas narinas um sopro de vida, e o homem tornou-se alma vivente.
 
 _Alma vivente: a expressão hebraica, que o Gênesis emprega também para os animais (1,20.24), quer dizer ser vivo; é nesta forma que Paulo cita o versículo em 1Cor 15,45_
 
@@ -2168,17 +2168,17 @@ _Alma vivente: a expressão hebraica, que o Gênesis emprega também para os ani
 
 _Diante do céu e dos astros, o salmista pergunta o que é o homem, e responde com a sua grandeza: pouco menos que Deus, coroado de glória, senhor das obras de Deus; Gaudium et spes 12 cita-o à letra_
 
-**4** Quando vejo os teus céus, obra dos teus dedos, a lua e as estrelas que fixaste,
+**4** Quando contemplo os teus céus, obra dos teus dedos, a lua e as estrelas que firmaste:
 
-**5** que é o homem, para dele te lembrares, e o filho do homem, para o visitares?
+**5** que é o homem, para te lembrares dele, e o filho do homem, para dele cuidares?
 
-**6** Fizeste-o pouco menos que Deus, e de glória e de honra o coroaste.
+**6** Fizeste-o pouco menor que os anjos e o coroaste de glória e honra.
 
-**7** Deste-lhe domínio sobre as obras das tuas mãos, tudo puseste debaixo dos seus pés:
+**7** Deste-lhe domínio sobre as obras das tuas mãos; tudo puseste debaixo dos seus pés:
 
-**8** ovelhas e bois, todos eles, e também os animais do campo,
+**8** ovelhas e bois, todos eles, e também os animais do campo;
 
-**9** as aves do céu e os peixes do mar, e tudo o que percorre os caminhos dos mares.
+**9** as aves do céu e os peixes do mar, tudo o que percorre os caminhos dos mares.
 
 _No v. 6, a antiga versão grega traduziu pouco menos que os anjos; é assim que a Carta aos Hebreus (2,7) e a Vulgata leem o versículo, e assim o cita Gaudium et spes 12_
 
@@ -2190,7 +2190,7 @@ _No v. 6, a antiga versão grega traduziu pouco menos que os anjos; é assim que
 
 _Deus criou o homem para a incorrupção e fez dele a imagem da sua própria eternidade: a imagem de Deus lida como destinação à vida que não acaba_
 
-**23** Porque Deus criou o homem para a incorrupção, e o fez imagem da sua própria eternidade.
+**23** Pois Deus criou o homem para a incorruptibilidade e o fez imagem da sua própria eternidade.
 
 _Alguns manuscritos leem: imagem da sua própria natureza_
 
@@ -2208,27 +2208,27 @@ _Comentário sapiencial de Gn 1–2: o homem, tirado da terra e feito à imagem 
 
 _Numeração do texto grego. A Vulgata e a Nova Vulgata, que seguem a antiga versão latina, dispõem os primeiros versículos em outra ordem e numeram o conjunto 17,1–10; o v. 5, que falta nos melhores manuscritos gregos, não se traduz_
 
-**1** O Senhor criou da terra o homem, e de novo o fez voltar a ela.
+**1** Deus criou o homem da terra e o fez à sua imagem;
 
-**2** Deu aos homens dias contados e um tempo fixo, e deu-lhes poder sobre as coisas que há nela.
+**2** e o fará voltar para ela, e o revestiu de uma força semelhante à sua.
 
-**3** Revestiu-os de uma força semelhante à sua, e fê-los à sua imagem.
+**3** Deu-lhe um número de dias e um tempo determinado, e lhe deu poder sobre tudo o que está na terra.
 
-**4** Pôs o temor do homem sobre todo ser vivente, e deu-lhe domínio sobre as feras e as aves.
+**4** Pôs o temor dele sobre toda carne, para que dominasse os animais e as aves.
 
-**6** Deu-lhes discernimento, língua e olhos, ouvidos e um coração para pensar.
+**6** Criou para eles o conhecimento do espírito, encheu de bom senso o seu coração e lhes mostrou o bem e o mal.
 
-**7** Encheu-os de saber e de inteligência, e mostrou-lhes o bem e o mal.
+**7** Pôs o seu temor nos seus corações, mostrando-lhes a grandeza das suas obras,
 
-**8** Pôs o seu olhar sobre os corações deles, para lhes mostrar a grandeza das suas obras,
+**8** e lhes deu glória nas suas maravilhas, para que louvem o seu santo nome e narrem a grandeza das suas obras.
 
-**9** e eles louvarão o seu santo nome,
+**9** Deu-lhes ainda a ciência e lhes deu como herança a lei da vida.
 
-**10** para contarem as grandezas das suas obras.
+**10** Estabeleceu com eles uma aliança eterna e lhes mostrou a sua justiça e os seus juízos.
 
-**11** Acrescentou-lhes o conhecimento, e deu-lhes em herança a lei da vida.
+**11** Os seus olhos viram a grandeza da sua glória, e os seus ouvidos ouviram a glória da sua voz, e ele lhes disse: Guardai-vos de toda injustiça.
 
-**12** Estabeleceu com eles uma aliança eterna, e mostrou-lhes os seus juízos.
+**12** E deu a cada um mandamentos a respeito do seu próximo.
 
 ---
 
@@ -2238,7 +2238,7 @@ _Numeração do texto grego. A Vulgata e a Nova Vulgata, que seguem a antiga ver
 
 _Há no homem uma alma que a morte do corpo não alcança: é um dos versículos com que Latrão V prova que a alma é imortal_
 
-**28** E não temais os que matam o corpo, mas não podem matar a alma; temei antes aquele que pode fazer perecer na geena tanto a alma como o corpo.
+**28** Não temais os que matam o corpo e não podem matar a alma; temei antes aquele que pode fazer perecer no inferno a alma e o corpo.
 
 _Latrão V cita-o ao lado de Jo 12,25: Quem odeia a sua alma neste mundo há de guardá-la para a vida eterna_
 
@@ -2254,7 +2254,7 @@ _Paulo nomeia no homem espírito, alma e corpo: é a enumeração que parecia da
 >
 > **Por que não.** O cânon de Constantinopla IV não o cita, e uma nota ao cânon bastaria.
 
-**23** O próprio Deus da paz vos santifique por inteiro; e todo o vosso ser, o espírito, a alma e o corpo, seja guardado irrepreensível para a vinda de nosso Senhor Jesus Cristo.
+**23** Que o próprio Deus da paz vos santifique inteiramente; e que todo o vosso ser — o espírito, a alma e o corpo — seja conservado irrepreensível para a vinda de nosso Senhor Jesus Cristo.
 
 ---
 
@@ -2268,7 +2268,7 @@ _Deus fez de um só todo o gênero humano: o apoio bíblico da unidade de origem
 >
 > **Por que não.** A expressão *de um só* é genérica, e não prova por si o que se lhe pede; além disso, a parte I propõe o discurso inteiro (At 17,24–28), e é preciso decidir onde o versículo fica.
 
-**26** E de um só fez todo o gênero humano, para habitar sobre toda a face da terra, fixando os tempos determinados e os limites da sua habitação.
+**26** De um só fez todo o gênero humano, para habitar sobre toda a face da terra, fixando os tempos determinados e os limites da sua habitação,
 
 _O sujeito é o Deus que fez o mundo e tudo o que nele há (v. 24). Muitos manuscritos leem: de um só sangue_
 
@@ -2288,17 +2288,17 @@ _O primeiro Adão e o último: o homem tirado da terra traz uma imagem que só s
 
 **45** Assim também está escrito: O primeiro homem, Adão, tornou-se alma vivente; o último Adão, espírito vivificante.
 
-**46** Mas não vem primeiro o espiritual, e sim o animal; depois, o espiritual.
+**46** Mas não é primeiro o espiritual: primeiro é o natural; depois, o espiritual.
 
 **47** O primeiro homem, tirado da terra, é terreno; o segundo homem vem do céu.
 
-**48** Qual foi o terreno, tais são também os terrenos; e qual o celeste, tais também os celestes.
+**48** Qual o terreno, tais também os terrenos; e, qual o celeste, tais também os celestes.
 
 **49** E, assim como trouxemos a imagem do terreno, traremos também a imagem do celeste.
 
 ### Romanos 5,14
 
-**14** Contudo, a morte reinou desde Adão até Moisés, mesmo sobre os que não pecaram à semelhança da transgressão de Adão, o qual é figura daquele que havia de vir.
+**14** Todavia, a morte reinou de Adão até Moisés, mesmo sobre aqueles que não pecaram à semelhança da transgressão de Adão, o qual é figura daquele que havia de vir.
 
 ---
 
@@ -3178,9 +3178,9 @@ Parte em avaliação: a diferença e a complementaridade dos sexos, no magistér
 
 _À imagem de Deus o criou, homem e mulher os criou: a diferença dos sexos está dita no mesmo versículo que a imagem, e a bênção da fecundidade é dada aos dois juntos_
 
-**27** E Deus criou o homem à sua imagem; à imagem de Deus o criou; homem e mulher os criou.
+**27** E criou Deus o homem à sua imagem; à imagem de Deus o criou; homem e mulher os criou.
 
-**28** E Deus os abençoou, e Deus lhes disse: Sede fecundos e multiplicai-vos, enchei a terra e submetei-a; dominai sobre os peixes do mar, sobre as aves do céu e sobre todo ser vivo que rasteja sobre a terra.
+**28** E Deus os abençoou, e Deus lhes disse: Sede fecundos e multiplicai-vos, enchei a terra e submetei-a; dominai sobre os peixes do mar, sobre as aves do céu e sobre todos os animais que se movem sobre a terra.
 
 ---
 
@@ -3194,21 +3194,21 @@ _Não é bom que o homem esteja só: nenhum animal lhe corresponde, e só diante
 >
 > **Por que não.** A ficha o faz entrar só se a parte existir; o v. 24 entra de todo modo no eixo 9, como lugar bíblico do matrimônio em Trento, sessão XXIV.
 
-**18** E o Senhor Deus disse: Não é bom que o homem esteja só; vou fazer-lhe uma ajuda que lhe corresponda.
+**18** Disse o Senhor Deus: Não é bom que o homem esteja só; vou fazer-lhe uma auxiliar que lhe corresponda.
 
-**19** E o Senhor Deus formou da terra todos os animais do campo e todas as aves do céu, e levou-os ao homem, para ver como os chamaria; e o nome que o homem desse a cada ser vivo, esse seria o seu nome.
+**19** O Senhor Deus formou do solo todas as feras do campo e todas as aves do céu, e as trouxe ao homem, para ver como ele as chamaria; e o nome que o homem desse a cada ser vivo, esse seria o seu nome.
 
-**20** E o homem deu nomes a todos os animais domésticos, às aves do céu e a todos os animais do campo; mas para o homem não se encontrou uma ajuda que lhe correspondesse.
+**20** O homem deu nome a todos os animais domésticos, às aves do céu e a todas as feras do campo; mas para o homem não se achou uma auxiliar que lhe correspondesse.
 
-**21** Então o Senhor Deus fez cair um sono profundo sobre o homem, e ele adormeceu; tomou uma das suas costelas e fechou a carne no lugar dela.
+**21** Então o Senhor Deus fez cair um sono profundo sobre o homem, e ele adormeceu. Tomou uma das suas costelas e fechou com carne o lugar dela.
 
-**22** E da costela que tinha tomado do homem o Senhor Deus construiu uma mulher, e levou-a ao homem.
+**22** E da costela que tomara do homem o Senhor Deus edificou uma mulher, e a trouxe ao homem.
 
-**23** E o homem disse: Esta, sim, é osso dos meus ossos e carne da minha carne; esta será chamada mulher, porque do homem foi tomada.
+**23** Então o homem disse: Esta, desta vez, é osso dos meus ossos e carne da minha carne! Esta se chamará mulher, porque do homem foi tomada.
 
 **24** Por isso o homem deixará seu pai e sua mãe e se unirá à sua mulher, e serão uma só carne.
 
-**25** E estavam ambos nus, o homem e a sua mulher, e não se envergonhavam.
+**25** Estavam ambos nus, o homem e sua mulher, e não se envergonhavam.
 
 ---
 
@@ -3218,7 +3218,7 @@ _Não é bom que o homem esteja só: nenhum animal lhe corresponde, e só diante
 
 _O teu desejo será para o teu marido, e ele te dominará: o domínio de um sobre o outro aparece depois da queda, como sentença do pecado, e não como ordem da criação_
 
-**16** À mulher disse: Multiplicarei grandemente o teu sofrimento e a tua gravidez; com dor darás à luz filhos; e o teu desejo será para o teu marido, e ele te dominará.
+**16** À mulher disse: Multiplicarei os sofrimentos da tua gravidez: com dor darás à luz os filhos. O teu desejo será para o teu marido, e ele te dominará.
 
 ---
 
@@ -3228,13 +3228,13 @@ _O teu desejo será para o teu marido, e ele te dominará: o domínio de um sobr
 
 _Interrogado sobre o repúdio, Jesus volta ao princípio e junta os dois relatos do Gênesis — homem e mulher os fez; os dois serão uma só carne —: o ponto de partida da leitura que o magistério recente faz da criação do homem e da mulher_
 
-**3** Aproximaram-se dele alguns fariseus para o pôr à prova, e disseram: É lícito a um homem repudiar a sua mulher por qualquer motivo?
+**3** Aproximaram-se dele alguns fariseus para o pôr à prova, e perguntaram: É lícito ao homem repudiar a sua mulher por qualquer motivo?
 
 **4** Ele respondeu: Não lestes que o Criador, desde o princípio, os fez homem e mulher,
 
-**5** e disse: Por isso o homem deixará o pai e a mãe e se unirá à sua mulher, e os dois serão uma só carne?
+**5** e disse: Por isso o homem deixará pai e mãe e se unirá à sua mulher, e os dois serão uma só carne?
 
-**6** De modo que já não são dois, mas uma só carne. Portanto, o que Deus uniu, o homem não separe.
+**6** Assim, já não são dois, mas uma só carne. Portanto, o que Deus uniu, o homem não separe.
 
 ---
 
@@ -3248,9 +3248,9 @@ _Em Cristo já não há judeu nem grego, escravo nem livre, homem e mulher: os b
 >
 > **Por que não.** Trata da igualdade que o batismo dá, e não da criação; o seu lugar próprio seria o eixo da graça ou o dos sacramentos.
 
-**27** Pois todos vós que fostes batizados em Cristo vos revestistes de Cristo.
+**27** Pois todos vós, que fostes batizados em Cristo, de Cristo vos revestistes.
 
-**28** Não há judeu nem grego, não há escravo nem livre, não há homem e mulher; pois todos vós sois um só em Cristo Jesus.
+**28** Já não há judeu nem grego, não há escravo nem livre, não há homem nem mulher: todos vós sois um só em Cristo Jesus.
 
 ---
 
@@ -3264,17 +3264,17 @@ _O homem é imagem e glória de Deus, a mulher é glória do homem, porque dele 
 >
 > **Por que não.** Nenhum documento desta parte se apoia nele (a carta de 2004, n. 6, só remete de passagem ao v. 9), e ele pede uma nota longa: a questão do véu, o sinal de autoridade e o por causa dos anjos são de interpretação muito discutida.
 
-**7** O homem, com efeito, não deve cobrir a cabeça, porque é imagem e glória de Deus; mas a mulher é glória do homem.
+**7** O homem não deve cobrir a cabeça, porque é imagem e glória de Deus; a mulher, porém, é glória do homem.
 
-**8** Pois não é o homem que vem da mulher, mas a mulher do homem;
+**8** Porque o homem não veio da mulher, mas a mulher, do homem;
 
-**9** nem foi o homem criado por causa da mulher, mas a mulher por causa do homem.
+**9** nem o homem foi criado por causa da mulher, mas a mulher, por causa do homem.
 
-**10** Por isso a mulher deve ter sobre a cabeça um sinal de autoridade, por causa dos anjos.
+**10** Por isso a mulher deve trazer sobre a cabeça um sinal de autoridade, por causa dos anjos.
 
-**11** Contudo, no Senhor, nem a mulher é sem o homem, nem o homem sem a mulher.
+**11** Contudo, no Senhor, nem a mulher existe sem o homem, nem o homem, sem a mulher;
 
-**12** Pois, assim como a mulher vem do homem, assim também o homem vem pela mulher; e tudo vem de Deus.
+**12** porque, assim como a mulher veio do homem, assim também o homem nasce da mulher; e tudo vem de Deus.
 
 ---
 
@@ -3582,17 +3582,17 @@ A justiça e a santidade originais, e a gratuidade dos dons que o homem recebeu.
 
 _O homem posto no jardim para o cultivar e o guardar, a árvore da vida, o mandamento com a ameaça de morte e a nudez sem vergonha: o relato de onde a Igreja tira a doutrina do estado original e do preceito dado para provar a obediência_
 
-**8** E o Senhor Deus plantou um jardim no Éden, ao oriente, e pôs ali o homem que tinha formado.
+**8** E o Senhor Deus plantou um jardim em Éden, ao oriente, e ali pôs o homem que formara.
 
-**9** E o Senhor Deus fez brotar da terra toda árvore agradável à vista e boa para comer, e a árvore da vida no meio do jardim, e a árvore do conhecimento do bem e do mal.
+**9** O Senhor Deus fez brotar do solo toda árvore agradável à vista e boa para comer, e a árvore da vida no meio do jardim, e a árvore do conhecimento do bem e do mal.
 
-**15** O Senhor Deus tomou o homem e o pôs no jardim do Éden, para o cultivar e o guardar.
+**15** O Senhor Deus tomou o homem e o pôs no jardim de Éden, para o cultivar e o guardar.
 
-**16** E o Senhor Deus deu ao homem este mandamento: De toda árvore do jardim podes comer à vontade;
+**16** E o Senhor Deus deu ao homem esta ordem: De toda árvore do jardim podes comer livremente;
 
-**17** mas da árvore do conhecimento do bem e do mal não comerás, porque, no dia em que dela comeres, certamente morrerás.
+**17** mas da árvore do conhecimento do bem e do mal não comerás, porque no dia em que dela comeres certamente morrerás.
 
-**25** Estavam ambos nus, o homem e a sua mulher, e não se envergonhavam.
+**25** Estavam ambos nus, o homem e sua mulher, e não se envergonhavam.
 
 ---
 
@@ -3604,17 +3604,17 @@ _Deus não fez a morte: criou o homem para a incorruptibilidade, e a morte entro
 
 ### Sabedoria 1,13–15
 
-**13** Porque Deus não fez a morte, nem se alegra com a perdição dos vivos.
+**13** pois Deus não fez a morte, nem se alegra com a perdição dos vivos.
 
-**14** Criou todas as coisas para que existissem, e as gerações do mundo são salutares; não há nelas veneno de destruição, nem o reino do Hades está sobre a terra.
+**14** Ele criou todas as coisas para que existissem, e as criaturas do mundo são salutares; nelas não há veneno de morte, nem a morada dos mortos reina sobre a terra.
 
-**15** Porque a justiça é imortal.
+**15** Pois a justiça é imortal.
 
 ### Sabedoria 2,23–24
 
-**23** Porque Deus criou o homem para a incorruptibilidade, e o fez imagem da sua própria eternidade;
+**23** Pois Deus criou o homem para a incorruptibilidade e o fez imagem da sua própria eternidade.
 
-**24** mas pela inveja do diabo a morte entrou no mundo, e experimentam-na os que pertencem ao seu partido.
+**24** Mas pela inveja do diabo a morte entrou no mundo, e a experimentam os que pertencem ao seu partido.
 
 ---
 
@@ -3628,17 +3628,17 @@ _O homem novo é criado segundo Deus na justiça e na santidade da verdade: é d
 
 _A frase depende do v. 21: foi isto que aprendestes em Cristo_
 
-**22** que vos despojeis, quanto ao vosso antigo modo de viver, do homem velho, que se vai corrompendo segundo as concupiscências do engano,
+**22** que deveis despojar-vos do homem velho, do vosso modo antigo de viver, corrompido pelas concupiscências enganadoras,
 
-**23** que vos renoveis no espírito da vossa mente,
+**23** renovar-vos no espírito da vossa mente,
 
-**24** e que vos revistais do homem novo, criado segundo Deus na justiça e na santidade da verdade.
+**24** e revestir-vos do homem novo, criado segundo Deus na justiça e na santidade da verdade.
 
 ### Colossenses 3,9–10
 
-**9** Não mintais uns aos outros, pois vos despojastes do homem velho com as suas obras
+**9** Não mintais uns aos outros; despistes o homem velho com as suas obras
 
-**10** e vos revestistes do novo, que se vai renovando para o conhecimento, segundo a imagem daquele que o criou.
+**10** e vos revestistes do novo, que se renova para o conhecimento, segundo a imagem daquele que o criou.
 
 ---
 
@@ -3652,7 +3652,7 @@ _Deus fez o homem reto, e os homens se perderam em muitas invenções: a retidã
 >
 > **Por que não.** não se achou documento magisterial que o cite ao definir; entra só como texto que ajuda a compreender.
 
-**29** Vê: só isto encontrei: que Deus fez o homem reto, mas eles andaram atrás de muitas invenções.
+**29** Só isto descobri: Deus fez o homem reto, mas eles buscam muitos artifícios.
 
 ---
 
@@ -3914,43 +3914,43 @@ O pecado do primeiro homem, e como ele passa a todos por propagação, e não po
 
 _A serpente, a transgressão, a vergonha e a sentença, com a promessa da inimizade entre a descendência da mulher e a da serpente: o relato do primeiro pecado, que o concílio de Trento e o Catecismo leem como acontecimento do princípio da história_
 
-**1** Ora, a serpente era o mais astuto de todos os animais do campo que o Senhor Deus tinha feito. E disse à mulher: É verdade que Deus disse: Não comereis de nenhuma árvore do jardim?
+**1** A serpente era a mais astuta de todas as feras do campo que o Senhor Deus tinha feito. Ela disse à mulher: É verdade que Deus disse: «Não comereis de nenhuma das árvores do jardim»?
 
 **2** A mulher respondeu à serpente: Do fruto das árvores do jardim podemos comer;
 
-**3** mas do fruto da árvore que está no meio do jardim Deus disse: Não comereis dele, nem o tocareis, para que não morrais.
+**3** mas do fruto da árvore que está no meio do jardim Deus disse: Não comereis dele nem o tocareis, para que não morrais.
 
-**4** A serpente disse à mulher: De modo nenhum morrereis.
+**4** Então a serpente disse à mulher: Certamente não morrereis!
 
-**5** Porque Deus sabe que, no dia em que dele comerdes, os vossos olhos se abrirão, e sereis como Deus, conhecedores do bem e do mal.
+**5** Mas Deus sabe que, no dia em que dele comerdes, os vossos olhos se abrirão, e sereis como Deus, conhecedores do bem e do mal.
 
-**6** A mulher viu que a árvore era boa para comer, agradável aos olhos e desejável para adquirir entendimento; tomou do seu fruto e comeu, e deu também ao seu marido, que estava com ela, e ele comeu.
+**6** A mulher viu que a árvore era boa para comer, agradável aos olhos e desejável para dar entendimento; tomou do seu fruto e comeu; deu também ao seu marido, que estava com ela, e ele comeu.
 
-**7** Então os olhos de ambos se abriram, e conheceram que estavam nus; coseram folhas de figueira e fizeram para si cinturas.
+**7** Então os olhos dos dois se abriram, e conheceram que estavam nus; coseram folhas de figueira e fizeram tangas para si.
 
-**8** E ouviram a voz do Senhor Deus, que passeava no jardim à brisa do dia; e o homem e a sua mulher esconderam-se da presença do Senhor Deus entre as árvores do jardim.
+**8** Ouviram a voz do Senhor Deus, que passeava no jardim à brisa da tarde, e o homem e a sua mulher esconderam-se da presença do Senhor Deus, entre as árvores do jardim.
 
-**9** Mas o Senhor Deus chamou o homem e disse-lhe: Onde estás?
+**9** O Senhor Deus chamou o homem e lhe disse: Onde estás?
 
-**10** Ele respondeu: Ouvi a tua voz no jardim e tive medo, porque estava nu; e escondi-me.
+**10** Ele respondeu: Ouvi a tua voz no jardim e tive medo, porque estava nu, e me escondi.
 
-**11** E ele disse: Quem te fez saber que estavas nu? Comeste da árvore de que te ordenei que não comesses?
+**11** Deus lhe disse: Quem te disse que estavas nu? Comeste, então, da árvore de que te ordenei que não comesses?
 
 **12** O homem respondeu: A mulher que me deste por companheira, ela me deu da árvore, e eu comi.
 
-**13** Então o Senhor Deus disse à mulher: Que fizeste? E a mulher respondeu: A serpente enganou-me, e eu comi.
+**13** O Senhor Deus disse à mulher: Que é isto que fizeste? A mulher respondeu: A serpente me enganou, e eu comi.
 
-**14** E o Senhor Deus disse à serpente: Porque fizeste isto, maldita és entre todos os animais domésticos e entre todos os animais do campo; sobre o teu ventre andarás, e pó comerás todos os dias da tua vida.
+**14** Então o Senhor Deus disse à serpente: Porque fizeste isso, maldita és entre todos os animais domésticos e entre todas as feras do campo! Sobre o teu ventre andarás e pó comerás todos os dias da tua vida.
 
-**15** Porei inimizade entre ti e a mulher, entre a tua descendência e a descendência dela; ele te ferirá a cabeça, e tu lhe ferirás o calcanhar.
+**15** Porei inimizade entre ti e a mulher, entre a tua descendência e a descendência dela: esta te ferirá a cabeça, e tu lhe ferirás o calcanhar.
 
-**16** À mulher disse: Multiplicarei grandemente o teu sofrimento e a tua gravidez; com dor darás à luz filhos; para o teu marido será o teu desejo, e ele te dominará.
+**16** À mulher disse: Multiplicarei os sofrimentos da tua gravidez: com dor darás à luz os filhos. O teu desejo será para o teu marido, e ele te dominará.
 
-**17** E ao homem disse: Porque escutaste a voz da tua mulher e comeste da árvore de que eu te ordenara, dizendo: Não comerás dela, maldita é a terra por tua causa; com fadiga tirarás dela o teu sustento todos os dias da tua vida.
+**17** E ao homem disse: Porque ouviste a voz da tua mulher e comeste da árvore de que eu te ordenara: Não comerás dela, maldito é o solo por tua causa! Com sofrimento dele comerás todos os dias da tua vida.
 
-**18** Ela te produzirá espinhos e cardos, e comerás a erva do campo.
+**18** Espinhos e cardos fará brotar para ti, e comerás a erva do campo.
 
-**19** Com o suor do teu rosto comerás o pão, até que voltes à terra, pois dela foste tirado; porque és pó, e ao pó voltarás.
+**19** Com o suor do teu rosto comerás o pão, até que voltes ao solo, porque dele foste tomado: pois és pó, e ao pó voltarás.
 
 ---
 
@@ -3966,13 +3966,13 @@ _O homem é expulso do jardim, e o caminho da árvore da vida fica guardado: a p
 
 **20** O homem deu à sua mulher o nome de Eva, porque ela foi a mãe de todos os viventes.
 
-**21** E o Senhor Deus fez para o homem e para a sua mulher túnicas de pele, e vestiu-os.
+**21** E o Senhor Deus fez para o homem e para a sua mulher túnicas de pele, e os vestiu.
 
-**22** Depois disse o Senhor Deus: Eis que o homem se tornou como um de nós, conhecedor do bem e do mal. Agora, pois, que ele não estenda a mão e tome também da árvore da vida, e coma, e viva para sempre.
+**22** Então o Senhor Deus disse: Eis que o homem se tornou como um de nós, conhecedor do bem e do mal. Agora, que ele não estenda a mão, e tome também da árvore da vida, e coma, e viva para sempre!
 
-**23** E o Senhor Deus o mandou para fora do jardim do Éden, para cultivar a terra de onde fora tirado.
+**23** E o Senhor Deus o mandou para fora do jardim de Éden, para cultivar o solo de onde fora tomado.
 
-**24** Expulsou o homem, e pôs ao oriente do jardim do Éden os querubins e a chama da espada fulgurante, para guardar o caminho da árvore da vida.
+**24** Expulsou o homem e pôs, ao oriente do jardim de Éden, os querubins e a chama da espada que se revolvia, para guardar o caminho da árvore da vida.
 
 ---
 
@@ -3982,25 +3982,25 @@ _O homem é expulso do jardim, e o caminho da árvore da vida fica guardado: a p
 
 _Por um só homem o pecado entrou no mundo, e pelo pecado a morte; pela desobediência de um só os muitos foram constituídos pecadores, e pela obediência de um só serão constituídos justos: o texto sobre o qual se construíram todas as definições do pecado original_
 
-**12** Por isso, assim como por um só homem o pecado entrou no mundo, e pelo pecado a morte, e assim a morte passou a todos os homens, porquanto todos pecaram —
+**12** Portanto, como por um só homem entrou o pecado no mundo, e pelo pecado a morte, assim a morte passou a todos os homens, porque todos pecaram.
 
-**13** pois até a lei o pecado estava no mundo, mas o pecado não é imputado quando não há lei;
+**13** Porque, até a lei, havia pecado no mundo; mas o pecado não é levado em conta quando não há lei.
 
-**14** no entanto, a morte reinou desde Adão até Moisés, mesmo sobre os que não pecaram com uma transgressão semelhante à de Adão, o qual é figura daquele que havia de vir.
+**14** Todavia, a morte reinou de Adão até Moisés, mesmo sobre aqueles que não pecaram à semelhança da transgressão de Adão, o qual é figura daquele que havia de vir.
 
-**15** Mas não é com o dom como com a queda. Porque, se pela queda de um só os muitos morreram, muito mais a graça de Deus, e o dom concedido pela graça de um só homem, Jesus Cristo, se derramaram em abundância sobre os muitos.
+**15** Mas o dom não é como a falta. Porque, se pela falta de um só morreram muitos, muito mais transbordaram sobre muitos a graça de Deus e o dom concedido na graça de um só homem, Jesus Cristo.
 
-**16** E não é com o dom como com o que veio por meio de um só que pecou: porque o julgamento, a partir de uma só queda, levou à condenação; mas o dom, a partir de muitas quedas, levou à justificação.
+**16** E o dom não é como o efeito de um só que pecou: o julgamento, a partir de uma só falta, levou à condenação; mas o dom gratuito, a partir de muitas faltas, leva à justificação.
 
-**17** Porque, se pela queda de um só a morte reinou por meio desse um só, muito mais os que recebem a abundância da graça e do dom da justiça reinarão na vida por meio de um só, Jesus Cristo.
+**17** Se, pela falta de um só, a morte reinou por esse um, muito mais reinarão na vida, por um só, Jesus Cristo, os que recebem a abundância da graça e do dom da justiça.
 
-**18** Portanto, assim como pela queda de um só veio a condenação a todos os homens, assim também pelo ato de justiça de um só veio a todos os homens a justificação que dá a vida.
+**18** Assim, pois, como por uma só falta veio a condenação para todos os homens, assim também por um só ato de justiça vem para todos os homens a justificação que dá a vida.
 
-**19** Porque, assim como pela desobediência de um só homem os muitos foram constituídos pecadores, assim também pela obediência de um só os muitos serão constituídos justos.
+**19** Porque, como pela desobediência de um só homem muitos se tornaram pecadores, assim também pela obediência de um só muitos se tornarão justos.
 
-**20** A lei sobreveio para que abundasse a queda; mas, onde abundou o pecado, superabundou a graça,
+**20** Sobreveio a lei, para que abundasse a falta; mas, onde abundou o pecado, superabundou a graça,
 
-**21** para que, assim como o pecado reinou na morte, assim também a graça reine pela justiça para a vida eterna, por Jesus Cristo, nosso Senhor.
+**21** a fim de que, como o pecado reinou na morte, assim também reine a graça pela justiça, para a vida eterna, por Jesus Cristo, nosso Senhor.
 
 ---
 
@@ -4014,9 +4014,9 @@ _Por um homem veio a morte, e por um homem a ressurreição: em dois versículos
 >
 > **Por que não.** As definições citam sempre Rm 5, e nunca este lugar.
 
-**21** Porque, visto que por um homem veio a morte, também por um homem veio a ressurreição dos mortos.
+**21** Porque, assim como por um homem veio a morte, também por um homem veio a ressurreição dos mortos.
 
-**22** Pois, assim como em Adão todos morrem, assim também em Cristo todos serão vivificados.
+**22** E, assim como em Adão todos morrem, assim também em Cristo todos serão vivificados.
 
 ---
 
@@ -4026,11 +4026,11 @@ _Por um homem veio a morte, e por um homem a ressurreição: em dois versículos
 
 _Antes de Cristo, mortos pelos pecados e, por natureza, filhos da ira como os demais: o versículo que o concílio de Trento cita para dizer o estado em que o pecado de Adão deixou todos os homens_
 
-**1** Também vós estáveis mortos pelas vossas faltas e pelos vossos pecados,
+**1** E vós estáveis mortos pelas vossas faltas e pecados,
 
-**2** nos quais outrora andastes, segundo o curso deste mundo, segundo o príncipe do poder do ar, o espírito que agora age nos filhos da desobediência.
+**2** nos quais outrora andastes, segundo o modo deste mundo, segundo o príncipe do poder do ar, o espírito que agora age nos filhos da rebeldia.
 
-**3** Entre eles também nós todos outrora vivemos, nos desejos da nossa carne, fazendo a vontade da carne e dos pensamentos; e éramos por natureza filhos da ira, como os demais.
+**3** Entre eles também todos nós vivemos outrora, nos desejos da nossa carne, fazendo a vontade da carne e dos pensamentos; e éramos, por natureza, filhos da ira, como os demais.
 
 ---
 
@@ -4040,9 +4040,9 @@ _Antes de Cristo, mortos pelos pecados e, por natureza, filhos da ira como os de
 
 _O Filho tomou carne e sangue para destruir pela morte aquele que tinha o império da morte, o diabo: o versículo com que o concílio de Trento descreve o cativeiro em que Adão caiu pelo pecado_
 
-**14** Visto, pois, que os filhos têm em comum o sangue e a carne, também ele participou igualmente das mesmas coisas, para destruir pela morte aquele que tinha o império da morte, isto é, o diabo,
+**14** Portanto, como os filhos participam do sangue e da carne, também ele, do mesmo modo, os partilhou, para destruir, pela morte, aquele que tinha o poder da morte — isto é, o diabo —,
 
-**15** e libertar todos aqueles que, pelo medo da morte, estavam sujeitos à servidão durante toda a vida.
+**15** e libertar os que, pelo medo da morte, estavam sujeitos à escravidão a vida inteira.
 
 ---
 
@@ -4056,7 +4056,7 @@ _Eis que fui gerado na iniquidade: o versículo do Antigo Testamento que a tradi
 >
 > **Por que não.** Nenhuma definição o cita, e o sentido literal é discutido: pode dizer apenas a condição pecadora de quem fala, desde o seu começo.
 
-**7** Eis que fui gerado na iniquidade, e em pecado me concebeu minha mãe.
+**7** Eis que na culpa fui gerado, e em pecado me concebeu minha mãe.
 
 ---
 
@@ -4414,9 +4414,9 @@ _O pecado original é culpa hereditária, ainda que não pessoal, dos descendent
 >
 > **Por que não.** É encíclica de ocasião, contra o nazismo, e o parágrafo vale mais pelo contexto polêmico do que pela doutrina, que nada acrescenta a Trento; o original é alemão.
 
-**26.** Tereis de vigiar com olhar particularmente atento, veneráveis irmãos, quando os conceitos religiosos fundamentais forem despojados do seu conteúdo essencial e reinterpretados num sentido profano. …
+**26.** Um olhar especialmente vigilante, Veneráveis Irmãos, tereis de ter quando conceitos religiosos fundamentais são despojados do seu conteúdo essencial e reinterpretados num sentido profano. …
 
-**30.** O pecado original é a culpa hereditária, ainda que não pessoal, dos descendentes de Adão, que nele pecaram; é a perda da graça, e com ela da vida eterna, com a inclinação para o mal, que cada um deve reprimir e vencer pela graça, pela penitência, pela luta e pelo esforço moral. A paixão e a morte do Filho de Deus redimiram o mundo da maldição hereditária do pecado e da morte. A fé nestas verdades, que hoje, na vossa pátria, são alvo do escárnio barato dos adversários de Cristo, pertence ao patrimônio inalienável da religião cristã.
+**30.** Pecado original é a culpa hereditária, embora não pessoal, dos descendentes de Adão, que nele pecaram: perda da graça e, com ela, da vida eterna, com a inclinação para o mal, que cada um tem de reprimir e vencer pela graça, pela penitência, pela luta e pelo esforço moral. A paixão e a morte do Filho de Deus redimiram o mundo da maldição hereditária do pecado e da morte. A fé nestas verdades, que hoje, na vossa pátria, são alvo do escárnio barato dos adversários de Cristo, pertence ao patrimônio inalienável da religião cristã.
 
 ---
 
@@ -4608,29 +4608,29 @@ A natureza ferida e não destruída; o livre-arbítrio enfraquecido e não extin
 
 _Não faço o bem que quero, mas o mal que não quero: é o pecado que habita em mim, outra lei nos meus membros — o texto em que o Apóstolo chama pecado à concupiscência, e que Trento, sessão V, cân. 5, tem diante dos olhos ao declarar que ela não é pecado em sentido próprio nos renascidos_
 
-**14** Sabemos, com efeito, que a Lei é espiritual; mas eu sou carnal, vendido ao pecado.
+**14** Sabemos que a lei é espiritual; eu, porém, sou carnal, vendido ao pecado.
 
-**15** Pois não entendo o que faço: não pratico o que quero, mas faço o que detesto.
+**15** Não entendo o que faço: não faço o que quero, mas o que detesto, isso faço.
 
-**16** Ora, se faço o que não quero, concordo com a Lei, reconhecendo que é boa.
+**16** Ora, se faço o que não quero, reconheço que a lei é boa.
 
-**17** Agora, porém, já não sou eu quem o faz, mas o pecado que habita em mim.
+**17** Então já não sou eu que o faço, mas o pecado que habita em mim.
 
-**18** Pois sei que em mim, isto é, na minha carne, não habita o bem: o querer está ao meu alcance, mas o realizar o bem, não.
+**18** Sei que em mim, isto é, na minha carne, não habita o bem; pois o querer está em mim, mas o realizar o bem, não.
 
-**19** Pois não faço o bem que quero, mas pratico o mal que não quero.
+**19** Não faço o bem que quero, mas o mal que não quero, esse pratico.
 
-**20** Ora, se faço o que eu não quero, já não sou eu quem o faz, mas o pecado que habita em mim.
+**20** Ora, se faço o que não quero, já não sou eu que o faço, mas o pecado que habita em mim.
 
-**21** Encontro, pois, esta lei: quando quero fazer o bem, é o mal que está ao meu alcance.
+**21** Descubro, portanto, esta lei: quando quero fazer o bem, é o mal que se me apresenta.
 
-**22** Porque me comprazo na lei de Deus segundo o homem interior;
+**22** Deleito-me, segundo o homem interior, na lei de Deus;
 
-**23** mas vejo nos meus membros outra lei, que guerreia contra a lei da minha mente e me faz prisioneiro da lei do pecado que está nos meus membros.
+**23** mas vejo nos meus membros outra lei, que guerreia contra a lei da minha mente e me faz cativo da lei do pecado, que está nos meus membros.
 
-**24** Infeliz de mim! Quem me livrará deste corpo de morte?
+**24** Infeliz homem que sou! Quem me livrará deste corpo de morte?
 
-**25** Graças a Deus, por Jesus Cristo nosso Senhor! Assim, pois, eu mesmo sirvo com a mente à lei de Deus, e com a carne à lei do pecado.
+**25** Graças a Deus, por Jesus Cristo, nosso Senhor! Assim, eu mesmo, pela mente, sirvo à lei de Deus; pela carne, porém, à lei do pecado.
 
 ---
 
@@ -4642,19 +4642,19 @@ _Quem comete o pecado é escravo do pecado: a servidão com que Orange II, cân.
 
 ### João 8,34
 
-**34** Respondeu-lhes Jesus: Em verdade, em verdade vos digo: todo aquele que comete o pecado é escravo do pecado.
+**34** Jesus lhes respondeu: Em verdade, em verdade vos digo: todo o que comete o pecado é escravo do pecado.
 
 ### Romanos 6,16–20
 
-**16** Não sabeis que, àquele a quem vos ofereceis como escravos para obedecer, sois escravos daquele a quem obedeceis, seja do pecado, para a morte, seja da obediência, para a justiça?
+**16** Não sabeis que, quando vos ofereceis a alguém como escravos para lhe obedecer, sois escravos daquele a quem obedeceis — ou do pecado, para a morte, ou da obediência, para a justiça?
 
-**17** Mas graças a Deus porque, tendo sido escravos do pecado, obedecestes de coração à forma de doutrina a que fostes entregues;
+**17** Graças a Deus, porém, porque fostes escravos do pecado, mas obedecestes de coração à forma de doutrina a que fostes entregues;
 
-**18** e, libertados do pecado, vos tornastes escravos da justiça.
+**18** e, libertados do pecado, vos tornastes servos da justiça.
 
-**19** Falo à maneira humana, por causa da fraqueza da vossa carne. Assim como oferecestes os vossos membros como escravos à impureza e à iniquidade, para a iniquidade, assim oferecei agora os vossos membros como escravos à justiça, para a santificação.
+**19** Falo à maneira humana, por causa da fraqueza da vossa carne. Assim como oferecestes os vossos membros como escravos da impureza e da iniquidade, para a iniquidade, assim agora oferecei os vossos membros como servos da justiça, para a santificação.
 
-**20** Pois, quando éreis escravos do pecado, éreis livres em relação à justiça.
+**20** Quando éreis escravos do pecado, éreis livres quanto à justiça.
 
 ---
 
@@ -4670,13 +4670,13 @@ _O desígnio do coração do homem é mau desde a juventude, e Deus, apesar diss
 
 ### Gênesis 6,5
 
-**5** Viu o Senhor que era grande a maldade do homem sobre a terra, e que todo desígnio dos pensamentos do seu coração era somente mau, todos os dias.
+**5** Viu o Senhor que a maldade do homem era grande sobre a terra, e que todo desígnio do seu coração era só mau, continuamente.
 
 ### Gênesis 8,21
 
 _Depois do dilúvio, diante do sacrifício de Noé_
 
-**21** O Senhor aspirou o aroma agradável e disse no seu coração: Não tornarei mais a amaldiçoar a terra por causa do homem, porque o desígnio do coração do homem é mau desde a sua juventude; nem tornarei mais a ferir todo vivente, como fiz.
+**21** E o Senhor aspirou o suave odor, e disse no seu coração: Nunca mais amaldiçoarei o solo por causa do homem, porque os desígnios do coração humano são maus desde a sua mocidade; nunca mais ferirei todo ser vivente, como fiz.
 
 ---
 
@@ -4692,15 +4692,15 @@ _A carne deseja contra o Espírito; a concupiscência da carne, a concupiscênci
 
 ### Gálatas 5,16–17
 
-**16** Digo, pois: caminhai segundo o Espírito, e não satisfareis a concupiscência da carne.
+**16** Digo, pois: caminhai segundo o Espírito, e não satisfareis os desejos da carne.
 
-**17** Porque a carne deseja contra o Espírito, e o Espírito contra a carne; estes se opõem um ao outro, de modo que não fazeis o que quereis.
+**17** Porque a carne deseja contra o Espírito, e o Espírito, contra a carne; um se opõe ao outro, de modo que não fazeis o que quereríeis.
 
 ### 1 João 2,16
 
 _A frase começa no v. 15: não ameis o mundo, nem o que há no mundo_
 
-**16** Porque tudo o que há no mundo — a concupiscência da carne, a concupiscência dos olhos e a soberba da vida — não vem do Pai, mas vem do mundo.
+**16** porque tudo o que há no mundo — a concupiscência da carne, a concupiscência dos olhos e a soberba da vida — não vem do Pai, mas do mundo.
 
 ---
 

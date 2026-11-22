@@ -14,15 +14,15 @@ A revelação natural e a sobrenatural; Cristo, plenitude da revelação.
 
 _Deus se revela através de suas obras_
 
-**16** Pois não me envergonho do Evangelho: ele é poder de Deus para a salvação de todo aquele que crê, do judeu primeiro, e também do grego.
+**16** Porque não me envergonho do Evangelho: ele é poder de Deus para a salvação de todo o que crê, primeiro do judeu e também do grego.
 
 **17** Pois nele se revela a justiça de Deus, de fé em fé, como está escrito: O justo viverá da fé.
 
-**18** Pois a ira de Deus se revela do céu contra toda a impiedade e injustiça dos homens que detêm a verdade na injustiça;
+**18** Revela-se, com efeito, do céu, a ira de Deus contra toda impiedade e injustiça dos homens que, pela injustiça, retêm cativa a verdade;
 
-**19** porquanto o que de Deus se pode conhecer é manifesto entre eles, pois Deus o manifestou a eles.
+**19** porquanto o que de Deus se pode conhecer é manifesto entre eles, pois Deus lho manifestou.
 
-**20** Com efeito, desde a criação do mundo, as suas perfeições invisíveis são percebidas pela inteligência por meio das obras, tanto o seu eterno poder como a sua divindade, de modo que são inescusáveis.
+**20** Com efeito, desde a criação do mundo, as perfeições invisíveis de Deus — o seu eterno poder e a sua divindade — tornaram-se visíveis à inteligência por meio das obras. De sorte que são inescusáveis;
 
 ---
 
@@ -32,11 +32,11 @@ _Os céus narram a glória de Deus_
 
 **2** Os céus narram a glória de Deus, e o firmamento anuncia a obra das suas mãos.
 
-**3** O dia transmite ao dia a mensagem, e a noite dá a conhecer à noite a notícia.
+**3** O dia ao dia transmite a mensagem, e a noite à noite dá a conhecer o saber.
 
-**4** Não há fala nem palavras, não se ouve a sua voz;
+**4** Não é discurso, não são palavras; a sua voz não se ouve.
 
-**5** e contudo por toda a terra se estende o seu som, e até os confins do mundo as suas palavras.
+**5** E por toda a terra corre o seu som, e as suas palavras até aos confins do mundo. Ali armou uma tenda para o sol,
 
 ---
 
@@ -44,23 +44,23 @@ _Os céus narram a glória de Deus_
 
 _Pela grandeza e beleza das criaturas se contempla o Criador_
 
-**1** Vãos por natureza são todos os homens em quem houve ignorância de Deus, e que, a partir dos bens visíveis, não foram capazes de conhecer aquele que é, nem, considerando as obras, reconheceram o artífice;
+**1** Insensatos por natureza são todos os homens que ignoraram a Deus e, a partir dos bens visíveis, não foram capazes de conhecer aquele que é, nem, considerando as obras, reconheceram o artífice.
 
-**2** mas tiveram por deuses, governadores do mundo, ou o fogo, ou o vento, ou o ar ligeiro, ou o círculo dos astros, ou a água impetuosa, ou os luzeiros do céu.
+**2** Mas tomaram por deuses, governadores do mundo, o fogo, o vento, o ar sutil, a abóbada estrelada, a água impetuosa ou os luzeiros do céu.
 
-**3** Se, encantados pela sua beleza, os tomaram por deuses, saibam quanto é mais excelente o Senhor deles; pois quem os criou foi o próprio autor da beleza.
+**3** Se, encantados com a sua beleza, os tomaram por deuses, saibam quanto o seu Senhor é superior a eles, pois foi o próprio autor da beleza que os criou.
 
-**4** E, se ficaram maravilhados com o seu poder e a sua atividade, entendam por eles quanto é mais poderoso aquele que os formou;
+**4** Se ficaram impressionados com o seu poder e a sua atividade, compreendam por meio deles quanto é mais poderoso aquele que os formou;
 
-**5** pois pela grandeza e pela beleza das criaturas, por analogia, se contempla o seu autor.
+**5** pois a partir da grandeza e da beleza das criaturas se contempla, por analogia, o seu Criador.
 
-**6** Contudo, estes merecem menor censura, pois talvez se extraviem buscando a Deus e querendo encontrá-lo;
+**6** Mas estes merecem uma censura menor, pois talvez se extraviem procurando a Deus e querendo encontrá-lo.
 
-**7** vivendo entre as suas obras, investigam-nas, e deixam-se levar pelas aparências, porque são belas as coisas que se veem.
+**7** Vivendo no meio das suas obras, investigam-nas e se deixam levar pelas aparências, porque é belo o que veem.
 
-**8** Mas nem mesmo estes são desculpáveis;
+**8** Mas nem mesmo eles são desculpáveis:
 
-**9** pois, se foram capazes de saber tanto que puderam investigar o universo, como não encontraram mais depressa o Senhor dessas coisas?
+**9** se foram capazes de saber tanto a ponto de poderem investigar o universo, como não encontraram mais depressa o seu Senhor?
 
 ---
 
@@ -68,11 +68,11 @@ _Pela grandeza e beleza das criaturas se contempla o Criador_
 
 _Deus revela o seu nome a Moisés_
 
-**13** Moisés disse a Deus: Eis que irei aos filhos de Israel e lhes direi: O Deus de vossos pais enviou-me a vós. E, se me perguntarem: Qual é o seu nome?, que lhes direi?
+**13** Moisés disse a Deus: Quando eu for aos filhos de Israel e lhes disser: O Deus de vossos pais me enviou a vós, e eles me perguntarem qual é o seu nome, que lhes direi?
 
-**14** Disse Deus a Moisés: Eu sou aquele que sou. E acrescentou: Assim dirás aos filhos de Israel: Eu sou enviou-me a vós.
+**14** Deus disse a Moisés: Eu sou aquele que sou. E acrescentou: Assim dirás aos filhos de Israel: Eu Sou me enviou a vós.
 
-**15** Disse ainda Deus a Moisés: Assim dirás aos filhos de Israel: O Senhor, o Deus de vossos pais, o Deus de Abraão, o Deus de Isaac e o Deus de Jacó, enviou-me a vós. Este é o meu nome para sempre, e este é o meu memorial de geração em geração.
+**15** Deus disse ainda a Moisés: Assim dirás aos filhos de Israel: O Senhor, o Deus de vossos pais, o Deus de Abraão, o Deus de Isaac e o Deus de Jacó, enviou-me a vós. Este é o meu nome para sempre, e assim serei lembrado de geração em geração.
 
 ---
 
@@ -80,15 +80,15 @@ _Deus revela o seu nome a Moisés_
 
 _Nenhum povo ouviu a voz de Deus como Israel a ouviu_
 
-**32** Interroga, pois, os tempos antigos, que foram antes de ti, desde o dia em que Deus criou o homem sobre a terra, e de uma extremidade do céu à outra: aconteceu alguma vez coisa tão grande como esta, ou ouviu-se coisa semelhante?
+**32** Pergunta aos tempos antigos, que foram antes de ti, desde o dia em que Deus criou o homem sobre a terra, e de um extremo do céu ao outro: aconteceu jamais coisa tão grande, ou ouviu-se alguma vez outra igual?
 
-**33** Porventura ouviu algum povo a voz de Deus falando do meio do fogo, como tu a ouviste, e continuou vivo?
+**33** Algum povo ouviu a voz de Deus falando do meio do fogo, como tu a ouviste, e ficou vivo?
 
-**34** Ou tentou algum deus vir tomar para si uma nação do meio de outra nação, com provas, com sinais e prodígios, com guerra, com mão forte e braço estendido, e com grandes terrores, segundo tudo o que o Senhor vosso Deus fez por vós no Egito, diante dos teus olhos?
+**34** Ou tentou algum deus vir tomar para si uma nação do meio de outra nação, com provas, sinais e prodígios, com guerra, mão forte e braço estendido, e com grandes terrores, conforme tudo o que o Senhor vosso Deus fez por vós no Egito, diante dos teus olhos?
 
-**35** A ti foi mostrado, para que soubesses que o Senhor é Deus, e não há outro fora dele.
+**35** A ti te foi mostrado, para que soubesses que o Senhor é Deus, e não há outro além dele.
 
-**36** Do céu te fez ouvir a sua voz para te instruir, e na terra te fez ver o seu grande fogo, e do meio do fogo ouviste as suas palavras.
+**36** Do céu te fez ouvir a sua voz, para te instruir; na terra te mostrou o seu grande fogo, e ouviste as suas palavras do meio do fogo.
 
 ---
 
@@ -96,9 +96,9 @@ _Nenhum povo ouviu a voz de Deus como Israel a ouviu_
 
 _Deus se revelou pelos profetas e por Cristo_
 
-**1** Muitas vezes e de muitos modos falou Deus outrora aos pais pelos profetas;
+**1** Muitas vezes e de muitos modos falou Deus, outrora, aos pais, pelos profetas;
 
-**2** nestes dias, que são os últimos, falou-nos por meio do Filho, a quem constituiu herdeiro de todas as coisas, por meio de quem também fez os séculos.
+**2** nestes dias, que são os últimos, falou-nos pelo Filho, a quem constituiu herdeiro de todas as coisas e por quem também fez os séculos.
 
 ---
 
@@ -106,11 +106,11 @@ _Deus se revelou pelos profetas e por Cristo_
 
 _Ninguém conhece o Pai senão o Filho, e aquele a quem o Filho o quiser revelar_
 
-**25** Naquele tempo, tomando a palavra, disse Jesus: Eu te louvo, Pai, Senhor do céu e da terra, porque escondeste estas coisas aos sábios e entendidos, e as revelaste aos pequeninos.
+**25** Naquele tempo, disse Jesus: Eu te louvo, Pai, Senhor do céu e da terra, porque escondeste estas coisas aos sábios e prudentes e as revelaste aos pequeninos.
 
 **26** Sim, Pai, porque assim foi do teu agrado.
 
-**27** Todas as coisas me foram entregues por meu Pai; e ninguém conhece o Filho senão o Pai, e ninguém conhece o Pai senão o Filho, e aquele a quem o Filho o quiser revelar.
+**27** Tudo me foi entregue por meu Pai; e ninguém conhece o Filho senão o Pai, nem ninguém conhece o Pai senão o Filho, e aquele a quem o Filho o quiser revelar.
 
 ---
 
@@ -120,11 +120,11 @@ _Quem vê o Filho vê o Pai_
 
 **8** Disse-lhe Filipe: Senhor, mostra-nos o Pai, e isso nos basta.
 
-**9** Disse-lhe Jesus: Há tanto tempo estou convosco, e não me conheceste, Filipe? Quem me viu, viu o Pai. Como dizes tu: Mostra-nos o Pai?
+**9** Disse-lhe Jesus: Há tanto tempo estou convosco, e não me conheces, Filipe? Quem me vê, vê o Pai. Como dizes tu: Mostra-nos o Pai?
 
-**10** Não credes que eu estou no Pai e o Pai está em mim? As palavras que eu vos digo, não as digo por mim mesmo; mas o Pai, que permanece em mim, faz as suas obras.
+**10** Não crês que eu estou no Pai e o Pai está em mim? As palavras que eu vos digo não as digo por mim mesmo; mas o Pai, que permanece em mim, é quem faz as suas obras.
 
-**11** Crede-me: eu estou no Pai, e o Pai em mim; ao menos crede por causa das próprias obras.
+**11** Crede-me: eu estou no Pai e o Pai está em mim; crede ao menos por causa das próprias obras.
 
 ---
 
@@ -132,21 +132,21 @@ _Quem vê o Filho vê o Pai_
 
 _Deus deu-nos a conhecer o mistério da sua vontade_
 
-**3** Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, que nos abençoou com toda bênção espiritual nos céus, em Cristo,
+**3** Bendito seja Deus, Pai de nosso Senhor Jesus Cristo, que nos abençoou com toda bênção espiritual, nos céus, em Cristo.
 
-**4** assim como nele nos escolheu antes da fundação do mundo, para sermos santos e irrepreensíveis diante dele no amor,
+**4** Nele nos escolheu, antes da criação do mundo, para sermos santos e imaculados diante dele, no amor.
 
-**5** predestinando-nos para sermos seus filhos adotivos por meio de Jesus Cristo, segundo o beneplácito da sua vontade,
+**5** Ele nos predestinou a ser seus filhos adotivos, por Jesus Cristo, segundo o beneplácito da sua vontade,
 
-**6** para louvor da glória da sua graça, com a qual nos agraciou no Amado.
+**6** para louvor da glória da sua graça, com que nos agraciou no Amado.
 
-**7** Nele temos a redenção pelo seu sangue, a remissão das faltas, segundo a riqueza da sua graça,
+**7** Nele temos a redenção pelo seu sangue, a remissão dos pecados, segundo a riqueza da sua graça,
 
-**8** que ele fez transbordar sobre nós em toda sabedoria e inteligência,
+**8** que ele derramou sobre nós com abundância, em toda sabedoria e inteligência,
 
-**9** dando-nos a conhecer o mistério da sua vontade, segundo o beneplácito que de antemão estabelecera em Cristo,
+**9** dando-nos a conhecer o mistério da sua vontade, segundo o beneplácito que nele de antemão estabelecera,
 
-**10** para realizá-lo na plenitude dos tempos: reunir sob uma só cabeça todas as coisas em Cristo, as que estão nos céus e as que estão na terra.
+**10** para realizá-lo na plenitude dos tempos: recapitular em Cristo todas as coisas, as que estão nos céus e as que estão na terra.
 
 ---
 
@@ -250,19 +250,19 @@ O cânon, a inspiração, a inerrância e a interpretação dos livros sagrados.
 
 _Cristo ressuscitado explica o que as Escrituras diziam dele_
 
-**25** Então ele lhes disse: Ó homens sem inteligência e lentos de coração para crer tudo o que os profetas anunciaram!
+**25** Então ele lhes disse: Ó homens sem entendimento e lentos de coração para crer em tudo o que os profetas disseram!
 
-**26** Não era necessário que o Cristo sofresse estas coisas e assim entrasse na sua glória?
+**26** Não era necessário que o Cristo sofresse essas coisas para entrar na sua glória?
 
-**27** E, começando por Moisés e por todos os profetas, explicou-lhes o que a seu respeito se encontrava em todas as Escrituras.
+**27** E, começando por Moisés e por todos os Profetas, explicou-lhes, em todas as Escrituras, o que a ele dizia respeito.
 
-**44** Depois disse-lhes: São estas as palavras que vos disse quando ainda estava convosco: era necessário que se cumprisse tudo o que está escrito a meu respeito na Lei de Moisés, nos Profetas e nos Salmos.
+**44** Depois disse-lhes: Eram estas as palavras que eu vos dizia quando ainda estava convosco: é necessário que se cumpra tudo o que está escrito a meu respeito na Lei de Moisés, nos Profetas e nos Salmos.
 
-**45** Então abriu-lhes a inteligência para que compreendessem as Escrituras,
+**45** Então abriu-lhes o entendimento para compreenderem as Escrituras.
 
-**46** e disse-lhes: Assim está escrito que o Cristo havia de sofrer e ressuscitar dentre os mortos ao terceiro dia,
+**46** E disse-lhes: Assim está escrito: o Cristo havia de sofrer e ressuscitar dos mortos ao terceiro dia,
 
-**47** e que em seu nome se havia de pregar a conversão para a remissão dos pecados a todas as nações, começando por Jerusalém.
+**47** e em seu nome seria pregada a conversão, para o perdão dos pecados, a todas as nações, começando por Jerusalém.
 
 ---
 
@@ -288,7 +288,7 @@ _As Escrituras dão testemunho de Cristo_
 
 _O que foi escrito, para nosso ensino foi escrito_
 
-**4** Pois tudo o que outrora foi escrito, para nosso ensino foi escrito, a fim de que, pela perseverança e pela consolação que vêm das Escrituras, tenhamos esperança.
+**4** Ora, tudo o que antes foi escrito, para nosso ensino foi escrito, a fim de que, pela paciência e pela consolação das Escrituras, tenhamos esperança.
 
 ---
 
@@ -296,11 +296,11 @@ _O que foi escrito, para nosso ensino foi escrito_
 
 _A Escritura é inspirada por Deus_
 
-**14** Tu, porém, permanece naquilo que aprendeste e de que foste persuadido, sabendo de quem o aprendeste;
+**14** Tu, porém, permanece naquilo que aprendeste e de que te convenceste, sabendo de quem o aprendeste;
 
-**15** e que desde a infância conheces as sagradas letras, que podem instruir-te para a salvação pela fé em Cristo Jesus.
+**15** e que, desde a infância, conheces as Escrituras sagradas, que podem dar-te a sabedoria que conduz à salvação, pela fé em Cristo Jesus.
 
-**16** Toda Escritura é inspirada por Deus e útil para ensinar, para argumentar, para corrigir, para educar na justiça,
+**16** Toda Escritura é inspirada por Deus e útil para ensinar, para repreender, para corrigir, para educar na justiça,
 
 **17** a fim de que o homem de Deus seja perfeito, preparado para toda boa obra.
 
@@ -310,11 +310,11 @@ _A Escritura é inspirada por Deus_
 
 _O Espírito Santo que inspirou as profecias_
 
-**19** E temos ainda mais firme a palavra profética, à qual fazeis bem em atender, como a uma lâmpada que brilha em lugar escuro, até que amanheça o dia e a estrela da manhã se levante nos vossos corações.
+**19** Temos, assim, mais firme a palavra dos profetas, à qual fazeis bem em atender, como a uma lâmpada que brilha em lugar escuro, até que rompa o dia e a estrela da manhã se levante nos vossos corações.
 
-**20** Sabendo primeiramente isto: que nenhuma profecia da Escritura é objeto de interpretação particular;
+**20** Sabei, antes de tudo, que nenhuma profecia da Escritura é objeto de interpretação particular;
 
-**21** pois nunca profecia alguma foi proferida por vontade humana, mas homens falaram da parte de Deus, movidos pelo Espírito Santo.
+**21** porque jamais veio profecia alguma por vontade humana: foi movidos pelo Espírito Santo que os homens falaram da parte de Deus.
 
 ---
 
@@ -322,9 +322,9 @@ _O Espírito Santo que inspirou as profecias_
 
 _As cartas paulinas são tratadas como Escrituras_
 
-**15** E considerai como salvação a paciência de nosso Senhor, como também o nosso caríssimo irmão Paulo vos escreveu, segundo a sabedoria que lhe foi dada,
+**15** E considerai que a paciência de nosso Senhor é a nossa salvação, como também vos escreveu o nosso caríssimo irmão Paulo, segundo a sabedoria que lhe foi dada.
 
-**16** e assim o faz em todas as suas cartas, nas quais fala destas coisas. Nelas há alguns pontos difíceis de entender, que os ignorantes e inconstantes deturpam, como também as demais Escrituras, para a sua própria perdição.
+**16** É o que faz em todas as suas cartas, nas quais fala dessas coisas. Nelas há pontos difíceis de entender, que os ignorantes e os inconstantes deturpam, como fazem com as demais Escrituras, para a própria perdição.
 
 ---
 
@@ -332,7 +332,7 @@ _As cartas paulinas são tratadas como Escrituras_
 
 _A pregação dos apóstolos acolhida como palavra de Deus_
 
-**13** Por isso também nós damos graças a Deus sem cessar, porque, tendo recebido a palavra de Deus que de nós ouvistes, a acolhestes não como palavra de homens, mas como ela é verdadeiramente, palavra de Deus, que também opera em vós, os que credes.
+**13** Por isso também damos graças a Deus sem cessar: porque, ao receberdes a palavra de Deus que de nós ouvistes, acolhestes não uma palavra humana, mas, como é na verdade, a palavra de Deus, que age em vós, os que credes.
 
 ---
 
@@ -340,9 +340,9 @@ _A pregação dos apóstolos acolhida como palavra de Deus_
 
 _A palavra de Deus é viva e eficaz_
 
-**12** Pois a palavra de Deus é viva e eficaz, e mais cortante que qualquer espada de dois gumes; penetra até a divisão da alma e do espírito, das juntas e das medulas, e discerne os pensamentos e as intenções do coração.
+**12** Porque a palavra de Deus é viva e eficaz, mais cortante que qualquer espada de dois gumes: penetra até dividir alma e espírito, juntas e medulas, e discerne os pensamentos e as intenções do coração.
 
-**13** E não há criatura alguma que lhe seja invisível; mas todas as coisas estão nuas e patentes aos olhos daquele a quem havemos de prestar contas.
+**13** Não há criatura que lhe fique oculta; tudo está nu e descoberto aos olhos daquele a quem havemos de prestar contas.
 
 ---
 
@@ -354,9 +354,9 @@ _A palavra de Deus é viva e eficaz_
 
 _Nada se acrescente nem se tire às palavras da profecia_
 
-**18** Eu atesto a todo aquele que ouve as palavras da profecia deste livro: se alguém lhes acrescentar alguma coisa, Deus lhe acrescentará as pragas descritas neste livro;
+**18** Eu declaro a todo aquele que ouve as palavras da profecia deste livro: Se alguém lhes acrescentar alguma coisa, Deus lhe acrescentará as pragas descritas neste livro;
 
-**19** e, se alguém tirar alguma coisa das palavras do livro desta profecia, Deus tirará a sua parte da árvore da vida e da cidade santa, descritas neste livro.
+**19** e se alguém tirar alguma coisa das palavras do livro desta profecia, Deus lhe tirará a sua parte na árvore da vida e na cidade santa, descritas neste livro.
 
 ---
 
@@ -406,15 +406,9 @@ E, uma vez que na linguagem popular se apresentam primeiro e sobretudo aquelas c
 
 _Não se deve distinguir na Escritura um elemento religioso e outro profano_
 
-**19.** Nem se deve tolerar, de modo algum, o que alguns católicos há pouco começaram a introduzir, os quais, entendendo que se deve distinguir na Escritura como que um elemento primário ou religioso e outro secundário ou profano, concedem de bom grado que a inspiração se estende a todas e cada uma das sentenças, e ainda a cada palavra da Bíblia, mas restringem e limitam os seus efeitos, e sobretudo a imunidade de erro e a absoluta verdade, ao elemento primário ou religioso.
+**19.** Ora, a estes preceitos e limites de modo nenhum se atém a opinião daqueles modernos que, introduzindo uma distinção entre o elemento primário ou religioso da Escritura e o secundário ou profano, querem, sim, que a própria inspiração se estenda a todas as sentenças e até a cada uma das palavras da Bíblia, mas restringem e estreitam os seus efeitos, e em primeiro lugar a imunidade de erro e a verdade absoluta, ao elemento primário ou religioso. Segundo eles, só aquilo que diz respeito à religião é intentado e ensinado por Deus nas Escrituras; o resto, que pertence às disciplinas profanas e serve à doutrina revelada como uma veste externa da verdade divina, é apenas permitido e deixado à fraqueza do escritor. Nada admira, pois, que em matérias de física, de história e outras semelhantes se encontrem na Bíblia muitas coisas que de modo nenhum se podem conciliar com os progressos das ciências desta época.
 
-Isto é o que eles pretendem: que somente aquilo que Deus ensina acerca da religião e dos costumes, e não também o restante, esteja imune de erro; ao passo que tudo o mais, que pertence às disciplinas naturais e históricas e é como que o revestimento externo da verdade divina, ordenado, como dizem, apenas a mover o ânimo, poderia ser afetado por erro.
-
-Ora, os nossos predecessores Leão XIII e Pio X reprovaram justamente estes erros; e nós, com a nossa autoridade apostólica, do mesmo modo os reprovamos. Pois, se admitirmos tal distinção, há de seguir-se imediatamente que aquilo que Deus disse não é verdadeiro em todas as coisas, o que repugna à sua veracidade.
-
-**20.** Longe está esta opinião de Jerônimo e dos Padres. Sustenta ele, com efeito, que os livros divinos foram compostos sob a inspiração ou sugestão, ou ainda sob o ditado do Espírito Santo, e até escritos e editados por ele; e não indaga, contudo, de que gênero seja a matéria de que os hagiógrafos tratam, mas assevera que a autoridade divina se estende igualmente a todas as suas partes.
-
-E, no entanto, ninguém advertiu mais claramente do que ele que os escritores sagrados, ao referirem as coisas da natureza, se guiaram pela aparência sensível, e que por isso não se deve buscar neles a exatidão científica, mas antes o modo comum de falar do seu tempo. E de igual modo, ao tratarem da história, não se hão de julgar pelas leis dos historiadores gregos e romanos, mas segundo os costumes do seu povo e da sua época.
+**20.** Há quem sustente que estas invenções de opiniões em nada se opõem às prescrições do Nosso Predecessor, visto que ele declarou que o hagiógrafo, nas coisas naturais, fala segundo a aparência externa, que certamente engana. Quão temerária e falsamente se afirma isto, vê-se claramente pelas próprias palavras do Pontífice. Com efeito, da aparência externa das coisas – a qual, como sapientissimamente declarou Leão XIII, seguindo Agostinho e Tomás de Aquino, se deve ter em conta – nenhuma mancha de falsidade recai sobre as Letras divinas, pois é dogma da sã filosofia que os sentidos, no conhecimento imediato das coisas que são o seu objeto próprio, de modo nenhum se enganam.
 
 ---
 
@@ -554,9 +548,9 @@ A transmissão apostólica, e os Padres como testemunhas dela.
 
 _Nem tudo o que Jesus fez foi escrito_
 
-**24** Este é o discípulo que dá testemunho destas coisas e as escreveu; e sabemos que o seu testemunho é verdadeiro.
+**24** Este é o discípulo que dá testemunho destas coisas e que as escreveu; e sabemos que o seu testemunho é verdadeiro.
 
-**25** Há ainda muitas outras coisas que Jesus fez; se fossem escritas uma por uma, penso que nem o próprio mundo poderia conter os livros que se haveriam de escrever.
+**25** Há ainda muitas outras coisas que Jesus fez; se fossem escritas uma por uma, creio que nem o mundo inteiro poderia conter os livros que seriam escritos.
 
 ---
 
@@ -566,11 +560,11 @@ _A transmissão do Evangelho na Igreja apostólica_
 
 **1** Visto que muitos empreenderam compor uma narração dos fatos que entre nós se cumpriram,
 
-**2** conforme os transmitiram a nós os que desde o princípio foram testemunhas oculares e ministros da palavra,
+**2** conforme nos transmitiram os que desde o princípio foram testemunhas oculares e ministros da palavra,
 
-**3** pareceu-me bem também a mim, depois de ter investigado tudo cuidadosamente desde a origem, escrever-te ordenadamente, excelentíssimo Teófilo,
+**3** pareceu bem também a mim, depois de investigar tudo cuidadosamente desde a origem, escrever para ti, excelentíssimo Teófilo, uma exposição ordenada,
 
-**4** para que conheças a solidez daquilo em que foste instruído.
+**4** para que reconheças a solidez dos ensinamentos que recebeste.
 
 ---
 
@@ -578,7 +572,7 @@ _A transmissão do Evangelho na Igreja apostólica_
 
 _A primeira comunidade perseverava na doutrina dos apóstolos_
 
-**42** Eles perseveravam na doutrina dos apóstolos e na comunhão, na fração do pão e nas orações.
+**42** Perseveravam no ensino dos apóstolos, na comunhão, no partir do pão e nas orações.
 
 ---
 
@@ -586,11 +580,11 @@ _A primeira comunidade perseverava na doutrina dos apóstolos_
 
 _Paulo transmite o que recebeu_
 
-**11,2** Louvo-vos por vos lembrardes de mim em todas as coisas e por conservardes as tradições tais como eu as transmiti a vós.
+**11,2** Eu vos louvo porque em tudo vos lembrais de mim e guardais as tradições tal como eu as transmiti a vós.
 
-**11,23** Pois eu recebi do Senhor o que também vos transmiti...
+**11,23** Porque eu recebi do Senhor o que também transmiti a vós: que o Senhor Jesus, na noite em que foi entregue, tomou o pão
 
-**15,3** Pois eu vos transmiti, em primeiro lugar, o que também recebi...
+**15,3** Porque vos transmiti, em primeiro lugar, o que também recebi: que Cristo morreu pelos nossos pecados, segundo as Escrituras;
 
 ---
 
@@ -602,27 +596,27 @@ _Paulo transmite o que recebeu_
 
 _O Evangelho que Paulo recebeu e transmitiu_
 
-**1** Recordo-vos, irmãos, o Evangelho que vos anunciei, que também recebestes e no qual permaneceis firmes,
+**1** Eu vos recordo, irmãos, o Evangelho que vos anunciei, que recebestes e no qual permaneceis firmes,
 
-**2** e pelo qual também sois salvos, se o conservais tal como eu o anunciei a vós; a não ser que tenhais crido em vão.
+**2** e pelo qual sois salvos, se o guardais tal como vos anunciei; a não ser que tenhais crido em vão.
 
-**3** Pois eu vos transmiti, em primeiro lugar, o que também recebi: que Cristo morreu pelos nossos pecados, segundo as Escrituras;
+**3** Porque vos transmiti, em primeiro lugar, o que também recebi: que Cristo morreu pelos nossos pecados, segundo as Escrituras;
 
 **4** que foi sepultado; que ressuscitou ao terceiro dia, segundo as Escrituras;
 
-**5** que apareceu a Cefas, e depois aos Doze.
+**5** e que apareceu a Cefas e, depois, aos Doze.
 
-**6** Depois apareceu a mais de quinhentos irmãos de uma só vez, dos quais a maior parte ainda vive, e alguns já adormeceram.
+**6** Depois apareceu a mais de quinhentos irmãos de uma só vez, dos quais a maioria vive até hoje, embora alguns tenham adormecido.
 
-**7** Depois apareceu a Tiago, e em seguida a todos os apóstolos.
+**7** Depois apareceu a Tiago e, em seguida, a todos os apóstolos.
 
-**8** Por último, depois de todos, apareceu também a mim, como a um abortivo.
+**8** Por último, apareceu também a mim, como a um abortivo.
 
-**9** Pois eu sou o menor dos apóstolos, e não sou digno de ser chamado apóstolo, porque persegui a Igreja de Deus.
+**9** Porque eu sou o menor dos apóstolos, e nem sou digno de ser chamado apóstolo, porque persegui a Igreja de Deus.
 
-**10** Mas pela graça de Deus sou o que sou, e a sua graça para comigo não foi vã; ao contrário, trabalhei mais do que todos eles; não eu, mas a graça de Deus que está comigo.
+**10** Mas, pela graça de Deus, sou o que sou, e a sua graça para comigo não foi vã; antes, trabalhei mais do que todos eles; não eu, porém, mas a graça de Deus comigo.
 
-**11** Assim, pois, seja eu, sejam eles, é isto o que pregamos, e é isto o que crestes.
+**11** Portanto, seja eu, sejam eles, assim pregamos, e assim crestes.
 
 ---
 
@@ -630,7 +624,7 @@ _O Evangelho que Paulo recebeu e transmitiu_
 
 _Os apóstolos ensinavam por palavra e por texto_
 
-**15** Assim, pois, irmãos, permanecei firmes e conservai as tradições que aprendestes, seja por palavra, seja por carta nossa.
+**15** Portanto, irmãos, ficai firmes e guardai as tradições que aprendestes, quer de viva voz, quer por carta nossa.
 
 ---
 
@@ -650,13 +644,13 @@ _O que aprendestes, recebestes, ouvistes e vistes, isso praticai_
 
 _Existe um único Evangelho de Cristo, que não pode ser alterado_
 
-**6** Admiro-me de que tão depressa vos afasteis daquele que vos chamou pela graça de Cristo, para passardes a outro evangelho —
+**6** Admiro-me de que tão depressa vos afasteis daquele que vos chamou pela graça de Cristo, para passardes a outro evangelho.
 
-**7** o qual não é outro; há apenas alguns que vos perturbam e querem subverter o Evangelho de Cristo.
+**7** Não que haja outro; há apenas quem vos perturbe e queira subverter o Evangelho de Cristo.
 
-**8** Mas, ainda que nós mesmos, ou um anjo do céu, vos anunciássemos um evangelho diferente daquele que vos anunciamos, seja anátema.
+**8** Mas, ainda que nós mesmos, ou um anjo do céu, vos anuncie um evangelho diferente do que vos anunciamos, seja anátema.
 
-**9** Como já dissemos, também agora torno a dizer: se alguém vos anuncia um evangelho diferente daquele que recebestes, seja anátema.
+**9** Como já dissemos, e agora repito: se alguém vos anuncia um evangelho diferente do que recebestes, seja anátema.
 
 ---
 
@@ -664,17 +658,17 @@ _Existe um único Evangelho de Cristo, que não pode ser alterado_
 
 _Paulo confia aos presbíteros de Éfeso a guarda do rebanho e da palavra_
 
-**27** Pois não me esquivei de vos anunciar todo o desígnio de Deus.
+**27** pois não deixei de vos anunciar todo o desígnio de Deus.
 
 **28** Cuidai de vós mesmos e de todo o rebanho sobre o qual o Espírito Santo vos constituiu bispos, para apascentardes a Igreja de Deus, que ele adquiriu com o seu próprio sangue.
 
-**29** Eu sei que, depois da minha partida, entrarão no meio de vós lobos cruéis, que não pouparão o rebanho;
+**29** Eu sei que, depois da minha partida, se introduzirão entre vós lobos ferozes, que não pouparão o rebanho;
 
-**30** e do meio de vós mesmos se levantarão homens falando coisas perversas, para arrastarem os discípulos atrás de si.
+**30** e do meio de vós mesmos se levantarão homens que falarão coisas perversas, para arrastar os discípulos atrás de si.
 
-**31** Por isso vigiai, lembrando-vos de que durante três anos, noite e dia, não cessei de admoestar com lágrimas a cada um.
+**31** Vigiai, pois, lembrando-vos de que, durante três anos, noite e dia, não cessei de admoestar com lágrimas cada um de vós.
 
-**32** E agora vos confio a Deus e à palavra da sua graça, que tem poder para edificar e dar a herança entre todos os santificados.
+**32** E agora vos recomendo a Deus e à palavra da sua graça, que tem o poder de edificar e de dar a herança entre todos os santificados.
 
 ---
 
@@ -694,9 +688,9 @@ _A importância de guardar o depósito recebido_
 
 _O que Timóteo ouviu deve ser confiado a outros capazes de o ensinar_
 
-**1** Tu, pois, meu filho, fortalece-te na graça que está em Cristo Jesus;
+**1** Tu, pois, meu filho, fortalece-te na graça que está em Cristo Jesus.
 
-**2** e o que de mim ouviste diante de muitas testemunhas, confia-o a homens fiéis, que sejam capazes de ensinar também a outros.
+**2** E o que de mim ouviste diante de muitas testemunhas, confia-o a homens fiéis, que sejam capazes de instruir também a outros.
 
 ---
 
@@ -708,9 +702,9 @@ _O que Timóteo ouviu deve ser confiado a outros capazes de o ensinar_
 
 _A palavra do Senhor permanece para sempre, e é essa a palavra que vos foi anunciada_
 
-**23** Renascestes não de semente corruptível, mas incorruptível, pela palavra de Deus, viva e permanente.
+**23** pois fostes regenerados não de uma semente corruptível, mas incorruptível: pela palavra de Deus, viva e permanente.
 
-**24** Pois toda carne é como a erva, e toda a sua glória como a flor da erva; secou-se a erva, e a flor caiu;
+**24** Porque toda carne é como a erva, e toda a sua glória, como a flor da erva. Seca a erva, e cai a flor;
 
 **25** mas a palavra do Senhor permanece para sempre. E esta é a palavra que vos foi anunciada.
 
@@ -720,7 +714,7 @@ _A palavra do Senhor permanece para sempre, e é essa a palavra que vos foi anun
 
 _A fé foi transmitida aos santos de uma vez para sempre_
 
-**3** Caríssimos, estando muito empenhado em vos escrever acerca da nossa salvação comum, senti a necessidade de vos escrever para vos exortar a combater pela fé que de uma vez para sempre foi transmitida aos santos.
+**3** Caríssimos, tendo grande empenho em vos escrever a respeito da nossa comum salvação, senti a necessidade de o fazer, para vos exortar a combater pela fé que de uma vez por todas foi transmitida aos santos.
 
 ---
 
@@ -842,7 +836,7 @@ Por que a revelação pede um intérprete vivo, e a que ele serve.
 
 _Quem ouve os enviados de Cristo ouve o próprio Cristo_
 
-**16** Quem vos ouve, a mim ouve; quem vos rejeita, a mim rejeita; e quem me rejeita, rejeita aquele que me enviou.
+**16** Quem vos ouve, a mim me ouve; e quem vos rejeita, a mim me rejeita; e quem me rejeita, rejeita aquele que me enviou.
 
 ---
 
@@ -850,15 +844,15 @@ _Quem ouve os enviados de Cristo ouve o próprio Cristo_
 
 _O Espírito Santo ensina a Igreja_
 
-**14,26** Mas o Paráclito, o Espírito Santo, que o Pai enviará em meu nome, ele vos ensinará todas as coisas e vos recordará tudo o que eu vos disse.
+**14,26** Mas o Paráclito, o Espírito Santo, que o Pai enviará em meu nome, esse vos ensinará todas as coisas e vos recordará tudo o que eu vos disse.
 
-**16,12** Ainda tenho muitas coisas a vos dizer, mas não as podeis suportar agora.
+**16,12** Tenho ainda muitas coisas a dizer-vos, mas não as podeis suportar agora.
 
-**13** Quando vier aquele, o Espírito da verdade, ele vos guiará a toda a verdade; pois não falará por si mesmo, mas dirá tudo o que ouvir, e vos anunciará as coisas que hão de vir.
+**13** Quando, porém, vier ele, o Espírito da verdade, ele vos guiará a toda a verdade; porque não falará por si mesmo, mas dirá tudo o que tiver ouvido e vos anunciará as coisas que hão de vir.
 
-**14** Ele me glorificará, porque receberá do que é meu e vo-lo anunciará.
+**14** Ele me glorificará, porque receberá do que é meu e o anunciará a vós.
 
-**15** Tudo o que o Pai tem é meu; por isso vos disse que recebe do que é meu e vo-lo anunciará.
+**15** Tudo o que o Pai tem é meu; por isso disse que ele receberá do que é meu e o anunciará a vós.
 
 ---
 
@@ -870,7 +864,7 @@ _O Espírito Santo ensina a Igreja_
 
 _Se não ouvir nem mesmo a Igreja..._
 
-**17** Se não os ouvir, dize-o à Igreja; e, se não ouvir nem mesmo a Igreja, seja para ti como o pagão e o publicano.
+**17** E, se não os ouvir, dize-o à Igreja; e, se também não ouvir a Igreja, seja para ti como o gentio e o publicano.
 
 **18** Em verdade vos digo: tudo o que ligardes na terra será ligado no céu, e tudo o que desligardes na terra será desligado no céu.
 
@@ -880,11 +874,11 @@ _Se não ouvir nem mesmo a Igreja..._
 
 _Como poderia entender, se ninguém me guiar?_
 
-**30** Filipe correu para junto do carro, ouviu-o ler o profeta Isaías e perguntou: Entendes o que lês?
+**30** Filipe correu e ouviu-o ler o profeta Isaías; e perguntou: Entendes o que estás lendo?
 
-**31** Ele respondeu: Como poderia entender, se ninguém me guiar? E pediu a Filipe que subisse e se sentasse com ele.
+**31** Ele respondeu: Como poderia entender, se ninguém me orienta? E pediu a Filipe que subisse e se sentasse ao seu lado.
 
-**35** Então Filipe tomou a palavra e, começando por esta passagem da Escritura, anunciou-lhe o Evangelho de Jesus.
+**35** Então Filipe tomou a palavra e, começando por esta passagem da Escritura, anunciou-lhe a Boa Nova de Jesus.
 
 ---
 
@@ -892,63 +886,63 @@ _Como poderia entender, se ninguém me guiar?_
 
 _O concílio de Jerusalém: pareceu bem ao Espírito Santo e a nós_
 
-**1** Alguns, que tinham descido da Judeia, ensinavam aos irmãos: Se não vos circuncidardes segundo o costume de Moisés, não podeis ser salvos.
+**1** Alguns que tinham descido da Judeia ensinavam aos irmãos: Se não vos circuncidardes segundo o costume de Moisés, não podeis ser salvos.
 
-**2** Tendo havido, por isso, grande discussão e debate da parte de Paulo e Barnabé contra eles, decidiu-se que Paulo, Barnabé e alguns outros dentre eles subissem a Jerusalém, aos apóstolos e aos presbíteros, por causa desta questão.
+**2** Como houvesse uma discussão e um debate nada pequeno de Paulo e Barnabé com eles, decidiu-se que Paulo, Barnabé e alguns outros subissem a Jerusalém, aos apóstolos e aos anciãos, para tratar desta questão.
 
 **3** Eles, pois, enviados pela Igreja, atravessaram a Fenícia e a Samaria, contando a conversão dos gentios, e causavam grande alegria a todos os irmãos.
 
-**4** Chegados a Jerusalém, foram recebidos pela Igreja, pelos apóstolos e pelos presbíteros, e contaram tudo o que Deus fizera com eles.
+**4** Chegando a Jerusalém, foram recebidos pela Igreja, pelos apóstolos e pelos anciãos, e contaram tudo o que Deus fizera com eles.
 
-**5** Mas alguns da seita dos fariseus, que tinham abraçado a fé, levantaram-se dizendo: É preciso circuncidá-los e mandar que observem a Lei de Moisés.
+**5** Mas alguns do partido dos fariseus, que tinham abraçado a fé, levantaram-se e disseram: É preciso circuncidá-los e mandar-lhes observar a Lei de Moisés.
 
-**6** Reuniram-se então os apóstolos e os presbíteros para examinar esta questão.
+**6** Os apóstolos e os anciãos reuniram-se para examinar esta questão.
 
-**7** Depois de longa discussão, Pedro levantou-se e disse-lhes: Irmãos, sabeis que desde os primeiros dias Deus me escolheu entre vós, para que por minha boca os gentios ouvissem a palavra do Evangelho e cressem.
+**7** Depois de uma longa discussão, Pedro levantou-se e disse-lhes: Irmãos, sabeis que desde os primeiros dias Deus me escolheu entre vós para que, pela minha boca, os gentios ouvissem a palavra do Evangelho e cressem.
 
-**8** E Deus, que conhece os corações, deu-lhes testemunho, concedendo-lhes o Espírito Santo, assim como a nós;
+**8** E Deus, que conhece os corações, deu testemunho a favor deles, concedendo-lhes o Espírito Santo assim como a nós;
 
-**9** e não fez distinção alguma entre nós e eles, purificando-lhes os corações pela fé.
+**9** e não fez nenhuma distinção entre nós e eles, purificando os seus corações pela fé.
 
-**10** Por que, pois, tentais agora a Deus, impondo ao pescoço dos discípulos um jugo que nem nossos pais nem nós pudemos suportar?
+**10** Por que, pois, tentais agora a Deus, querendo pôr sobre o pescoço dos discípulos um jugo que nem os nossos pais nem nós pudemos suportar?
 
-**11** Pelo contrário, cremos que somos salvos pela graça do Senhor Jesus, do mesmo modo que eles.
+**11** Nós cremos, pelo contrário, que somos salvos pela graça do Senhor Jesus, do mesmo modo que eles.
 
-**12** Toda a assembleia se calou, e escutavam Barnabé e Paulo, que contavam quantos sinais e prodígios Deus fizera por meio deles entre os gentios.
+**12** Toda a assembleia se calou, e escutavam Barnabé e Paulo, que contavam quantos sinais e prodígios Deus tinha realizado por meio deles entre os gentios.
 
-**13** Depois que se calaram, Tiago tomou a palavra e disse: Irmãos, ouvi-me.
+**13** Quando terminaram, Tiago tomou a palavra e disse: Irmãos, escutai-me.
 
-**14** Simão contou como Deus, desde o princípio, cuidou de tomar dentre os gentios um povo para o seu nome.
+**14** Simeão contou como, desde o início, Deus se dignou tomar dentre os gentios um povo para o seu nome.
 
-**15** E com isto concordam as palavras dos profetas, como está escrito:
+**15** Com isso concordam as palavras dos profetas, como está escrito:
 
-**16** Depois disto voltarei e reedificarei a tenda de Davi, que tinha caído; reedificarei as suas ruínas e a levantarei,
+**16** Depois disso voltarei e reconstruirei a tenda de Davi, que tinha caído; reconstruirei as suas ruínas e a reerguerei,
 
-**17** para que o resto dos homens busque o Senhor, e todas as nações sobre as quais é invocado o meu nome, diz o Senhor, que faz estas coisas,
+**17** para que o resto dos homens busque o Senhor, e todas as nações sobre as quais foi invocado o meu nome, diz o Senhor, que faz estas coisas
 
 **18** conhecidas desde sempre.
 
-**19** Por isso julgo que não se deve inquietar aqueles que, dentre os gentios, se convertem a Deus,
+**19** Por isso, julgo que não se devem inquietar os gentios que se convertem a Deus,
 
-**20** mas escrever-lhes que se abstenham das contaminações dos ídolos, da fornicação, das carnes sufocadas e do sangue.
+**20** mas que se lhes escreva que se abstenham das contaminações dos ídolos, das uniões ilegítimas, das carnes sufocadas e do sangue.
 
-**21** Pois Moisés, desde as gerações antigas, tem em cada cidade quem o pregue, sendo lido nas sinagogas todos os sábados.
+**21** Porque Moisés, desde tempos antigos, tem em cada cidade quem o pregue, e é lido nas sinagogas todos os sábados.
 
-**22** Então pareceu bem aos apóstolos e aos presbíteros, com toda a Igreja, escolher alguns dentre eles e enviá-los a Antioquia com Paulo e Barnabé: Judas, chamado Barsabás, e Silas, homens eminentes entre os irmãos.
+**22** Então os apóstolos e os anciãos, com toda a Igreja, resolveram escolher alguns dentre eles e enviá-los a Antioquia com Paulo e Barnabé: Judas, chamado Barsabás, e Silas, homens de destaque entre os irmãos.
 
-**23** E escreveram por mão deles: Os apóstolos e os presbíteros, irmãos, aos irmãos dentre os gentios que estão em Antioquia, na Síria e na Cilícia, saudação.
+**23** E por meio deles escreveram: Os apóstolos e os anciãos, vossos irmãos, aos irmãos vindos dos gentios que estão em Antioquia, na Síria e na Cilícia, saudações!
 
-**24** Tendo sabido que alguns, saídos de entre nós sem nenhum mandato nosso, vos perturbaram com palavras, transtornando as vossas almas,
+**24** Tendo sabido que alguns dos nossos, sem mandato nosso, vos perturbaram com as suas palavras e inquietaram os vossos ânimos,
 
-**25** pareceu-nos bem, reunidos em assembleia, escolher alguns homens e enviá-los a vós com os nossos caríssimos Barnabé e Paulo,
+**25** pareceu-nos bem, reunidos de comum acordo, escolher alguns homens e enviá-los a vós com os nossos queridos Barnabé e Paulo,
 
 **26** homens que expuseram a vida pelo nome de nosso Senhor Jesus Cristo.
 
-**27** Enviamos, pois, Judas e Silas, que também de viva voz vos anunciarão as mesmas coisas.
+**27** Enviamos, pois, Judas e Silas, que vos transmitirão de viva voz as mesmas coisas.
 
-**28** Pois pareceu bem ao Espírito Santo e a nós não vos impor nenhum outro encargo além destas coisas necessárias:
+**28** Pareceu bem ao Espírito Santo e a nós não vos impor nenhum outro peso além destas coisas necessárias:
 
-**29** que vos abstenhais das carnes sacrificadas aos ídolos, do sangue, das carnes sufocadas e da fornicação. Fareis bem em guardar-vos destas coisas. Passai bem.
+**29** que vos abstenhais das carnes sacrificadas aos ídolos, do sangue, das carnes sufocadas e das uniões ilegítimas. Fareis bem em guardar-vos disso. Passai bem.
 
 ---
 
@@ -960,13 +954,13 @@ _O concílio de Jerusalém: pareceu bem ao Espírito Santo e a nós_
 
 _Cristo deu pastores e doutores para que não sejamos levados por todo vento de doutrina_
 
-**11** E foi ele que a uns constituiu apóstolos, a outros profetas, a outros evangelistas, a outros pastores e doutores,
+**11** E ele mesmo constituiu uns apóstolos, outros profetas, outros evangelistas, outros pastores e mestres,
 
-**12** para aperfeiçoar os santos na obra do ministério, para a edificação do corpo de Cristo,
+**12** para o aperfeiçoamento dos santos, para a obra do ministério, para a edificação do corpo de Cristo,
 
-**13** até que cheguemos todos à unidade da fé e do conhecimento do Filho de Deus, ao estado de homem perfeito, à medida da estatura da plenitude de Cristo,
+**13** até que todos cheguemos à unidade da fé e do conhecimento do Filho de Deus, ao estado de homem perfeito, à medida da plena estatura de Cristo.
 
-**14** para que não sejamos mais crianças, jogadas de um lado para outro e levadas por todo vento de doutrina, pelo engano dos homens e pela astúcia com que induzem ao erro.
+**14** Assim não seremos mais crianças, levados ao sabor das ondas e arrastados por todo vento de doutrina, pela astúcia dos homens e pela esperteza que conduz ao erro.
 
 ---
 
@@ -974,9 +968,9 @@ _Cristo deu pastores e doutores para que não sejamos levados por todo vento de 
 
 _A Igreja do Deus vivo, coluna e sustentáculo da verdade_
 
-**14** Escrevo-te estas coisas, esperando ir ter contigo em breve;
+**14** Escrevo-te estas coisas na esperança de ir ver-te em breve;
 
-**15** mas, se eu tardar, para que saibas como se deve proceder na casa de Deus, que é a Igreja do Deus vivo, coluna e sustentáculo da verdade.
+**15** mas, se eu demorar, quero que saibas como se deve proceder na casa de Deus, que é a Igreja do Deus vivo, coluna e fundamento da verdade.
 
 ---
 
@@ -1120,11 +1114,11 @@ Como a doutrina cresce no mesmo sentido e na mesma sentença, e como não cresce
 
 _O grão de mostarda e o fermento_
 
-**31** Propôs-lhes outra parábola, dizendo: O reino dos céus é semelhante a um grão de mostarda, que um homem tomou e semeou no seu campo.
+**31** Propôs-lhes outra parábola, dizendo: O Reino dos céus é semelhante a um grão de mostarda que um homem tomou e semeou no seu campo.
 
-**32** É a menor de todas as sementes; mas, depois de crescer, é a maior das hortaliças e torna-se árvore, de modo que as aves do céu vêm e fazem ninhos nos seus ramos.
+**32** É, de fato, a menor de todas as sementes; mas, quando cresce, é maior do que as hortaliças e torna-se árvore, de modo que as aves do céu vêm e fazem ninho nos seus ramos.
 
-**33** Disse-lhes outra parábola: O reino dos céus é semelhante ao fermento que uma mulher tomou e misturou em três medidas de farinha, até que tudo ficou fermentado.
+**33** Disse-lhes outra parábola: O Reino dos céus é semelhante ao fermento que uma mulher tomou e escondeu em três medidas de farinha, até ficar tudo levedado.
 
 ---
 
@@ -1132,13 +1126,13 @@ _O grão de mostarda e o fermento_
 
 _A semente cresce por si, sem que o semeador saiba como_
 
-**26** E dizia: O reino de Deus é como um homem que lança a semente na terra;
+**26** E dizia: O Reino de Deus é assim como um homem que lança a semente à terra:
 
-**27** quer durma, quer se levante, de noite e de dia, a semente germina e cresce, sem que ele saiba como.
+**27** dorme e levanta-se, de noite e de dia, e a semente germina e cresce, sem que ele saiba como.
 
-**28** A terra produz por si mesma: primeiro a erva, depois a espiga, e por fim o grão cheio na espiga.
+**28** Por si mesma a terra dá fruto: primeiro a erva, depois a espiga, depois o grão cheio na espiga.
 
-**29** E, quando o fruto está maduro, logo se lança a foice, porque chegou a colheita.
+**29** E, quando o fruto está pronto, logo ele mete a foice, porque chegou a colheita.
 
 ---
 
@@ -1146,9 +1140,9 @@ _A semente cresce por si, sem que o semeador saiba como_
 
 _Os discípulos só compreenderam depois da ressurreição_
 
-**2,22** Quando, pois, ressuscitou dentre os mortos, os seus discípulos lembraram-se de que ele dissera isto, e creram na Escritura e na palavra que Jesus dissera.
+**2,22** Por isso, quando ressuscitou dos mortos, os seus discípulos lembraram-se de que ele dissera isso e creram na Escritura e na palavra que Jesus dissera.
 
-**12,16** Os seus discípulos não compreenderam isto a princípio; mas, quando Jesus foi glorificado, então se lembraram de que estas coisas estavam escritas a respeito dele, e de que assim lhe tinham feito.
+**12,16** Os seus discípulos não compreenderam isso a princípio; mas, quando Jesus foi glorificado, então se lembraram de que isso estava escrito a respeito dele e de que assim lhe tinham feito.
 
 ---
 
@@ -1156,9 +1150,9 @@ _Os discípulos só compreenderam depois da ressurreição_
 
 _Maria guardava estas coisas, meditando-as no seu coração_
 
-**19** Maria, porém, conservava todas estas coisas, meditando-as no seu coração.
+**19** Maria, porém, conservava todas essas coisas, meditando-as no seu coração.
 
-**51** Desceu com eles, foi para Nazaré e era-lhes submisso. E sua mãe guardava todas estas coisas no seu coração.
+**51** Desceu com eles, foi para Nazaré e era submisso a eles. Sua mãe conservava todas essas coisas no coração.
 
 ---
 
@@ -1166,11 +1160,11 @@ _Maria guardava estas coisas, meditando-as no seu coração_
 
 _Leite para os pequenos, alimento sólido para os adultos_
 
-**12** Pois, quando já devíeis ser mestres pelo tempo decorrido, de novo tendes necessidade de que alguém vos ensine os primeiros rudimentos das palavras de Deus; e vos tornastes tais que precisais de leite, e não de alimento sólido.
+**12** Com efeito, quando já devíeis ser mestres, pelo tempo decorrido, ainda precisais que alguém vos ensine os primeiros rudimentos dos oráculos de Deus; chegastes a precisar de leite, e não de alimento sólido.
 
-**13** Ora, todo aquele que se alimenta de leite não tem experiência da palavra da justiça, porque é criança.
+**13** Ora, quem se alimenta de leite não está habituado à palavra da justiça, porque é criança.
 
-**14** O alimento sólido, porém, é para os adultos, para aqueles que, pelo costume, têm as faculdades exercitadas para discernir o bem e o mal.
+**14** O alimento sólido é para os adultos, para aqueles que, pelo exercício, têm os sentidos treinados no discernimento do bem e do mal.
 
 ---
 
@@ -1178,11 +1172,11 @@ _Leite para os pequenos, alimento sólido para os adultos_
 
 _Crescer até a medida da plenitude de Cristo_
 
-**13** até que cheguemos todos à unidade da fé e do conhecimento do Filho de Deus, ao estado de homem perfeito, à medida da estatura da plenitude de Cristo,
+**13** até que todos cheguemos à unidade da fé e do conhecimento do Filho de Deus, ao estado de homem perfeito, à medida da plena estatura de Cristo.
 
-**14** para que não sejamos mais crianças, jogadas de um lado para outro e levadas por todo vento de doutrina, pelo engano dos homens e pela astúcia com que induzem ao erro;
+**14** Assim não seremos mais crianças, levados ao sabor das ondas e arrastados por todo vento de doutrina, pela astúcia dos homens e pela esperteza que conduz ao erro.
 
-**15** mas, praticando a verdade no amor, cresçamos em tudo naquele que é a cabeça, Cristo.
+**15** Antes, vivendo a verdade no amor, cresçamos em tudo naquele que é a cabeça, Cristo.
 
 ---
 
@@ -1272,43 +1266,43 @@ Por isso deve ser sempre conservado perpetuamente aquele sentido dos sagrados do
 
 _As proposições estão enunciadas na forma em que são condenadas, isto é, como teses rejeitadas. A Igreja professa o contrário dessas proposições_
 
-**2.** A interpretação eclesiástica dos livros sagrados não deve, na verdade, ser desprezada, mas está sujeita ao juízo mais acurado e à correção dos exegetas.
+**2.** A interpretação que a Igreja dá aos Livros Sagrados não deve, por certo, ser desprezada, mas está sujeita ao juízo mais exato e à correção dos exegetas.
 
 _(ou seja, a interpretação eclesiástica dos livros sagrados não está sujeita ao juízo e à correção dos exegetas)_
 
-**4.** O magistério da Igreja, mesmo por definições dogmáticas, não pode determinar o sentido genuíno das Escrituras sagradas.
+**4.** O Magistério da Igreja não pode determinar o sentido genuíno das Sagradas Escrituras nem mesmo por definições dogmáticas.
 
 _(ou seja, o magistério da Igreja pode determinar o sentido genuíno das Escrituras sagradas)_
 
-**6.** A Igreja discente e a Igreja docente concorrem de tal modo na definição das verdades, que à Igreja docente nada resta senão sancionar as opiniões comuns da Igreja discente.
+**6.** Na definição das verdades, a Igreja discente e a Igreja docente colaboram de tal modo que à Igreja docente nada mais resta senão sancionar as opiniões comuns da discente.
 
 _(ou seja, a Igreja docente - a hierarquia - não está limitada a sancionar as opiniões da Igreja discente - o corpo dos fiéis)_
 
-**11.** A inspiração divina não se estende de tal modo a toda a Escritura sagrada que preserve de todo erro todas e cada uma das suas partes.
+**11.** A inspiração divina não se estende a toda a Sagrada Escritura de modo a preservar de todo erro cada uma de suas partes, todas e cada uma.
 
 _(ou seja, a inspiração divina se estende a toda a Escritura)_
 
-**20.** A revelação nada mais pôde ser senão a consciência adquirida pelo homem da sua relação com Deus.
+**20.** A revelação não pôde ser outra coisa senão a consciência, adquirida pelo homem, da sua relação com Deus.
 
 _(ou seja, a revelação é mais do que a consciência adquirida pelo homem da sua relação com Deus)_
 
-**21.** A revelação, que constitui o objeto da fé católica, não foi completada com os apóstolos.
+**21.** A revelação, que constitui o objeto da fé católica, não ficou completa com os Apóstolos.
 
 _(ou seja, a revelação foi completada com os apóstolos)_
 
-**22.** Os dogmas que a Igreja apresenta como revelados não são verdades caídas do céu, mas certa interpretação de fatos religiosos que a mente humana adquiriu para si com laborioso esforço.
+**22.** Os dogmas que a Igreja apresenta como revelados não são verdades caídas do céu, mas uma certa interpretação de fatos religiosos que a mente humana elaborou para si com esforço laborioso.
 
 _(ou seja, os dogmas que a Igreja apresenta como revelados são divinos)_
 
-**58.** A verdade não é mais imutável que o próprio homem, porquanto com ele, nele e por ele evolui.
+**58.** A verdade não é mais imutável que o próprio homem, visto que evolui com ele, nele e por ele.
 
 _(ou seja, a verdade é mais imutável que o homem)_
 
-**59.** Cristo não ensinou um corpo determinado de doutrina aplicável a todos os tempos e a todos os homens, mas antes iniciou certo movimento religioso acomodado ou a acomodar-se aos diversos tempos e lugares.
+**59.** Cristo não ensinou um corpo determinado de doutrina aplicável a todos os tempos e a todos os homens, mas antes iniciou um certo movimento religioso adaptado ou a adaptar-se a tempos e lugares diversos.
 
 _(ou seja, Cristo ensinou um corpo de doutrina aplicável a todos os tempos e a todos os homens)_
 
-**64.** O progresso das ciências exige que se reformem os conceitos da doutrina cristã acerca de Deus, da criação, da revelação, da pessoa do Verbo encarnado e da redenção.
+**64.** O progresso das ciências exige que se reformem os conceitos da doutrina cristã sobre Deus, sobre a Criação, sobre a Revelação, sobre a Pessoa do Verbo Encarnado, sobre a Redenção.
 
 _(ou seja, o progresso das ciências não exige que se reformem os conceitos da doutrina cristã)_
 
@@ -1322,17 +1316,15 @@ _(ou seja, o progresso das ciências não exige que se reformem os conceitos da 
 
 _Não há nada nos dogmas que deva ser mudado_
 
-Pelo que se disse, alguns modernistas concluem que nos dogmas se deve distinguir entre o elemento divino e o elemento humano, e que aquele deve ser conservado, ao passo que este pode e deve ser mudado. Assim, no dogma, o que é divino seria apenas o sentimento religioso, e o resto — as fórmulas, os conceitos, as próprias verdades — seria obra da mente, sujeito por isso à mudança e ao progresso.
+Logo, também as fórmulas que chamamos dogma devem estar sujeitas às mesmas vicissitudes, e portanto expostas à mudança. Assim fica aberto o caminho à *evolução* íntima do dogma. Amontoado infinito de sofismas, na verdade, que arruína e destrói toda religião!
 
-Segundo eles, com efeito, as fórmulas que chamamos dogmas devem estar sujeitas a estas vicissitudes, e por isso mesmo estão submetidas ao fluxo e ao refluxo. E assim se abre o caminho para se chegar à evolução íntima do dogma. Aqui, na verdade, acumula-se um imenso conjunto de sofismas, que arruínam e destroem toda religião.
+Que o dogma não só pode, mas deve evoluir e mudar, afirmam-no os próprios modernistas com obstinação, e segue-se claramente das suas opiniões. Pois entre os pontos principais da sua doutrina contam este, que deduzem do princípio da *imanência vital*: as *fórmulas religiosas*, para serem realmente *religiosas* e não só especulações da inteligência, devem ser vitais e viver a própria vida do *sentimento religioso*.
 
-Que o dogma não somente possa, mas deva evoluir e mudar-se, afirmam-no com toda a força os modernistas, e isso segue-se claramente dos seus princípios. Pois, entre os capítulos principais da sua doutrina, está aquele que deduzem do princípio da imanência vital: que as fórmulas religiosas, para serem verdadeiramente religiosas e não meras especulações do intelecto, devem ser vitais e viver da própria vida do sentimento religioso.
+Isso não se deve entender como se essas fórmulas, sobretudo se são meramente imaginativas, fossem inventadas para o próprio sentimento religioso; pois pouco importa a sua origem, como também o seu número ou a sua qualidade; mas no sentido de que o *sentimento religioso*, depois de lhes ter feito, se preciso for, alguma modificação, as una vitalmente a si. Em outras palavras, é necessário que a *fórmula primitiva* seja aceita e sancionada pelo coração, e que também o trabalho pelo qual se produzem as *fórmulas secundárias* se faça sob a direção do coração.
 
-Isto não se há de entender como se estas fórmulas, sobretudo se são meramente imaginativas, tivessem sido inventadas por causa do próprio sentimento religioso; nada importa a sua origem, nem o seu número maior ou menor. Importa, sim, que o sentimento religioso, com as devidas correções quando necessário, as faça vitalmente suas. Isto equivale a dizer que é preciso que o coração aceite e sancione a fórmula primitiva, e que sob a sua direção se realize o trabalho pelo qual ela se produz.
+Daqui resulta que essas fórmulas, para serem vitais, devem ser e permanecer adaptadas tanto à fé quanto ao crente. Por isso, se por qualquer causa essa adaptação cessa, perdem o seu sentido primitivo e precisam ser mudadas.
 
-Daí resulta que estas fórmulas, para serem vitais, devem ser e permanecer adaptadas tanto à fé como ao crente. Por isso, se por qualquer motivo tal adaptação cessar, elas perdem o seu conteúdo primeiro e não resta senão mudá-las.
-
-E sendo assim tão precária e instável a força das fórmulas dogmáticas, não é de admirar que os modernistas as tenham em tão pouca conta, enquanto não têm senão na boca e não celebram senão com louvores o sentimento religioso e a vida religiosa. Por isso repreendem audazmente a Igreja, como se ela seguisse caminho errado, por não distinguir entre a matéria externa das fórmulas e o seu sentido religioso e moral, e por se aferrar tenazmente e em vão a fórmulas vazias de sentido, deixando que a própria religião se arruíne.
+E, sendo tão instável a força e a sorte das fórmulas dogmáticas, não é de admirar que os modernistas as tenham em tanto escárnio e desprezo, eles que, ao contrário, não falam nem exaltam senão o sentimento religioso e a vida religiosa. Por isso criticam também com suma audácia a Igreja, como se andasse por um caminho errado, porque não distingue do significado exterior das fórmulas a sua força religiosa e moral, e porque, apegando-se com trabalho inútil e com a maior tenacidade a fórmulas vazias de sentido, deixa ruir a própria religião.
 
 ---
 
@@ -1426,13 +1418,13 @@ O que é crer: dom de Deus, assentimento da inteligência, obediência.
 
 _A fé vem pela escuta, e a escuta pela palavra de Cristo_
 
-**14** Como, pois, invocarão aquele em quem não creram? E como crerão naquele de quem não ouviram falar? E como ouvirão, se não houver quem pregue?
+**14** Mas como invocarão aquele em quem não creram? E como crerão naquele de quem não ouviram? E como ouvirão, se não há quem pregue?
 
-**15** E como pregarão, se não forem enviados? Como está escrito: Quão belos os pés dos que anunciam boas notícias!
+**15** E como pregarão, se não forem enviados? Conforme está escrito: Quão formosos os pés dos que anunciam o bem!
 
 **16** Mas nem todos obedeceram ao Evangelho. Pois Isaías diz: Senhor, quem creu na nossa pregação?
 
-**17** Logo, a fé vem pela escuta, e a escuta pela palavra de Cristo.
+**17** Logo, a fé vem da pregação, e a pregação, pela palavra de Cristo.
 
 ---
 
@@ -1440,11 +1432,11 @@ _A fé vem pela escuta, e a escuta pela palavra de Cristo_
 
 _Sem fé é impossível agradar a Deus_
 
-**1** A fé é a garantia das coisas que se esperam, a prova das realidades que não se veem.
+**1** A fé é a garantia dos bens que se esperam, a prova das realidades que não se veem.
 
-**3** Pela fé entendemos que os séculos foram formados pela palavra de Deus, de modo que o que se vê não proveio do que é visível.
+**3** Pela fé compreendemos que os séculos foram formados pela palavra de Deus, de modo que o que se vê não provém do que aparece.
 
-**6** Ora, sem fé é impossível agradar-lhe; pois quem se aproxima de Deus deve crer que ele existe e que recompensa os que o buscam.
+**6** Ora, sem a fé é impossível agradar-lhe; pois é preciso que aquele que se aproxima de Deus creia que ele existe e que recompensa os que o buscam.
 
 ---
 

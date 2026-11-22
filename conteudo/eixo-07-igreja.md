@@ -16,17 +16,17 @@ A Igreja não é obra dos homens: foi instituída por Cristo.
 
 _Depois que Pedro o confessa Cristo e Filho do Deus vivo, Jesus promete edificar sobre a pedra a sua Igreja, contra a qual as portas do inferno não prevalecerão: a Igreja é obra de Cristo — a minha Igreja — e tem dele a promessa de durar_
 
-**13** Chegando Jesus à região de Cesareia de Filipe, perguntava aos seus discípulos: Quem dizem os homens que é o Filho do homem?
+**13** Chegando Jesus à região de Cesareia de Filipe, perguntava aos seus discípulos: Quem dizem os homens ser o Filho do Homem?
 
-**14** Eles disseram: Uns, João Batista; outros, Elias; outros, Jeremias ou algum dos profetas.
+**14** Eles responderam: Uns, João Batista; outros, Elias; outros, Jeremias ou um dos profetas.
 
-**15** Disse-lhes: E vós, quem dizeis que eu sou?
+**15** Disse-lhes ele: E vós, quem dizeis que eu sou?
 
-**16** Respondeu Simão Pedro: Tu és o Cristo, o Filho do Deus vivo.
+**16** Respondendo Simão Pedro, disse: Tu és o Cristo, o Filho do Deus vivo.
 
-**17** Respondeu-lhe Jesus: Bem-aventurado és tu, Simão, filho de Jonas, porque não foi a carne nem o sangue que te revelou isto, mas meu Pai que está nos céus.
+**17** Jesus lhe respondeu: Bem-aventurado és tu, Simão, filho de Jonas, porque não foi carne nem sangue que te revelou isso, mas meu Pai, que está nos céus.
 
-**18** E eu também te digo: tu és Pedro, e sobre esta pedra edificarei a minha Igreja, e as portas do inferno não prevalecerão contra ela.
+**18** E eu te digo que tu és Pedro, e sobre esta pedra edificarei a minha Igreja; e as portas do inferno não prevalecerão contra ela.
 
 ---
 
@@ -36,19 +36,19 @@ _Depois que Pedro o confessa Cristo e Filho do Deus vivo, Jesus promete edificar
 
 _Jesus chama a si os que quer e constitui os Doze, para estarem com ele e para os enviar a pregar: o primeiro ato da fundação, que a Lumen gentium 19 lê como instituição de um colégio estável_
 
-**13** Subiu ao monte e chamou a si os que ele mesmo quis, e eles foram ter com ele.
+**13** Subiu ao monte e chamou a si os que ele quis; e foram a ele.
 
-**14** E constituiu Doze, aos quais deu também o nome de apóstolos, para que estivessem com ele e para os enviar a pregar,
+**14** Constituiu doze, aos quais deu o nome de apóstolos, para que estivessem com ele e para os enviar a pregar,
 
-**15** e para que tivessem poder de expulsar os demônios.
+**15** com poder de expulsar os demônios.
 
-**16** Constituiu, pois, os Doze: Simão, a quem pôs o nome de Pedro;
+**16** Constituiu os doze: Simão, a quem pôs o nome de Pedro;
 
-**17** Tiago, filho de Zebedeu, e João, irmão de Tiago, aos quais pôs o nome de Boanerges, que quer dizer Filhos do trovão;
+**17** Tiago, filho de Zebedeu, e João, irmão de Tiago, aos quais pôs o nome de Boanerges, isto é, filhos do trovão;
 
 **18** André, Filipe, Bartolomeu, Mateus, Tomé, Tiago, filho de Alfeu, Tadeu, Simão, o Cananeu,
 
-**19** e Judas Iscariotes, aquele que o entregou.
+**19** e Judas Iscariotes, que o entregou.
 
 ---
 
@@ -64,13 +64,13 @@ _Jesus começa a pregar anunciando que o reino de Deus está próximo, e ao pequ
 
 ### Marcos 1,14–15
 
-**14** Depois que João foi entregue, veio Jesus para a Galileia, pregando o evangelho de Deus
+**14** Depois que João foi entregue, Jesus foi para a Galileia, pregando o Evangelho de Deus
 
-**15** e dizendo: Cumpriu-se o tempo, e o reino de Deus está próximo: convertei-vos e crede no evangelho.
+**15** e dizendo: O tempo está cumprido e o Reino de Deus está próximo; convertei-vos e crede no Evangelho.
 
 ### Lucas 12,32
 
-**32** Não temas, pequeno rebanho, porque aprouve ao vosso Pai dar-vos o reino.
+**32** Não temas, pequeno rebanho, porque aprouve a vosso Pai dar-vos o Reino.
 
 ---
 
@@ -84,19 +84,19 @@ _Do lado aberto de Cristo já morto saem sangue e água: a tradição lê aqui o
 >
 > **Por que não.** O sentido eclesiológico do trecho é tipológico, e ele pertence primeiro ao eixo 4 (a redenção), onde também foi proposto, e ao eixo 9 (batismo e eucaristia).
 
-**31** Os judeus, então, como era o dia da Preparação, para que os corpos não ficassem na cruz durante o sábado — pois aquele sábado era um grande dia —, pediram a Pilatos que lhes quebrassem as pernas e fossem retirados.
+**31** Como era a preparação, para que os corpos não ficassem na cruz durante o sábado — pois aquele sábado era um dia solene —, os judeus pediram a Pilatos que lhes quebrassem as pernas e fossem retirados.
 
-**32** Vieram, pois, os soldados e quebraram as pernas do primeiro e do outro que tinha sido crucificado com ele.
+**32** Vieram, pois, os soldados e quebraram as pernas do primeiro e do outro que tinham sido crucificados com ele.
 
-**33** Mas, chegando a Jesus, como viram que já estava morto, não lhe quebraram as pernas;
+**33** Chegando, porém, a Jesus, e vendo que já estava morto, não lhe quebraram as pernas;
 
-**34** mas um dos soldados feriu-lhe o lado com uma lança, e logo saiu sangue e água.
+**34** mas um dos soldados abriu-lhe o lado com uma lança, e logo saiu sangue e água.
 
-**35** E aquele que viu deu testemunho, e o seu testemunho é verdadeiro; e ele sabe que diz a verdade, para que também vós creiais.
+**35** Aquele que viu dá testemunho, e o seu testemunho é verdadeiro; e ele sabe que diz a verdade, para que também vós creiais.
 
-**36** Pois estas coisas aconteceram para que se cumprisse a Escritura: Nenhum dos seus ossos será quebrado.
+**36** Porque estas coisas aconteceram para que se cumprisse a Escritura: Nenhum dos seus ossos será quebrado.
 
-**37** E outra Escritura diz ainda: Olharão para aquele que traspassaram.
+**37** E outra Escritura diz ainda: Hão de olhar para aquele que traspassaram.
 
 ---
 
@@ -106,35 +106,35 @@ _Do lado aberto de Cristo já morto saem sangue e água: a tradição lê aqui o
 
 _Em Pentecostes o Espírito desce sobre os discípulos reunidos e a Igreja manifesta-se diante dos povos; os que acolhem a palavra são batizados e perseveram na doutrina dos apóstolos, na comunhão, na fração do pão e nas orações — a primeira imagem da Igreja, que a Lumen gentium 4 e 13 retoma_
 
-**1** Quando se completava o dia de Pentecostes, estavam todos juntos no mesmo lugar.
+**1** Quando chegou o dia de Pentecostes, estavam todos reunidos no mesmo lugar.
 
-**2** De repente veio do céu um ruído, como de um vento impetuoso que soprava, e encheu toda a casa onde estavam sentados.
+**2** De repente, veio do céu um ruído, como de um vento impetuoso, que encheu toda a casa onde estavam sentados.
 
-**3** E apareceram-lhes línguas como de fogo, que se repartiam, e pousou uma sobre cada um deles.
+**3** Apareceram-lhes línguas como de fogo, que se repartiam e pousavam sobre cada um deles;
 
-**4** E todos ficaram cheios do Espírito Santo, e começaram a falar em outras línguas, conforme o Espírito lhes concedia que falassem.
+**4** e todos ficaram cheios do Espírito Santo e começaram a falar em outras línguas, conforme o Espírito lhes concedia que falassem.
 
-**37** Ao ouvirem isto, sentiram o coração traspassado e disseram a Pedro e aos outros apóstolos: Que havemos de fazer, irmãos?
+**37** Ao ouvirem isso, sentiram o coração traspassado e perguntaram a Pedro e aos outros apóstolos: Irmãos, que devemos fazer?
 
-**38** Pedro respondeu-lhes: Convertei-vos, e cada um de vós seja batizado em nome de Jesus Cristo, para a remissão dos vossos pecados; e recebereis o dom do Espírito Santo.
+**38** Pedro respondeu-lhes: Convertei-vos, e cada um de vós seja batizado em nome de Jesus Cristo, para o perdão dos vossos pecados; e recebereis o dom do Espírito Santo.
 
-**39** Porque a promessa é para vós e para os vossos filhos, e para todos os que estão longe, quantos o Senhor nosso Deus chamar.
+**39** Porque a promessa é para vós e para os vossos filhos, e para todos os que estão longe, tantos quantos o Senhor nosso Deus chamar.
 
-**40** E com muitas outras palavras dava testemunho e os exortava, dizendo: Salvai-vos desta geração perversa.
+**40** Com muitas outras palavras dava testemunho e os exortava, dizendo: Salvai-vos desta geração perversa.
 
-**41** Os que acolheram a sua palavra foram batizados, e naquele dia juntaram-se a eles cerca de três mil almas.
+**41** Os que acolheram a sua palavra foram batizados; e naquele dia juntaram-se a eles cerca de três mil pessoas.
 
-**42** Eles perseveravam na doutrina dos apóstolos e na comunhão, na fração do pão e nas orações.
+**42** Perseveravam no ensino dos apóstolos, na comunhão, no partir do pão e nas orações.
 
-**43** Todos se enchiam de temor, e muitos prodígios e sinais eram feitos por meio dos apóstolos.
+**43** Todos estavam tomados de temor, e muitos prodígios e sinais se realizavam por meio dos apóstolos.
 
-**44** Todos os que criam viviam unidos e tinham tudo em comum;
+**44** Todos os que tinham abraçado a fé viviam unidos e tinham tudo em comum;
 
-**45** vendiam as propriedades e os bens e repartiam o preço entre todos, segundo a necessidade de cada um.
+**45** vendiam as suas propriedades e os seus bens e repartiam o dinheiro entre todos, conforme a necessidade de cada um.
 
-**46** Todos os dias perseveravam unânimes no templo e, partindo o pão pelas casas, tomavam o alimento com alegria e simplicidade de coração,
+**46** Todos os dias, unânimes, frequentavam o templo, partiam o pão pelas casas e tomavam o alimento com alegria e simplicidade de coração,
 
-**47** louvando a Deus e gozando da simpatia de todo o povo. E cada dia o Senhor lhes acrescentava os que se iam salvando.
+**47** louvando a Deus e gozando da simpatia de todo o povo. E o Senhor acrescentava cada dia à comunidade os que iam sendo salvos.
 
 ---
 
@@ -144,9 +144,9 @@ _Em Pentecostes o Espírito desce sobre os discípulos reunidos e a Igreja manif
 
 _Com todo o poder que recebeu, Cristo envia os discípulos a fazer discípulos de todas as nações, batizando e ensinando, e promete estar com eles até o fim do mundo: a Igreja recebe dele a missão e a promessa de durar_
 
-**18** E Jesus, aproximando-se, falou-lhes dizendo: Foi-me dado todo poder no céu e na terra.
+**18** Jesus aproximou-se e falou-lhes, dizendo: Foi-me dado todo o poder no céu e na terra.
 
-**19** Ide, pois, e fazei discípulos de todas as nações, batizando-os em nome do Pai e do Filho e do Espírito Santo,
+**19** Ide, pois, e fazei discípulos todos os povos, batizando-os em nome do Pai e do Filho e do Espírito Santo,
 
 **20** ensinando-os a observar tudo o que vos mandei. E eis que eu estou convosco todos os dias, até o fim do mundo.
 
@@ -158,13 +158,13 @@ _Com todo o poder que recebeu, Cristo envia os discípulos a fazer discípulos d
 
 _Os que eram estrangeiros tornam-se membros da casa de Deus, edificados sobre o fundamento dos apóstolos e dos profetas, com Cristo por pedra angular: a Igreja como edifício que cresce até ser templo santo, morada de Deus no Espírito_
 
-**19** Portanto, já não sois estrangeiros nem forasteiros, mas concidadãos dos santos e membros da casa de Deus,
+**19** Já não sois, portanto, estrangeiros nem hóspedes, mas concidadãos dos santos e membros da casa de Deus,
 
 **20** edificados sobre o fundamento dos apóstolos e dos profetas, sendo o próprio Cristo Jesus a pedra angular.
 
-**21** Nele todo o edifício, bem ajustado, cresce para ser um templo santo no Senhor;
+**21** Nele toda a construção, harmoniosamente ajustada, cresce para ser templo santo no Senhor;
 
-**22** nele também vós sois edificados juntos, para serdes morada de Deus no Espírito.
+**22** nele também vós sois edificados juntamente, para serdes morada de Deus no Espírito.
 
 ---
 
@@ -328,11 +328,11 @@ _O que se lê é o erro condenado: Cristo não teria querido fundar uma Igreja d
 
 _As proposições estão enunciadas na forma em que são condenadas, isto é, como teses rejeitadas. A Igreja professa o contrário dessas proposições_
 
-**52.** Foi alheio ao pensamento de Cristo constituir a Igreja como uma sociedade que houvesse de durar na terra por uma longa série de séculos; ao contrário, no pensamento de Cristo, o reino do céu havia de chegar dentro em pouco, juntamente com o fim do mundo.
+**52.** Foi alheio ao pensamento de Cristo constituir a Igreja como uma sociedade que duraria sobre a terra por uma longa série de séculos; pelo contrário, no pensamento de Cristo, o reino do céu estava para chegar já, junto com o fim do mundo.
 
-**53.** A constituição orgânica da Igreja não é imutável; mas a sociedade cristã, tal como a sociedade humana, está sujeita a uma evolução perpétua.
+**53.** A constituição orgânica da Igreja não é imutável; a sociedade cristã, assim como a sociedade humana, está sujeita a uma perpétua evolução.
 
-**54.** Os dogmas, os sacramentos, a hierarquia, tanto quanto à noção como quanto à realidade, não são senão interpretações e evoluções da inteligência cristã, que fizeram crescer e aperfeiçoaram com acréscimos externos o pequeno germe latente no Evangelho.
+**54.** Os dogmas, os sacramentos, a hierarquia, tanto no que toca à noção como à realidade, não são mais que interpretações e evoluções da inteligência cristã, que fizeram crescer e aperfeiçoaram, com acréscimos externos, um pequeno germe latente no Evangelho.
 
 ---
 
@@ -352,11 +352,11 @@ _O que se lê é o erro exposto e depois condenado: a Igreja não teria sido ins
 
 ### A «permanência divina»: a Igreja instituída só mediatamente por Cristo
 
-A este enunciado da imanência junta-se outro, que podemos chamar da permanência divina; os dois diferem entre si quase do mesmo modo que a experiência privada difere da experiência transmitida pela tradição. Um exemplo esclarecerá a coisa; e tomemo-lo da Igreja e dos sacramentos. A Igreja e os sacramentos, dizem eles, de modo algum se devem crer instituídos pelo próprio Cristo. Impede-o o agnosticismo, que em Cristo não conhece senão um homem, cuja consciência religiosa, como a dos outros homens, se formou pouco a pouco; impede-o a lei da imanência, que rejeita as aplicações externas, como dizem; impede-o também a lei da evolução, que requer tempo e certa série de circunstâncias sucessivas para que os germes se desenvolvam; impede-o, enfim, a história, que mostra ter sido de fato esse o curso das coisas. Deve-se, contudo, sustentar que a Igreja e os sacramentos foram instituídos mediatamente por Cristo. De que modo? Afirmam que todas as consciências cristãs estavam de certo modo incluídas virtualmente na consciência de Cristo, como a planta na semente. E, como os germes vivem a vida da semente, deve-se dizer que todos os cristãos vivem a vida de Cristo. Mas a vida de Cristo, segundo a fé, é divina; logo, também a vida dos cristãos. Se, pois, esta vida, no decurso das idades, deu início à Igreja e aos sacramentos, com todo o direito se dirá que esse início vem de Cristo e é divino. Do mesmo modo concluem que são divinas também as Sagradas Escrituras, divinos os dogmas. A isto, com efeito, se reduz quase toda a teologia dos modernistas. Bagagem bem pobre, sem dúvida; mas abundantíssima para quem professa que se deve sempre obedecer à ciência, seja o que for que ela prescreva. A aplicação disto ao resto que diremos, cada um a verá facilmente por si.
+A esse princípio da *imanência* junta-se outro, que podemos chamar da *permanência divina*; os dois diferem entre si mais ou menos como a experiência privada difere da *experiência* transmitida pela tradição. Um exemplo esclarecerá a coisa, e seja tirado da Igreja e dos Sacramentos. Não se deve de modo nenhum crer, dizem, que a Igreja e os Sacramentos foram instituídos pelo próprio Cristo. Impede-o o agnosticismo, que em Cristo não conhece senão um homem, cuja consciência religiosa, como a dos outros homens, se formou pouco a pouco; impede-o a lei da imanência, que rejeita as aplicações externas, como dizem; impede-o igualmente a lei da evolução, que, para os germes se desenvolverem, requer tempo e uma certa série de circunstâncias sucessivas; impede-o, enfim, a história, que mostra ter sido esse, de fato, o curso das coisas. Deve-se, contudo, sustentar que a Igreja e os Sacramentos foram instituídos mediatamente por Cristo. De que modo? Afirmam que todas as consciências cristãs estavam de certo modo contidas virtualmente na consciência de Cristo, como a planta na semente. E, como os germes vivem a vida da semente, deve-se dizer que todos os cristãos vivem a vida de Cristo. Mas a vida de Cristo, segundo a fé, é divina; logo, também a vida dos cristãos. Se, pois, essa vida, no decorrer dos séculos, deu início à Igreja e aos Sacramentos, com todo o direito se dirá que esse início vem de Cristo e é divino. Do mesmo modo concluem que são divinas também as Sagradas Escrituras, divinos os dogmas. E com isso fica quase completa a teologia dos modernistas. Bagagem bem pequena, sem dúvida; mas abundantíssima para quem professa que se deve sempre obedecer à ciência, seja o que for que ela ordene. A aplicação destes princípios ao resto do que diremos, cada um a verá facilmente por si.
 
 ### A Igreja, fruto da consciência coletiva
 
-Campo mais largo para falar oferece o que a escola dos modernistas imagina sobre a Igreja. Supõem, de início, que ela nasce de uma dupla necessidade: uma, em qualquer crente, sobretudo naquele que teve alguma experiência primordial e singular, a de comunicar a sua fé aos outros; a outra, depois que a fé se tornou comum a muitos, na coletividade, a de se unirem numa sociedade e de guardarem, aumentarem e propagarem o bem comum. Que é, pois, a Igreja? É fruto da consciência coletiva, isto é, da associação das consciências individuais, as quais, em virtude da permanência vital, dependem de algum primeiro crente, a saber, para os católicos, de Cristo. Ora, toda sociedade precisa de uma autoridade que a dirija, cujo ofício seja encaminhar todos os associados ao fim comum e guardar com prudência os elementos de coesão, que numa sociedade religiosa se reduzem à doutrina e ao culto. Daí, na Igreja católica, uma tríplice autoridade: disciplinar, dogmática, cultual. A natureza desta autoridade deve deduzir-se da sua origem; e da natureza, os seus direitos e deveres. Nas idades passadas foi erro comum pensar que a autoridade viera à Igreja de fora, isto é, imediatamente de Deus; por isso era tida, com razão, por autocrática. Mas isso agora está superado. Assim como se diz que a Igreja emanou da coletividade das consciências, assim também a autoridade emana vitalmente da própria Igreja. A autoridade, portanto, como a Igreja, nasce da consciência religiosa, e por isso lhe está sujeita; se desprezar esta sujeição, converte-se em tirania. Ora, vivemos agora num tempo em que o sentimento da liberdade chegou ao seu ponto mais alto. Na ordem civil, a consciência pública introduziu o regime popular. Mas a consciência no homem, assim como a vida, é uma só. Se, pois, a autoridade da Igreja não quer provocar e alimentar uma guerra intestina nas consciências dos homens, tem o dever de usar formas democráticas; tanto mais que, se não o fizer, a ruína a ameaça. Pois seria louco quem pensasse que no sentimento de liberdade, tal como agora vigora, possa algum dia haver retrocesso. Constrangido e encerrado pela força, há de extravasar com mais força, destruindo ao mesmo tempo a Igreja e a religião. Assim raciocinam os modernistas; e por isso estão inteiramente ocupados em buscar caminhos para conciliar a autoridade da Igreja com a liberdade dos crentes.
+Matéria mais ampla para falar oferecem as fantasias da escola modernista sobre a Igreja. Supõem, para começar, que ela nasce de uma dupla necessidade: uma, em qualquer crente, e sobretudo naquele que teve alguma experiência original e singular, a de comunicar a outros a sua fé; a outra, depois que a fé se tornou comum a muitos, na coletividade, a de unir-se em sociedade e de defender, aumentar e propagar o bem comum. Que é, pois, a Igreja? É fruto da *consciência coletiva*, ou seja, da associação das consciências individuais, as quais, em virtude da *permanência vital*, dependem de algum primeiro crente, isto é, para os católicos, de Cristo. Ora, toda sociedade precisa de uma autoridade que a dirija, cujo ofício seja encaminhar todos os associados ao fim comum e defender com prudência os elementos de coesão, que numa sociedade religiosa são a doutrina e o culto. Daí na Igreja Católica a tríplice autoridade: *disciplinar*, *dogmática*, *cultual*. Ora, a natureza dessa autoridade deve deduzir-se da sua origem, e da natureza devem derivar-se os seus direitos e deveres. Nos tempos passados foi erro comum pensar que a autoridade veio à Igreja de fora, isto é, imediatamente de Deus; por isso se tinha com razão por *autocrática*. Mas essas ideias estão hoje fora de uso. Assim como se diz que a Igreja emanou da coletividade das consciências, assim também a autoridade emana vitalmente da própria Igreja. A autoridade, portanto, como a Igreja, nasce da consciência religiosa, e por isso lhe está sujeita; e, se desprezar essa sujeição, converte-se em tirania. Ora, vivemos agora num tempo em que o sentimento da liberdade chegou ao seu ponto mais alto. Na ordem civil, a consciência pública introduziu o regime popular. Mas a consciência, no homem, como a vida, é uma só. Portanto, se a autoridade da Igreja não quer suscitar e alimentar uma guerra intestina nas consciências dos homens, tem o dever de usar de formas democráticas; tanto mais que, se não o fizer, a ruína é iminente. Pois seria louco, sem dúvida, quem julgasse que algum dia se poderá voltar atrás no sentimento da liberdade, tal como hoje floresce. Comprimido e encerrado à força, ele se derramará com mais ímpeto, arrastando consigo a Igreja e a religião. Assim raciocinam os modernistas; e por isso estão todos empenhados em procurar caminhos para conciliar a autoridade da Igreja com a liberdade dos crentes.
 
 ---
 
@@ -474,45 +474,45 @@ Corpo de Cristo, povo de Deus, esposa, templo, sacramento.
 
 _Muitos membros e um só corpo, num só Espírito todos batizados, e vós sois corpo de Cristo: o texto de que nasce a doutrina do corpo místico, que a Mystici Corporis e a Lumen gentium 7 desenvolvem_
 
-**12** Pois, assim como o corpo é um só e tem muitos membros, e todos os membros do corpo, embora sejam muitos, formam um só corpo, assim também Cristo.
+**12** Porque, assim como o corpo é um e tem muitos membros, e todos os membros do corpo, embora muitos, são um só corpo, assim também Cristo.
 
-**13** Pois num só Espírito fomos todos batizados para formar um só corpo, judeus ou gregos, escravos ou livres; e a todos nos foi dado beber de um só Espírito.
+**13** Pois num só Espírito todos nós fomos batizados para formar um só corpo — judeus ou gregos, escravos ou livres —, e a todos foi dado beber um só Espírito.
 
-**14** Pois também o corpo não é um só membro, mas muitos.
+**14** Também o corpo não é um só membro, mas muitos.
 
-**15** Se o pé disser: Porque não sou mão, não sou do corpo, nem por isso deixa de ser do corpo.
+**15** Se o pé disser: Como não sou mão, não sou do corpo, nem por isso deixa de ser do corpo.
 
-**16** E, se a orelha disser: Porque não sou olho, não sou do corpo, nem por isso deixa de ser do corpo.
+**16** E, se a orelha disser: Como não sou olho, não sou do corpo, nem por isso deixa de ser do corpo.
 
-**17** Se o corpo todo fosse olho, onde estaria o ouvido? Se todo fosse ouvido, onde estaria o olfato?
+**17** Se todo o corpo fosse olho, onde estaria a audição? Se todo fosse audição, onde, o olfato?
 
-**18** Mas agora Deus dispôs os membros no corpo, cada um deles, como quis.
+**18** Mas Deus dispôs os membros no corpo, cada um deles como quis.
 
 **19** Se todos fossem um só membro, onde estaria o corpo?
 
-**20** Mas agora há muitos membros, e um só corpo.
+**20** Assim, há muitos membros, mas um só corpo.
 
-**21** O olho não pode dizer à mão: Não preciso de ti; nem a cabeça aos pés: Não preciso de vós.
+**21** O olho não pode dizer à mão: Não preciso de ti; nem a cabeça, aos pés: Não preciso de vós.
 
-**22** Pelo contrário, os membros do corpo que parecem mais fracos são muito mais necessários;
+**22** Muito pelo contrário: os membros do corpo que parecem mais fracos são necessários,
 
-**23** e os que nos parecem menos dignos de honra no corpo, a esses cercamos de maior honra; e os nossos membros menos decentes são tratados com maior decência,
+**23** e os que julgamos menos honrosos no corpo, a esses cercamos de maior honra; e os nossos membros menos decorosos são tratados com maior decoro,
 
-**24** ao passo que os nossos membros decentes não precisam disso. Mas Deus compôs o corpo, dando maior honra ao que dela carecia,
+**24** de que não precisam os nossos membros decorosos. Mas Deus compôs o corpo dando maior honra ao que dela tem falta,
 
 **25** para que não haja divisão no corpo, mas os membros tenham o mesmo cuidado uns pelos outros.
 
-**26** E, se um membro sofre, todos os membros sofrem com ele; se um membro é honrado, todos os membros se alegram com ele.
+**26** Se um membro sofre, todos os membros sofrem com ele; se um membro é honrado, todos os membros se alegram com ele.
 
-**27** Ora, vós sois corpo de Cristo, e membros, cada um pela sua parte.
+**27** Ora, vós sois o corpo de Cristo e, cada um por sua parte, seus membros.
 
-**28** E Deus pôs alguns na Igreja: primeiro, apóstolos; segundo, profetas; terceiro, doutores; depois, os milagres; depois, os dons de curas, de assistência, de governo, de diversidade de línguas.
+**28** E Deus estabeleceu na Igreja, em primeiro lugar, apóstolos; em segundo, profetas; em terceiro, mestres; depois, milagres; depois, dons de curas, assistências, governos, variedades de línguas.
 
-**29** Porventura são todos apóstolos? Todos profetas? Todos doutores? Fazem todos milagres?
+**29** Acaso são todos apóstolos? Todos, profetas? Todos, mestres? Todos operam milagres?
 
-**30** Têm todos dons de curas? Falam todos em línguas? Todos as interpretam?
+**30** Têm todos dons de curas? Falam todos em línguas? Todos interpretam?
 
-**31** Aspirai, porém, aos dons maiores. E ainda vos mostro um caminho que excede a todos.
+**31** Aspirai, porém, aos dons maiores. E eu vos mostro ainda um caminho que ultrapassa todos.
 
 ---
 
@@ -522,15 +522,15 @@ _Muitos membros e um só corpo, num só Espírito todos batizados, e vós sois c
 
 _Sendo muitos, somos um só corpo em Cristo e membros uns dos outros, com dons diferentes segundo a graça dada a cada um: a unidade do corpo não apaga a diversidade das funções_
 
-**4** Pois, assim como num só corpo temos muitos membros, e nem todos os membros têm a mesma função,
+**4** Porque, assim como num só corpo temos muitos membros, e nem todos os membros têm a mesma função,
 
-**5** assim nós, sendo muitos, somos um só corpo em Cristo, e cada um de nós membros uns dos outros.
+**5** assim nós, embora muitos, somos um só corpo em Cristo, e cada um, de per si, membro dos outros.
 
-**6** Temos dons diferentes, segundo a graça que nos foi dada: se é profecia, seja segundo a proporção da fé;
+**6** Temos dons diferentes, segundo a graça que nos foi dada: quem tem a profecia, exerça-a segundo a medida da fé;
 
-**7** se é ministério, no ministério; se é quem ensina, no ensino;
+**7** quem tem o ministério, sirva no ministério; quem ensina, no ensino;
 
-**8** se é quem exorta, na exortação; quem reparte, com simplicidade; quem preside, com diligência; quem exerce a misericórdia, com alegria.
+**8** quem exorta, na exortação; quem reparte, faça-o com simplicidade; quem preside, com diligência; quem exerce a misericórdia, com alegria.
 
 ---
 
@@ -542,15 +542,15 @@ _Cristo é a cabeça, e a Igreja o seu corpo e a sua plenitude; e Paulo completa
 
 ### Efésios 1,22–23
 
-**22** E tudo sujeitou debaixo dos seus pés, e o deu por cabeça, acima de todas as coisas, à Igreja,
+**22** Tudo sujeitou debaixo dos seus pés, e o constituiu, acima de tudo, cabeça da Igreja,
 
-**23** que é o seu corpo, a plenitude daquele que tudo plenifica em todos.
+**23** que é o seu corpo, a plenitude daquele que a tudo enche em todas as coisas.
 
 ### Colossenses 1,18.24
 
-**18** E ele é a cabeça do corpo, da Igreja. Ele é o princípio, o primogênito dentre os mortos, para ser ele o primeiro em tudo.
+**18** Ele é a cabeça do corpo, que é a Igreja; é o princípio, o primogênito dentre os mortos, para ter em tudo a primazia,
 
-**24** Agora alegro-me nos sofrimentos que suporto por vós, e completo na minha carne o que falta às tribulações de Cristo, em favor do seu corpo, que é a Igreja.
+**24** Agora me alegro nos sofrimentos por vós, e completo na minha carne o que falta às tribulações de Cristo, em favor do seu corpo, que é a Igreja.
 
 ---
 
@@ -560,37 +560,37 @@ _Cristo é a cabeça, e a Igreja o seu corpo e a sua plenitude; e Paulo completa
 
 _Um só corpo e um só Espírito, um só Senhor, uma só fé, um só batismo; e os ministérios dados para edificar o corpo, que cresce a partir da cabeça, Cristo: a unidade da Igreja e o seu crescimento orgânico num só texto_
 
-**1** Exorto-vos, pois, eu, o prisioneiro no Senhor, a que andeis de modo digno da vocação com que fostes chamados,
+**1** Exorto-vos, pois, eu, prisioneiro no Senhor, a caminhardes de modo digno do chamamento que recebestes:
 
 **2** com toda humildade e mansidão, com paciência, suportando-vos uns aos outros no amor,
 
-**3** empenhando-vos em guardar a unidade do Espírito no vínculo da paz.
+**3** empenhados em conservar a unidade do Espírito pelo vínculo da paz.
 
-**4** Um só corpo e um só Espírito, como também fostes chamados a uma só esperança da vossa vocação;
+**4** Há um só corpo e um só Espírito, como também fostes chamados a uma só esperança, a do vosso chamamento.
 
-**5** um só Senhor, uma só fé, um só batismo;
+**5** Um só Senhor, uma só fé, um só batismo;
 
-**6** um só Deus e Pai de todos, que está acima de todos, e por meio de todos, e em todos.
+**6** um só Deus e Pai de todos, que está acima de todos, age por todos e habita em todos.
 
-**7** A cada um de nós, porém, foi dada a graça segundo a medida do dom de Cristo.
+**7** A cada um de nós foi dada a graça segundo a medida do dom de Cristo.
 
-**8** Por isso diz: Subindo ao alto, levou cativo o cativeiro, deu dons aos homens.
+**8** Por isso diz: Subindo ao alto, levou cativo o cativeiro e deu dons aos homens.
 
-**9** Que quer dizer subiu, senão que também desceu às regiões inferiores da terra?
+**9** Ora, que quer dizer subiu, senão que primeiro havia descido às regiões inferiores da terra?
 
 **10** Aquele que desceu é o mesmo que subiu acima de todos os céus, para encher todas as coisas.
 
-**11** E foi ele que a uns constituiu apóstolos, a outros profetas, a outros evangelistas, a outros pastores e doutores,
+**11** E ele mesmo constituiu uns apóstolos, outros profetas, outros evangelistas, outros pastores e mestres,
 
-**12** para aperfeiçoar os santos na obra do ministério, para a edificação do corpo de Cristo,
+**12** para o aperfeiçoamento dos santos, para a obra do ministério, para a edificação do corpo de Cristo,
 
-**13** até que cheguemos todos à unidade da fé e do conhecimento do Filho de Deus, ao estado de homem perfeito, à medida da estatura da plenitude de Cristo,
+**13** até que todos cheguemos à unidade da fé e do conhecimento do Filho de Deus, ao estado de homem perfeito, à medida da plena estatura de Cristo.
 
-**14** para que não sejamos mais crianças, jogadas de um lado para outro e levadas por todo vento de doutrina, pelo engano dos homens e pela astúcia com que induzem ao erro;
+**14** Assim não seremos mais crianças, levados ao sabor das ondas e arrastados por todo vento de doutrina, pela astúcia dos homens e pela esperteza que conduz ao erro.
 
-**15** mas, praticando a verdade no amor, cresçamos em tudo naquele que é a cabeça, Cristo.
+**15** Antes, vivendo a verdade no amor, cresçamos em tudo naquele que é a cabeça, Cristo.
 
-**16** A partir dele, o corpo inteiro, bem ajustado e unido por todas as articulações que o sustentam, segundo a ação própria de cada parte na sua medida, realiza o seu crescimento para a sua própria edificação no amor.
+**16** Dele o corpo inteiro, bem ajustado e unido por todas as junturas que o sustentam, segundo a atividade própria de cada membro, recebe o crescimento, para edificar-se no amor.
 
 ---
 
@@ -600,29 +600,29 @@ _Um só corpo e um só Espírito, um só Senhor, uma só fé, um só batismo; e 
 
 _Cristo amou a Igreja e entregou-se por ela, para santificá-la e apresentá-la a si mesmo gloriosa, sem mancha nem ruga: é um grande mistério, em relação a Cristo e à Igreja — a Igreja esposa, que o matrimônio significa_
 
-**21** Sede submissos uns aos outros no temor de Cristo.
+**21** Submetei-vos uns aos outros no temor de Cristo.
 
-**22** As mulheres o sejam a seus maridos, como ao Senhor;
+**22** As mulheres sejam submissas aos maridos, como ao Senhor,
 
-**23** porque o marido é a cabeça da mulher, assim como Cristo é a cabeça da Igreja, ele, o salvador do corpo.
+**23** porque o marido é cabeça da mulher, como Cristo é cabeça da Igreja, ele, o salvador do corpo.
 
-**24** Mas, assim como a Igreja é submissa a Cristo, assim também as mulheres o sejam em tudo a seus maridos.
+**24** Ora, como a Igreja é submissa a Cristo, assim também o sejam em tudo as mulheres aos maridos.
 
-**25** Maridos, amai as vossas mulheres, assim como Cristo amou a Igreja e se entregou por ela,
+**25** Maridos, amai as vossas mulheres, como também Cristo amou a Igreja e se entregou por ela,
 
-**26** para santificá-la, purificando-a com o banho da água, pela palavra,
+**26** para a santificar, purificando-a pelo banho da água, com a palavra,
 
-**27** para apresentar a si mesmo a Igreja gloriosa, sem mancha nem ruga nem coisa alguma semelhante, mas santa e irrepreensível.
+**27** a fim de apresentar a si mesmo a Igreja gloriosa, sem mancha nem ruga nem coisa semelhante, mas santa e imaculada.
 
-**28** Assim devem os maridos amar as suas mulheres como aos seus próprios corpos. Quem ama a sua mulher ama-se a si mesmo.
+**28** Assim devem os maridos amar as suas mulheres, como aos próprios corpos. Quem ama a sua mulher, ama-se a si mesmo.
 
-**29** Pois ninguém jamais odiou a sua própria carne; ao contrário, nutre-a e cuida dela, como também Cristo faz com a Igreja,
+**29** Ninguém jamais odiou a própria carne; ao contrário, alimenta-a e cuida dela, como também Cristo faz à Igreja,
 
 **30** porque somos membros do seu corpo.
 
-**31** Por isso o homem deixará o seu pai e a sua mãe e se unirá à sua mulher, e os dois serão uma só carne.
+**31** Por isso deixará o homem o pai e a mãe, e se unirá à sua mulher, e os dois serão uma só carne.
 
-**32** Grande é este mistério; digo-o, porém, em relação a Cristo e à Igreja.
+**32** Grande é este mistério — digo-o em relação a Cristo e à Igreja.
 
 ---
 
@@ -638,33 +638,33 @@ _O redil cuja única porta é Cristo e o rebanho do bom pastor, que há de ser u
 
 **2** Mas quem entra pela porta é o pastor das ovelhas.
 
-**3** A este o porteiro abre, e as ovelhas ouvem a sua voz; e ele chama as suas ovelhas pelo nome e as conduz para fora.
+**3** A este o porteiro abre, e as ovelhas ouvem a sua voz; e ele chama pelo nome as suas ovelhas e as conduz para fora.
 
-**4** Depois de fazer sair todas as que são suas, caminha adiante delas, e as ovelhas o seguem, porque conhecem a sua voz.
+**4** Quando faz sair todas as suas, vai adiante delas; e as ovelhas o seguem, porque conhecem a sua voz.
 
-**5** A um estranho, porém, não seguirão; antes, fugirão dele, porque não conhecem a voz dos estranhos.
+**5** Mas a um estranho não seguirão; antes fugirão dele, porque não conhecem a voz dos estranhos.
 
-**6** Jesus disse-lhes esta parábola, mas eles não entenderam o que lhes dizia.
+**6** Jesus disse-lhes essa comparação; eles, porém, não compreenderam o que lhes dizia.
 
-**7** Disse-lhes, pois, de novo Jesus: Em verdade, em verdade vos digo: eu sou a porta das ovelhas.
+**7** Disse-lhes, pois, Jesus de novo: Em verdade, em verdade vos digo: eu sou a porta das ovelhas.
 
-**8** Todos os que vieram antes de mim são ladrões e salteadores; mas as ovelhas não os ouviram.
+**8** Todos quantos vieram antes de mim são ladrões e salteadores; mas as ovelhas não os ouviram.
 
-**9** Eu sou a porta; se alguém entrar por mim, será salvo; entrará e sairá, e achará pastagem.
+**9** Eu sou a porta. Se alguém entrar por mim, será salvo; e entrará, sairá e encontrará pastagem.
 
-**10** O ladrão não vem senão para roubar, matar e destruir; eu vim para que tenham vida, e a tenham em abundância.
+**10** O ladrão não vem senão para roubar, matar e destruir. Eu vim para que tenham vida, e a tenham em abundância.
 
 **11** Eu sou o bom pastor. O bom pastor dá a sua vida pelas ovelhas.
 
-**12** O mercenário, que não é pastor e a quem as ovelhas não pertencem, vê chegar o lobo, abandona as ovelhas e foge; e o lobo as arrebata e dispersa.
+**12** O mercenário, que não é pastor e a quem as ovelhas não pertencem, vê vir o lobo, abandona as ovelhas e foge — e o lobo as arrebata e dispersa —,
 
-**13** Ele foge porque é mercenário e não se importa com as ovelhas.
+**13** porque é mercenário e não se importa com as ovelhas.
 
-**14** Eu sou o bom pastor; conheço as minhas ovelhas, e as minhas ovelhas me conhecem,
+**14** Eu sou o bom pastor; conheço as minhas, e as minhas me conhecem,
 
 **15** assim como o Pai me conhece e eu conheço o Pai; e dou a minha vida pelas ovelhas.
 
-**16** Tenho ainda outras ovelhas, que não são deste redil; também a essas devo conduzir, e elas ouvirão a minha voz, e haverá um só rebanho e um só pastor.
+**16** Tenho ainda outras ovelhas, que não são deste redil; também a essas é necessário que eu conduza, e ouvirão a minha voz; e haverá um só rebanho e um só pastor.
 
 ### João 15,1–8
 
@@ -672,15 +672,15 @@ _O redil cuja única porta é Cristo e o rebanho do bom pastor, que há de ser u
 
 **2** Todo ramo em mim que não dá fruto, ele o corta; e todo o que dá fruto, ele o limpa, para que dê mais fruto.
 
-**3** Vós já estais limpos por causa da palavra que vos falei.
+**3** Vós já estais limpos, por causa da palavra que vos disse.
 
 **4** Permanecei em mim, e eu em vós. Como o ramo não pode dar fruto por si mesmo, se não permanecer na videira, assim também vós, se não permanecerdes em mim.
 
 **5** Eu sou a videira, vós os ramos. Quem permanece em mim, e eu nele, esse dá muito fruto; porque sem mim nada podeis fazer.
 
-**6** Se alguém não permanecer em mim, é lançado fora como o ramo, e seca; e recolhem-nos, lançam-nos ao fogo, e ardem.
+**6** Se alguém não permanecer em mim, é lançado fora, como o ramo, e seca; e os ajuntam, lançam-nos no fogo, e ardem.
 
-**7** Se permanecerdes em mim, e as minhas palavras permanecerem em vós, pedi o que quiserdes, e vos será feito.
+**7** Se permanecerdes em mim, e as minhas palavras permanecerem em vós, pedi o que quiserdes, e vos será concedido.
 
 **8** Nisto é glorificado meu Pai: que deis muito fruto e vos torneis meus discípulos.
 
@@ -692,23 +692,23 @@ _O redil cuja única porta é Cristo e o rebanho do bom pastor, que há de ser u
 
 _Sois lavoura de Deus, edifício de Deus, cujo único fundamento é Jesus Cristo; sois templo de Deus, e o Espírito de Deus habita em vós: três das imagens da Igreja, numa só página de Paulo_
 
-**9** Pois nós somos colaboradores de Deus; vós sois lavoura de Deus, edifício de Deus.
+**9** Porque somos cooperadores de Deus; vós sois lavoura de Deus, edifício de Deus.
 
-**10** Segundo a graça de Deus que me foi dada, como sábio arquiteto, lancei o fundamento, e outro edifica sobre ele. Mas veja cada um como edifica sobre ele.
+**10** Segundo a graça de Deus que me foi dada, como sábio arquiteto lancei o fundamento; outro edifica sobre ele. Mas cada um veja como edifica.
 
-**11** Pois ninguém pode pôr outro fundamento além do que já está posto, que é Jesus Cristo.
+**11** Porque ninguém pode lançar outro fundamento além do que foi lançado, que é Jesus Cristo.
 
-**12** Se alguém edifica sobre este fundamento com ouro, prata, pedras preciosas, madeira, feno, palha,
+**12** Se alguém edifica sobre o fundamento com ouro, prata, pedras preciosas, madeira, feno, palha,
 
-**13** a obra de cada um se tornará manifesta; pois o dia a dará a conhecer, porque ele se revela no fogo, e o fogo provará qual é a obra de cada um.
+**13** a obra de cada um se tornará manifesta; pois o dia a mostrará, porque se revela no fogo, e o fogo provará qual é a obra de cada um.
 
-**14** Se a obra que alguém edificou sobre o fundamento permanecer, receberá recompensa.
+**14** Se permanecer a obra que alguém edificou, ele receberá recompensa;
 
-**15** Se a obra de alguém se queimar, sofrerá dano; ele mesmo, porém, será salvo, mas como através do fogo.
+**15** se a obra de alguém se queimar, ele sofrerá o prejuízo; ele mesmo, porém, será salvo, mas como que através do fogo.
 
 **16** Não sabeis que sois templo de Deus e que o Espírito de Deus habita em vós?
 
-**17** Se alguém destruir o templo de Deus, Deus o destruirá; pois o templo de Deus é santo, e esse templo sois vós.
+**17** Se alguém destruir o templo de Deus, Deus o destruirá; porque o templo de Deus é santo, e esse templo sois vós.
 
 ---
 
@@ -720,17 +720,17 @@ _Pedras vivas edificadas em casa espiritual; raça eleita, sacerdócio régio, n
 
 **4** Aproximando-vos dele, pedra viva, rejeitada pelos homens, mas escolhida e preciosa diante de Deus,
 
-**5** também vós, como pedras vivas, sois edificados em casa espiritual, para um sacerdócio santo, a fim de oferecer sacrifícios espirituais agradáveis a Deus por meio de Jesus Cristo.
+**5** também vós, como pedras vivas, sois edificados em casa espiritual, para um sacerdócio santo, a fim de oferecerdes sacrifícios espirituais, agradáveis a Deus por Jesus Cristo.
 
-**6** Pois está na Escritura: Eis que ponho em Sião uma pedra angular, escolhida, preciosa; e quem nela crer não será confundido.
+**6** Por isso se lê na Escritura: Eis que ponho em Sião uma pedra angular, escolhida e preciosa; e quem nela crer não será confundido.
 
-**7** Para vós, pois, que credes, ela é honra; mas, para os que não creem, a pedra que os construtores rejeitaram, essa se tornou cabeça de ângulo,
+**7** Para vós, pois, que credes, é honra; mas, para os que não creem: A pedra que os construtores rejeitaram tornou-se a pedra angular,
 
-**8** e pedra de tropeço e rocha de escândalo. Eles tropeçam porque desobedecem à palavra; e para isso também foram postos.
+**8** e pedra de tropeço, e rocha de escândalo. Eles tropeçam por não obedecerem à palavra — e para isso foram destinados.
 
-**9** Vós, porém, sois raça eleita, sacerdócio régio, nação santa, povo adquirido, para anunciardes as virtudes daquele que vos chamou das trevas para a sua luz admirável;
+**9** Vós, porém, sois a raça escolhida, o sacerdócio régio, a nação santa, o povo que Deus adquiriu, para anunciardes as maravilhas daquele que vos chamou das trevas para a sua luz admirável.
 
-**10** vós que outrora não éreis povo, mas agora sois povo de Deus; que não tínheis alcançado misericórdia, mas agora alcançastes misericórdia.
+**10** Outrora não éreis povo; agora, porém, sois povo de Deus. Não tínheis alcançado misericórdia; agora, porém, alcançastes misericórdia.
 
 ---
 
@@ -740,19 +740,19 @@ _Pedras vivas edificadas em casa espiritual; raça eleita, sacerdócio régio, n
 
 _A cidade santa, a nova Jerusalém, desce do céu ataviada como esposa, e sobre os seus doze fundamentos estão os nomes dos doze apóstolos do Cordeiro: a Igreja consumada, esposa e cidade, edificada sobre os apóstolos_
 
-**2** E vi a cidade santa, a nova Jerusalém, que descia do céu, da parte de Deus, preparada como uma esposa ataviada para o seu esposo.
+**2** E vi a cidade santa, a nova Jerusalém, que descia do céu, de junto de Deus, preparada como uma noiva adornada para o seu esposo.
 
-**9** E veio um dos sete anjos que tinham as sete taças cheias das sete últimas pragas, e falou comigo, dizendo: Vem, vou mostrar-te a esposa, a mulher do Cordeiro.
+**9** Veio então um dos sete anjos que tinham as sete taças cheias das sete últimas pragas e falou comigo, dizendo: Vem, vou mostrar-te a noiva, a esposa do Cordeiro.
 
-**10** E levou-me em espírito a um monte grande e alto, e mostrou-me a cidade santa, Jerusalém, que descia do céu, da parte de Deus,
+**10** E levou-me em espírito a um monte grande e alto e mostrou-me a cidade santa, Jerusalém, que descia do céu, de junto de Deus,
 
-**11** tendo a glória de Deus. O seu brilho era semelhante ao de uma pedra preciosíssima, como pedra de jaspe, límpida como cristal.
+**11** com a glória de Deus; o seu brilho era semelhante ao de uma pedra preciosíssima, como a pedra de jaspe cristalina.
 
-**12** Tinha uma muralha grande e alta, com doze portas, e sobre as portas doze anjos, e nomes inscritos, que são os das doze tribos dos filhos de Israel:
+**12** Tinha uma muralha grande e alta, com doze portas; e sobre as portas, doze anjos e nomes escritos, que são os das doze tribos dos filhos de Israel.
 
-**13** ao oriente, três portas; ao norte, três portas; ao sul, três portas; e ao ocidente, três portas.
+**13** Ao oriente, três portas; ao norte, três portas; ao sul, três portas; e ao ocidente, três portas.
 
-**14** E a muralha da cidade tinha doze fundamentos, e sobre eles os doze nomes dos doze apóstolos do Cordeiro.
+**14** A muralha da cidade tinha doze alicerces, e sobre eles os doze nomes dos doze apóstolos do Cordeiro.
 
 ---
 
@@ -768,19 +768,19 @@ _A nova aliança prometida, com a lei escrita no coração, e o reino de sacerdo
 
 ### Jeremias 31,31–34
 
-**31** Eis que vêm dias, oráculo do Senhor, em que farei com a casa de Israel e com a casa de Judá uma aliança nova,
+**31** Eis que virão dias, oráculo do Senhor, em que farei uma nova aliança com a casa de Israel e com a casa de Judá.
 
-**32** não como a aliança que fiz com os seus pais, no dia em que os tomei pela mão para os tirar da terra do Egito: a minha aliança, que eles romperam, embora eu fosse o seu esposo, oráculo do Senhor.
+**32** Não como a aliança que fiz com os seus pais no dia em que os tomei pela mão para tirá-los da terra do Egito, aliança que eles romperam, embora eu fosse o seu esposo, oráculo do Senhor.
 
-**33** Mas esta é a aliança que farei com a casa de Israel depois daqueles dias, oráculo do Senhor: porei a minha lei no seu íntimo e a escreverei no seu coração; e eu serei o seu Deus, e eles serão o meu povo.
+**33** Esta é a aliança que farei com a casa de Israel depois daqueles dias, oráculo do Senhor: porei a minha lei no seu íntimo e a escreverei no seu coração; eu serei o seu Deus, e eles serão o meu povo.
 
-**34** E já não ensinará cada um ao seu próximo, nem cada um ao seu irmão, dizendo: Conhecei o Senhor; porque todos eles me conhecerão, desde o menor até o maior, oráculo do Senhor; porque perdoarei a sua iniquidade, e do seu pecado não me lembrarei mais.
+**34** Ninguém mais ensinará o seu próximo ou o seu irmão, dizendo: Conhece o Senhor!, pois todos me conhecerão, do menor ao maior, oráculo do Senhor; pois perdoarei a sua iniquidade e não me lembrarei mais do seu pecado.
 
 ### Êxodo 19,5–6
 
-**5** Agora, pois, se de fato ouvirdes a minha voz e guardardes a minha aliança, sereis a minha propriedade particular entre todos os povos, porque minha é toda a terra;
+**5** Agora, pois, se ouvirdes a minha voz e guardardes a minha aliança, sereis para mim uma propriedade particular entre todos os povos; porque toda a terra é minha.
 
-**6** e vós sereis para mim um reino de sacerdotes e uma nação santa. Estas são as palavras que dirás aos filhos de Israel.
+**6** Vós sereis para mim um reino de sacerdotes e uma nação santa. São estas as palavras que dirás aos filhos de Israel.
 
 ---
 
@@ -794,15 +794,15 @@ _Saulo, Saulo, por que me persegues? Quem persegue os discípulos persegue o pr�
 >
 > **Por que não.** A citação magisterial é fraca (a *Lumen gentium* não o cita), e Agostinho e a *Mystici Corporis* dizem o mesmo por conta própria.
 
-**1** Saulo, porém, respirando ainda ameaças e morte contra os discípulos do Senhor, foi ter com o sumo sacerdote
+**1** Saulo, respirando ainda ameaças e morte contra os discípulos do Senhor, foi ter com o sumo sacerdote
 
-**2** e pediu-lhe cartas para as sinagogas de Damasco, a fim de que, se encontrasse alguns que fossem do Caminho, homens ou mulheres, os levasse presos a Jerusalém.
+**2** e pediu-lhe cartas para as sinagogas de Damasco, a fim de levar presos para Jerusalém os que lá encontrasse, homens e mulheres, que fossem deste Caminho.
 
-**3** Estando ele a caminho, ao aproximar-se de Damasco, de repente envolveu-o uma luz vinda do céu;
+**3** Estando em viagem, ao aproximar-se de Damasco, subitamente o envolveu uma luz vinda do céu.
 
-**4** e, caindo por terra, ouviu uma voz que lhe dizia: Saulo, Saulo, por que me persegues?
+**4** Caindo por terra, ouviu uma voz que lhe dizia: Saul, Saul, por que me persegues?
 
-**5** Ele disse: Quem és, Senhor? E ele: Eu sou Jesus, a quem tu persegues.
+**5** Ele perguntou: Quem és tu, Senhor? E ele: Eu sou Jesus, a quem tu persegues!
 
 ---
 
@@ -1378,47 +1378,47 @@ _O joio cresce no meio do trigo até a colheita, e a rede recolhe peixes bons e 
 
 ### A parábola do joio
 
-**24** Propôs-lhes outra parábola, dizendo: O reino dos céus é semelhante a um homem que semeou boa semente no seu campo.
+**24** Propôs-lhes outra parábola, dizendo: O Reino dos céus é semelhante a um homem que semeou boa semente no seu campo.
 
 **25** Mas, enquanto os homens dormiam, veio o seu inimigo, semeou joio no meio do trigo e foi-se embora.
 
-**26** Quando a erva brotou e deu fruto, apareceu também o joio.
+**26** Quando a erva cresceu e deu fruto, apareceu também o joio.
 
-**27** Os servos do dono da casa foram ter com ele e disseram-lhe: Senhor, não semeaste boa semente no teu campo? De onde vem, então, o joio?
+**27** Os servos do dono da casa vieram dizer-lhe: Senhor, não semeaste boa semente no teu campo? Donde vem, então, o joio?
 
-**28** Ele lhes disse: Foi um inimigo que fez isto. Os servos perguntaram-lhe: Queres, então, que vamos arrancá-lo?
+**28** Ele lhes respondeu: Um inimigo fez isso. E os servos lhe disseram: Queres que vamos arrancá-lo?
 
-**29** Ele respondeu: Não, para que, ao arrancar o joio, não arranqueis com ele também o trigo.
+**29** Mas ele disse: Não, para que, ao arrancar o joio, não arranqueis com ele o trigo.
 
-**30** Deixai crescer ambos juntos até a colheita; e no tempo da colheita direi aos ceifeiros: Recolhei primeiro o joio e atai-o em feixes para queimar; o trigo, porém, ajuntai-o no meu celeiro.
+**30** Deixai crescer ambos juntos até à colheita; e, no tempo da colheita, direi aos ceifeiros: Recolhei primeiro o joio e atai-o em feixes para queimá-lo; o trigo, porém, recolhei no meu celeiro.
 
 ### A explicação
 
-**36** Então, despedidas as multidões, entrou em casa. E os seus discípulos aproximaram-se dele, dizendo: Explica-nos a parábola do joio do campo.
+**36** Então, despedindo as multidões, foi para casa. E os seus discípulos aproximaram-se dele, dizendo: Explica-nos a parábola do joio do campo.
 
-**37** Ele respondeu: O que semeia a boa semente é o Filho do homem;
+**37** Ele respondeu: O que semeia a boa semente é o Filho do Homem;
 
-**38** o campo é o mundo; a boa semente são os filhos do reino; o joio são os filhos do Maligno;
+**38** o campo é o mundo; a boa semente são os filhos do Reino; o joio são os filhos do maligno;
 
-**39** o inimigo que o semeou é o diabo; a colheita é a consumação do século; os ceifeiros são os anjos.
+**39** o inimigo que o semeou é o diabo; a colheita é o fim do mundo; e os ceifeiros são os anjos.
 
-**40** Assim como se recolhe o joio e se queima no fogo, assim será na consumação do século.
+**40** Assim como se recolhe o joio e se queima no fogo, assim será no fim do mundo.
 
-**41** O Filho do homem enviará os seus anjos, e eles recolherão do seu reino todos os escândalos e os que praticam a iniquidade,
+**41** O Filho do Homem enviará os seus anjos, e eles recolherão do seu Reino todos os escândalos e os que praticam a iniquidade,
 
-**42** e os lançarão na fornalha de fogo; ali haverá choro e ranger de dentes.
+**42** e os lançarão na fornalha ardente; ali haverá pranto e ranger de dentes.
 
-**43** Então os justos brilharão como o sol no reino de seu Pai. Quem tem ouvidos, ouça.
+**43** Então os justos resplandecerão como o sol no Reino de seu Pai. Quem tem ouvidos, ouça.
 
 ### A parábola da rede
 
-**47** O reino dos céus é ainda semelhante a uma rede lançada ao mar, que recolhe peixes de toda espécie.
+**47** Ainda o Reino dos céus é semelhante a uma rede lançada ao mar, que recolhe peixes de toda espécie.
 
-**48** Quando está cheia, puxam-na para a praia e, sentados, recolhem os bons em cestos e lançam fora os maus.
+**48** Quando está cheia, os pescadores a tiram para a praia e, sentados, recolhem os bons em cestos, mas lançam fora os maus.
 
-**49** Assim será na consumação do século: sairão os anjos e separarão os maus do meio dos justos,
+**49** Assim será no fim do mundo: sairão os anjos e separarão os maus do meio dos justos,
 
-**50** e os lançarão na fornalha de fogo; ali haverá choro e ranger de dentes.
+**50** e os lançarão na fornalha ardente; ali haverá pranto e ranger de dentes.
 
 ---
 
@@ -1428,11 +1428,11 @@ _O joio cresce no meio do trigo até a colheita, e a rede recolhe peixes bons e 
 
 _Dize-o à Igreja; e, se não ouvir nem a Igreja, seja para ti como o pagão: a Igreja é uma assembleia que se pode encontrar e a que se pode recorrer, e o que ela liga na terra é ligado no céu_
 
-**15** Se o teu irmão pecar contra ti, vai e repreende-o a sós, entre ti e ele. Se te ouvir, ganhaste o teu irmão.
+**15** Se teu irmão pecar contra ti, vai e repreende-o entre ti e ele a sós; se te ouvir, ganhaste o teu irmão.
 
-**16** Se não te ouvir, toma contigo ainda um ou dois, para que pela boca de duas ou três testemunhas fique estabelecida toda a questão.
+**16** Mas, se não te ouvir, leva contigo mais um ou dois, para que pela boca de duas ou três testemunhas se confirme toda palavra.
 
-**17** Se não os ouvir, dize-o à Igreja; e, se não ouvir nem a Igreja, seja para ti como o pagão e o publicano.
+**17** E, se não os ouvir, dize-o à Igreja; e, se também não ouvir a Igreja, seja para ti como o gentio e o publicano.
 
 **18** Em verdade vos digo: tudo o que ligardes na terra será ligado no céu, e tudo o que desligardes na terra será desligado no céu.
 
@@ -1452,19 +1452,19 @@ _A cidade posta sobre o monte, que não pode esconder-se; o monte da casa do Sen
 
 **14** Vós sois a luz do mundo. Não se pode esconder uma cidade situada sobre um monte.
 
-**15** Nem se acende uma lâmpada para pô-la debaixo do alqueire, mas sobre o candelabro, e ela ilumina todos os que estão na casa.
+**15** Nem se acende uma lâmpada para a pôr debaixo do alqueire, mas sobre o velador, e ela ilumina todos os que estão em casa.
 
 **16** Assim brilhe a vossa luz diante dos homens, para que vejam as vossas boas obras e glorifiquem o vosso Pai que está nos céus.
 
 ### Isaías 2,2–3
 
-**2** Acontecerá, nos últimos dias, que o monte da casa do Senhor estará firme no cume dos montes e se elevará acima das colinas, e a ele afluirão todas as nações.
+**2** Nos últimos dias acontecerá que o monte da casa do Senhor estará firme no cume dos montes e se elevará acima das colinas; e todas as nações afluirão para ele.
 
-**3** Virão muitos povos e dirão: Vinde, subamos ao monte do Senhor, à casa do Deus de Jacó, para que ele nos ensine os seus caminhos e andemos pelas suas veredas. Porque de Sião sairá a lei, e de Jerusalém a palavra do Senhor.
+**3** Muitos povos virão e dirão: Vinde, subamos ao monte do Senhor, à casa do Deus de Jacó, para que ele nos ensine os seus caminhos e andemos pelas suas veredas. Pois de Sião sairá a instrução, e de Jerusalém, a palavra do Senhor.
 
 ### Isaías 11,12
 
-**12** Ele erguerá um estandarte para as nações, reunirá os desterrados de Israel e ajuntará os dispersos de Judá dos quatro cantos da terra.
+**12** Ele erguerá um estandarte para as nações, reunirá os dispersos de Israel e juntará os espalhados de Judá dos quatro cantos da terra.
 
 ---
 
@@ -1478,11 +1478,11 @@ _O Senhor conhece os que são seus, e numa casa grande há vasos para uso nobre 
 >
 > **Por que não.** Nenhuma definição magisterial o cita literalmente.
 
-**19** Contudo, o sólido fundamento de Deus permanece firme, trazendo este selo: O Senhor conhece os que são seus; e: Afaste-se da iniquidade todo aquele que pronuncia o nome do Senhor.
+**19** Mas o fundamento firme de Deus permanece, com este selo: O Senhor conhece os que lhe pertencem; e: Afaste-se da iniquidade todo o que invoca o nome do Senhor.
 
-**20** Numa casa grande não há somente vasos de ouro e de prata, mas também de madeira e de barro; e uns são para uso nobre, outros para uso vil.
+**20** Numa casa grande não há somente vasos de ouro e de prata, mas também de madeira e de barro: uns para uso nobre, outros para uso vil.
 
-**21** Se, pois, alguém se purificar destas coisas, será vaso para uso nobre, santificado, útil ao dono, preparado para toda obra boa.
+**21** Quem, pois, se purificar dessas coisas será vaso para uso nobre, santificado, útil ao dono, pronto para toda boa obra.
 
 ---
 
@@ -2042,13 +2042,13 @@ As notas da Igreja, e onde subsiste a Igreja de Cristo.
 
 _Que todos sejam um, como o Pai está no Filho e o Filho no Pai, para que o mundo creia: a unidade da Igreja tem por modelo e fonte a unidade trinitária, e há de ser visível, porque deve levar o mundo à fé; a Pastor aeternus e a Unitatis redintegratio partem destes versículos_
 
-**20** Não rogo somente por estes, mas também por aqueles que hão de crer em mim pela palavra deles,
+**20** Não rogo somente por estes, mas também por aqueles que, pela sua palavra, hão de crer em mim,
 
-**21** para que todos sejam um, como tu, Pai, estás em mim e eu em ti, para que também eles estejam em nós, a fim de que o mundo creia que tu me enviaste.
+**21** para que todos sejam um; como tu, Pai, estás em mim, e eu em ti, que também eles estejam em nós, para que o mundo creia que tu me enviaste.
 
-**22** E eu lhes dei a glória que me deste, para que sejam um como nós somos um:
+**22** E eu dei-lhes a glória que tu me deste, para que sejam um, como nós somos um:
 
-**23** eu neles e tu em mim, para que sejam consumados na unidade, e o mundo conheça que tu me enviaste e os amaste como me amaste.
+**23** eu neles, e tu em mim, para que sejam perfeitos na unidade, e o mundo conheça que tu me enviaste e os amaste como amaste a mim.
 
 ---
 
@@ -2058,11 +2058,11 @@ _Que todos sejam um, como o Pai está no Filho e o Filho no Pai, para que o mund
 
 _Um só corpo e um só Espírito, um só Senhor, uma só fé, um só batismo, um só Deus e Pai: a enumeração que Cipriano, a Unam sanctam e a Satis cognitum alegam para mostrar que a Igreja é una_
 
-**4** Um só corpo e um só Espírito, como também fostes chamados a uma só esperança da vossa vocação;
+**4** Há um só corpo e um só Espírito, como também fostes chamados a uma só esperança, a do vosso chamamento.
 
-**5** um só Senhor, uma só fé, um só batismo;
+**5** Um só Senhor, uma só fé, um só batismo;
 
-**6** um só Deus e Pai de todos, que está acima de todos, e por meio de todos, e em todos.
+**6** um só Deus e Pai de todos, que está acima de todos, age por todos e habita em todos.
 
 ---
 
@@ -2080,23 +2080,23 @@ _A pomba única, a arca em que poucos se salvaram pela água, a túnica sem cost
 
 _Uma só é a minha pomba_
 
-**9** Uma só é a minha pomba, a minha perfeita; é a única de sua mãe, a escolhida daquela que a deu à luz. As donzelas a viram e a proclamaram bem-aventurada; as rainhas e as concubinas a louvaram.
+**9** mas única é a minha pomba, a minha perfeita, a única da sua mãe, a preferida daquela que a deu à luz. As jovens a viram e a proclamaram feliz, as rainhas e as concubinas a louvaram:
 
 ### 1 Pedro 3,20–21
 
 _Na arca, poucos se salvaram pela água; a ela corresponde o batismo_
 
-**20** os quais outrora foram desobedientes, quando a paciência de Deus esperava, nos dias de Noé, enquanto se construía a arca, na qual poucos, isto é, oito pessoas, foram salvos por meio da água.
+**20** aos que outrora foram rebeldes, quando a paciência de Deus esperava, nos dias de Noé, enquanto se construía a arca, na qual poucos — isto é, oito pessoas — foram salvos através da água.
 
-**21** A ela corresponde o batismo, que agora vos salva também a vós: não a remoção da imundície da carne, mas o compromisso de uma boa consciência para com Deus, pela ressurreição de Jesus Cristo.
+**21** Essa água era figura do batismo, que agora vos salva: não a remoção da sujeira do corpo, mas o compromisso de uma boa consciência para com Deus, pela ressurreição de Jesus Cristo.
 
 ### João 19,23–24
 
 _A túnica sem costura, que não foi rasgada_
 
-**23** Os soldados, depois de crucificarem Jesus, tomaram as suas vestes e fizeram quatro partes, uma para cada soldado, e tomaram também a túnica. A túnica, porém, era sem costura, tecida de alto a baixo numa só peça.
+**23** Os soldados, depois de crucificarem Jesus, tomaram as suas vestes e fizeram quatro partes, uma para cada soldado; e também a túnica. A túnica era sem costura, tecida de alto a baixo numa só peça.
 
-**24** Disseram, pois, uns aos outros: Não a rasguemos, mas lancemos sortes sobre ela, para ver de quem será. Isto para que se cumprisse a Escritura, que diz: Repartiram entre si as minhas vestes, e sobre a minha veste lançaram sortes. Foi o que fizeram os soldados.
+**24** Disseram, pois, entre si: Não a rasguemos, mas tiremos a sorte para ver de quem será. Era para que se cumprisse a Escritura: Repartiram entre si as minhas vestes e sobre a minha túnica lançaram sorte. E assim fizeram os soldados.
 
 ---
 
@@ -2106,7 +2106,7 @@ _A túnica sem costura, que não foi rasgada_
 
 _A Igreja é a casa de Deus, coluna e sustentáculo da verdade: o versículo em que a Mortalium animos e a Lumen gentium 8 se apoiam para dizer que a Igreja guarda a verdade sem desfalecer_
 
-**15** mas, se eu tardar, para que saibas como se deve proceder na casa de Deus, que é a Igreja do Deus vivo, coluna e sustentáculo da verdade.
+**15** mas, se eu demorar, quero que saibas como se deve proceder na casa de Deus, que é a Igreja do Deus vivo, coluna e fundamento da verdade.
 
 ---
 
@@ -2124,7 +2124,7 @@ _Onde está Cristo Jesus, aí está a Igreja católica: é a primeira vez que o 
 >
 > **Por que não.** Os critérios (2.2) excluem Inácio nominalmente, e quem o cita é o Catecismo, não uma definição: o trecho depende, pois, de duas decisões gerais ainda pendentes, a de Clemente e Inácio e a do Catecismo como documento que cita. Além disso, o contexto — nada se faça sem o bispo — é do eixo 8.
 
-Onde aparecer o bispo, aí esteja a multidão, assim como onde está Cristo Jesus, aí está a Igreja católica. Não é lícito, sem o bispo, nem batizar nem celebrar o ágape; mas o que ele aprovar, isso é também agradável a Deus, para que seja seguro e firme tudo o que se faz.
+Onde aparecer o bispo, ali esteja a multidão, assim como onde estiver Jesus Cristo, ali está a Igreja católica. Não é permitido, sem o bispo, nem batizar nem celebrar o ágape; mas o que ele aprovar, isso é também agradável a Deus, para que seja seguro e firme tudo o que fizerdes.
 
 ---
 
@@ -2164,27 +2164,27 @@ _A Igreja é uma só, como a luz do sol, o tronco da árvore e a fonte; é espos
 
 _O episcopado é um só; a Igreja é uma só, como os muitos raios de uma só luz_
 
-Esta unidade devemos mantê-la firmemente e defendê-la, sobretudo nós, os bispos, que presidimos na Igreja, para provarmos que também o próprio episcopado é um só e indiviso. Ninguém engane os irmãos com a mentira, ninguém corrompa a verdade da fé com pérfida prevaricação. O episcopado é um só, e cada um dos bispos possui dele uma parte solidariamente, pelo todo.
+Esta unidade devemos guardar firmemente e defender, sobretudo nós, bispos, que presidimos na Igreja, para provar que também o próprio episcopado é um só e indiviso. Ninguém engane a fraternidade com a mentira, ninguém corrompa a fé da verdade com uma traição pérfida. O episcopado é um só, e cada um tem dele uma parte, solidariamente pelo todo.
 
-A Igreja é uma só, e pelo crescimento da sua fecundidade estende-se largamente numa multidão: assim como os raios do sol são muitos, mas a luz é uma só; e os ramos da árvore são muitos, mas o tronco é um só, fundado em raiz tenaz; e, quando de uma só fonte correm muitos regatos, ainda que pareça espalhar-se em grande número pela largueza da abundância que transborda, a unidade conserva-se na origem. Arranca do corpo do sol um raio: a unidade da luz não admite divisão. Quebra da árvore um ramo: quebrado, não poderá germinar. Corta da fonte o regato: cortado, seca.
+A Igreja é uma só, e ela se estende mais e mais pela multidão, com o crescimento da sua fecundidade; como há muitos raios do sol, mas uma só luz, e muitos ramos da árvore, mas um só tronco, fundado na raiz tenaz; e como, quando de uma só fonte correm muitos regatos, ainda que a quantidade pareça dispersa pela largueza da abundância que transborda, a unidade se conserva na origem. Arranca um raio do corpo do sol: a unidade não admite divisão da luz. Quebra um ramo da árvore: quebrado, não poderá brotar. Corta o regato da fonte: cortado, seca.
 
-Assim também a Igreja do Senhor, banhada de luz, estende os seus raios por todo o orbe; e, no entanto, é uma só a luz que por toda parte se difunde, e a unidade do corpo não se separa. Estende os seus ramos por toda a terra com a abundância da sua fertilidade, derrama ao longe os seus regatos, que correm caudalosos; e, no entanto, uma só é a cabeça, e uma só a origem, e uma só a mãe, rica nos frutos da sua fecundidade. Do seu parto nascemos, com o seu leite somos nutridos, pelo seu espírito somos animados.
+Assim também a Igreja do Senhor, banhada de luz, estende os seus raios pelo mundo inteiro; mas é uma só a luz que se espalha por toda parte, e a unidade do corpo não se separa. Estende os seus ramos por toda a terra com a abundância da sua fertilidade, derrama mais e mais os regatos que correm com largueza; mas uma só é a cabeça, uma só a origem, uma só a mãe, rica dos frutos da sua fecundidade: do seu parto nascemos, do seu leite nos alimentamos, do seu espírito recebemos a vida.
 
 ### Capítulo 6
 
 _A esposa de Cristo não pode ser adulterada; não tem a Deus por pai quem não tem a Igreja por mãe_
 
-A esposa de Cristo não pode ser adulterada: é incorrupta e pudica. Conhece uma só casa, guarda com casto pudor a santidade de um só leito. É ela que nos conserva para Deus, é ela que destina ao reino os filhos que gerou. Todo aquele que, separado da Igreja, se une a uma adúltera, separa-se das promessas da Igreja; e não chegará aos prêmios de Cristo quem abandona a Igreja de Cristo. É um estranho, é um profano, é um inimigo. Não pode ter a Deus por pai quem não tem a Igreja por mãe. Se pôde escapar alguém que estivesse fora da arca de Noé, também escapa quem estiver fora da Igreja.
+A esposa de Cristo não pode ser adúltera: é incorrupta e pudica. Conhece uma só casa, guarda com casto pudor a santidade de um só leito. Ela nos guarda para Deus, ela destina ao Reino os filhos que gerou. Todo aquele que se separa da Igreja e se une a uma adúltera separa-se das promessas da Igreja, e não chegará aos prêmios de Cristo quem abandona a Igreja de Cristo. É um estranho, é um profano, é um inimigo. Não pode ter Deus por Pai quem não tem a Igreja por mãe. Se pôde escapar quem esteve fora da arca de Noé, também escapa quem estiver fora da Igreja.
 
-O Senhor adverte e diz: Quem não está comigo está contra mim, e quem não recolhe comigo dispersa. Quem rompe a paz e a concórdia de Cristo age contra Cristo; quem recolhe em outro lugar, fora da Igreja, dispersa a Igreja de Cristo. Diz o Senhor: Eu e o Pai somos um. E de novo está escrito do Pai e do Filho e do Espírito Santo: E os três são um. E há quem creia que esta unidade, que vem da firmeza divina e está ligada aos mistérios celestes, pode ser rasgada na Igreja e separada pelo divórcio de vontades que se chocam? Quem não guarda esta unidade não guarda a lei de Deus, não guarda a fé do Pai e do Filho, não guarda a vida nem a salvação.
+O Senhor adverte e diz: “Quem não está comigo está contra mim, e quem não junta comigo espalha” (Mt 12,30). Quem rompe a paz e a concórdia de Cristo age contra Cristo; quem junta em outra parte, fora da Igreja, espalha a Igreja de Cristo. Diz o Senhor: “Eu e o Pai somos um” (Jo 10,30). E ainda está escrito do Pai, do Filho e do Espírito Santo: “E os três são um” (1Jo 5,7). E alguém crê que esta unidade, que vem da firmeza divina e se prende aos sacramentos celestes, possa ser dividida na Igreja e separada pelo divórcio de vontades que se chocam? Quem não guarda esta unidade não guarda a lei de Deus, não guarda a fé do Pai e do Filho, não guarda a vida e a salvação.
 
 ### Capítulo 7
 
 _A túnica de Cristo, que não foi dividida, é o sinal da unidade da Igreja_
 
-Este mistério da unidade, este vínculo de uma concórdia que se mantém inseparável, mostra-se quando, no Evangelho, a túnica do Senhor Jesus Cristo não é de modo algum dividida nem rasgada, mas, lançando eles sortes sobre a veste de Cristo, para ver quem havia de vestir-se de Cristo, a veste é recebida inteira, e a túnica é possuída incorrupta e indivisa. Fala a Escritura divina e diz: Quanto à túnica, porque desde a parte de cima não era costurada, mas toda ela tecida, disseram uns aos outros: Não a rasguemos, mas lancemos sortes sobre ela, para ver de quem será. Ela trazia a unidade que vem da parte de cima, isto é, que vem do céu e do Pai, a qual não podia de modo algum ser rasgada por quem a recebia e possuía, mas mantinha inseparavelmente, de uma vez, a sua firmeza inteira e sólida. Não pode possuir a veste de Cristo quem rasga e divide a Igreja de Cristo.
+Este sacramento da unidade, este vínculo de uma concórdia inseparavelmente unida se mostra quando, no Evangelho, a túnica do Senhor Jesus Cristo não é de modo algum dividida nem rasgada, mas, tirando-se a sorte sobre a veste de Cristo, para ver quem se vestiria de Cristo, a veste é recebida inteira, e a túnica é possuída intacta e indivisa. A Escritura divina fala e diz: “Quanto à túnica, porque não tinha costura da parte de cima, mas era tecida toda de alto a baixo, disseram uns aos outros: Não a rasguemos, mas tiremos a sorte, para ver de quem será” (Jo 19,23–24). Ela trazia a unidade que vem da parte de cima, isto é, que vem do céu e do Pai, que não podia de modo algum ser rasgada por quem a recebia e a possuía, mas mantinha de uma vez, inteira e maciça, a sua firmeza inseparável. Não pode possuir a veste de Cristo quem rasga e divide a Igreja de Cristo.
 
-Ao contrário, quando, à morte de Salomão, o seu reino e o seu povo se rasgavam, o profeta Aías, indo ao encontro do rei Jeroboão no campo, rasgou o seu manto em doze pedaços, dizendo: Toma para ti dez pedaços, porque assim diz o Senhor: Eis que rasgo o reino da mão de Salomão, e te darei dez cetros, e dois cetros serão dele, por causa do meu servo Davi e por causa de Jerusalém, a cidade que escolhi para nela pôr o meu nome. Como as doze tribos de Israel se rasgavam, o profeta Aías rasgou o seu manto. Mas, porque o povo de Cristo não pode ser rasgado, a túnica dele, toda tecida numa só peça, não foi dividida pelos que a possuíam: indivisa, unida, bem ligada, mostra a concórdia coesa do nosso povo, de nós que nos revestimos de Cristo. Pelo mistério e pelo sinal da veste, ele declarou a unidade da Igreja.
+Ao contrário, quando, à morte de Salomão, o seu reino e o seu povo se dividiam, o profeta Aías, indo ao encontro do rei Jeroboão no campo, rasgou o seu manto em doze pedaços, dizendo: “Toma para ti dez pedaços, porque assim diz o Senhor: Eis que rasgo o reino da mão de Salomão e te darei dez cetros, e dois cetros ficarão para ele, por causa do meu servo Davi e por causa de Jerusalém, a cidade que escolhi para pôr ali o meu nome” (1Rs 11,31–32.36). Quando as doze tribos de Israel se dividiam, o profeta Aías rasgou o seu manto. Mas, porque o povo de Cristo não pode ser dividido, a sua túnica, tecida toda de alto a baixo e inteiriça, não foi dividida pelos que a possuíram: indivisa, unida, ligada, mostra a concórdia inseparável do nosso povo, que se revestiu de Cristo. Com o sacramento e o sinal da veste ele declarou a unidade da Igreja.
 
 ### Capítulo 14
 
@@ -2192,23 +2192,23 @@ _Não pode ser mártir quem não está na Igreja_
 
 _Os de que se fala são os do capítulo anterior: os que se reúnem fora da Igreja de Cristo_
 
-Homens assim, ainda que sejam mortos na confissão do Nome, nem com o sangue lavam essa mancha: a culpa da discórdia, grave e inexpiável, nem com o martírio se purga. Não pode ser mártir quem não está na Igreja; não poderá chegar ao reino quem abandonou aquela que há de reinar. Cristo deu-nos a paz, mandou-nos ser concordes e unânimes, ordenou que guardássemos incorruptos e invioláveis os laços do amor e da caridade: não pode apresentar-se como mártir quem não guardou a caridade fraterna.
+Tais homens, ainda que sejam mortos na confissão do nome, essa mancha nem com o sangue se lava: a culpa grave e inexpiável da discórdia nem pelo martírio se purifica. Não pode ser mártir quem não está na Igreja; não poderá chegar ao Reino quem abandonou aquela que há de reinar. Cristo nos deu a paz, mandou que fôssemos concordes e unânimes, ordenou que guardássemos intactos e invioláveis os laços do amor e da caridade: não pode apresentar-se como mártir quem não guardou a caridade fraterna.
 
-É o que ensina e atesta o apóstolo Paulo, dizendo: E, se eu tiver fé a ponto de transportar montanhas, mas não tiver caridade, nada sou; e, se eu distribuir em alimento todos os meus bens, e se entregar o meu corpo para ser queimado, mas não tiver caridade, de nada me aproveita. A caridade é magnânima, a caridade é benigna, a caridade não é invejosa, não se incha, não se irrita, não age com leviandade, não pensa o mal; tudo ama, tudo crê, tudo espera, tudo suporta. A caridade nunca acabará. Nunca, diz ele, acabará a caridade: pois ela estará sempre no reino, ela durará eternamente na unidade dos irmãos unidos entre si.
+Ensina-o e atesta-o o apóstolo Paulo, dizendo: “E, ainda que eu tenha uma fé tal que transporte os montes, se não tiver caridade, nada sou; e, ainda que distribua todos os meus bens em alimentos e entregue o meu corpo para ser queimado, se não tiver caridade, de nada me aproveita. A caridade é magnânima, a caridade é benigna, a caridade não é invejosa, não se ensoberbece, não se irrita, não procede mal, não pensa o mal; tudo ama, tudo crê, tudo espera, tudo suporta. A caridade nunca acabará” (1Cor 13,2–5.7–8). “Nunca”, diz, “acabará a caridade.” Pois ela estará sempre no Reino, ela durará para sempre na unidade de uma fraternidade unida a si mesma.
 
-A discórdia não pode chegar ao reino dos céus; ao prêmio de Cristo, que disse: Este é o meu mandamento, que vos ameis uns aos outros como eu vos amei, não poderá ter parte quem violou o amor de Cristo com pérfida dissensão. Quem não tem a caridade não tem a Deus. É do bem-aventurado apóstolo João a palavra: Deus é amor, e quem permanece no amor permanece em Deus, e Deus permanece nele. Não podem permanecer com Deus os que não quiseram estar unânimes na Igreja de Deus. Ainda que ardam, entregues às chamas e ao fogo, ou percam a vida lançados às feras, isso não será a coroa da fé, mas o castigo da perfídia; não o fim glorioso de uma virtude religiosa, mas a morte do desespero. Um tal pode ser morto; coroado, não pode.
+A discórdia não pode chegar ao Reino dos céus; ao prêmio de Cristo, que disse: “Este é o meu mandamento: que vos ameis uns aos outros como eu vos amei” (Jo 15,12), não poderá pertencer quem violou o amor de Cristo com uma dissensão pérfida. Quem não tem a caridade não tem a Deus. É a voz do bem-aventurado apóstolo João: “Deus”, diz, “é amor, e quem permanece no amor permanece em Deus, e Deus permanece nele” (1Jo 4,16). Não podem permanecer com Deus os que não quiseram ser unânimes na Igreja de Deus. Ainda que ardam entregues às chamas e ao fogo, ou deem a vida lançados às feras, não será essa a coroa da fé, mas o castigo da perfídia; nem o fim glorioso de uma virtude religiosa, mas a morte do desespero. Um tal pode ser morto, coroado não pode ser.
 
-Ele se declara cristão do mesmo modo que também o diabo muitas vezes se faz passar por Cristo, como o próprio Senhor preveniu, dizendo: Muitos virão em meu nome, dizendo: Eu sou o Cristo, e enganarão a muitos. Assim como aquele não é Cristo, ainda que engane com o nome, assim também não pode ser tido por cristão quem não permanece no Evangelho de Cristo e na verdade da fé.
+Diz-se cristão do mesmo modo que o diabo muitas vezes se faz passar por Cristo, como o próprio Senhor previne e diz: “Muitos virão em meu nome, dizendo: Eu sou o Cristo, e enganarão a muitos” (Mc 13,6). Assim como aquele não é o Cristo, embora engane com o nome, assim também não pode ser tido por cristão quem não permanece no seu Evangelho e na verdade da fé.
 
 ### Capítulo 23
 
 _Um só Deus, um só Cristo, uma só Igreja, uma só fé, um só povo_
 
-Desejo, irmãos caríssimos, e igualmente aconselho e exorto, que, se for possível, nenhum dos irmãos pereça, e que a mãe, alegre, encerre no seu seio o corpo único de um povo concorde. Se, porém, o conselho salutar não puder reconduzir ao caminho da salvação alguns chefes de cismas e autores de dissensão, que permanecem numa demência cega e obstinada, ao menos vós, os demais, apanhados pela vossa simplicidade, ou induzidos pelo erro, ou enganados por alguma habilidade de uma astúcia mentirosa, soltai-vos dos laços do engano, livrai dos erros os vossos passos errantes, reconhecei o reto trajeto do caminho celeste.
+Desejo, irmãos caríssimos, e ao mesmo tempo aconselho e exorto que, se for possível, nenhum dos irmãos se perca, e que a mãe, alegre, encerre no seu seio o corpo único de um povo concorde. Se, porém, o conselho salutar não puder chamar de volta ao caminho da salvação alguns chefes de cismas e autores de dissensão, que permanecem numa demência cega e obstinada, vós, os demais, que fostes apanhados pela simplicidade, ou levados pelo erro, ou enganados por alguma manha de uma astúcia enganadora, livrai-vos dos laços do engano, libertai dos erros os vossos passos errantes, reconhecei o caminho reto da estrada do céu.
 
-É do Apóstolo esta declaração: Nós vos ordenamos, em nome do Senhor Jesus Cristo, que vos afasteis de todos os irmãos que andam desordenadamente e não segundo a tradição que receberam de nós. E diz ainda: Ninguém vos engane com palavras vãs; pois por causa disto vem a ira de Deus sobre os filhos da rebeldia. Não sejais, pois, participantes com eles. É preciso afastar-se dos que pecam, ou antes fugir deles, para que ninguém, juntando-se aos que andam mal e seguindo pelos trajetos do erro e do crime, se desvie do caminho verdadeiro e fique também preso à mesma culpa.
+É a voz do Apóstolo, que atesta: “Nós vos ordenamos, em nome do Senhor Jesus Cristo, que vos afasteis de todos os irmãos que andam desordenadamente e não segundo a tradição que receberam de nós” (2Ts 3,6). E diz ainda: “Ninguém vos engane com palavras vãs; pois é por isso que vem a ira de Deus sobre os filhos da rebeldia. Não sejais, pois, participantes com eles” (Ef 5,6–7). Devemos afastar-nos dos que pecam, ou, antes, fugir deles, para que ninguém, juntando-se aos que andam mal e seguindo os caminhos do erro e do crime, se desvie do caminho verdadeiro e fique ele mesmo preso no mesmo crime.
 
-Há um só Deus, e um só Cristo, e uma só Igreja dele, e uma só fé, e um só povo, unido pelo cimento da concórdia na sólida unidade de um corpo. A unidade não pode ser rasgada, nem pode um corpo único ser separado pela ruptura das suas junturas, nem ser feito em pedaços, com as entranhas arrancadas e dilaceradas. Tudo o que se afasta do seio materno não poderá viver nem respirar à parte: perde a substância da salvação.
+Há um só Deus, e um só Cristo, e uma só a sua Igreja, e uma só fé, e um só povo, unido com o cimento da concórdia na unidade sólida de um corpo. A unidade não pode ser dividida, nem o corpo único separado pela ruptura da sua estrutura, nem despedaçado em pedaços com as entranhas arrancadas. Tudo o que se afastar da matriz não poderá viver e respirar à parte: perde a substância da salvação.
 
 ---
 
@@ -2510,19 +2510,19 @@ _A unidade não pode nascer de uma federação em que cada um guarda a sua doutr
 
 ### Uma federação sem unidade de fé
 
-… Por isso, uma vez que a caridade se apoia, como em fundamento, na fé íntegra e sincera, é necessário que os discípulos de Cristo estejam unidos pela unidade da fé, como vínculo principal. Como, então, conceber uma federação cristã cujos membros, mesmo quando se trata do objeto da fé, conservem cada qual o seu modo de pensar e de sentir, ainda que contrário às opiniões dos outros? E de que modo, perguntamos, participariam de uma só e mesma federação de fiéis homens que seguem sentenças contrárias? Por exemplo, os que afirmam e os que negam que a sagrada Tradição é fonte genuína da revelação divina; os que têm por divinamente constituída a hierarquia eclesiástica, formada de bispos, presbíteros e ministros, e os que afirmam que ela foi introduzida pouco a pouco, segundo a condição das coisas e dos tempos; os que na santíssima Eucaristia adoram Cristo realmente presente, por aquela admirável conversão do pão e do vinho que se chama transubstanciação, e os que afirmam que o corpo de Cristo ali está somente pela fé, ou pelo sinal e pela virtude do sacramento; os que nela reconhecem a natureza tanto de sacrifício como de sacramento, e os que dizem que ela não é senão a memória ou comemoração da Ceia do Senhor; os que creem ser bom e útil invocar com súplicas os santos que reinam com Cristo, e em primeiro lugar Maria, a Mãe de Deus, e prestar veneração às suas imagens, e os que sustentam que tal culto não se pode prestar, por ser contrário à honra do único mediador entre Deus e os homens, Jesus Cristo?
+… Por isso, assim como a caridade se apoia, como em seu fundamento, na fé íntegra e sincera, assim também é preciso que os discípulos de Cristo estejam ligados pela unidade da fé, como pelo vínculo principal. Como se pode, pois, imaginar uma Federação cristã em que os que nela entrarem conservem, cada um, até quando se trata do objeto da fé, o seu modo de pensar e de sentir, ainda que este contradiga as opiniões dos outros? E de que modo, perguntamos, poderão homens que seguem opiniões contrárias fazer parte de uma só e mesma Federação de fiéis? Por exemplo, os que afirmam e os que negam que a sagrada Tradição seja fonte genuína da divina Revelação? Os que julgam que a hierarquia eclesiástica, composta de bispos, presbíteros e ministros, foi constituída por Deus, e os que asseveram que foi introduzida pouco a pouco, conforme as condições das coisas e dos tempos? Os que, na Santíssima Eucaristia, adoram a Cristo realmente presente por aquela admirável conversão do pão e do vinho que se chama transubstanciação, e os que afirmam que o corpo de Cristo está ali presente só pela fé, ou pelo sinal e pela virtude do Sacramento; os que nela reconhecem a natureza tanto de sacrifício como de sacramento, e os que dizem que ela não é senão memória ou comemoração da Ceia do Senhor? Os que creem ser bom e útil invocar com súplicas os Santos que reinam com Cristo, sobretudo Maria Mãe de Deus, e venerar as suas imagens, e os que sustentam que não se pode prestar esse culto, por ser contrário à honra de Jesus Cristo, “único mediador entre Deus e os homens”?
 
-Com tamanha discrepância de opiniões, não sabemos como se abriria caminho para realizar a unidade da Igreja, quando esta não pode nascer senão de um só magistério, de uma só lei de crer e de uma só fé dos cristãos; mas sabemos bem que daí facilmente se passa ao descaso da religião, ou indiferentismo, e ao chamado modernismo, cujas infelizes vítimas sustentam que a verdade dogmática não é absoluta, mas relativa, isto é, adaptada às várias necessidades dos tempos e dos lugares e às várias inclinações dos espíritos, já que ela não estaria contida numa revelação imutável, mas seria tal que se acomodasse à vida dos homens.
+Com tamanha discrepância de opiniões, não sabemos como se possa abrir caminho para realizar a unidade da Igreja, uma vez que esta só pode nascer de um só magistério, de uma só regra de fé e de uma só fé dos cristãos; mas sabemos, isto sim, que daí facilmente se passa ao descaso pela religião, ou indiferentismo, e ao chamado modernismo; e os que estão miseravelmente contaminados por ele sustentam que a verdade dogmática não é absoluta, mas relativa, isto é, que se ajusta às várias necessidades dos tempos e dos lugares e às várias inclinações dos espíritos, já que não está contida numa revelação imutável, mas é de tal natureza que se acomoda à vida dos homens.
 
 ### Artigos fundamentais e não fundamentais
 
-Além disso, no que toca às coisas que se devem crer, de modo algum é lícito usar daquela distinção que se quis introduzir entre os artigos da fé chamados fundamentais e não fundamentais, como se uns devessem ser recebidos por todos, e os outros, ao contrário, pudessem ser deixados ao livre assentimento dos fiéis; pois a virtude sobrenatural da fé tem por causa formal a autoridade de Deus que revela, a qual não admite nenhuma distinção dessa espécie. Por isso, todos os que são verdadeiramente de Cristo prestam ao dogma da Mãe de Deus concebida sem mancha original, por exemplo, a mesma fé que ao mistério da augusta Trindade, e não creem na encarnação do Senhor de outro modo que no magistério infalível do Romano Pontífice, no sentido, bem entendido, em que foi definido pelo Concílio ecumênico do Vaticano. Pois não é porque a Igreja sancionou e definiu por decreto solene tais verdades umas numa época, outras noutra, e algumas em tempos bem próximos, que elas são menos certas ou menos dignas de fé: acaso não foi Deus quem as revelou todas? …
+Além disso, no que toca às verdades que se devem crer, de modo nenhum é lícito usar aquela distinção que se houve por bem introduzir entre os chamados artigos de fé fundamentais e não fundamentais, como se uns devessem ser recebidos por todos, e os outros, ao contrário, pudessem ser deixados ao livre assentimento dos fiéis; pois a virtude sobrenatural da fé tem por causa formal a autoridade de Deus que revela, a qual não admite nenhuma distinção desse gênero. Por isso, todos os que são verdadeiramente de Cristo dão, por exemplo, ao dogma da Mãe de Deus concebida sem mancha de origem a mesma fé que dão ao mistério da augusta Trindade, e não dão à Encarnação do Senhor fé diferente da que dão ao magistério infalível do Romano Pontífice, no sentido preciso em que foi definido pelo Concílio Ecumênico do Vaticano. Pois não é por ter a Igreja sancionado e definido com decreto solene essas verdades, umas numa época, outras noutra, ou mesmo em tempos bem próximos, que elas deixam de ser igualmente certas e de se dever crer igualmente; não as revelou Deus todas? …
 
 ### O retorno à única Igreja
 
-Assim, veneráveis irmãos, fica claro por que esta Sé Apostólica nunca permitiu que os seus tomassem parte nos congressos dos acatólicos: pois não é lícito promover a união dos cristãos de outro modo senão promovendo o retorno dos dissidentes à única verdadeira Igreja de Cristo, da qual um dia infelizmente se afastaram. À única verdadeira Igreja de Cristo, dizemos, bem visível a todos, e que, pela vontade do seu autor, há de permanecer perpetuamente tal qual ele mesmo a instituiu para a salvação comum. Pois a mística esposa de Cristo jamais se contaminou no decurso dos séculos, nem pode jamais contaminar-se, como atesta Cipriano: A esposa de Cristo não pode ser adulterada: é incorrupta e pudica. Conhece uma só casa, guarda com casto pudor a santidade de um só tálamo. E o mesmo santo mártir com toda a razão se admirava muito de que alguém pudesse crer que esta unidade, que vem da firmeza divina e está ligada aos sacramentos celestes, pudesse ser cindida na Igreja e separada pelo divórcio de vontades em choque. Com efeito, sendo o corpo místico de Cristo, isto é, a Igreja, um só, compacto e conexo, à semelhança do seu corpo físico, seria inepto e insensato dizer que o corpo místico pode constar de membros desunidos e dispersos: quem, pois, não está unido a ele não é seu membro nem está ligado a Cristo cabeça.
+Assim, Veneráveis Irmãos, fica claro por que esta Sé Apostólica nunca permitiu aos seus que tomassem parte nas assembleias dos não católicos: pois a união dos cristãos não se pode promover de outro modo senão promovendo o retorno dos dissidentes à única verdadeira Igreja de Cristo, já que outrora infelizmente se afastaram dela. À única verdadeira Igreja de Cristo, dizemos, bem visível a todos e que, por vontade do seu Autor, há de permanecer perpetuamente tal qual ele mesmo a instituiu para a salvação comum. Pois a Esposa mística de Cristo nunca foi contaminada no decurso dos séculos, nem jamais poderá ser contaminada, como testemunha Cipriano: “A Esposa de Cristo não pode tornar-se adúltera: é incorrupta e pudica. Conhece uma só casa, guarda com casto pudor a santidade de um só tálamo”. E o mesmo santo Mártir se admirava muito, com toda a razão, de que alguém pudesse crer que “esta unidade, que vem da firmeza divina e se mantém coesa pelos sacramentos celestes, pudesse ser cindida na Igreja e separada pelo divórcio de vontades em choque”. Com efeito, sendo o corpo místico de Cristo, isto é, a Igreja, um só, compacto e conexo, à semelhança do seu corpo físico, seria absurdo e insensato dizer que o corpo místico pode constar de membros desunidos e dispersos: quem quer que, portanto, não está ligado a ele, nem é membro seu nem está unido a Cristo, que é a cabeça.
 
-Ora, nesta única Igreja de Cristo ninguém está, e ninguém persevera, se não reconhece e aceita, obedecendo, a autoridade e o poder de Pedro e dos seus legítimos sucessores. Ao bispo de Roma, sumo pastor das almas, acaso não obedeceram os antepassados daqueles que estão enredados nos erros de Fócio e dos inovadores? Os filhos afastaram-se, ai!, da casa paterna, que nem por isso ruiu e pereceu, sustentada como estava pelo perpétuo auxílio de Deus; voltem, pois, ao Pai comum, que, esquecido das injúrias outrora lançadas contra a Sé Apostólica, há de recebê-los com todo o amor. Pois se, como repetem, desejam unir-se a nós e aos nossos, por que não se apressam a vir à Igreja, mãe e mestra de todos os fiéis de Cristo? Ouçam também Lactâncio, que clama: Só… a Igreja católica é a que conserva o verdadeiro culto. Esta é a fonte da verdade, este o domicílio da fé, este o templo de Deus: quem nele não entrar, ou dele sair, fica alheio à esperança da vida e da salvação. Ninguém deve iludir-se com obstinada disputa. Pois trata-se da vida e da salvação: e esta, se não se cuidar dela com cautela e diligência, estará perdida e extinta.
+Ora, nesta única Igreja de Cristo ninguém está, ninguém permanece, se não reconhece e aceita, obedecendo-lhe, a autoridade e o poder de Pedro e dos seus legítimos sucessores. Não obedeceram ao Bispo de Roma, supremo Pastor das almas, os antepassados dos que estão enredados nos erros de Fócio e dos inovadores? Afastaram-se, ai, os filhos da casa paterna, que nem por isso ruiu e pereceu, sustentada como estava para sempre pela proteção de Deus; voltem, pois, ao Pai comum, que, esquecido das injúrias infligidas outrora à Sé Apostólica, os há de receber com o maior amor. Pois, se, como repetem, desejam associar-se a Nós e aos nossos, por que não se apressam a vir à Igreja, “mãe e mestra de todos os fiéis de Cristo”? Ouçam eles Lactâncio, que clama: “Só... a Igreja Católica é que conserva o verdadeiro culto. Esta é a fonte da verdade, esta a morada da Fé, este o templo de Deus: quem nele não entrar, ou dele sair, fica alheio à esperança da vida e da salvação. Ninguém se deve iludir com contendas obstinadas. Pois trata-se da vida e da salvação: se não se cuidar dela com cautela e diligência, estará perdida e extinta”.
 
 ---
 
@@ -2958,9 +2958,9 @@ A necessidade da Igreja para a salvação, e a situação dos que estão fora de
 
 _Quem crer e for batizado será salvo; quem não crer será condenado: a necessidade da fé e do batismo, e portanto da Igreja, em que se entra por eles como por uma porta — o versículo em que a Lumen gentium 14 funda a necessidade da Igreja_
 
-**15** E disse-lhes: Ide pelo mundo inteiro e proclamai o evangelho a toda criatura.
+**15** E disse-lhes: Ide pelo mundo inteiro e anunciai o Evangelho a toda a criatura.
 
-**16** Quem crer e for batizado será salvo; mas quem não crer será condenado.
+**16** Quem crer e for batizado será salvo; quem não crer será condenado.
 
 ---
 
@@ -2974,11 +2974,11 @@ _Quem não nascer da água e do Espírito não pode entrar no reino de Deus: com
 >
 > **Por que não.** O seu objeto direto é o batismo, e é lugar principal do eixo 9; aqui pode bastar uma remissão.
 
-**3** Jesus respondeu-lhe: Em verdade, em verdade te digo: se alguém não nascer de novo, não pode ver o reino de Deus.
+**3** Jesus respondeu: Em verdade, em verdade te digo: quem não nascer do alto não pode ver o Reino de Deus.
 
-**4** Disse-lhe Nicodemos: Como pode um homem nascer, sendo velho? Pode, porventura, entrar uma segunda vez no ventre de sua mãe e nascer?
+**4** Nicodemos perguntou: Como pode um homem nascer, sendo velho? Pode entrar segunda vez no ventre de sua mãe e nascer?
 
-**5** Jesus respondeu: Em verdade, em verdade te digo: se alguém não nascer da água e do Espírito, não pode entrar no reino de Deus.
+**5** Jesus respondeu: Em verdade, em verdade te digo: quem não nascer da água e do Espírito não pode entrar no Reino de Deus.
 
 ---
 
@@ -2990,13 +2990,13 @@ _Em nenhum outro há salvação, e não há debaixo do céu outro nome pelo qual
 
 **8** Então Pedro, cheio do Espírito Santo, disse-lhes: Chefes do povo e anciãos,
 
-**9** se hoje somos interrogados sobre o benefício feito a um homem enfermo, e por meio de quem ele foi salvo,
+**9** já que hoje somos interrogados a respeito de um benefício feito a um homem enfermo, e sobre o modo como ele foi curado,
 
-**10** seja notório a todos vós e a todo o povo de Israel que é pelo nome de Jesus Cristo, o Nazareno, que vós crucificastes e que Deus ressuscitou dos mortos, é por ele que este homem está de pé, são, diante de vós.
+**10** ficai sabendo, vós todos e todo o povo de Israel: é pelo nome de Jesus Cristo, o Nazareno, que vós crucificastes e que Deus ressuscitou dos mortos, é por ele que este homem está aqui, curado, diante de vós.
 
-**11** Ele é a pedra que foi desprezada por vós, os construtores, e que se tornou a pedra angular.
+**11** Ele é a pedra que vós, os construtores, desprezastes, e que se tornou a pedra angular.
 
-**12** E em nenhum outro há salvação; pois não há, debaixo do céu, outro nome dado aos homens pelo qual devamos ser salvos.
+**12** E não há salvação em nenhum outro, pois não há debaixo do céu outro nome dado aos homens pelo qual devamos ser salvos.
 
 ---
 
@@ -3008,11 +3008,11 @@ _Deus quer que todos os homens se salvem e cheguem ao conhecimento da verdade; e
 
 **3** Isto é bom e agradável diante de Deus, nosso Salvador,
 
-**4** que quer que todos os homens sejam salvos e cheguem ao conhecimento da verdade.
+**4** que quer que todos os homens se salvem e cheguem ao conhecimento da verdade.
 
-**5** Pois há um só Deus, e um só mediador entre Deus e os homens, um homem, Cristo Jesus,
+**5** Porque há um só Deus, e um só mediador entre Deus e os homens: Cristo Jesus, homem,
 
-**6** que se deu a si mesmo em resgate por todos: testemunho dado nos tempos devidos.
+**6** que se entregou a si mesmo em resgate por todos — testemunho dado a seu tempo.
 
 ---
 
@@ -3028,21 +3028,21 @@ _Em toda nação, quem teme a Deus e pratica a justiça lhe é agradável; e Deu
 
 ### Atos 10,34–35
 
-**34** Então Pedro abriu a boca e disse: Na verdade, compreendo que Deus não faz acepção de pessoas,
+**34** Então Pedro tomou a palavra e disse: Na verdade, reconheço que Deus não faz acepção de pessoas,
 
-**35** mas, em toda nação, quem o teme e pratica a justiça lhe é agradável.
+**35** mas, em qualquer nação, quem o teme e pratica a justiça lhe é agradável.
 
 ### Atos 17,24–28
 
-**24** O Deus que fez o mundo e tudo o que nele há, sendo ele Senhor do céu e da terra, não habita em templos feitos por mãos humanas,
+**24** O Deus que fez o mundo e tudo o que nele existe, sendo Senhor do céu e da terra, não habita em templos feitos por mãos humanas,
 
-**25** nem é servido por mãos de homens, como se precisasse de alguma coisa, ele que a todos dá vida, respiração e todas as coisas.
+**25** nem é servido por mãos humanas, como se precisasse de alguma coisa, ele que dá a todos a vida, o alento e tudo o mais.
 
-**26** De um só fez toda a raça dos homens, para habitar sobre toda a face da terra, fixando os tempos determinados e os limites da sua habitação,
+**26** De um só fez todo o gênero humano, para habitar sobre toda a face da terra, fixando os tempos determinados e os limites da sua habitação,
 
-**27** para que buscassem a Deus e, mesmo às apalpadelas, porventura o encontrassem; ainda que ele não esteja longe de cada um de nós.
+**27** para que buscassem a Deus e, talvez tateando, o encontrassem, embora ele não esteja longe de cada um de nós.
 
-**28** Pois nele vivemos, nos movemos e existimos, como disseram também alguns dos vossos poetas: Porque somos também da sua raça.
+**28** Pois nele vivemos, nos movemos e existimos, como também disseram alguns dos vossos poetas: Pois somos também da sua raça.
 
 ---
 
@@ -3052,7 +3052,7 @@ _Em toda nação, quem teme a Deus e pratica a justiça lhe é agradável; e Deu
 
 _Sem fé é impossível agradar a Deus: o limite que a Ad gentes 7 e a carta do Santo Ofício a Boston põem a toda esperança de salvação fora da Igreja visível — o desejo implícito tem de ser informado pela fé sobrenatural_
 
-**6** Ora, sem fé é impossível agradar-lhe; pois quem se aproxima de Deus deve crer que ele existe e que recompensa os que o buscam.
+**6** Ora, sem a fé é impossível agradar-lhe; pois é preciso que aquele que se aproxima de Deus creia que ele existe e que recompensa os que o buscam.
 
 ---
 
@@ -3094,21 +3094,21 @@ _Não pode ter Deus por pai quem não tem a Igreja por mãe; e a mancha do cisma
 
 _Fora da arca ninguém escapou_
 
-A esposa de Cristo não pode ser adulterada: é incorrupta e pudica. Conhece uma só casa, guarda com casto pudor a santidade de um só tálamo. É ela que nos conserva para Deus, ela que destina ao reino os filhos que gerou. Todo aquele que, separado da Igreja, se une a uma adúltera, separa-se das promessas da Igreja; e não chegará aos prêmios de Cristo quem abandonou a Igreja de Cristo. É um estranho, é um profano, é um inimigo. Não pode ter Deus por pai quem não tem a Igreja por mãe. Se pôde escapar alguém que estava fora da arca de Noé, também escapa quem estiver fora, longe da Igreja.
+A esposa de Cristo não pode ser adúltera: é incorrupta e pudica. Conhece uma só casa, guarda com casto pudor a santidade de um só leito. Ela nos guarda para Deus, ela destina ao Reino os filhos que gerou. Todo aquele que se separa da Igreja e se une a uma adúltera separa-se das promessas da Igreja, e não chegará aos prêmios de Cristo quem abandona a Igreja de Cristo. É um estranho, é um profano, é um inimigo. Não pode ter Deus por Pai quem não tem a Igreja por mãe. Se pôde escapar quem esteve fora da arca de Noé, também escapa quem estiver fora da Igreja.
 
-O Senhor adverte e diz: Quem não está comigo está contra mim, e quem não ajunta comigo espalha. Quem rompe a paz e a concórdia de Cristo age contra Cristo; quem ajunta em outro lugar, fora da Igreja, espalha a Igreja de Cristo. Diz o Senhor: Eu e o Pai somos um. E de novo, do Pai e do Filho e do Espírito Santo está escrito: E os três são um. E alguém crê que esta unidade, que vem da firmeza divina e está ligada aos mistérios celestes, pode ser rasgada na Igreja e separada pelo divórcio de vontades que se chocam? Quem não guarda esta unidade não guarda a lei de Deus, não guarda a fé do Pai e do Filho, não guarda a vida nem a salvação.
+O Senhor adverte e diz: “Quem não está comigo está contra mim, e quem não junta comigo espalha” (Mt 12,30). Quem rompe a paz e a concórdia de Cristo age contra Cristo; quem junta em outra parte, fora da Igreja, espalha a Igreja de Cristo. Diz o Senhor: “Eu e o Pai somos um” (Jo 10,30). E ainda está escrito do Pai, do Filho e do Espírito Santo: “E os três são um” (1Jo 5,7). E alguém crê que esta unidade, que vem da firmeza divina e se prende aos sacramentos celestes, possa ser dividida na Igreja e separada pelo divórcio de vontades que se chocam? Quem não guarda esta unidade não guarda a lei de Deus, não guarda a fé do Pai e do Filho, não guarda a vida e a salvação.
 
 ### Capítulo 14
 
 _Dos que se reúnem fora da Igreja de Cristo, de que falava o capítulo anterior_
 
-Esses, ainda que sejam mortos pela confissão do nome, nem com o sangue lavam essa mancha: a culpa inexpiável e grave da discórdia nem pelo martírio se purifica. Não pode ser mártir quem não está na Igreja; não poderá chegar ao reino quem abandonou aquela que há de reinar. Cristo deu-nos a paz, mandou que fôssemos concordes e unânimes, ordenou que guardássemos incorruptos e invioláveis os laços do amor e da caridade: não pode apresentar-se como mártir quem não guardou a caridade fraterna.
+Tais homens, ainda que sejam mortos na confissão do nome, essa mancha nem com o sangue se lava: a culpa grave e inexpiável da discórdia nem pelo martírio se purifica. Não pode ser mártir quem não está na Igreja; não poderá chegar ao Reino quem abandonou aquela que há de reinar. Cristo nos deu a paz, mandou que fôssemos concordes e unânimes, ordenou que guardássemos intactos e invioláveis os laços do amor e da caridade: não pode apresentar-se como mártir quem não guardou a caridade fraterna.
 
-É o que ensina e atesta o apóstolo Paulo, dizendo: Ainda que eu tenha fé a ponto de transportar montanhas, se não tiver caridade, nada sou; e ainda que distribua em alimentos todos os meus bens, e ainda que entregue o meu corpo para ser queimado, se não tiver caridade, de nada me aproveita. A caridade é magnânima, a caridade é benigna, a caridade não é invejosa, não se incha, não se irrita, não age com leviandade, não pensa o mal; tudo ama, tudo crê, tudo espera, tudo suporta. A caridade nunca há de acabar. Nunca, diz ele, há de acabar a caridade. Pois ela estará sempre no reino, ela durará eternamente na unidade de uma fraternidade que se mantém unida.
+Ensina-o e atesta-o o apóstolo Paulo, dizendo: “E, ainda que eu tenha uma fé tal que transporte os montes, se não tiver caridade, nada sou; e, ainda que distribua todos os meus bens em alimentos e entregue o meu corpo para ser queimado, se não tiver caridade, de nada me aproveita. A caridade é magnânima, a caridade é benigna, a caridade não é invejosa, não se ensoberbece, não se irrita, não procede mal, não pensa o mal; tudo ama, tudo crê, tudo espera, tudo suporta. A caridade nunca acabará” (1Cor 13,2–5.7–8). “Nunca”, diz, “acabará a caridade.” Pois ela estará sempre no Reino, ela durará para sempre na unidade de uma fraternidade unida a si mesma.
 
-A discórdia não pode chegar ao reino dos céus; ao prêmio de Cristo, que disse: Este é o meu mandamento, que vos ameis uns aos outros como eu vos amei, não poderá ter parte quem violou o amor de Cristo com pérfida dissensão. Quem não tem a caridade não tem a Deus. É palavra do bem-aventurado apóstolo João: Deus, diz ele, é amor, e quem permanece no amor permanece em Deus, e Deus permanece nele. Não podem permanecer com Deus os que não quiseram ser unânimes na Igreja de Deus.
+A discórdia não pode chegar ao Reino dos céus; ao prêmio de Cristo, que disse: “Este é o meu mandamento: que vos ameis uns aos outros como eu vos amei” (Jo 15,12), não poderá pertencer quem violou o amor de Cristo com uma dissensão pérfida. Quem não tem a caridade não tem a Deus. É a voz do bem-aventurado apóstolo João: “Deus”, diz, “é amor, e quem permanece no amor permanece em Deus, e Deus permanece nele” (1Jo 4,16). Não podem permanecer com Deus os que não quiseram ser unânimes na Igreja de Deus.
 
-Ainda que ardam entregues às chamas e ao fogo, ou deem a vida lançados às feras, aquilo não será a coroa da fé, mas o castigo da perfídia; nem o fim glorioso de uma virtude religiosa, mas a morte do desespero. Um homem assim pode ser morto; coroado, não pode ser. Diz-se cristão do mesmo modo que o diabo muitas vezes se finge Cristo, como o próprio Senhor preveniu, dizendo: Muitos virão em meu nome, dizendo: Eu sou o Cristo, e enganarão a muitos. Assim como aquele não é o Cristo, embora engane com o nome, assim também não pode ser tido por cristão quem não permanece no seu evangelho e na verdade da fé.
+Ainda que ardam entregues às chamas e ao fogo, ou deem a vida lançados às feras, não será essa a coroa da fé, mas o castigo da perfídia; nem o fim glorioso de uma virtude religiosa, mas a morte do desespero. Um tal pode ser morto, coroado não pode ser. Diz-se cristão do mesmo modo que o diabo muitas vezes se faz passar por Cristo, como o próprio Senhor previne e diz: “Muitos virão em meu nome, dizendo: Eu sou o Cristo, e enganarão a muitos” (Mc 13,6). Assim como aquele não é o Cristo, embora engane com o nome, assim também não pode ser tido por cristão quem não permanece no seu Evangelho e na verdade da fé.
 
 ---
 
@@ -3770,15 +3770,15 @@ _O mandato missionário: o Ressuscitado envia os discípulos a todas as nações
 
 ### Mateus 28,18–20
 
-**18** E Jesus, aproximando-se, falou-lhes dizendo: Foi-me dado todo poder no céu e na terra.
+**18** Jesus aproximou-se e falou-lhes, dizendo: Foi-me dado todo o poder no céu e na terra.
 
-**19** Ide, pois, e fazei discípulos de todas as nações, batizando-os em nome do Pai e do Filho e do Espírito Santo,
+**19** Ide, pois, e fazei discípulos todos os povos, batizando-os em nome do Pai e do Filho e do Espírito Santo,
 
 **20** ensinando-os a observar tudo o que vos mandei. E eis que eu estou convosco todos os dias, até o fim do mundo.
 
 ### Atos 1,8
 
-**8** Mas recebereis uma força, quando o Espírito Santo descer sobre vós, e sereis minhas testemunhas em Jerusalém, em toda a Judeia e na Samaria, e até os confins da terra.
+**8** mas recebereis a força do Espírito Santo, que virá sobre vós, e sereis minhas testemunhas em Jerusalém, em toda a Judeia e na Samaria, e até os confins da terra.
 
 ---
 
@@ -3790,27 +3790,27 @@ _A salvação é oferecida a todos os que invocam o nome do Senhor, mas ninguém
 
 ### Romanos 10,9–17
 
-**9** Porque, se confessares com a tua boca que Jesus é Senhor e creres no teu coração que Deus o ressuscitou dos mortos, serás salvo.
+**9** Porque, se com a tua boca confessares que Jesus é Senhor, e no teu coração creres que Deus o ressuscitou dos mortos, serás salvo.
 
-**10** Pois com o coração se crê para a justiça, e com a boca se confessa para a salvação.
+**10** Com o coração se crê para a justiça, e com a boca se confessa para a salvação.
 
-**11** Pois a Escritura diz: Todo aquele que nele crê não será confundido.
+**11** Pois diz a Escritura: Todo o que nele crê não será confundido.
 
-**12** Porque não há distinção entre judeu e grego: o mesmo é o Senhor de todos, rico para com todos os que o invocam.
+**12** Não há distinção entre judeu e grego: um mesmo é o Senhor de todos, rico para com todos os que o invocam.
 
-**13** Pois todo aquele que invocar o nome do Senhor será salvo.
+**13** Porque todo aquele que invocar o nome do Senhor será salvo.
 
-**14** Como, pois, invocarão aquele em quem não creram? E como crerão naquele de quem não ouviram falar? E como ouvirão, se não houver quem pregue?
+**14** Mas como invocarão aquele em quem não creram? E como crerão naquele de quem não ouviram? E como ouvirão, se não há quem pregue?
 
-**15** E como pregarão, se não forem enviados? Como está escrito: Quão belos os pés dos que anunciam boas notícias!
+**15** E como pregarão, se não forem enviados? Conforme está escrito: Quão formosos os pés dos que anunciam o bem!
 
 **16** Mas nem todos obedeceram ao Evangelho. Pois Isaías diz: Senhor, quem creu na nossa pregação?
 
-**17** Logo, a fé vem pela escuta, e a escuta pela palavra de Cristo.
+**17** Logo, a fé vem da pregação, e a pregação, pela palavra de Cristo.
 
 ### 1 Coríntios 9,16
 
-**16** Pois, se anuncio o Evangelho, não tenho de que me gloriar: é uma necessidade que me foi imposta. Ai de mim, se eu não anunciar o Evangelho!
+**16** Porque, se anuncio o Evangelho, não tenho de que me gloriar, pois me foi imposta essa necessidade: ai de mim se eu não evangelizar!
 
 ---
 
@@ -3822,39 +3822,39 @@ _Deles são a adoção, as alianças e as promessas, e deles descende o Cristo; 
 
 ### Romanos 9,4–5
 
-**4** que são israelitas; deles são a adoção filial, e a glória, e as alianças, e a promulgação da Lei, e o culto, e as promessas;
+**4** que são israelitas: deles são a adoção, a glória, as alianças, a legislação, o culto e as promessas;
 
-**5** deles são os patriarcas, e deles descende o Cristo segundo a carne, o qual é sobre todas as coisas Deus bendito pelos séculos. Amém.
+**5** deles são os patriarcas, e deles procede Cristo segundo a carne, ele que está acima de tudo, Deus bendito pelos séculos. Amém.
 
 ### Romanos 11,16–29
 
-**16** Se as primícias são santas, também a massa o é; e, se a raiz é santa, também os ramos.
+**16** Se as primícias são santas, também a massa o é; e, se a raiz é santa, também os ramos o são.
 
-**17** Se, porém, alguns dos ramos foram cortados, e tu, sendo zambujeiro, foste enxertado entre eles e te tornaste participante da raiz e da seiva da oliveira,
+**17** Se alguns ramos foram cortados, e tu, oliveira brava, foste enxertado no lugar deles e feito participante da raiz e da seiva da oliveira,
 
-**18** não te glories contra os ramos; e, se te glorias, sabe que não és tu que sustentas a raiz, mas a raiz a ti.
+**18** não te glories contra os ramos. Se te glorias, lembra-te de que não és tu que sustentas a raiz, mas a raiz é que te sustenta.
 
-**19** Dirás então: Os ramos foram cortados para que eu fosse enxertado.
+**19** Dirás, então: Os ramos foram cortados para que eu fosse enxertado.
 
-**20** Bem: foram cortados pela incredulidade, e tu estás de pé pela fé. Não te ensoberbeças, mas teme.
+**20** Muito bem. Foram cortados por causa da incredulidade; tu, porém, estás firme pela fé. Não te ensoberbeças; antes, teme.
 
-**21** Porque, se Deus não poupou os ramos naturais, também não te poupará a ti.
+**21** Porque, se Deus não poupou os ramos naturais, também não há de poupar-te a ti.
 
-**22** Considera, pois, a bondade e a severidade de Deus: severidade para com os que caíram; para contigo, a bondade de Deus, se permaneceres na bondade; do contrário, também tu serás cortado.
+**22** Considera, pois, a bondade e a severidade de Deus: severidade para com os que caíram; bondade de Deus para contigo, se permaneceres nessa bondade — do contrário, também tu serás cortado.
 
-**23** E também eles, se não permanecerem na incredulidade, serão enxertados; pois Deus tem poder para enxertá-los de novo.
+**23** E eles, se não permanecerem na incredulidade, serão enxertados; porque Deus é poderoso para enxertá-los de novo.
 
-**24** Porque, se tu foste cortado do zambujeiro, a que pertencias por natureza, e contra a natureza foste enxertado na oliveira boa, quanto mais eles, que são os ramos naturais, serão enxertados na sua própria oliveira!
+**24** Pois, se tu foste cortado da oliveira brava, à qual pertencias por natureza, e contra a natureza foste enxertado em oliveira boa, quanto mais eles, que lhe pertencem por natureza, serão enxertados na sua própria oliveira!
 
-**25** Pois não quero, irmãos, que ignoreis este mistério, para que não sejais sábios aos vossos próprios olhos: o endurecimento veio sobre uma parte de Israel até que tenha entrado a plenitude dos gentios;
+**25** Não quero, irmãos, que ignoreis este mistério — para que não vos tenhais por sábios —: o endurecimento de uma parte de Israel dura até que entre a plenitude dos gentios;
 
-**26** e assim todo o Israel será salvo, como está escrito: De Sião virá o libertador; ele afastará de Jacó as impiedades.
+**26** e assim todo o Israel será salvo, conforme está escrito: De Sião virá o libertador; ele afastará de Jacó as impiedades.
 
 **27** E esta será a minha aliança com eles, quando eu tirar os seus pecados.
 
-**28** Quanto ao Evangelho, são inimigos por causa de vós; mas, quanto à eleição, são amados por causa dos pais.
+**28** Quanto ao Evangelho, são inimigos, por vossa causa; mas, quanto à eleição, são amados, por causa dos pais.
 
-**29** Pois os dons e o chamado de Deus são sem arrependimento.
+**29** Porque os dons e o chamamento de Deus são irrevogáveis.
 
 ---
 
@@ -3864,21 +3864,21 @@ _Deles são a adoção, as alianças e as promessas, e deles descende o Cristo; 
 
 _Os gentios, que estavam sem Cristo e estranhos às alianças, foram aproximados pelo sangue de Cristo, que dos dois povos fez um só, derrubando o muro de separação, e reconciliou ambos com Deus num só corpo, pela cruz: a Igreja nasce como reconciliação de Israel e das nações_
 
-**11** Por isso, lembrai-vos de que outrora vós, os gentios na carne, chamados incircuncisão por aquela que se chama circuncisão, feita na carne por mão humana,
+**11** Lembrai-vos, pois, de que outrora vós, gentios na carne, chamados incircuncisos pelos que se dizem circuncisos — circuncisão feita na carne, por mão de homem —,
 
-**12** lembrai-vos de que naquele tempo estáveis sem Cristo, excluídos da cidadania de Israel e estranhos às alianças da promessa, sem esperança e sem Deus no mundo.
+**12** estáveis naquele tempo sem Cristo, excluídos da cidadania de Israel, estranhos às alianças da promessa, sem esperança e sem Deus no mundo.
 
-**13** Mas agora, em Cristo Jesus, vós, que outrora estáveis longe, fostes trazidos para perto pelo sangue de Cristo.
+**13** Agora, porém, em Cristo Jesus, vós, que outrora estáveis longe, fostes aproximados pelo sangue de Cristo.
 
-**14** Porque ele é a nossa paz: dos dois fez um só, e derrubou o muro de separação, a inimizade, na sua carne,
+**14** Porque ele é a nossa paz: de dois povos fez um só, derrubando na sua carne o muro de separação, a inimizade;
 
-**15** anulando a lei dos mandamentos com as suas prescrições, para criar em si mesmo, dos dois, um só homem novo, fazendo a paz,
+**15** aboliu a lei dos preceitos com as suas prescrições, para criar em si mesmo, dos dois, um só homem novo, fazendo a paz,
 
-**16** e reconciliar com Deus uns e outros num só corpo, por meio da cruz, matando nela a inimizade.
+**16** e para reconciliar ambos com Deus, num só corpo, pela cruz, nela matando a inimizade.
 
-**17** E veio anunciar a paz a vós, que estáveis longe, e a paz aos que estavam perto.
+**17** E veio anunciar a paz a vós, que estáveis longe, e a paz aos que estavam perto;
 
-**18** Porque por meio dele, uns e outros, temos acesso ao Pai num só Espírito.
+**18** porque, por ele, uns e outros temos acesso ao Pai, num só Espírito.
 
 ---
 
@@ -3892,13 +3892,13 @@ _Caifás profetiza sem o saber que Jesus havia de morrer não só pela nação, 
 >
 > **Por que não.** Nesses documentos é sempre citação de apoio, nunca o centro do argumento.
 
-**49** Um deles, porém, Caifás, que era sumo sacerdote naquele ano, disse-lhes: Vós não sabeis nada,
+**49** Mas um deles, Caifás, que era sumo sacerdote naquele ano, disse-lhes: Vós nada sabeis,
 
-**50** nem considerais que vos convém que um só homem morra pelo povo, e não pereça a nação inteira.
+**50** nem considerais que vos convém que um só homem morra pelo povo, e que não pereça a nação inteira.
 
-**51** Isto, porém, não o disse por si mesmo; mas, sendo sumo sacerdote naquele ano, profetizou que Jesus havia de morrer pela nação,
+**51** Ora, ele não disse isso por si mesmo; mas, sendo sumo sacerdote naquele ano, profetizou que Jesus havia de morrer pela nação,
 
-**52** e não somente pela nação, mas também para reunir na unidade os filhos de Deus dispersos.
+**52** e não somente pela nação, mas também para reunir na unidade os filhos de Deus que estavam dispersos.
 
 ---
 
@@ -4506,21 +4506,21 @@ _Cristo fez dos que resgatou com o seu sangue um reino e sacerdotes para Deus, e
 
 ### Apocalipse 1,5–6
 
-**5** e da parte de Jesus Cristo, a testemunha fiel, o primogênito dos mortos e o príncipe dos reis da terra. Àquele que nos ama e nos libertou dos nossos pecados com o seu sangue,
+**5** e da parte de Jesus Cristo, a testemunha fiel, o primogênito dentre os mortos e o príncipe dos reis da terra. Àquele que nos ama e nos libertou dos nossos pecados pelo seu sangue,
 
-**6** e fez de nós um reino, sacerdotes para Deus, seu Pai, a ele a glória e o poder pelos séculos dos séculos. Amém.
+**6** e fez de nós um reino, sacerdotes para Deus, seu Pai — a ele a glória e o poder pelos séculos dos séculos. Amém.
 
 ### Apocalipse 5,9–10
 
-**9** E cantavam um cântico novo, dizendo: Digno és de tomar o livro e de abrir os seus selos, porque foste imolado e, com o teu sangue, resgataste para Deus gente de toda tribo, língua, povo e nação,
+**9** E cantam um cântico novo, dizendo: Tu és digno de receber o livro e de abrir os seus selos, porque foste imolado e, com o teu sangue, resgataste para Deus gente de toda tribo, língua, povo e nação,
 
-**10** e fizeste deles, para o nosso Deus, um reino e sacerdotes; e reinarão sobre a terra.
+**10** e fizeste deles, para o nosso Deus, um reino e sacerdotes, e eles reinarão sobre a terra.
 
 ### Romanos 12,1–2
 
-**1** Exorto-vos, pois, irmãos, pela misericórdia de Deus, a oferecer os vossos corpos como hóstia viva, santa, agradável a Deus: é este o vosso culto espiritual.
+**1** Rogo-vos, pois, irmãos, pela misericórdia de Deus, que ofereçais os vossos corpos como sacrifício vivo, santo e agradável a Deus: é este o vosso culto espiritual.
 
-**2** E não vos conformeis com este século, mas transformai-vos pela renovação da mente, para discernirdes qual é a vontade de Deus: o que é bom, o que lhe agrada, o que é perfeito.
+**2** E não vos conformeis a este mundo; mas transformai-vos pela renovação da mente, para que saibais discernir qual é a vontade de Deus, o que é bom, o que lhe agrada, o que é perfeito.
 
 ---
 
@@ -4532,17 +4532,17 @@ _A medida é a perfeição do Pai, a vontade de Deus é a nossa santificação, 
 
 ### Mateus 5,48
 
-**48** Sede, pois, perfeitos, como o vosso Pai celeste é perfeito.
+**48** Sede, pois, perfeitos, como perfeito é o vosso Pai celeste.
 
 ### 1 Tessalonicenses 4,3
 
-**3** Pois esta é a vontade de Deus: a vossa santificação; que vos abstenhais da fornicação.
+**3** Esta é a vontade de Deus: a vossa santificação; que vos abstenhais da fornicação;
 
 ### Efésios 1,3–4
 
-**3** Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, que nos abençoou com toda bênção espiritual nos céus, em Cristo,
+**3** Bendito seja Deus, Pai de nosso Senhor Jesus Cristo, que nos abençoou com toda bênção espiritual, nos céus, em Cristo.
 
-**4** assim como nele nos escolheu antes da fundação do mundo, para sermos santos e irrepreensíveis diante dele no amor,
+**4** Nele nos escolheu, antes da criação do mundo, para sermos santos e imaculados diante dele, no amor.
 
 ---
 
@@ -4552,11 +4552,11 @@ _A medida é a perfeição do Pai, a vontade de Deus é a nossa santificação, 
 
 _Todos são filhos de Deus pela fé e, batizados, um só em Cristo, sem diferença de povo, de condição ou de sexo: o texto que a Lumen gentium 32 cita para afirmar a igual dignidade de todos os membros do povo de Deus_
 
-**26** Todos vós, com efeito, sois filhos de Deus pela fé em Cristo Jesus.
+**26** Porque todos sois filhos de Deus pela fé em Cristo Jesus.
 
-**27** Pois todos vós que fostes batizados em Cristo vos revestistes de Cristo.
+**27** Pois todos vós, que fostes batizados em Cristo, de Cristo vos revestistes.
 
-**28** Não há judeu nem grego, não há escravo nem livre, não há homem e mulher; pois todos vós sois um só em Cristo Jesus.
+**28** Já não há judeu nem grego, não há escravo nem livre, não há homem nem mulher: todos vós sois um só em Cristo Jesus.
 
 ---
 
@@ -4568,19 +4568,19 @@ _Os dons são diversos, o Espírito é o mesmo, e a cada um a manifestação do 
 
 **4** Há diversidade de dons, mas o Espírito é o mesmo;
 
-**5** e há diversidade de ministérios, mas o Senhor é o mesmo;
+**5** há diversidade de ministérios, mas o Senhor é o mesmo;
 
-**6** e há diversidade de operações, mas é o mesmo Deus que opera todas as coisas em todos.
+**6** há diversidade de operações, mas é o mesmo Deus que opera tudo em todos.
 
-**7** A cada um, porém, é dada a manifestação do Espírito para proveito comum.
+**7** A cada um é dada a manifestação do Espírito em vista do bem comum.
 
-**8** A um é dada, pelo Espírito, a palavra de sabedoria; a outro, a palavra de ciência, segundo o mesmo Espírito;
+**8** A um é dada, pelo Espírito, a palavra de sabedoria; a outro, a palavra de conhecimento, segundo o mesmo Espírito;
 
 **9** a outro, a fé, no mesmo Espírito; a outro, dons de curas, no único Espírito;
 
-**10** a outro, operações de milagres; a outro, a profecia; a outro, o discernimento dos espíritos; a outro, a variedade das línguas; a outro, a interpretação das línguas.
+**10** a outro, operações de milagres; a outro, profecia; a outro, discernimento de espíritos; a outro, variedade de línguas; a outro, interpretação de línguas.
 
-**11** Mas todas estas coisas as opera um só e o mesmo Espírito, distribuindo a cada um em particular como quer.
+**11** Mas tudo isto opera o único e mesmo Espírito, que distribui a cada um, em particular, como quer.
 
 ---
 
@@ -4592,61 +4592,61 @@ _Há quem se faça eunuco por causa do reino dos céus; quem quer ser perfeito v
 
 ### Mateus 19,10–12
 
-**10** Disseram-lhe os discípulos: Se tal é a condição do homem com a mulher, não convém casar-se.
+**10** Disseram-lhe os discípulos: Se tal é a condição do homem em relação à mulher, não convém casar.
 
-**11** Ele lhes disse: Nem todos compreendem esta palavra, mas só aqueles a quem é dado.
+**11** Ele, porém, lhes disse: Nem todos compreendem esta palavra, mas somente aqueles a quem foi dado.
 
-**12** Pois há eunucos que assim nasceram do ventre materno; há eunucos que foram feitos eunucos pelos homens; e há eunucos que a si mesmos se fizeram eunucos por causa do reino dos céus. Quem puder compreender, compreenda.
+**12** Porque há eunucos que nasceram assim do ventre de suas mães; e há eunucos que foram feitos pelos homens; e há eunucos que a si mesmos se fizeram tais por causa do Reino dos céus. Quem puder compreender, compreenda.
 
 ### Mateus 19,16–22
 
-**16** E eis que alguém se aproximou dele e disse: Mestre, que farei de bom para ter a vida eterna?
+**16** E eis que alguém, aproximando-se, lhe disse: Mestre, que devo fazer de bom para alcançar a vida eterna?
 
-**17** Ele lhe disse: Por que me interrogas sobre o que é bom? Um só é o bom. Se queres entrar na vida, guarda os mandamentos.
+**17** Ele lhe disse: Por que me perguntas sobre o que é bom? Um só é o Bom. Se queres entrar na vida, guarda os mandamentos.
 
-**18** Perguntou-lhe: Quais? Jesus respondeu: Não matarás, não cometerás adultério, não furtarás, não levantarás falso testemunho,
+**18** Disse-lhe ele: Quais? Jesus respondeu: Não matarás, não cometerás adultério, não furtarás, não dirás falso testemunho,
 
-**19** honra o pai e a mãe, e amarás o teu próximo como a ti mesmo.
+**19** honra teu pai e tua mãe, e amarás o teu próximo como a ti mesmo.
 
 **20** Disse-lhe o jovem: Tudo isso tenho guardado; que me falta ainda?
 
-**21** Jesus lhe disse: Se queres ser perfeito, vai, vende o que tens e dá aos pobres, e terás um tesouro nos céus; depois vem e segue-me.
+**21** Jesus lhe disse: Se queres ser perfeito, vai, vende o que tens e dá-o aos pobres, e terás um tesouro no céu; depois vem e segue-me.
 
-**22** Ouvindo esta palavra, o jovem foi-se embora triste, porque tinha muitos bens.
+**22** Ouvindo essa palavra, o jovem foi-se embora triste, porque possuía muitos bens.
 
 ### 1 Coríntios 7,25–40
 
-**25** Quanto às virgens, não tenho mandamento do Senhor; dou, porém, um parecer, como quem alcançou do Senhor a misericórdia de ser digno de confiança.
+**25** Quanto às virgens, não tenho mandamento do Senhor; mas dou um parecer, como quem alcançou do Senhor a misericórdia de ser digno de confiança.
 
-**26** Penso, pois, que isto é bom, por causa da necessidade presente: é bom para o homem ficar assim.
+**26** Julgo, pois, que isto é bom, por causa da necessidade presente: é bom para o homem permanecer assim.
 
-**27** Estás ligado a uma mulher? Não procures desligar-te. Estás livre de mulher? Não procures mulher.
+**27** Estás ligado a uma mulher? Não busques a separação. Estás livre de mulher? Não busques mulher.
 
-**28** Mas, se te casares, não pecas; e, se a virgem se casar, não peca. Esses, porém, terão tribulação na carne, e eu quisera poupar-vos.
+**28** Mas, se te casares, não pecas; e, se a virgem se casar, não peca. Contudo, esses terão tribulação na carne, e eu quisera poupar a vós.
 
-**29** Digo-vos isto, irmãos: o tempo se fez breve. Resta que os que têm mulher sejam como se não a tivessem;
+**29** Digo isto, irmãos: o tempo é breve. Resta que os que têm mulher sejam como se não a tivessem;
 
 **30** os que choram, como se não chorassem; os que se alegram, como se não se alegrassem; os que compram, como se não possuíssem;
 
-**31** e os que usam do mundo, como se dele não usassem até o fim; pois passa a figura deste mundo.
+**31** os que usam do mundo, como se dele não usassem; porque passa a figura deste mundo.
 
-**32** Quisera que estivésseis sem preocupações. Quem não é casado cuida das coisas do Senhor, de como agradar ao Senhor;
+**32** Quero que estejais livres de preocupações. O solteiro preocupa-se com as coisas do Senhor, com o modo de agradar ao Senhor;
 
-**33** quem é casado cuida das coisas do mundo, de como agradar à mulher,
+**33** o casado preocupa-se com as coisas do mundo, com o modo de agradar à mulher,
 
-**34** e está dividido. A mulher não casada e a virgem cuidam das coisas do Senhor, para serem santas no corpo e no espírito; a casada, porém, cuida das coisas do mundo, de como agradar ao marido.
+**34** e está dividido. A mulher sem marido e a virgem preocupam-se com as coisas do Senhor, para serem santas no corpo e no espírito; a casada preocupa-se com as coisas do mundo, com o modo de agradar ao marido.
 
-**35** Digo isto para o vosso próprio proveito, não para vos armar um laço, mas em vista do que é decoroso e do que une ao Senhor sem distração.
+**35** Digo isto para o vosso próprio proveito, não para vos armar um laço, mas em vista do que é digno e vos une ao Senhor sem distração.
 
-**36** Se alguém julga que falta ao decoro para com a sua virgem, se ela passa da flor da idade, e que assim deve ser, faça o que quer: não peca; casem-se.
+**36** Se alguém julga que age de modo inconveniente com a sua virgem, por ter passado a flor da idade, e que assim deve ser, faça o que quer: não peca; casem-se.
 
-**37** Mas quem está firme no seu coração, sem ser constrangido por necessidade, e tem poder sobre a própria vontade, e decidiu no seu coração guardar a sua virgem, fará bem.
+**37** Mas quem está firme no seu coração e, sem estar constrangido, tem domínio da própria vontade, e resolveu no seu coração guardar a sua virgem, fará bem.
 
-**38** De modo que quem casa a sua virgem faz bem, e quem não a casa fará melhor.
+**38** De modo que quem se casa com a sua virgem faz bem, e quem não se casa fará melhor.
 
-**39** A mulher está ligada enquanto vive o seu marido; se o marido adormecer, é livre para casar com quem quiser, contanto que seja no Senhor.
+**39** A mulher está ligada durante todo o tempo em que vive o seu marido; mas, se o marido morrer, fica livre para se casar com quem quiser, contanto que no Senhor.
 
-**40** Mais feliz será, porém, se ficar assim, segundo o meu parecer; e penso que também eu tenho o Espírito de Deus.
+**40** Contudo, segundo o meu parecer, será mais feliz se permanecer assim; e julgo que também eu tenho o Espírito de Deus.
 
 ---
 
@@ -4666,19 +4666,19 @@ _O que a alma é no corpo, isso são os cristãos no mundo: estão em toda cidad
 
 ### Capítulo 5
 
-Os cristãos não se distinguem dos demais homens nem pela terra, nem pela língua, nem pelos costumes. Pois não habitam cidades próprias, nem usam uma fala diferente, nem levam uma vida singular. Esta doutrina deles não foi achada pela invenção e pela inquietação de homens curiosos, nem eles patrocinam, como alguns, um ensinamento humano. Habitando cidades gregas e bárbaras, conforme a sorte que coube a cada um, e seguindo os costumes do lugar no vestir, no comer e no resto da vida, mostram uma condição de cidadania admirável e, como todos reconhecem, surpreendente.
+Pois os cristãos não se distinguem dos outros homens nem pela terra, nem pela língua, nem pelos costumes. Não moram em cidades próprias, nem usam uma língua diferente, nem levam um gênero de vida extravagante. Este ensinamento deles não foi descoberto pelo pensamento e pela especulação de homens curiosos, nem eles se fazem defensores, como alguns, de uma doutrina humana. Morando em cidades gregas e bárbaras, conforme coube a cada um, e seguindo os costumes da terra no vestir, no comer e no resto da vida, mostram uma maneira de viver a sua cidadania que é admirável e, como todos reconhecem, paradoxal.
 
-Habitam as suas próprias pátrias, mas como forasteiros; participam de tudo como cidadãos, e tudo suportam como estrangeiros; toda terra estrangeira é pátria para eles, e toda pátria, terra estrangeira. Casam-se como todos, geram filhos, mas não enjeitam os que nascem. Põem em comum a mesa, mas não o leito. Estão na carne, mas não vivem segundo a carne. Passam a vida na terra, mas são cidadãos do céu. Obedecem às leis estabelecidas, e com a sua vida vão além das leis.
+Moram nas suas próprias pátrias, mas como forasteiros; participam de tudo como cidadãos, e tudo suportam como estrangeiros; toda terra estrangeira é pátria para eles, e toda pátria, terra estrangeira. Casam-se como todos, geram filhos, mas não enjeitam os que lhes nascem. Põem a mesa em comum, mas não o leito. Estão na carne, mas não vivem segundo a carne. Passam a vida na terra, mas são cidadãos do céu. Obedecem às leis estabelecidas, e com a sua própria vida superam as leis.
 
-Amam a todos, e por todos são perseguidos. São desconhecidos, e são condenados; são mortos, e recebem a vida. São pobres, e enriquecem a muitos; de tudo carecem, e em tudo têm abundância. São desonrados, e nas desonras são glorificados; são caluniados, e são justificados. São injuriados, e bendizem; são ultrajados, e honram. Fazendo o bem, são punidos como malfeitores; punidos, alegram-se como quem recebe a vida. Os judeus fazem-lhes guerra como a estrangeiros, e os gregos os perseguem; e os que os odeiam não sabem dizer a causa da sua inimizade.
+Amam a todos, e por todos são perseguidos. São desconhecidos, e condenados; são mortos, e recebem a vida. São pobres, e enriquecem a muitos; de tudo carecem, e em tudo têm abundância. São desonrados, e na desonra são glorificados; são difamados, e são justificados. São injuriados, e bendizem; são ultrajados, e prestam honra. Fazendo o bem, são castigados como malfeitores; castigados, alegram-se como quem recebe a vida. Os judeus os combatem como gente de outra raça, e os gregos os perseguem; e os que os odeiam não sabem dizer a causa do seu ódio.
 
 ### Capítulo 6
 
-Para dizê-lo numa palavra: o que a alma é no corpo, isso são os cristãos no mundo. A alma está espalhada por todos os membros do corpo, e os cristãos, pelas cidades do mundo. A alma habita no corpo, mas não é do corpo; e os cristãos habitam no mundo, mas não são do mundo. A alma, invisível, está guardada num corpo visível; e os cristãos, sabe-se que estão no mundo, mas a sua piedade permanece invisível.
+Numa palavra: o que a alma é no corpo, isso são os cristãos no mundo. A alma está espalhada por todos os membros do corpo, e os cristãos, pelas cidades do mundo. A alma habita no corpo, mas não é do corpo; e os cristãos habitam no mundo, mas não são do mundo. A alma, invisível, é guardada no corpo visível; e os cristãos são conhecidos como quem está no mundo, mas a sua religião permanece invisível.
 
-A carne odeia a alma e lhe faz guerra, sem ter recebido dela agravo algum, porque é impedida de gozar os prazeres; também o mundo odeia os cristãos, sem ter recebido deles agravo algum, porque se opõem aos prazeres. A alma ama a carne que a odeia, e os membros; e os cristãos amam os que os odeiam. A alma está encerrada no corpo, mas é ela que mantém o corpo unido; e os cristãos estão retidos no mundo como numa prisão, mas são eles que mantêm o mundo unido.
+A carne odeia a alma e lhe faz guerra, sem ter recebido dela mal nenhum, porque é impedida de gozar os prazeres; também o mundo odeia os cristãos, sem ter recebido deles mal nenhum, porque se opõem aos prazeres. A alma ama a carne que a odeia, e os membros; e os cristãos amam os que os odeiam. A alma está encerrada no corpo, mas é ela que sustenta o corpo; e os cristãos estão retidos no mundo como numa prisão, mas são eles que sustentam o mundo.
 
-A alma, imortal, habita numa tenda mortal; e os cristãos vivem como forasteiros entre as coisas corruptíveis, à espera da incorruptibilidade nos céus. Maltratada no comer e no beber, a alma torna-se melhor; e os cristãos, punidos, multiplicam-se cada dia mais. Tal é o posto em que Deus os colocou, e não lhes é lícito desertá-lo.
+A alma imortal habita numa tenda mortal; e os cristãos moram como forasteiros no que é corruptível, à espera da incorrupção nos céus. A alma, maltratada no comer e no beber, torna-se melhor; e os cristãos, castigados, multiplicam-se dia a dia cada vez mais. Em tal posto Deus os colocou, que não lhes é lícito recusá-lo.
 
 ---
 
@@ -5398,15 +5398,15 @@ A Igreja peregrina, a que se purifica e a do céu; a invocação dos santos, as 
 
 _Os que correm ainda estão rodeados por uma nuvem de testemunhas, e já se aproximaram da Jerusalém celeste, dos anjos e dos espíritos dos justos que chegaram à perfeição: a Igreja da terra e a do céu são uma só assembleia_
 
-**1** Portanto, também nós, tendo ao nosso redor tão grande nuvem de testemunhas, deixemos todo peso e o pecado que tão facilmente nos envolve, e corramos com perseverança a corrida que nos é proposta,
+**1** Por isso, rodeados de tão grande nuvem de testemunhas, deixemos todo peso e o pecado que nos envolve, e corramos com perseverança a prova que nos é proposta,
 
-**2** com os olhos fixos em Jesus, autor e consumador da fé, o qual, em vez da alegria que lhe era proposta, suportou a cruz, desprezando a ignomínia, e está sentado à direita do trono de Deus.
+**2** fixos os olhos em Jesus, autor e consumador da fé. Em vista da alegria que lhe era proposta, suportou a cruz, sem fazer caso da ignomínia, e está sentado à direita do trono de Deus.
 
-**22** Mas vós vos aproximastes do monte Sião e da cidade do Deus vivo, a Jerusalém celeste, e de miríades de anjos, reunião festiva,
+**22** Vós, porém, vos aproximastes do monte Sião, da cidade do Deus vivo, a Jerusalém celeste, de milhares de anjos em festa,
 
-**23** e da assembleia dos primogênitos inscritos nos céus, e de Deus, juiz de todos, e dos espíritos dos justos que chegaram à perfeição,
+**23** da assembleia dos primogênitos inscritos nos céus, de Deus, juiz de todos, dos espíritos dos justos que chegaram à perfeição,
 
-**24** e de Jesus, mediador de uma aliança nova, e do sangue da aspersão, que fala melhor do que o de Abel.
+**24** de Jesus, mediador da aliança nova, e do sangue da aspersão, que fala melhor que o de Abel.
 
 ---
 
@@ -5418,21 +5418,21 @@ _As orações dos santos sobem diante de Deus pelas mãos dos anciãos e do anjo
 
 ### Apocalipse 5,8
 
-**8** E, quando tomou o livro, os quatro viventes e os vinte e quatro anciãos prostraram-se diante do Cordeiro, tendo cada um uma cítara e taças de ouro cheias de incenso, que são as orações dos santos.
+**8** Quando recebeu o livro, os quatro seres vivos e os vinte e quatro anciãos se prostraram diante do Cordeiro, tendo cada um uma cítara e taças de ouro cheias de incenso, que são as orações dos santos.
 
 ### Apocalipse 6,9–11
 
-**9** Quando abriu o quinto selo, vi debaixo do altar as almas dos que tinham sido imolados por causa da palavra de Deus e do testemunho que mantinham.
+**9** Quando ele abriu o quinto selo, vi debaixo do altar as almas dos que tinham sido imolados por causa da palavra de Deus e do testemunho que tinham dado.
 
-**10** E clamaram com grande voz: Até quando, Senhor santo e verdadeiro, não julgas e não vingas o nosso sangue dos que habitam sobre a terra?
+**10** Eles clamaram em alta voz: Até quando, Senhor santo e verdadeiro, deixarás de julgar e de vingar o nosso sangue nos habitantes da terra?
 
-**11** E foi dada a cada um deles uma veste branca, e foi-lhes dito que repousassem ainda um pouco de tempo, até que se completasse o número dos seus companheiros de serviço e dos seus irmãos, que haviam de ser mortos como eles.
+**11** Foi dada a cada um deles uma veste branca, e foi-lhes dito que repousassem ainda um pouco de tempo, até que se completasse o número dos seus companheiros de serviço e dos seus irmãos, que iam ser mortos como eles.
 
 ### Apocalipse 8,3–4
 
-**3** Veio outro anjo e pôs-se junto ao altar, com um turíbulo de ouro; e foi-lhe dado muito incenso, para que o oferecesse, com as orações de todos os santos, sobre o altar de ouro que está diante do trono.
+**3** Veio outro anjo, que se pôs de pé junto ao altar, com um turíbulo de ouro; e foi-lhe dado muito incenso, para que o oferecesse, com as orações de todos os santos, sobre o altar de ouro que está diante do trono.
 
-**4** E a fumaça do incenso subiu, com as orações dos santos, da mão do anjo, diante de Deus.
+**4** E da mão do anjo subiu diante de Deus a fumaça do incenso, com as orações dos santos.
 
 ---
 
@@ -5446,17 +5446,17 @@ _Judas Macabeu vê em sonho Onias e Jeremias, já mortos, que rezam muito pelo p
 >
 > **Por que não.** É uma visão em sonho, num livro que os reformadores não recebem, e não se confirmou nenhuma citação magisterial do passo.
 
-**11** Armou cada um deles, não tanto com a segurança dos escudos e das lanças quanto com o conforto das boas palavras; e, contando-lhes ainda um sonho digno de fé, uma espécie de visão, alegrou a todos.
+**11** Armou cada um deles, não tanto com a segurança dos escudos e das lanças, mas com o encorajamento de boas palavras; e contou-lhes um sonho digno de fé, uma espécie de visão, que alegrou a todos.
 
-**12** A visão que tivera era esta: Onias, que fora sumo sacerdote, homem bom e honrado, modesto no trato, manso de caráter, digno no falar e exercitado desde a infância em tudo o que é próprio da virtude, estendia as mãos e orava por toda a comunidade dos judeus.
+**12** A visão foi esta: Onias, que tinha sido sumo sacerdote, homem honesto e bom, modesto no trato, de maneiras suaves, de linguagem digna, e que desde a infância praticara todas as virtudes, estendia as mãos e rezava por toda a comunidade dos judeus.
 
 **13** Depois apareceu, do mesmo modo, um homem notável pelos cabelos brancos e pela glória, cercado de uma majestade admirável e magnífica.
 
-**14** E Onias, tomando a palavra, disse: Este é o amigo dos seus irmãos, que reza muito pelo povo e pela cidade santa: Jeremias, o profeta de Deus.
+**14** Onias tomou a palavra e disse: Este é o amigo dos seus irmãos, que reza muito pelo povo e pela cidade santa: Jeremias, o profeta de Deus.
 
-**15** E Jeremias, estendendo a mão direita, entregou a Judas uma espada de ouro e, ao dá-la, disse-lhe:
+**15** Jeremias estendeu a mão direita e entregou a Judas uma espada de ouro, dizendo, ao dá-la:
 
-**16** Toma a espada santa, dom de Deus, com a qual destroçarás os adversários.
+**16** Recebe esta espada santa, presente de Deus; com ela esmagarás os adversários.
 
 ---
 
@@ -5466,17 +5466,17 @@ _Judas Macabeu vê em sonho Onias e Jeremias, já mortos, que rezam muito pelo p
 
 _Há um só mediador entre Deus e os homens; e o mesmo passo começa por pedir que se façam orações e intercessões por todos — o versículo que se objetava à invocação dos santos, e a que Trento responde_
 
-**1** Exorto, pois, antes de tudo, a que se façam súplicas, orações, intercessões e ações de graças por todos os homens,
+**1** Recomendo, pois, antes de tudo, que se façam súplicas, orações, intercessões e ações de graças por todos os homens,
 
-**2** pelos reis e por todos os que estão constituídos em autoridade, para que levemos uma vida tranquila e serena, em toda piedade e dignidade.
+**2** pelos reis e por todos os que estão no poder, para que levemos uma vida tranquila e serena, com toda piedade e dignidade.
 
 **3** Isto é bom e agradável diante de Deus, nosso Salvador,
 
-**4** que quer que todos os homens sejam salvos e cheguem ao conhecimento da verdade.
+**4** que quer que todos os homens se salvem e cheguem ao conhecimento da verdade.
 
-**5** Porque há um só Deus, e um só mediador entre Deus e os homens, o homem Cristo Jesus,
+**5** Porque há um só Deus, e um só mediador entre Deus e os homens: Cristo Jesus, homem,
 
-**6** que se deu a si mesmo em resgate por todos: é este o testemunho dado no tempo devido.
+**6** que se entregou a si mesmo em resgate por todos — testemunho dado a seu tempo.
 
 ---
 

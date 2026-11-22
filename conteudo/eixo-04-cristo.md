@@ -20,7 +20,7 @@ _O Verbo, que era Deus e por meio de quem tudo foi feito, veio ao mundo, fez-se 
 
 **2** Ele estava no princípio junto de Deus.
 
-**3** Tudo foi feito por meio dele, e sem ele nada foi feito do que foi feito.
+**3** Todas as coisas foram feitas por meio dele, e sem ele nada se fez do que foi feito.
 
 **4** Nele estava a vida, e a vida era a luz dos homens;
 
@@ -32,7 +32,7 @@ _O Verbo, que era Deus e por meio de quem tudo foi feito, veio ao mundo, fez-se 
 
 **8** Ele não era a luz, mas veio para dar testemunho da luz.
 
-**9** A luz verdadeira, que ilumina todo homem, vinha ao mundo.
+**9** O Verbo era a luz verdadeira, que ilumina todo homem, vindo a este mundo.
 
 **10** Estava no mundo, e o mundo foi feito por meio dele, e o mundo não o conheceu.
 
@@ -40,17 +40,17 @@ _O Verbo, que era Deus e por meio de quem tudo foi feito, veio ao mundo, fez-se 
 
 **12** Mas a todos os que o receberam deu o poder de se tornarem filhos de Deus: aos que creem no seu nome,
 
-**13** os quais não foram gerados do sangue, nem da vontade da carne, nem da vontade do homem, mas de Deus.
+**13** os quais não nasceram do sangue, nem da vontade da carne, nem da vontade do homem, mas de Deus.
 
-**14** E o Verbo se fez carne e habitou entre nós, e vimos a sua glória, glória como do Unigênito do Pai, cheio de graça e de verdade.
+**14** E o Verbo se fez carne e habitou entre nós; e vimos a sua glória, glória como do Unigênito do Pai, cheio de graça e de verdade.
 
-**15** João dá testemunho dele e clama: Este é aquele de quem eu disse: O que vem depois de mim passou à minha frente, porque existia antes de mim.
+**15** João dá testemunho dele e clama: Este era aquele de quem eu disse: o que vem depois de mim passou adiante de mim, porque existia antes de mim.
 
-**16** Pois da sua plenitude todos nós recebemos, e graça sobre graça.
+**16** Da sua plenitude todos nós recebemos, e graça sobre graça.
 
 **17** Porque a Lei foi dada por meio de Moisés; a graça e a verdade vieram por meio de Jesus Cristo.
 
-**18** A Deus ninguém jamais viu; o Deus unigênito, que está no seio do Pai, esse o deu a conhecer.
+**18** A Deus, ninguém jamais o viu; o Deus Unigênito, que está no seio do Pai, esse o deu a conhecer.
 
 ---
 
@@ -60,9 +60,9 @@ _O Verbo, que era Deus e por meio de quem tudo foi feito, veio ao mundo, fez-se 
 
 _Na plenitude do tempo, Deus enviou o seu Filho, nascido de mulher: a encarnação é um envio, e a humanidade que o Filho assume é recebida de uma mãe_
 
-**4** Mas, quando veio a plenitude do tempo, enviou Deus o seu Filho, nascido de mulher, nascido sob a Lei,
+**4** Mas, quando veio a plenitude do tempo, Deus enviou o seu Filho, nascido de mulher, nascido sob a lei,
 
-**5** para resgatar os que estavam sob a Lei, a fim de que recebêssemos a adoção filial.
+**5** para resgatar os que estavam sob a lei, a fim de recebermos a adoção de filhos.
 
 ---
 
@@ -72,19 +72,19 @@ _Na plenitude do tempo, Deus enviou o seu Filho, nascido de mulher: a encarnaç�
 
 _Aquele que subsistia em forma de Deus tomou a forma de servo e fez-se obediente até a morte de cruz: o hino de onde o Tomo de Leão tira o par forma de Deus e forma de servo_
 
-**5** Tende entre vós este sentimento, que também houve em Cristo Jesus:
+**5** Tende entre vós o mesmo sentir que houve em Cristo Jesus:
 
-**6** o qual, subsistindo em forma de Deus, não julgou usurpação o ser igual a Deus,
+**6** Ele, que é de condição divina, não considerou um tesouro a reter ciosamente o ser igual a Deus;
 
-**7** mas esvaziou-se a si mesmo, tomando a forma de servo, feito à semelhança dos homens.
+**7** mas esvaziou-se a si mesmo, tomando a condição de servo, tornando-se semelhante aos homens; e, reconhecido em figura humana,
 
-**8** E, reconhecido em seu aspecto como homem, humilhou-se a si mesmo, fazendo-se obediente até a morte, e morte de cruz.
+**8** humilhou-se a si mesmo, feito obediente até a morte, e morte de cruz.
 
 **9** Por isso Deus o exaltou soberanamente e lhe deu o nome que está acima de todo nome,
 
-**10** para que, ao nome de Jesus, se dobre todo joelho no céu, na terra e debaixo da terra,
+**10** para que, ao nome de Jesus, todo joelho se dobre nos céus, na terra e nos abismos,
 
-**11** e toda língua confesse que Jesus Cristo é Senhor, para a glória de Deus Pai.
+**11** e toda língua confesse que Jesus Cristo é o Senhor, para a glória de Deus Pai.
 
 ---
 
@@ -96,15 +96,15 @@ _Confessar que Jesus Cristo veio na carne é o sinal do espírito que vem de Deu
 
 ### 1 João 4,2–3
 
-**2** Nisto reconheceis o Espírito de Deus: todo espírito que confessa que Jesus Cristo veio na carne é de Deus;
+**2** Nisto conheceis o Espírito de Deus: todo espírito que confessa Jesus Cristo vindo na carne é de Deus;
 
-**3** e todo espírito que não confessa Jesus não é de Deus. Esse é o espírito do anticristo, do qual ouvistes que vem, e que agora já está no mundo.
+**3** e todo espírito que não confessa Jesus não é de Deus. Esse é o espírito do anticristo, de quem ouvistes que vem — e já está no mundo.
 
 _Na forma latina que Leão Magno cita no seu Tomo, o v. 3 diz: todo espírito que dissolve Jesus não é de Deus._
 
 ### 2 João 7
 
-**7** Pois muitos enganadores saíram pelo mundo, os quais não confessam que Jesus Cristo vem na carne. Esse é o enganador e o anticristo.
+**7** Porque muitos enganadores saíram pelo mundo, os que não confessam Jesus Cristo vindo na carne. Esse é o enganador e o anticristo.
 
 ---
 
@@ -114,11 +114,11 @@ _Na forma latina que Leão Magno cita no seu Tomo, o v. 3 diz: todo espírito qu
 
 _O Verbo da vida foi ouvido, visto e apalpado: a carne real do Filho é o objeto do testemunho apostólico_
 
-**1** O que era desde o princípio, o que ouvimos, o que vimos com os nossos olhos, o que contemplamos e as nossas mãos apalparam, a respeito do Verbo da vida —
+**1** O que existia desde o princípio, o que ouvimos, o que vimos com os nossos olhos, o que contemplamos e as nossas mãos tocaram, a respeito do Verbo da vida —
 
-**2** pois a vida manifestou-se, e nós a vimos, e damos testemunho, e vos anunciamos a vida eterna, que estava junto do Pai e se manifestou a nós —,
+**2** porque a vida se manifestou, e nós a vimos, e damos testemunho, e vos anunciamos a vida eterna, que estava junto do Pai e se nos manifestou —,
 
-**3** o que vimos e ouvimos, isso vos anunciamos também a vós, para que também vós tenhais comunhão conosco. E a nossa comunhão é com o Pai e com o seu Filho, Jesus Cristo.
+**3** o que vimos e ouvimos, isso vos anunciamos, para que também vós tenhais comunhão conosco. E a nossa comunhão é com o Pai e com seu Filho Jesus Cristo.
 
 ---
 
@@ -130,35 +130,35 @@ _O Ressuscitado mostra as mãos e os pés, come diante dos discípulos e deixa-s
 
 ### Lucas 24,36–43
 
-**36** Enquanto falavam dessas coisas, o próprio Jesus apresentou-se no meio deles e disse-lhes: A paz esteja convosco.
+**36** Enquanto falavam destas coisas, ele mesmo apareceu no meio deles e disse-lhes: A paz esteja convosco!
 
 **37** Espantados e cheios de medo, julgavam ver um espírito.
 
-**38** Ele lhes disse: Por que estais perturbados, e por que surgem dúvidas nos vossos corações?
+**38** Mas ele lhes disse: Por que estais perturbados, e por que surgem dúvidas nos vossos corações?
 
-**39** Vede as minhas mãos e os meus pés: sou eu mesmo. Apalpai-me e vede: um espírito não tem carne nem ossos, como vedes que eu tenho.
+**39** Vede as minhas mãos e os meus pés: sou eu mesmo! Tocai-me e vede: um espírito não tem carne nem ossos, como vedes que eu tenho.
 
 **40** E, dizendo isso, mostrou-lhes as mãos e os pés.
 
-**41** E como eles, de tanta alegria, ainda não acreditavam e estavam admirados, disse-lhes: Tendes aqui alguma coisa para comer?
+**41** E, como eles, de tanta alegria, ainda não acreditassem e estivessem admirados, disse-lhes: Tendes aqui alguma coisa de comer?
 
-**42** Deram-lhe um pedaço de peixe assado;
+**42** Eles ofereceram-lhe um pedaço de peixe assado.
 
-**43** e ele o tomou e comeu diante deles.
+**43** Ele o tomou e comeu diante deles.
 
 ### João 20,24–29
 
-**24** Tomé, um dos Doze, chamado Dídimo, não estava com eles quando veio Jesus.
+**24** Tomé, um dos Doze, chamado Dídimo, não estava com eles quando Jesus veio.
 
-**25** Os outros discípulos diziam-lhe: Vimos o Senhor. Mas ele lhes disse: Se eu não vir nas suas mãos a marca dos cravos, e não puser o meu dedo no lugar dos cravos, e não puser a minha mão no seu lado, não crerei.
+**25** Os outros discípulos disseram-lhe: Vimos o Senhor! Mas ele lhes disse: Se eu não vir nas suas mãos o sinal dos cravos, e não puser o dedo no lugar dos cravos, e não puser a mão no seu lado, não crerei.
 
-**26** Oito dias depois, estavam outra vez dentro de casa os seus discípulos, e Tomé com eles. Veio Jesus, estando as portas fechadas, pôs-se no meio deles e disse: A paz esteja convosco.
+**26** Oito dias depois, os discípulos estavam outra vez dentro de casa, e Tomé com eles. Jesus veio, estando as portas fechadas, pôs-se no meio deles e disse: A paz esteja convosco!
 
-**27** Depois disse a Tomé: Põe aqui o teu dedo e vê as minhas mãos; estende a tua mão e põe-na no meu lado; e não sejas incrédulo, mas crente.
+**27** Depois disse a Tomé: Põe aqui o teu dedo e vê as minhas mãos; estende a tua mão e põe-na no meu lado; e não sejas incrédulo, mas fiel.
 
-**28** Respondeu-lhe Tomé: Meu Senhor e meu Deus!
+**28** Tomé respondeu-lhe: Meu Senhor e meu Deus!
 
-**29** Disse-lhe Jesus: Porque me viste, creste. Bem-aventurados os que não viram e creram.
+**29** Disse-lhe Jesus: Porque me viste, creste. Felizes os que não viram e creram!
 
 ---
 
@@ -170,19 +170,19 @@ _O Filho participou do sangue e da carne e fez-se em tudo semelhante aos irmãos
 
 ### Hebreus 2,14–18
 
-**14** Visto, pois, que os filhos têm em comum o sangue e a carne, também ele participou igualmente deles, para destruir pela morte aquele que tinha o poder da morte, isto é, o diabo,
+**14** Portanto, como os filhos participam do sangue e da carne, também ele, do mesmo modo, os partilhou, para destruir, pela morte, aquele que tinha o poder da morte — isto é, o diabo —,
 
-**15** e libertar todos aqueles que, pelo medo da morte, estavam sujeitos à escravidão durante toda a vida.
+**15** e libertar os que, pelo medo da morte, estavam sujeitos à escravidão a vida inteira.
 
-**16** Pois certamente não é dos anjos que ele se encarrega, mas da descendência de Abraão.
+**16** Porque não é dos anjos que ele se ocupa, mas da descendência de Abraão.
 
-**17** Por isso devia tornar-se em tudo semelhante aos irmãos, para ser um sumo sacerdote misericordioso e fiel nas coisas que se referem a Deus, a fim de expiar os pecados do povo.
+**17** Por isso devia tornar-se em tudo semelhante aos irmãos, para ser um sumo sacerdote misericordioso e fiel no que toca a Deus, a fim de expiar os pecados do povo.
 
-**18** Pois, porque ele mesmo sofreu ao ser provado, pode socorrer os que são provados.
+**18** E, porque ele mesmo sofreu e foi provado, pode socorrer os que são provados.
 
 ### Hebreus 4,15
 
-**15** Pois não temos um sumo sacerdote incapaz de se compadecer das nossas fraquezas, mas um que foi provado em tudo à nossa semelhança, exceto no pecado.
+**15** Porque não temos um sumo sacerdote incapaz de compadecer-se das nossas fraquezas: ele foi provado em tudo, à nossa semelhança, exceto no pecado.
 
 ---
 
@@ -192,9 +192,9 @@ _O Filho participou do sangue e da carne e fez-se em tudo semelhante aos irmãos
 
 _Ao entrar no mundo, Cristo recebe um corpo e apresenta-se para fazer a vontade de Deus: a encarnação já está ordenada à oferta de si_
 
-**5** Por isso, ao entrar no mundo, ele diz: Não quiseste sacrifício nem oferenda, mas preparaste-me um corpo;
+**5** Por isso, ao entrar no mundo, Cristo diz: Não quiseste sacrifício nem oblação, mas um corpo me formaste.
 
-**6** holocaustos e sacrifícios pelo pecado não te agradaram.
+**6** Não te agradaram holocaustos nem sacrifícios pelo pecado.
 
 **7** Então eu disse: Eis que venho — no rolo do livro está escrito a meu respeito — para fazer, ó Deus, a tua vontade.
 
@@ -208,13 +208,13 @@ _Nascido da descendência de Davi segundo a carne e enviado numa carne semelhant
 
 ### Romanos 1,3–4
 
-**3** Acerca do seu Filho, nascido da descendência de Davi segundo a carne,
+**3** acerca de seu Filho, nascido da descendência de Davi segundo a carne,
 
-**4** constituído Filho de Deus com poder, segundo o Espírito de santidade, pela ressurreição dos mortos: Jesus Cristo, nosso Senhor.
+**4** constituído Filho de Deus em poder, segundo o Espírito de santidade, pela ressurreição dos mortos: Jesus Cristo, nosso Senhor.
 
 ### Romanos 8,3
 
-**3** Pois o que era impossível à Lei, porque estava enfraquecida pela carne, Deus o fez: enviando o seu próprio Filho numa carne semelhante à do pecado, e por causa do pecado, condenou o pecado na carne.
+**3** O que era impossível à lei, enfraquecida como estava pela carne, Deus o fez: enviando o seu próprio Filho em carne semelhante à do pecado e por causa do pecado, condenou o pecado na carne,
 
 ---
 
@@ -224,7 +224,7 @@ _Nascido da descendência de Davi segundo a carne e enviado numa carne semelhant
 
 _O mistério da piedade cabe num hino cujo primeiro verso é a encarnação: ele foi manifestado na carne_
 
-**16** Sem dúvida, grande é o mistério da piedade: Ele foi manifestado na carne, justificado no Espírito, visto pelos anjos, anunciado entre as nações, crido no mundo, elevado na glória.
+**16** E é grande, sem dúvida, o mistério da piedade: Ele foi manifestado na carne, justificado no Espírito, visto pelos anjos, anunciado entre os gentios, acreditado no mundo, elevado na glória.
 
 ---
 
@@ -238,7 +238,7 @@ _Em Cristo habita corporalmente toda a plenitude da divindade: numa só linha, a
 >
 > **Por que não.** Nenhuma das definições desta parte se apoia nele, e Jo 1,14 diz o mesmo com mais peso.
 
-**9** Porque nele habita corporalmente toda a plenitude da divindade.
+**9** Porque nele habita corporalmente toda a plenitude da divindade,
 
 ---
 
@@ -252,13 +252,13 @@ _Jesus entristece-se, angustia-se, freme, chora e tem a alma perturbada: os text
 
 **37** E, tomando consigo Pedro e os dois filhos de Zebedeu, começou a entristecer-se e a angustiar-se.
 
-**38** Então lhes disse: A minha alma está triste até a morte; ficai aqui e vigiai comigo.
+**38** Então lhes disse: A minha alma está triste até à morte; ficai aqui e vigiai comigo.
 
-**39** E, adiantando-se um pouco, prostrou-se com o rosto em terra, orando e dizendo: Meu Pai, se é possível, passe de mim este cálice; contudo, não como eu quero, mas como tu queres.
+**39** E, adiantando-se um pouco, prostrou-se com o rosto em terra e orava, dizendo: Meu Pai, se é possível, passe de mim este cálice; contudo, não seja como eu quero, mas como tu queres.
 
 ### João 11,33–35
 
-**33** Quando Jesus a viu chorar, e chorarem também os judeus que tinham vindo com ela, fremiu em espírito e perturbou-se,
+**33** Jesus, quando a viu chorar, e também os judeus que tinham vindo com ela, comoveu-se profundamente no espírito e perturbou-se,
 
 **34** e disse: Onde o pusestes? Disseram-lhe: Senhor, vem e vê.
 
@@ -278,15 +278,15 @@ _Deus amou tanto o mundo que lhe deu o seu Filho unigênito, para que vivamos po
 
 ### João 3,16–17
 
-**16** Pois Deus amou tanto o mundo, que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna.
+**16** Pois Deus amou tanto o mundo, que deu o seu Filho unigênito, para que todo o que crê nele não pereça, mas tenha a vida eterna.
 
-**17** Pois Deus não enviou o Filho ao mundo para julgar o mundo, mas para que o mundo seja salvo por meio dele.
+**17** Porque Deus não enviou o seu Filho ao mundo para julgar o mundo, mas para que o mundo seja salvo por ele.
 
 ### 1 João 4,9–10
 
-**9** Nisto se manifestou o amor de Deus entre nós: Deus enviou ao mundo o seu Filho unigênito, para que vivamos por meio dele.
+**9** Nisto se manifestou entre nós o amor de Deus: Deus enviou ao mundo o seu Filho único, para que por ele vivamos.
 
-**10** Nisto está o amor: não fomos nós que amamos a Deus, mas foi ele que nos amou e enviou o seu Filho como propiciação pelos nossos pecados.
+**10** Nisto está o amor: não fomos nós que amamos a Deus, mas foi ele que nos amou e enviou o seu Filho como vítima de expiação pelos nossos pecados.
 
 ---
 
@@ -306,13 +306,13 @@ _A virgem conceberá e dará à luz um filho, e o seu nome será Emanuel, Deus c
 
 ### Mateus 1,20–23
 
-**20** Enquanto ele pensava nisso, eis que um anjo do Senhor lhe apareceu em sonho e disse: José, filho de Davi, não temas receber Maria, tua mulher, pois o que nela foi gerado vem do Espírito Santo.
+**20** Enquanto pensava nisso, eis que um anjo do Senhor apareceu a ele em sonho, dizendo: José, filho de Davi, não temas receber Maria, tua esposa, pois o que nela foi gerado vem do Espírito Santo.
 
-**21** Ela dará à luz um filho, e tu lhe porás o nome de Jesus, pois ele salvará o seu povo dos seus pecados.
+**21** Ela dará à luz um filho, e tu o chamarás Jesus, porque ele salvará o seu povo dos seus pecados.
 
-**22** Tudo isso aconteceu para que se cumprisse o que o Senhor tinha dito por meio do profeta:
+**22** Tudo isso aconteceu para que se cumprisse o que o Senhor dissera pelo profeta:
 
-**23** Eis que a virgem conceberá e dará à luz um filho, e lhe porão o nome de Emanuel, que quer dizer: Deus conosco.
+**23** Eis que a virgem conceberá e dará à luz um filho, e o chamarão Emanuel, que significa: Deus conosco.
 
 ---
 
@@ -812,15 +812,15 @@ _O que se lê é o erro condenado: que a divindade de Jesus não se prova pelos 
 
 _As proposições estão enunciadas na forma em que são condenadas, isto é, como teses rejeitadas_
 
-**27.** A divindade de Jesus Cristo não se prova pelos evangelhos; é um dogma que a consciência cristã deduziu da noção de Messias.
+**27.** A divindade de Jesus Cristo não se prova pelos Evangelhos; é um dogma que a consciência cristã deduziu da noção de Messias.
 
 **28.** Jesus, quando exercia o seu ministério, não falava com o fim de ensinar que era o Messias, nem os seus milagres visavam demonstrá-lo.
 
 **29.** É lícito conceder que o Cristo que a história apresenta é muito inferior ao Cristo que é objeto da fé.
 
-**30.** Em todos os textos evangélicos, o nome Filho de Deus equivale somente ao nome Messias, e de modo nenhum significa que Cristo é verdadeiro e natural Filho de Deus.
+**30.** Em todos os textos evangélicos, o nome «Filho de Deus» equivale apenas ao nome «Messias», e de modo nenhum significa que Cristo é verdadeiro e natural Filho de Deus.
 
-**31.** A doutrina sobre Cristo que Paulo, João e os concílios de Niceia, de Éfeso e de Calcedônia transmitem não é a que Jesus ensinou, mas a que a consciência cristã concebeu acerca de Jesus.
+**31.** A doutrina sobre Cristo que transmitem Paulo, João e os Concílios de Niceia, de Éfeso e de Calcedônia não é a que Jesus ensinou, mas a que a consciência cristã concebeu acerca de Jesus.
 
 ---
 
@@ -840,11 +840,11 @@ _Descreve, para o condenar, o método que tira da história de Jesus tudo o que 
 
 ### A transfiguração e a desfiguração
 
-Contudo, em todo este processo, donde, segundo a opinião dos modernistas, nascem a fé e a revelação, há uma coisa a que se deve atender muito, e que não é de pouca importância, pelas consequências histórico-críticas que eles daí tiram. Pois o Incognoscível de que falam não se apresenta à fé como algo nu ou isolado; mas, ao contrário, estreitamente unido a algum fenômeno que, embora pertença ao campo da ciência ou da história, de algum modo os ultrapassa: seja este fenômeno um fato da natureza que encerre em si algo de arcano, seja algum homem cujo caráter, atos e palavras não parecem poder conciliar-se com as leis ordinárias da história. Então a fé, atraída pelo Incognoscível que está unido ao fenômeno, abraça o fenômeno inteiro e de certo modo o penetra com a sua vida. Daqui se seguem duas coisas. Primeiro, certa transfiguração do fenômeno, isto é, a sua elevação acima das suas verdadeiras condições, pela qual se torna matéria mais apta para revestir a forma do divino que a fé lhe há de dar. Segundo, certa desfiguração — seja-nos permitido chamá-la assim — do mesmo fenômeno, nascida de que a fé, depois de o ter subtraído às circunstâncias de lugar e de tempo, lhe atribui o que na realidade ele não tem: o que sucede sobretudo quando se trata de fenômenos do passado, e tanto mais quanto mais antigos são. Destes dois princípios os modernistas tiram de novo dois cânones, que, somados ao outro já tirado do agnosticismo, constituem os fundamentos da crítica histórica. Um exemplo ilustrará a coisa, e tomemo-lo da pessoa de Cristo. Na pessoa de Cristo, dizem, a ciência e a história nada encontram senão um homem. Logo, por força do primeiro cânon, deduzido do agnosticismo, deve apagar-se da sua história tudo o que tem sabor de divino. Além disso, por força do segundo cânon, a pessoa histórica de Cristo foi transfigurada pela fé: logo, deve tirar-se dela tudo o que a eleva acima das condições históricas. Enfim, por força do terceiro cânon, a mesma pessoa de Cristo foi desfigurada pela fé: logo, devem remover-se dela as palavras e os atos — numa palavra, tudo o que de modo nenhum corresponde ao seu caráter, à sua condição, à sua educação, ao lugar e ao tempo em que viveu. Estranha maneira de raciocinar, sem dúvida; mas esta é a crítica dos modernistas.
+Contudo, em todo esse processo, do qual, segundo a opinião dos modernistas, nascem a fé e a revelação, há uma coisa a que se deve atender muito, e que não é de pouca importância pelas consequências histórico-críticas que eles daí tiram. Pois o *Incognoscível* de que falam não se apresenta à fé como algo nu ou isolado, mas, ao contrário, estreitamente unido a algum fenômeno que, embora pertença ao campo da ciência ou da história, de algum modo o ultrapassa; quer esse fenômeno seja um fato da natureza que contenha em si algo de misterioso, quer seja algum homem cujo caráter, ações e palavras não parecem poder conciliar-se com as leis ordinárias da história. Então a fé, atraída pelo *Incognoscível* que está unido ao fenômeno, abraça o fenômeno inteiro e de certo modo o penetra da sua própria vida. Daqui se seguem duas coisas. Primeiro, uma certa *transfiguração* do fenômeno, isto é, uma elevação acima das suas verdadeiras condições, que o torne matéria mais apta para receber a forma do divino que a fé lhe há de dar. Segundo, uma certa *desfiguração*, se assim se pode chamar, do mesmo fenômeno, nascida de que a fé, tendo-o subtraído às circunstâncias de lugar e de tempo, lhe atribui o que ele na realidade não tem; o que acontece sobretudo quando se trata de fenômenos do passado, e tanto mais quanto mais antigos são. Desse duplo princípio os modernistas tiram por sua vez dois cânones, que, somados a outro já tirado do agnosticismo, constituem os fundamentos da crítica histórica. Um exemplo esclarecerá a coisa; e seja tomado da pessoa de Cristo. Na pessoa de Cristo, dizem, a ciência e a história não encontram senão um homem. Logo, em virtude do primeiro cânone, deduzido do agnosticismo, deve-se apagar da sua história tudo o que tem sabor de divino. Depois, em virtude do segundo cânone, a pessoa histórica de Cristo foi *transfigurada* pela fé; logo, deve-se tirar dela tudo o que a eleva acima das condições históricas. Por fim, em virtude do terceiro cânone, a mesma pessoa de Cristo foi *desfigurada* pela fé; logo, devem-se remover dela as palavras e os atos, tudo, numa palavra, que não corresponde de modo nenhum ao seu caráter, à sua condição, à sua educação, ao lugar e ao tempo em que viveu. Estranho modo de raciocinar, sem dúvida; mas é essa a crítica dos modernistas.
 
 ### O Cristo histórico e o Cristo da fé
 
-Os três primeiros cânones destes historiadores ou críticos são, como dissemos, os mesmos princípios que acima referimos dos filósofos: a saber, o agnosticismo, o teorema da transfiguração das coisas pela fé, e o outro, que nos pareceu poder chamar-se da desfiguração. Notemos agora as consequências de cada um. Pelo agnosticismo, a história, não de outro modo que a ciência, trata unicamente de fenômenos. Logo, tanto Deus como qualquer intervenção divina nas coisas humanas devem ser remetidos à fé, como pertencentes somente a ela. Por isso, se ocorre algo que consta de dois elementos, divino e humano — como são Cristo, a Igreja, os sacramentos e muitas outras coisas do mesmo gênero —, há de repartir-se e separar-se de tal modo que o que for humano se atribua à história, e o que for divino, à fé. Daí a distinção, corrente entre os modernistas, entre o Cristo histórico e o Cristo da fé, a Igreja da história e a Igreja da fé, os sacramentos da história e os sacramentos da fé, e outras semelhantes a cada passo. Depois, este mesmo elemento humano, que vemos o historiador tomar para si tal como aparece nos documentos, deve dizer-se elevado pela fé, por transfiguração, acima das condições históricas. É preciso, pois, separar de novo os acréscimos feitos pela fé, e remetê-los à própria fé e à história da fé; assim, quando se trata de Cristo, tudo o que supera a condição do homem, seja a natural, tal como a psicologia a apresenta, seja a que resulta do lugar e da época em que ele viveu. Além disso, pelo terceiro princípio da filosofia, passam como que por um crivo também as coisas que não excedem o âmbito da história, e eliminam e remetem igualmente à fé tudo o que, a seu juízo, não está, como dizem, na lógica dos fatos, ou não foi conforme às pessoas. Assim, querem que Cristo não tenha dito o que parece exceder a capacidade do povo que o ouvia. Daí apagam da sua história real, e deixam à fé, todas as alegorias que ocorrem nos seus discursos. Perguntaremos talvez por que lei se fazem estas separações? Pelo caráter do homem, pela condição que teve na cidade, pela educação, pelo conjunto das circunstâncias de cada fato: numa palavra, se bem entendemos, por uma norma que afinal recai no puramente subjetivo. Esforçam-se, com efeito, por tomar eles mesmos e como que representar a pessoa de Cristo; e tudo o que eles, em circunstâncias semelhantes, teriam feito, transferem-no a Cristo. Assim, pois, para concluir: a priori, e partindo de certos princípios de filosofia, que sustentam mas dizem ignorar, afirmam que, na história que chamam real, Cristo não é Deus nem fez coisa alguma divina; e que, como homem, só fez ou disse aquilo que eles, reportando-se àquele tempo, lhe concedem o direito de fazer ou dizer.
+Os três primeiros cânones desses historiadores ou críticos são, como dissemos, os mesmos princípios que acima atribuímos aos filósofos, a saber: o *agnosticismo*, o teorema da *transfiguração* das coisas pela fé, e o outro que nos pareceu poder chamar-se da *desfiguração*. Notemos agora as consequências de cada um. Pelo *agnosticismo*, a história, não de outro modo que a ciência, trata unicamente de fenômenos. Logo, tanto Deus como qualquer intervenção divina nas coisas humanas devem ser relegados à fé, como coisa que só a ela pertence. Por isso, se se encontra algo composto de dois elementos, divino e humano, como Cristo, a Igreja, os Sacramentos e muitas outras coisas semelhantes, será preciso dividi-lo e separá-lo de modo que o que for humano se atribua à história, e o que for divino, à fé. Daí a distinção, corrente entre os modernistas, entre o Cristo histórico e o Cristo da fé, a Igreja da história e a Igreja da fé, os Sacramentos da história e os Sacramentos da fé, e outras semelhantes a cada passo. Em seguida, esse mesmo elemento humano que vemos o historiador tomar para si, tal como aparece nos documentos, deve dizer-se que foi elevado pela fé, por meio da *transfiguração*, acima das condições históricas. É preciso, portanto, separar de novo os acréscimos feitos pela fé, e relegá-los à própria fé e à história da fé; assim, quando se trata de Cristo, tudo o que ultrapassa a condição do homem, quer a natural, tal como a psicologia a apresenta, quer a que se formou pelo lugar e pela época em que ele viveu. Além disso, em virtude do terceiro princípio filosófico, passam como que pelo crivo também as coisas que não ultrapassam o âmbito da história, e eliminam e relegam igualmente à fé tudo o que, a seu juízo, não está na *lógica* dos fatos, como dizem, ou não era apropriado às pessoas. Assim pretendem que Cristo não disse as coisas que parecem ultrapassar a capacidade do povo que o ouvia. Por isso suprimem da sua história *real*, e deixam à fé, todas as alegorias que ocorrem nos seus discursos. Perguntaremos talvez por que lei se faz essa separação? Pelo caráter do homem, pela condição que teve na sociedade, pela educação, pelo conjunto das circunstâncias de cada fato; numa palavra, se bem entendemos, por uma norma que acaba por recair no meramente *subjetivo*. Esforçam-se, com efeito, por assumir eles mesmos e como que representar a pessoa de Cristo; e tudo o que eles mesmos teriam feito em circunstâncias semelhantes, tudo isso o transferem para Cristo. Assim, pois, para concluirmos, *a priori*, e partindo de certos princípios de uma filosofia que de fato sustentam, mas que afirmam ignorar, asseveram que na história a que chamam *real* Cristo não é Deus, nem fez nada de divino; e que, como homem, só fez ou disse aquilo que eles, transportando-se ao seu tempo, lhe reconhecem o direito de fazer ou dizer.
 
 ---
 
@@ -994,9 +994,9 @@ Contra Nestório: o mesmo que é Deus nasceu, padeceu e morreu.
 
 _Se a tivessem conhecido, não teriam crucificado o Senhor da glória: diz-se do Senhor da glória o que só a carne pôde sofrer, e é este o primeiro exemplo da comunicação das propriedades_
 
-**7** Mas falamos da sabedoria de Deus em mistério, a sabedoria escondida, que Deus predestinou antes dos séculos para a nossa glória,
+**7** Mas falamos a sabedoria de Deus em mistério, a sabedoria escondida que Deus predestinou antes dos séculos para a nossa glória,
 
-**8** a qual nenhum dos príncipes deste século conheceu; pois, se a tivessem conhecido, não teriam crucificado o Senhor da glória.
+**8** que nenhum dos príncipes deste século conheceu; porque, se a tivessem conhecido, jamais teriam crucificado o Senhor da glória.
 
 ---
 
@@ -1006,7 +1006,7 @@ _Se a tivessem conhecido, não teriam crucificado o Senhor da glória: diz-se do
 
 _Ninguém subiu ao céu senão aquele que desceu do céu, o Filho do homem: diz-se do Filho do homem o que é próprio do Verbo que vem do Pai_
 
-**13** E ninguém subiu ao céu senão aquele que desceu do céu, o Filho do homem.
+**13** Ninguém subiu ao céu senão aquele que desceu do céu, o Filho do Homem.
 
 ---
 
@@ -1018,9 +1018,9 @@ _Matastes o autor da vida; a Igreja de Deus, que ele adquiriu com o seu próprio
 
 ### Atos 3,14–15
 
-**14** Vós, porém, negastes o Santo e o Justo, e pedistes que vos fosse concedido um homem assassino;
+**14** Vós negastes o Santo e o Justo, e pedistes que vos fosse agraciado um assassino;
 
-**15** e matastes o autor da vida, a quem Deus ressuscitou dentre os mortos, do que nós somos testemunhas.
+**15** matastes o Autor da vida, que Deus ressuscitou dos mortos; e disso nós somos testemunhas.
 
 ### Atos 20,28
 
@@ -1034,11 +1034,11 @@ _Matastes o autor da vida; a Igreja de Deus, que ele adquiriu com o seu próprio
 
 _Deles descende o Cristo segundo a carne, o qual é sobre todas as coisas Deus bendito pelos séculos: um só sujeito, a quem se atribuem ao mesmo tempo a origem humana e a divindade_
 
-**3** Pois eu mesmo desejaria ser anátema, separado de Cristo, em favor dos meus irmãos, os meus parentes segundo a carne,
+**3** Pois eu mesmo desejaria ser anátema, separado de Cristo, em favor de meus irmãos, meus parentes segundo a carne,
 
-**4** que são israelitas; deles são a adoção filial, e a glória, e as alianças, e a promulgação da Lei, e o culto, e as promessas;
+**4** que são israelitas: deles são a adoção, a glória, as alianças, a legislação, o culto e as promessas;
 
-**5** deles são os patriarcas, e deles descende o Cristo segundo a carne, o qual é sobre todas as coisas Deus bendito pelos séculos. Amém.
+**5** deles são os patriarcas, e deles procede Cristo segundo a carne, ele que está acima de tudo, Deus bendito pelos séculos. Amém.
 
 ---
 
@@ -1052,13 +1052,13 @@ _Antes que Abraão viesse a existir, eu sou; glorifica-me com a glória que eu t
 
 **56** Abraão, vosso pai, exultou por ver o meu dia; viu-o e alegrou-se.
 
-**57** Disseram-lhe então os judeus: Ainda não tens cinquenta anos, e viste Abraão?
+**57** Disseram-lhe, pois, os judeus: Ainda não tens cinquenta anos, e viste Abraão?
 
-**58** Disse-lhes Jesus: Em verdade, em verdade vos digo: antes que Abraão viesse a existir, eu sou.
+**58** Disse-lhes Jesus: Em verdade, em verdade vos digo: antes que Abraão existisse, eu sou.
 
 ### João 17,5
 
-**5** E agora glorifica-me tu, Pai, junto de ti mesmo, com aquela glória que eu tinha junto de ti antes que o mundo existisse.
+**5** E agora, Pai, glorifica-me junto de ti com a glória que eu tinha junto de ti antes que o mundo existisse.
 
 ---
 
@@ -1074,15 +1074,15 @@ _O que nasce de Maria será chamado Filho de Deus, e Isabel, cheia do Espírito 
 
 ### Lucas 1,35
 
-**35** Respondendo, o anjo disse-lhe: O Espírito Santo virá sobre ti, e o poder do Altíssimo te cobrirá com a sua sombra; por isso também o santo que há de nascer será chamado Filho de Deus.
+**35** O anjo respondeu a ela: O Espírito Santo virá sobre ti, e o poder do Altíssimo te cobrirá com a sua sombra; por isso, o que nascer será santo e será chamado Filho de Deus.
 
 ### Lucas 1,41–43
 
-**41** E aconteceu que, quando Isabel ouviu a saudação de Maria, a criança saltou no seu ventre, e Isabel ficou cheia do Espírito Santo,
+**41** Quando Isabel ouviu a saudação de Maria, a criança saltou no seu ventre, e Isabel ficou cheia do Espírito Santo.
 
-**42** e exclamou em alta voz: Bendita és tu entre as mulheres, e bendito é o fruto do teu ventre!
+**42** Com um grande grito, exclamou: Bendita és tu entre as mulheres, e bendito é o fruto do teu ventre!
 
-**43** E donde me vem isto, que a mãe do meu Senhor venha a mim?
+**43** Donde me vem que a mãe do meu Senhor venha a mim?
 
 ---
 
@@ -1096,11 +1096,11 @@ _A minha carne é verdadeira comida: a carne de Cristo dá a vida porque é a ca
 >
 > **Por que não.** João 6 pertence ao dossiê do eixo 9 (eucaristia); aqui bastaria uma remissão.
 
-**51** Eu sou o pão vivo que desceu do céu. Se alguém comer deste pão, viverá para sempre; e o pão que eu darei é a minha carne, pela vida do mundo.
+**51** Eu sou o pão vivo que desceu do céu; se alguém comer deste pão, viverá para sempre; e o pão que eu darei é a minha carne, pela vida do mundo.
 
-**52** Discutiam então os judeus entre si, dizendo: Como pode este dar-nos a sua carne a comer?
+**52** Discutiam, pois, os judeus entre si, dizendo: Como pode este dar-nos a comer a sua carne?
 
-**53** Disse-lhes então Jesus: Em verdade, em verdade vos digo: se não comerdes a carne do Filho do homem e não beberdes o seu sangue, não tereis a vida em vós.
+**53** Jesus lhes disse: Em verdade, em verdade vos digo: se não comerdes a carne do Filho do Homem e não beberdes o seu sangue, não tereis a vida em vós.
 
 **54** Quem come a minha carne e bebe o meu sangue tem a vida eterna, e eu o ressuscitarei no último dia.
 
@@ -1108,7 +1108,7 @@ _A minha carne é verdadeira comida: a carne de Cristo dá a vida porque é a ca
 
 **56** Quem come a minha carne e bebe o meu sangue permanece em mim, e eu nele.
 
-**57** Assim como o Pai, que vive, me enviou, e eu vivo pelo Pai, assim também quem me come viverá por mim.
+**57** Assim como o Pai que vive me enviou, e eu vivo pelo Pai, assim também quem me come viverá por mim.
 
 ---
 
@@ -1996,7 +1996,7 @@ _Eu e o Pai somos um; o Pai é maior do que eu: as duas frases são do mesmo, e 
 
 ### João 14,28
 
-**28** Ouvistes que eu vos disse: Vou e volto a vós. Se me amásseis, vós vos alegraríeis por eu ir para o Pai, porque o Pai é maior do que eu.
+**28** Ouvistes que eu vos disse: Vou e volto a vós. Se me amásseis, havíeis de alegrar-vos por eu ir para o Pai, porque o Pai é maior do que eu.
 
 ---
 
@@ -2006,15 +2006,15 @@ _Eu e o Pai somos um; o Pai é maior do que eu: as duas frases são do mesmo, e 
 
 _Os homens veem em Jesus um profeta; Pedro, por revelação do Pai, confessa-o Cristo e Filho do Deus vivo: o Tomo de Leão lê nesta confissão o mesmo reconhecido como homem e como Deus_
 
-**13** Chegando Jesus à região de Cesareia de Filipe, perguntava aos seus discípulos: Quem dizem os homens que é o Filho do homem?
+**13** Chegando Jesus à região de Cesareia de Filipe, perguntava aos seus discípulos: Quem dizem os homens ser o Filho do Homem?
 
-**14** Eles disseram: Uns, João Batista; outros, Elias; outros, Jeremias ou algum dos profetas.
+**14** Eles responderam: Uns, João Batista; outros, Elias; outros, Jeremias ou um dos profetas.
 
-**15** Disse-lhes: E vós, quem dizeis que eu sou?
+**15** Disse-lhes ele: E vós, quem dizeis que eu sou?
 
-**16** Respondeu Simão Pedro: Tu és o Cristo, o Filho do Deus vivo.
+**16** Respondendo Simão Pedro, disse: Tu és o Cristo, o Filho do Deus vivo.
 
-**17** Respondeu-lhe Jesus: Bem-aventurado és tu, Simão, filho de Jonas, porque não foi a carne nem o sangue que te revelou isto, mas meu Pai que está nos céus.
+**17** Jesus lhe respondeu: Bem-aventurado és tu, Simão, filho de Jonas, porque não foi carne nem sangue que te revelou isso, mas meu Pai, que está nos céus.
 
 ---
 
@@ -2024,7 +2024,7 @@ _Os homens veem em Jesus um profeta; Pedro, por revelação do Pai, confessa-o C
 
 _Um só mediador entre Deus e os homens, e ele é homem: para unir os dois lados, o mediador tinha de pertencer a ambos, e é este o argumento do Tomo de Leão_
 
-**5** Porque há um só Deus, e um só mediador entre Deus e os homens, o homem Cristo Jesus.
+**5** Porque há um só Deus, e um só mediador entre Deus e os homens: Cristo Jesus, homem,
 
 ---
 
@@ -2040,65 +2040,65 @@ _Deitado na manjedoura e louvado pelos anjos, adorado pelos magos e perseguido p
 
 ### Lucas 2,7 e 13–14
 
-**7** E deu à luz o seu filho primogênito, envolveu-o em faixas e deitou-o numa manjedoura, porque não havia lugar para eles na hospedaria.
+**7** e deu à luz o seu filho primogênito; envolveu-o em faixas e reclinou-o numa manjedoura, porque não havia lugar para eles na hospedaria.
 
-**13** E de repente juntou-se ao anjo uma multidão do exército celeste, que louvava a Deus, dizendo:
+**13** De repente, juntou-se ao anjo uma multidão do exército celeste, que louvava a Deus, dizendo:
 
-**14** Glória a Deus no mais alto dos céus, e na terra paz aos homens do seu agrado.
+**14** Glória a Deus nas alturas, e paz na terra aos homens do seu agrado.
 
 ### Mateus 2,11 e 16
 
-**11** E, entrando na casa, viram o menino com Maria, sua mãe, e, prostrando-se, adoraram-no; e, abrindo os seus tesouros, ofereceram-lhe presentes: ouro, incenso e mirra.
+**11** Entrando na casa, viram o menino com Maria, sua mãe; prostrando-se, adoraram-no; e, abrindo os seus tesouros, ofereceram a ele presentes: ouro, incenso e mirra.
 
-**16** Então Herodes, vendo que fora enganado pelos magos, irou-se muito e mandou matar todos os meninos que havia em Belém e em todo o seu território, de dois anos para baixo, segundo o tempo que tinha averiguado com os magos.
+**16** Então Herodes, vendo que fora enganado pelos magos, irritou-se profundamente e mandou matar todos os meninos de Belém e de todo o seu território, de dois anos para baixo, conforme o tempo que averiguara com os magos.
 
 ### Mateus 3,13–17
 
-**13** Então Jesus veio da Galileia ao Jordão, até João, para ser batizado por ele.
+**13** Então Jesus veio da Galileia ao Jordão, ao encontro de João, para ser batizado por ele.
 
-**14** Mas João procurava impedi-lo, dizendo: Eu é que preciso ser batizado por ti, e tu vens a mim?
+**14** João procurava impedi-lo, dizendo: Eu é que preciso ser batizado por ti, e tu vens a mim?
 
-**15** Respondeu-lhe Jesus: Deixa por agora, pois assim nos convém cumprir toda a justiça. Então João deixou-o.
+**15** Jesus respondeu: Deixa por agora, pois assim nos convém cumprir toda a justiça. Então João o deixou.
 
-**16** Batizado, Jesus subiu logo da água; e eis que se lhe abriram os céus, e viu o Espírito de Deus descendo como pomba e vindo sobre ele.
+**16** Batizado, Jesus saiu logo da água; e eis que os céus se abriram, e ele viu o Espírito de Deus descer como pomba e vir sobre ele.
 
-**17** E eis uma voz dos céus que dizia: Este é o meu Filho amado, em quem me comprazi.
+**17** E uma voz dos céus dizia: Este é o meu Filho amado, em quem me comprazo.
 
 ### Mateus 4,1–11
 
 **1** Então Jesus foi conduzido pelo Espírito ao deserto, para ser tentado pelo diabo.
 
-**2** E, tendo jejuado quarenta dias e quarenta noites, por fim teve fome.
+**2** Depois de jejuar quarenta dias e quarenta noites, teve fome.
 
-**3** Aproximou-se então o tentador e disse-lhe: Se és Filho de Deus, dize que estas pedras se tornem pães.
+**3** O tentador aproximou-se e disse a ele: Se és Filho de Deus, manda que estas pedras se tornem pães.
 
-**4** Mas ele respondeu: Está escrito: Não só de pão viverá o homem, mas de toda palavra que sai da boca de Deus.
+**4** Ele respondeu: Está escrito: Não só de pão viverá o homem, mas de toda palavra que sai da boca de Deus.
 
-**5** Então o diabo levou-o à cidade santa, colocou-o sobre o pináculo do templo
+**5** Então o diabo o levou à Cidade Santa, colocou-o sobre o pináculo do Templo
 
-**6** e disse-lhe: Se és Filho de Deus, lança-te daqui abaixo, pois está escrito: Aos seus anjos dará ordens a teu respeito, e eles te tomarão nas mãos, para que não tropeces com o teu pé em alguma pedra.
+**6** e disse a ele: Se és Filho de Deus, lança-te daqui abaixo, pois está escrito: Aos seus anjos dará ordens a teu respeito, e eles te sustentarão nas mãos, para que não tropeces em alguma pedra.
 
-**7** Disse-lhe Jesus: Também está escrito: Não tentarás o Senhor teu Deus.
+**7** Jesus respondeu: Também está escrito: Não tentarás o Senhor, teu Deus.
 
-**8** De novo o diabo levou-o a um monte muito alto, mostrou-lhe todos os reinos do mundo e a sua glória
+**8** De novo o diabo o levou a um monte muito alto, mostrou a ele todos os reinos do mundo e a sua glória
 
-**9** e disse-lhe: Tudo isto te darei, se, prostrado, me adorares.
+**9** e disse: Tudo isto darei a ti, se, prostrado, me adorares.
 
-**10** Disse-lhe então Jesus: Vai-te, Satanás, pois está escrito: Adorarás o Senhor teu Deus, e só a ele prestarás culto.
+**10** Então Jesus disse a ele: Vai-te, Satanás, pois está escrito: Adorarás o Senhor, teu Deus, e só a ele prestarás culto.
 
-**11** Então o diabo deixou-o, e eis que se aproximaram anjos e o serviam.
+**11** Então o diabo o deixou; e eis que os anjos se aproximaram e o serviam.
 
 ### João 4,6 e 6,11
 
-**6** Havia ali o poço de Jacó. Jesus, pois, cansado da caminhada, sentou-se assim junto ao poço. Era por volta da hora sexta.
+**6** Ficava ali o poço de Jacó. Jesus, cansado da caminhada, sentou-se junto ao poço; era por volta da hora sexta.
 
-**11** Jesus tomou então os pães e, tendo dado graças, distribuiu-os aos que estavam sentados; e o mesmo fez com os peixes, quanto queriam.
+**11** Jesus tomou os pães e, tendo dado graças, distribuiu-os aos que estavam sentados; e igualmente dos peixes, quanto queriam.
 
 ### João 11,35 e 43
 
 **35** Jesus chorou.
 
-**43** Dito isto, clamou em alta voz: Lázaro, vem para fora.
+**43** Tendo dito isso, clamou em alta voz: Lázaro, vem para fora!
 
 ---
 
@@ -2666,35 +2666,35 @@ _No Getsêmani, Jesus pede que o cálice passe e entrega-se ao que o Pai quer �
 
 ### Mateus 26,36–46
 
-**36** Então Jesus foi com eles a um lugar chamado Getsêmani, e disse aos discípulos: Sentai-vos aqui, enquanto eu vou ali orar.
+**36** Então Jesus foi com eles a um lugar chamado Getsêmani e disse aos discípulos: Sentai-vos aqui, enquanto eu vou ali orar.
 
 **37** E, tomando consigo Pedro e os dois filhos de Zebedeu, começou a entristecer-se e a angustiar-se.
 
-**38** Então disse-lhes: A minha alma está triste até a morte; ficai aqui e vigiai comigo.
+**38** Então lhes disse: A minha alma está triste até à morte; ficai aqui e vigiai comigo.
 
-**39** E, adiantando-se um pouco, caiu com o rosto por terra, orando e dizendo: Meu Pai, se é possível, passe de mim este cálice; contudo, não como eu quero, mas como tu queres.
+**39** E, adiantando-se um pouco, prostrou-se com o rosto em terra e orava, dizendo: Meu Pai, se é possível, passe de mim este cálice; contudo, não seja como eu quero, mas como tu queres.
 
-**40** E voltou aos discípulos e encontrou-os dormindo, e disse a Pedro: Assim não fostes capazes de vigiar uma hora comigo?
+**40** Voltou aos discípulos e encontrou-os dormindo; e disse a Pedro: Então não pudestes vigiar uma hora comigo?
 
-**41** Vigiai e orai, para que não entreis em tentação; o espírito está pronto, mas a carne é fraca.
+**41** Vigiai e orai, para não cairdes em tentação; o espírito está pronto, mas a carne é fraca.
 
-**42** Afastando-se de novo, pela segunda vez, orou dizendo: Meu Pai, se isto não pode passar sem que eu o beba, faça-se a tua vontade.
+**42** Afastando-se de novo, pela segunda vez, orou, dizendo: Meu Pai, se este cálice não pode passar sem que eu o beba, faça-se a tua vontade.
 
-**43** E, voltando, encontrou-os outra vez dormindo, porque os seus olhos estavam pesados.
+**43** E, voltando, encontrou-os de novo dormindo, porque os seus olhos estavam pesados.
 
-**44** E, deixando-os, afastou-se de novo e orou pela terceira vez, dizendo outra vez as mesmas palavras.
+**44** E, deixando-os, afastou-se de novo e orou pela terceira vez, dizendo as mesmas palavras.
 
-**45** Então voltou aos discípulos e disse-lhes: Dormi agora e descansai. Eis que chegou a hora, e o Filho do homem é entregue nas mãos dos pecadores.
+**45** Então voltou aos discípulos e disse-lhes: Dormi agora e descansai! Eis que chegou a hora, e o Filho do Homem vai ser entregue nas mãos dos pecadores.
 
-**46** Levantai-vos, vamos. Eis que chegou aquele que me entrega.
+**46** Levantai-vos, vamos! Eis que está perto aquele que me entrega.
 
 ### Lucas 22,42–44
 
 **42** dizendo: Pai, se queres, afasta de mim este cálice; contudo, não se faça a minha vontade, mas a tua.
 
-**43** E apareceu-lhe um anjo do céu, que o confortava.
+**43** Apareceu-lhe então um anjo do céu, que o confortava.
 
-**44** E, posto em agonia, orava com mais insistência; e o seu suor tornou-se como gotas de sangue que caíam sobre a terra.
+**44** E, estando em agonia, orava mais intensamente; e o seu suor tornou-se como gotas de sangue que caíam sobre a terra.
 
 ---
 
@@ -2704,7 +2704,7 @@ _No Getsêmani, Jesus pede que o cálice passe e entrega-se ao que o Pai quer �
 
 _Cristo fala da sua vontade e da do Pai que o enviou: o versículo que a definição de Constantinopla III cita para mostrar que a vontade humana do Senhor é própria dele e segue a divina_
 
-**38** Porque desci do céu não para fazer a minha vontade, mas a vontade daquele que me enviou.
+**38** porque desci do céu não para fazer a minha vontade, mas a vontade daquele que me enviou.
 
 ---
 
@@ -2716,11 +2716,11 @@ _Fazer a vontade de quem o enviou é o alimento de Jesus, e não buscar a própr
 
 ### João 4,34
 
-**34** Disse-lhes Jesus: O meu alimento é fazer a vontade daquele que me enviou e realizar a sua obra.
+**34** Jesus disse a eles: O meu alimento é fazer a vontade daquele que me enviou e consumar a sua obra.
 
 ### João 5,30
 
-**30** Eu não posso fazer nada por mim mesmo; julgo conforme ouço, e o meu juízo é justo, porque não busco a minha vontade, mas a vontade daquele que me enviou.
+**30** Eu não posso fazer nada de mim mesmo. Julgo conforme ouço, e o meu julgamento é justo, porque não busco a minha vontade, mas a vontade daquele que me enviou.
 
 ---
 
@@ -2732,19 +2732,19 @@ _Cristo fez-se obediente até a morte, aprendeu a obediência pelo que sofreu, e
 
 ### Filipenses 2,8
 
-**8** Reconhecido em seu aspecto como homem, humilhou-se a si mesmo, fazendo-se obediente até a morte, e morte de cruz.
+**8** humilhou-se a si mesmo, feito obediente até a morte, e morte de cruz.
 
 ### Hebreus 5,7–9
 
-**7** Ele, nos dias da sua carne, tendo oferecido, com forte clamor e lágrimas, preces e súplicas àquele que o podia salvar da morte, e tendo sido atendido por causa da sua piedade,
+**7** Ele, nos dias da sua carne, dirigiu preces e súplicas, com grande clamor e lágrimas, àquele que podia salvá-lo da morte; e foi atendido, por causa da sua reverência.
 
-**8** embora fosse Filho, aprendeu a obediência por aquilo que sofreu;
+**8** Embora fosse Filho, aprendeu pelo sofrimento a obediência;
 
-**9** e, levado à perfeição, tornou-se causa de salvação eterna para todos os que lhe obedecem.
+**9** e, levado à perfeição, tornou-se, para todos os que lhe obedecem, causa de salvação eterna,
 
 ### Romanos 5,19
 
-**19** Pois, assim como pela desobediência de um só homem muitos foram constituídos pecadores, assim também pela obediência de um só muitos serão constituídos justos.
+**19** Porque, como pela desobediência de um só homem muitos se tornaram pecadores, assim também pela obediência de um só muitos se tornarão justos.
 
 ---
 
@@ -3232,13 +3232,13 @@ _No batismo e na transfiguração, a voz do Pai diz do homem Jesus: Este é o me
 
 ### Mateus 3,16–17
 
-**16** Batizado, Jesus subiu logo da água; e eis que se lhe abriram os céus, e viu o Espírito de Deus descendo como pomba e vindo sobre ele.
+**16** Batizado, Jesus saiu logo da água; e eis que os céus se abriram, e ele viu o Espírito de Deus descer como pomba e vir sobre ele.
 
-**17** E eis uma voz dos céus que dizia: Este é o meu Filho amado, em quem me comprazi.
+**17** E uma voz dos céus dizia: Este é o meu Filho amado, em quem me comprazo.
 
 ### Mateus 17,5
 
-**5** Ele ainda estava falando, quando uma nuvem luminosa os cobriu com a sua sombra; e eis uma voz que saía da nuvem e dizia: Este é o meu Filho amado, em quem me comprazi; ouvi-o.
+**5** Ainda ele falava, quando uma nuvem luminosa os cobriu; e eis que da nuvem saiu uma voz, dizendo: Este é o meu Filho amado, em quem pus o meu agrado; escutai-o.
 
 ---
 
@@ -3248,7 +3248,7 @@ _No batismo e na transfiguração, a voz do Pai diz do homem Jesus: Este é o me
 
 _Deus não poupou o seu próprio Filho, mas o entregou à morte: o que foi entregue e morreu — o homem — é o Filho próprio do Pai, e não um filho adotivo; é o lugar decisivo de toda a controvérsia adocionista_
 
-**32** Ele, que não poupou o seu próprio Filho, mas o entregou por todos nós, como não nos dará também, com ele, todas as coisas?
+**32** Aquele que nem ao próprio Filho poupou, mas por todos nós o entregou, como não nos dará com ele todas as coisas?
 
 ---
 
@@ -3262,35 +3262,35 @@ _A nós é dado tornar-nos filhos de Deus por adoção, no Filho que é primogê
 
 **12** Mas a todos os que o receberam deu o poder de se tornarem filhos de Deus: aos que creem no seu nome,
 
-**13** os quais não foram gerados do sangue, nem da vontade da carne, nem da vontade do homem, mas de Deus.
+**13** os quais não nasceram do sangue, nem da vontade da carne, nem da vontade do homem, mas de Deus.
 
 ### Romanos 8,14–17.29
 
 **14** Pois todos os que são conduzidos pelo Espírito de Deus, esses são filhos de Deus.
 
-**15** Não recebestes um espírito de escravidão, para recairdes no temor, mas recebestes o Espírito de adoção filial, no qual clamamos: Abba, Pai!
+**15** E não recebestes um espírito de escravidão, para recairdes no temor; recebestes o Espírito de adoção, no qual clamamos: Abba, Pai!
 
-**16** O próprio Espírito dá testemunho ao nosso espírito de que somos filhos de Deus.
+**16** O próprio Espírito dá testemunho, junto ao nosso espírito, de que somos filhos de Deus.
 
-**17** E, se filhos, também herdeiros: herdeiros de Deus e coerdeiros de Cristo, se é que sofremos com ele, para que também com ele sejamos glorificados.
+**17** E, se filhos, também herdeiros: herdeiros de Deus e coerdeiros de Cristo, contanto que soframos com ele, para com ele sermos glorificados.
 
-**29** Porque os que de antemão conheceu, também os predestinou a serem conformes à imagem do seu Filho, para que ele seja o primogênito entre muitos irmãos.
+**29** Porque aos que de antemão conheceu, também os predestinou a serem conformes à imagem de seu Filho, para que ele seja o primogênito entre muitos irmãos.
 
 ### Gálatas 4,4–7
 
-**4** Mas, quando veio a plenitude do tempo, enviou Deus o seu Filho, nascido de mulher, nascido sob a Lei,
+**4** Mas, quando veio a plenitude do tempo, Deus enviou o seu Filho, nascido de mulher, nascido sob a lei,
 
-**5** para resgatar os que estavam sob a Lei, a fim de que recebêssemos a adoção filial.
+**5** para resgatar os que estavam sob a lei, a fim de recebermos a adoção de filhos.
 
-**6** E, porque sois filhos, enviou Deus aos nossos corações o Espírito do seu Filho, que clama: Abba, Pai!
+**6** E, porque sois filhos, Deus enviou aos nossos corações o Espírito de seu Filho, que clama: Abba, Pai!
 
-**7** Assim, já não és escravo, mas filho; e, se és filho, és também herdeiro, por obra de Deus.
+**7** Portanto, já não és escravo, mas filho; e, se filho, também herdeiro, por graça de Deus.
 
 ### Efésios 1,5–6
 
-**5** predestinando-nos para sermos seus filhos adotivos por meio de Jesus Cristo, segundo o beneplácito da sua vontade,
+**5** Ele nos predestinou a ser seus filhos adotivos, por Jesus Cristo, segundo o beneplácito da sua vontade,
 
-**6** para louvor da glória da sua graça, com a qual nos agraciou no Amado.
+**6** para louvor da glória da sua graça, com que nos agraciou no Amado.
 
 ---
 
@@ -3304,7 +3304,7 @@ _Jesus ressuscitado diz meu Pai e vosso Pai, e não nosso Pai: nas palavras do p
 >
 > **Por que não.** Nenhum dos documentos da parte o cita (a conferir), e o versículo já está no eixo 2 e é também texto da ascensão (parte IX).
 
-**17** Disse-lhe Jesus: Não me retenhas, pois ainda não subi para o Pai; mas vai a meus irmãos e dize-lhes: Subo para meu Pai e vosso Pai, meu Deus e vosso Deus.
+**17** Disse-lhe Jesus: Não me retenhas, pois ainda não subi para o Pai; mas vai ter com os meus irmãos e dize-lhes: Subo para meu Pai e vosso Pai, para meu Deus e vosso Deus.
 
 ---
 
@@ -3472,11 +3472,11 @@ _Os anjos adoram o Primogênito que entra no mundo, e todos devem honrar o Filho
 
 ### Hebreus 1,6
 
-**6** E de novo, quando introduz o primogênito no mundo, diz: E adorem-no todos os anjos de Deus.
+**6** E, ao introduzir de novo o Primogênito no mundo, diz: E adorem-no todos os anjos de Deus.
 
 ### João 5,22–23
 
-**22** Pois o Pai não julga ninguém, mas deu ao Filho todo o julgamento,
+**22** Porque o Pai não julga ninguém, mas entregou todo o julgamento ao Filho,
 
 **23** para que todos honrem o Filho como honram o Pai. Quem não honra o Filho não honra o Pai que o enviou.
 
@@ -3488,13 +3488,13 @@ _Os anjos adoram o Primogênito que entra no mundo, e todos devem honrar o Filho
 
 _Os anjos e toda criatura dão ao Cordeiro imolado o mesmo louvor que dão àquele que está sentado no trono: a liturgia do céu adora o Cordeiro, que traz ainda as marcas da sua paixão, junto com Deus_
 
-**11** E vi, e ouvi a voz de muitos anjos ao redor do trono, dos seres viventes e dos anciãos; e o número deles era miríades de miríades e milhares de milhares,
+**11** Olhei e ouvi a voz de muitos anjos ao redor do trono, dos seres vivos e dos anciãos; o seu número era de miríades de miríades e milhares de milhares,
 
-**12** que diziam em alta voz: Digno é o Cordeiro que foi imolado de receber o poder, a riqueza, a sabedoria, a força, a honra, a glória e a bênção.
+**12** que diziam em alta voz: Digno é o Cordeiro que foi imolado de receber o poder, a riqueza, a sabedoria, a força, a honra, a glória e o louvor.
 
-**13** E toda criatura que está no céu, e sobre a terra, e debaixo da terra, e sobre o mar, e todas as coisas que neles há, ouvi que diziam: Àquele que está sentado no trono e ao Cordeiro, a bênção, a honra, a glória e o domínio, pelos séculos dos séculos.
+**13** E ouvi todas as criaturas que há no céu, na terra, debaixo da terra e no mar, e tudo o que neles existe, que diziam: Àquele que está sentado no trono e ao Cordeiro, o louvor, a honra, a glória e o poder pelos séculos dos séculos.
 
-**14** E os quatro seres viventes diziam: Amém. E os anciãos prostraram-se e adoraram.
+**14** E os quatro seres vivos diziam: Amém. E os anciãos se prostraram e adoraram.
 
 ---
 
@@ -3504,9 +3504,9 @@ _Os anjos e toda criatura dão ao Cordeiro imolado o mesmo louvor que dão àque
 
 _Não vistes figura alguma no dia em que o Senhor vos falou: a proibição das imagens do Decálogo (Ex 20,4–5, no eixo 10) tem por razão que Deus não tinha sido visto — e é essa razão que a encarnação vai mudar_
 
-**15** Guardai-vos bem, pela vossa vida: não vistes figura alguma no dia em que o Senhor vos falou no Horeb, do meio do fogo;
+**15** Guardai, pois, com muito cuidado as vossas almas, porque nenhuma figura vistes no dia em que o Senhor vos falou no Horeb, do meio do fogo,
 
-**16** não vos corrompais, fazendo para vós imagem esculpida, com a figura de qualquer ídolo, representação de homem ou de mulher.
+**16** para que não vos corrompais e façais para vós alguma imagem esculpida, figura de macho ou de fêmea,
 
 ---
 
@@ -3518,21 +3518,21 @@ _O mesmo Deus que proíbe as imagens manda fazer os querubins de ouro sobre a ar
 
 ### Êxodo 25,18–22
 
-**18** Farás dois querubins de ouro; de ouro batido os farás, nas duas extremidades do propiciatório.
+**18** Farás dois querubins de ouro batido nas duas extremidades do propiciatório,
 
-**19** Faze um querubim numa extremidade e o outro querubim na outra extremidade; formando uma só peça com o propiciatório, fareis os querubins nas suas duas extremidades.
+**19** um querubim numa extremidade e o outro na outra; farás os querubins formando uma só peça com o propiciatório, nas suas duas extremidades.
 
-**20** Os querubins terão as asas estendidas para cima, cobrindo com as asas o propiciatório, e as faces voltadas um para o outro; as faces dos querubins estarão voltadas para o propiciatório.
+**20** Os querubins terão as asas estendidas para o alto, cobrindo com elas o propiciatório; estarão voltados um para o outro, com o rosto voltado para o propiciatório,
 
-**21** Porás o propiciatório em cima da arca, e dentro da arca porás o testemunho que eu te darei.
+**21** que servirá de tampa para a arca; e na arca porás o Testemunho que eu te darei.
 
-**22** Ali me encontrarei contigo, e de cima do propiciatório, do meio dos dois querubins que estão sobre a arca do testemunho, falarei contigo de tudo o que eu te ordenar para os filhos de Israel.
+**22** Ali me encontrarei contigo e, de cima do propiciatório, do meio dos dois querubins que estão sobre a arca do Testemunho, te comunicarei tudo o que te ordenar para os filhos de Israel.
 
 ### Números 21,8–9
 
-**8** E o Senhor disse a Moisés: Faze para ti uma serpente ardente e põe-na sobre uma haste; e todo aquele que tiver sido mordido e olhar para ela viverá.
+**8** O Senhor disse a Moisés: Faze uma serpente abrasadora e põe-na sobre uma haste; todo o que for mordido e olhar para ela viverá.
 
-**9** Moisés fez então uma serpente de bronze e pô-la sobre a haste; e, quando uma serpente mordia alguém, este olhava para a serpente de bronze e vivia.
+**9** Moisés fez uma serpente de bronze e a pôs sobre a haste; e, quando uma serpente mordia alguém e ele olhava para a serpente de bronze, ficava vivo.
 
 ---
 
@@ -3544,27 +3544,27 @@ _O Filho é a imagem do Deus invisível, e quem o viu viu o Pai; a glória de De
 
 ### Colossenses 1,15
 
-**15** Ele é imagem do Deus invisível, primogênito de toda criatura,
+**15** Ele é a imagem do Deus invisível, o primogênito de toda criatura;
 
 ### João 14,8–9
 
 **8** Disse-lhe Filipe: Senhor, mostra-nos o Pai, e isso nos basta.
 
-**9** Disse-lhe Jesus: Há tanto tempo estou convosco, e não me conheceste, Filipe? Quem me viu, viu o Pai. Como dizes tu: Mostra-nos o Pai?
+**9** Disse-lhe Jesus: Há tanto tempo estou convosco, e não me conheces, Filipe? Quem me vê, vê o Pai. Como dizes tu: Mostra-nos o Pai?
 
 ### João 1,18
 
-**18** A Deus ninguém jamais viu; o Deus unigênito, que está no seio do Pai, esse o deu a conhecer.
+**18** A Deus, ninguém jamais o viu; o Deus Unigênito, que está no seio do Pai, esse o deu a conhecer.
 
 ### 2 Coríntios 4,4–6
 
 _Os de quem se fala no v. 4 são os que se perdem, do v. 3_
 
-**4** nos quais o deus deste século cegou o entendimento dos incrédulos, para que não vejam brilhar a luz do evangelho da glória de Cristo, que é imagem de Deus.
+**4** para os incrédulos, a quem o deus deste mundo cegou o entendimento, para que não resplandeça a luz do Evangelho da glória de Cristo, que é a imagem de Deus.
 
-**5** Pois não pregamos a nós mesmos, mas a Jesus Cristo, Senhor; e a nós mesmos, como vossos servos por causa de Jesus.
+**5** Pois não nos pregamos a nós mesmos, mas a Cristo Jesus como Senhor, e a nós mesmos como vossos servos, por causa de Jesus.
 
-**6** Porque o Deus que disse: Das trevas brilhe a luz, é o que brilhou nos nossos corações, para fazer resplandecer o conhecimento da glória de Deus no rosto de Jesus Cristo.
+**6** Porque Deus, que disse: «Das trevas brilhe a luz», foi quem brilhou nos nossos corações, para fazer resplandecer o conhecimento da glória de Deus, no rosto de Cristo.
 
 ---
 
@@ -3574,19 +3574,19 @@ _Os de quem se fala no v. 4 são os que se perdem, do v. 3_
 
 _Do lado aberto de Cristo morto saem sangue e água, e cumpre-se a Escritura: olharão para aquele que traspassaram — a cena de que partem Vienne, a Lumen gentium e a Haurietis aquas ao falar do Coração de Jesus_
 
-**31** Os judeus, então, como era o dia da Preparação, para que os corpos não ficassem na cruz durante o sábado — pois aquele sábado era um grande dia —, pediram a Pilatos que lhes quebrassem as pernas e fossem retirados.
+**31** Como era a preparação, para que os corpos não ficassem na cruz durante o sábado — pois aquele sábado era um dia solene —, os judeus pediram a Pilatos que lhes quebrassem as pernas e fossem retirados.
 
-**32** Vieram, pois, os soldados e quebraram as pernas do primeiro e do outro que tinha sido crucificado com ele.
+**32** Vieram, pois, os soldados e quebraram as pernas do primeiro e do outro que tinham sido crucificados com ele.
 
-**33** Mas, chegando a Jesus, como viram que já estava morto, não lhe quebraram as pernas;
+**33** Chegando, porém, a Jesus, e vendo que já estava morto, não lhe quebraram as pernas;
 
-**34** mas um dos soldados feriu-lhe o lado com uma lança, e logo saiu sangue e água.
+**34** mas um dos soldados abriu-lhe o lado com uma lança, e logo saiu sangue e água.
 
-**35** E aquele que viu deu testemunho, e o seu testemunho é verdadeiro; e ele sabe que diz a verdade, para que também vós creiais.
+**35** Aquele que viu dá testemunho, e o seu testemunho é verdadeiro; e ele sabe que diz a verdade, para que também vós creiais.
 
-**36** Pois estas coisas aconteceram para que se cumprisse a Escritura: Nenhum dos seus ossos será quebrado.
+**36** Porque estas coisas aconteceram para que se cumprisse a Escritura: Nenhum dos seus ossos será quebrado.
 
-**37** E outra Escritura diz ainda: Olharão para aquele que traspassaram.
+**37** E outra Escritura diz ainda: Hão de olhar para aquele que traspassaram.
 
 ---
 
@@ -3604,11 +3604,11 @@ _A Vulgata lê das fontes do Salvador, e é nessa forma que Pio XII tira do vers
 
 ### João 7,37–39
 
-**37** No último dia, o grande dia da festa, Jesus, de pé, clamou: Se alguém tem sede, venha a mim e beba.
+**37** No último dia, o maior da festa, Jesus estava de pé e exclamou: Se alguém tem sede, venha a mim e beba.
 
-**38** Quem crê em mim, como diz a Escritura, do seu seio correrão rios de água viva.
+**38** Quem crê em mim, como diz a Escritura, do seu interior correrão rios de água viva.
 
-**39** Disse isto a respeito do Espírito, que haviam de receber os que cressem nele; pois ainda não havia Espírito, porque Jesus ainda não tinha sido glorificado.
+**39** Isso disse ele do Espírito que haviam de receber os que nele cressem; pois ainda não havia Espírito, porque Jesus ainda não fora glorificado.
 
 ---
 
@@ -3620,23 +3620,23 @@ _Manso e humilde de coração; amou-me e entregou-se por mim; o amor de Cristo, 
 
 ### Mateus 11,28–30
 
-**28** Vinde a mim, todos os que estais cansados e sobrecarregados, e eu vos darei descanso.
+**28** Vinde a mim, todos vós que estais cansados e sobrecarregados, e eu vos aliviarei.
 
 **29** Tomai sobre vós o meu jugo e aprendei de mim, porque sou manso e humilde de coração, e encontrareis descanso para as vossas almas.
 
-**30** Pois o meu jugo é suave, e o meu fardo é leve.
+**30** Porque o meu jugo é suave, e o meu fardo é leve.
 
 ### Gálatas 2,20
 
-**20** Vivo, mas já não sou eu: é Cristo que vive em mim. E a vida que agora vivo na carne, vivo-a na fé no Filho de Deus, que me amou e se entregou por mim.
+**20** e já não sou eu que vivo: é Cristo que vive em mim. E a vida que agora vivo na carne, vivo-a na fé no Filho de Deus, que me amou e se entregou por mim.
 
 ### Efésios 3,17–19
 
-**17** e que Cristo habite pela fé nos vossos corações, de modo que, enraizados e alicerçados no amor,
+**17** que Cristo habite pela fé nos vossos corações; e que, arraigados e fundados no amor,
 
-**18** possais compreender, com todos os santos, qual é a largura, o comprimento, a altura e a profundidade,
+**18** possais compreender, com todos os santos, qual seja a largura e o comprimento, a altura e a profundidade,
 
-**19** e conhecer o amor de Cristo, que excede todo conhecimento, para que sejais cheios até toda a plenitude de Deus.
+**19** e conhecer o amor de Cristo, que excede todo conhecimento, para serdes cheios de toda a plenitude de Deus.
 
 ---
 
@@ -3994,29 +3994,29 @@ _A consagração responde ao amor de Cristo, a reparação à ofensa que ele sof
 
 ### A consagração e a reparação
 
-Mas a todos estes deveres, e sobretudo à consagração tão fecunda, como que confirmada pela sagrada solenidade de Cristo Rei, é preciso que se junte outro, de que nos apraz falar convosco agora um pouco mais longamente, Veneráveis Irmãos: o dever da honrosa satisfação, isto é, da reparação, como se diz, que se deve prestar ao sacratíssimo Coração de Jesus. Porque, se na consagração o primeiro e principal é que a criatura retribua com amor o amor do Criador, daí se segue naturalmente outra coisa: que ao mesmo Amor incriado, se alguma vez foi desprezado pelo esquecimento ou violado pela ofensa, se devem compensar de algum modo as injúrias que se lhe fizeram; e a esta dívida chamamos comumente reparação.
+Mas a todos esses deveres, e sobretudo à consagração tão fecunda, como que confirmada pela solenidade sagrada de Cristo Rei, é preciso que se acrescente outro, de que Nos apraz, Veneráveis Irmãos, falar agora convosco um pouco mais longamente: o dever, dizemos, da satisfação honrosa, ou reparação, como lhe chamam, que se há de prestar ao Sacratíssimo Coração de Jesus. Pois, se o primeiro e principal na consagração é que ao amor do Criador a criatura retribua com o seu amor, daí se segue por si mesmo um segundo: que ao mesmo Amor incriado, se alguma vez foi descuidado pelo esquecimento ou ferido pela ofensa, se devem compensar as injúrias que de algum modo lhe foram feitas. É esse dever que chamamos, com o nome corrente, reparação.
 
-E, embora para uma e outra coisa sejamos movidos exatamente pelas mesmas razões, ao dever de reparar e de expiar estamos obrigados por um título mais forte de justiça e de amor: de justiça, para que se expie a ofensa feita a Deus pelos nossos pecados e se restaure pela penitência a ordem violada; de amor, para que nos compadeçamos de Cristo, que padece e está saciado de opróbrios, e lhe levemos, na medida da nossa pequenez, algum consolo. Porque, sendo todos pecadores e carregados de muitas culpas, não devemos honrar o nosso Deus só com aquele culto com que adoramos a sua suma Majestade com as devidas homenagens, ou reconhecemos na oração o seu supremo domínio, ou louvamos com ações de graças a sua infinita generosidade; mas é preciso, além disso, que satisfaçamos a Deus, justo vingador, pelos nossos inumeráveis pecados, ofensas e negligências. À consagração, pois, pela qual somos votados a Deus e chamados santos de Deus, com aquela santidade e firmeza que, como ensina o Doutor Angélico, são próprias da consagração, deve acrescentar-se a expiação, pela qual os pecados se apagam de todo, para que a santidade da suma justiça não repila a nossa impudente indignidade e não afaste como odiosa, em vez de acolher como agradável, a nossa oferta.
+E, se somos impelidos a uma e outra coisa exatamente pelas mesmas razões, ao dever de reparar e expiar estamos obrigados por um título mais forte de justiça e de amor: de justiça, para que se expie a ofensa feita a Deus pelos nossos crimes e se restaure pela penitência a ordem violada; de amor, para que nos compadeçamos de Cristo que sofre, “saciado de opróbrios”, e lhe levemos algum consolo, na medida da nossa pequenez. Pois, sendo todos pecadores e carregados de muitas culpas, não devemos honrar o nosso Deus só com aquele culto com que adoramos a sua suprema Majestade com as devidas homenagens, ou reconhecemos com a oração o seu supremo domínio, ou louvamos com ações de graças a sua infinita generosidade; mas é preciso, além disso, que demos satisfação a Deus, justo vingador, “pelos inumeráveis pecados, ofensas e negligências” nossos. À consagração, portanto, pela qual nos oferecemos a Deus e somos chamados santos de Deus, com aquela santidade e firmeza que, como ensina o Doutor Angélico, são próprias da consagração, há de juntar-se a expiação, pela qual se apaguem completamente os pecados, para que a santidade da suprema justiça não repila a nossa atrevida indignidade e não rejeite a nossa oferta como odiosa, em vez de acolhê-la como agradável.
 
 ### Só Cristo expia, e nós com ele
 
-Mas nenhuma força criada bastava para expiar os crimes dos homens, se o Filho de Deus não tivesse assumido, para a reparar, a natureza humana. É o que o próprio Salvador dos homens anunciou pela boca do sagrado salmista: Não quiseste hóstia nem oblação, mas formaste-me um corpo; não te agradaram holocaustos pelo pecado; então eu disse: Eis que venho. E, na verdade, ele tomou sobre si as nossas enfermidades e carregou as nossas dores; foi ferido por causa das nossas iniquidades; e levou ele mesmo os nossos pecados no seu corpo sobre o madeiro…, cancelando o escrito de dívida que havia contra nós, cujo decreto nos era contrário, e tirou-o do meio, cravando-o na cruz…, para que, mortos para os pecados, vivamos para a justiça.
+Mas nenhuma força criada bastava para expiar os crimes dos homens, se o Filho de Deus não tivesse assumido a natureza humana para repará-la. Foi o que o próprio Salvador dos homens anunciou pela boca do sagrado Salmista: “Não quiseste sacrifício nem oblação, mas me formaste um corpo; não te agradaram os holocaustos pelo pecado; então eu disse: Eis que venho”. E de fato “verdadeiramente ele tomou sobre si as nossas enfermidades e carregou as nossas dores; foi ferido por causa das nossas iniquidades”, e “carregou ele mesmo os nossos pecados no seu corpo sobre o lenho… apagando o escrito do decreto que havia contra nós, que nos era contrário, e o tirou do meio, pregando-o na cruz… para que, mortos para os pecados, vivamos para a justiça”.
 
-Mas, ainda que a copiosa redenção de Cristo nos tenha perdoado abundantemente todos os pecados, por aquela admirável disposição da divina Sabedoria segundo a qual se deve completar na nossa carne o que falta às paixões de Cristo, pelo seu corpo, que é a Igreja, aos louvores e às satisfações que Cristo pagou a Deus em nome dos pecadores podemos, e mesmo devemos, acrescentar também os nossos louvores e as nossas satisfações. Mas devemos lembrar-nos sempre de que toda a virtude da expiação depende unicamente do sacrifício cruento de Cristo, que sem interrupção se renova de modo incruento nos nossos altares, porque é uma só e a mesma a hóstia, o mesmo que agora oferece pelo ministério dos sacerdotes aquele que então se ofereceu a si mesmo na cruz, sendo diverso só o modo de oferecer. Por isso, a este augustíssimo sacrifício eucarístico deve unir-se a imolação dos ministros e dos outros fiéis, para que também eles se ofereçam como hóstias vivas, santas, agradáveis a Deus. Mais ainda: são Cipriano não hesita em afirmar que o sacrifício do Senhor não se celebra com a santificação devida, se a nossa oblação e o nosso sacrifício não corresponderem à paixão.
+Mas, embora a copiosa redenção de Cristo nos tenha “perdoado todos os delitos” com abundância, por aquela admirável disposição da Sabedoria divina, segundo a qual se há de completar na nossa carne o que falta aos sofrimentos de Cristo, em favor do seu corpo, que é a Igreja, aos louvores e satisfações “que Cristo, em nome dos pecadores, pagou a Deus” podemos, e até devemos, acrescentar também os nossos louvores e satisfações. Mas é preciso lembrarmos sempre que toda a força da expiação depende unicamente do sacrifício cruento de Cristo, que sem interrupção se renova de modo incruento nos nossos altares, porque “é uma só e a mesma Vítima, o mesmo que agora se oferece pelo ministério dos sacerdotes e que então se ofereceu a si mesmo na cruz, sendo diverso apenas o modo de oferecer”; por isso, a esse augustíssimo sacrifício eucarístico deve unir-se a imolação tanto dos ministros como dos outros fiéis, para que também eles se ofereçam como “hóstias vivas, santas, agradáveis a Deus”. Mais ainda: São Cipriano não hesita em afirmar que “o sacrifício do Senhor não se celebra com a santificação legítima, se a nossa oblação e o nosso sacrifício não corresponderem à paixão”.
 
-Por isso nos exorta o Apóstolo a que, trazendo no nosso corpo a mortificação de Jesus, e sepultados com Cristo e plantados com ele à semelhança da sua morte, não só crucifiquemos a nossa carne com os vícios e as concupiscências, fugindo da corrupção da concupiscência que há no mundo, mas também a vida de Jesus se manifeste nos nossos corpos e, feitos participantes do seu sacerdócio eterno, ofereçamos dons e sacrifícios pelos pecados. Pois desta participação no misterioso sacerdócio e no ofício de satisfazer e de sacrificar não gozam apenas aqueles de quem o nosso Pontífice, Cristo Jesus, se serve como ministros para oferecer ao nome de Deus, em todo lugar, do nascer ao pôr do sol, a oblação pura; mas também todo o povo cristão, que o Príncipe dos Apóstolos chama com razão geração escolhida, sacerdócio real, deve oferecer pelos pecados, por si e por todo o gênero humano, quase do mesmo modo que todo sacerdote e pontífice, tomado dentre os homens, é constituído a favor dos homens nas coisas que se referem a Deus.
+Por isso o Apóstolo nos exorta a que, “trazendo no nosso corpo a mortificação de Jesus”, e sepultados com Cristo e unidos a Ele na semelhança da sua morte, não só crucifiquemos a nossa carne com os seus vícios e concupiscências, “fugindo da corrupção da concupiscência que há no mundo”, mas também “a vida de Jesus se manifeste nos nossos corpos” e, feitos participantes do seu sacerdócio eterno, ofereçamos “dons e sacrifícios pelos pecados”. Pois desse misterioso sacerdócio e do ofício de satisfazer e de sacrificar não participam só aqueles de quem o nosso Pontífice Cristo Jesus se serve como ministros para oferecer ao Nome divino, em todo lugar, do nascer ao pôr do sol, a oblação pura, mas também todo o povo cristão, com razão chamado pelo Príncipe dos Apóstolos “raça eleita, sacerdócio real”, deve oferecer pelos pecados, tanto por si como por todo o gênero humano, quase do mesmo modo que todo sacerdote e pontífice, “tomado dentre os homens, é constituído a favor dos homens nas coisas que dizem respeito a Deus”.
 
-E, quanto mais perfeitamente a nossa oblação e o nosso sacrifício corresponderem ao sacrifício do Senhor, isto é, quanto mais imolarmos o amor de nós mesmos e as nossas paixões e crucificarmos a carne com aquela crucifixão mística de que fala o Apóstolo, tanto mais abundantes frutos de propiciação e de expiação colheremos para nós e para os outros. Porque existe uma admirável união de todos os fiéis com Cristo, como a que há entre a cabeça e os demais membros do corpo; e também por aquela misteriosa comunhão dos santos, que professamos pela fé católica, tanto os indivíduos como os povos se unem não só entre si, mas também com aquele que é a cabeça, Cristo, pelo qual todo o corpo, bem ajustado e unido por todas as articulações que o sustentam, segundo a operação na medida de cada membro, realiza o seu crescimento para a sua edificação na caridade. Foi o que o próprio Mediador entre Deus e os homens, Cristo Jesus, perto da morte, pedira ao Pai: Eu neles e tu em mim, para que sejam consumados na unidade.
+E quanto mais perfeitamente a nossa oblação e o nosso sacrifício corresponderem ao sacrifício do Senhor, isto é, quanto mais tivermos imolado o amor-próprio e as nossas paixões e crucificado a carne com aquela crucifixão mística de que fala o Apóstolo, tanto mais abundantes frutos de propiciação e de expiação colheremos para nós e para os outros. Pois existe entre todos os fiéis e Cristo uma admirável união, como a que há entre a cabeça e os demais membros do corpo; e também pela misteriosa comunhão dos Santos, que professamos pela fé católica, tanto os indivíduos como os povos se unem não só entre si, mas também com aquele “que é a cabeça, Cristo, do qual todo o corpo, bem ajustado e unido por todas as juntas que o alimentam, segundo a atividade própria de cada membro, realiza o seu crescimento para se edificar na caridade”. Foi o que o próprio Mediador entre Deus e os homens, Cristo Jesus, às portas da morte, pediu ao Pai: “Eu neles e tu em mim, para que sejam consumados na unidade”.
 
-Assim, pois, como a consagração professa e fortalece a união com Cristo, assim a expiação começa essa mesma união, apagando as culpas; aperfeiçoa-a, participando dos sofrimentos de Cristo; e consuma-a, oferecendo vítimas pelos irmãos. E foi este, sem dúvida, o desígnio de Jesus misericordioso quando quis mostrar-nos aberto o seu Coração, com os sinais da paixão e as chamas do amor: que, considerando de um lado a malícia infinita do pecado e admirando de outro a caridade infinita do Reparador, detestássemos com mais força o pecado e correspondêssemos com mais ardor à caridade.
+Assim, pois, como a consagração professa e firma a união com Cristo, assim a expiação começa essa mesma união apagando as culpas, aperfeiçoa-a fazendo participar dos sofrimentos de Cristo e consuma-a oferecendo vítimas pelos irmãos. E esse foi sem dúvida o desígnio de Jesus misericordioso quando quis que se abrisse para nós o seu Coração, trazendo as insígnias da paixão e mostrando as chamas do amor: que, considerando de um lado a malícia infinita do pecado e admirando do outro a caridade infinita do Reparador, detestássemos com mais força o pecado e correspondêssemos com mais ardor à caridade.
 
 ### O consolo dado a Cristo
 
-Mas como podem estes atos de reparação consolar Cristo, que reina feliz nos céus? Dá-me alguém que ame, e ele sente o que digo — respondemos, servindo-nos das palavras de Agostinho, que vêm aqui muito a propósito.
+Mas como podem esses ritos de expiação consolar a Cristo, que reina bem-aventurado nos céus? Respondemos — “dá-me alguém que ame, e ele sente o que digo” — com as palavras de Agostinho, que se aplicam aqui perfeitamente.
 
-Todo aquele que ama muito a Deus, se olha para o tempo passado, vê pela meditação e contempla Cristo trabalhando pelo homem, sofrendo, padecendo as coisas mais duras, por nós, homens, e pela nossa salvação, quase consumido pela tristeza, pelas angústias e pelos opróbrios, mais ainda, triturado pelos nossos crimes, e curando-nos com as suas chagas. E tanto mais verdadeiramente meditam estas coisas as almas piedosas quanto os pecados e os crimes dos homens, cometidos em qualquer tempo, foram a causa de o Filho de Deus ser entregue à morte, e ainda agora, por si mesmos, haveriam de causar a Cristo a mesma morte, acompanhada das mesmas dores e aflições, pois se considera que cada um deles renova de certo modo a paixão do Senhor: crucificando de novo para si mesmos o Filho de Deus e expondo-o ao escárnio. Ora, se, por causa também dos nossos pecados, futuros mas previstos, a alma de Cristo ficou triste até a morte, não há dúvida de que já então recebeu algum consolo também da nossa reparação, igualmente prevista, quando lhe apareceu um anjo do céu para consolar o seu Coração oprimido de tédio e de angústias. E assim podemos e devemos, ainda agora, de modo admirável mas verdadeiro, consolar aquele Coração sacratíssimo, continuamente ferido pelos pecados dos homens ingratos; porque — como se lê também na sagrada liturgia — o próprio Cristo, pela boca do salmista, se queixa de ter sido abandonado pelos seus amigos: O meu Coração esperou o opróbrio e a miséria; e esperei quem se entristecesse comigo, e não houve; quem me consolasse, e não o encontrei.
+Pois todo aquele que ama de verdade a Deus, se olha para o tempo passado, vê na meditação e contempla a Cristo trabalhando pelo homem, sofrendo, padecendo as coisas mais duras, “por nós, homens, e para a nossa salvação”, quase consumido pela tristeza, pelas angústias, pelos opróbrios, e até “esmagado por causa dos nossos crimes”, e curando-nos com as suas chagas. E as almas piedosas meditam tudo isso com tanto mais verdade porque os pecados e os crimes dos homens, cometidos em qualquer tempo, foram a causa de o Filho de Deus ser entregue à morte, e ainda agora por si mesmos dariam a Cristo a mesma morte, unida às mesmas dores e tristezas, pois se considera que cada pecado renova, a seu modo, a paixão do Senhor: “Crucificando de novo para si mesmos o Filho de Deus e expondo-o ao escárnio”. E, se também por causa dos nossos pecados, que eram futuros mas estavam previstos, a alma de Cristo ficou triste até a morte, não há dúvida de que já então recebeu algum consolo também da nossa reparação, igualmente prevista, quando “lhe apareceu um Anjo do céu” para consolar o seu Coração oprimido pelo tédio e pelas angústias. E assim ainda agora podemos e devemos consolar, de modo admirável mas verdadeiro, aquele Coração sacratíssimo, que os pecados dos homens ingratos ferem continuamente, pois — como se lê também na sagrada liturgia — o próprio Cristo, pela boca do Salmista, se queixa de ser abandonado pelos seus amigos: “O meu Coração esperou o opróbrio e a miséria, e esperei quem se entristecesse comigo, e não houve ninguém, e quem me consolasse, e não o encontrei”.
 
-Acresce que a paixão expiadora de Cristo se renova e de certo modo continua e se completa no seu corpo místico, que é a Igreja. Pois, para usarmos de novo as palavras de santo Agostinho, Cristo padeceu tudo o que devia padecer; já nada falta à medida das paixões. As paixões, pois, estão completas, mas na cabeça; restavam ainda as paixões de Cristo no corpo. Foi o que o próprio Senhor Jesus se dignou declarar quando, falando a Saulo, que ainda respirava ameaças e morte contra os discípulos, disse: Eu sou Jesus, a quem tu persegues; dando claramente a entender que, nas perseguições movidas contra a Igreja, é a própria Cabeça divina da Igreja que é atacada e atormentada. Com toda a razão, pois, Cristo, que ainda padece no seu corpo místico, deseja ter-nos como companheiros da sua expiação; e assim o exige também a nossa própria união com ele: porque, sendo nós corpo de Cristo e membros de membro, tudo o que padece a cabeça é preciso que o padeçam com ela todos os membros.
+Acrescenta-se que a paixão expiadora de Cristo se renova e de algum modo continua e se completa no seu corpo místico, que é a Igreja. Pois, para usarmos de novo as palavras de Santo Agostinho, “Cristo padeceu tudo o que devia padecer; à medida dos sofrimentos já nada falta. Portanto, os sofrimentos foram cumpridos, mas na cabeça; restavam ainda os sofrimentos de Cristo no corpo”. Foi o que o próprio Senhor Jesus se dignou declarar quando, falando a Saulo, que “ainda respirava ameaças e morte contra os discípulos”, disse: “Eu sou Jesus, a quem tu persegues”, dando a entender claramente que, quando se movem perseguições contra a Igreja, é a própria Cabeça divina da Igreja que é atacada e atormentada. Com toda a razão, pois, Cristo, que ainda sofre no seu corpo místico, deseja ter-nos por companheiros da sua expiação, e isso o pede também a nossa própria união com Ele; pois, como somos “o corpo de Cristo e membros de um membro”, tudo o que a cabeça sofre é preciso que o sofram com ela todos os membros.
 
 ---
 
@@ -4190,9 +4190,9 @@ O que Cristo sabia como homem, e a sua isenção de todo pecado.
 
 _O menino crescia e enchia-se de sabedoria, e Jesus progredia em sabedoria diante de Deus e dos homens: é o texto que obriga a falar em Cristo de um conhecimento humano verdadeiro, capaz de crescer_
 
-**40** O menino crescia e se fortalecia, cheio de sabedoria; e a graça de Deus estava sobre ele.
+**40** O menino crescia e fortalecia-se, cheio de sabedoria, e a graça de Deus estava sobre ele.
 
-**52** E Jesus progredia em sabedoria, em estatura e em graça diante de Deus e dos homens.
+**52** E Jesus crescia em sabedoria, em estatura e em graça, diante de Deus e dos homens.
 
 ---
 
@@ -4220,11 +4220,11 @@ _Ninguém conhece o Pai senão o Filho, só aquele que vem de Deus viu o Pai, e 
 
 ### Mateus 11,25–27
 
-**25** Naquele tempo, tomando a palavra, disse Jesus: Eu te louvo, Pai, Senhor do céu e da terra, porque escondeste estas coisas aos sábios e entendidos, e as revelaste aos pequeninos.
+**25** Naquele tempo, disse Jesus: Eu te louvo, Pai, Senhor do céu e da terra, porque escondeste estas coisas aos sábios e prudentes e as revelaste aos pequeninos.
 
 **26** Sim, Pai, porque assim foi do teu agrado.
 
-**27** Todas as coisas me foram entregues por meu Pai; e ninguém conhece o Filho senão o Pai, e ninguém conhece o Pai senão o Filho, e aquele a quem o Filho o quiser revelar.
+**27** Tudo me foi entregue por meu Pai; e ninguém conhece o Filho senão o Pai, nem ninguém conhece o Pai senão o Filho, e aquele a quem o Filho o quiser revelar.
 
 ### João 6,46
 
@@ -4232,7 +4232,7 @@ _Ninguém conhece o Pai senão o Filho, só aquele que vem de Deus viu o Pai, e 
 
 ### João 8,55
 
-**55** E não o conheceis; eu, porém, o conheço. E, se eu dissesse que não o conheço, seria mentiroso como vós; mas eu o conheço e guardo a sua palavra.
+**55** E vós não o conheceis; eu, porém, o conheço. E, se disser que não o conheço, serei mentiroso como vós; mas eu o conheço e guardo a sua palavra.
 
 ---
 
@@ -4244,23 +4244,23 @@ _Jesus sabe o que há no homem, conhece no seu espírito os pensamentos dos que 
 
 ### João 2,24–25
 
-**24** Mas Jesus não se confiava a eles, porque os conhecia a todos,
+**24** Mas Jesus não se confiava a eles, porque os conhecia a todos
 
-**25** e não precisava de que alguém lhe desse testemunho acerca do homem, pois ele mesmo sabia o que havia no homem.
+**25** e não precisava de que alguém desse testemunho sobre o homem, pois ele sabia o que há no homem.
 
 ### Marcos 2,6–8
 
 **6** Estavam ali sentados alguns escribas, que pensavam nos seus corações:
 
-**7** Por que fala este assim? Blasfema. Quem pode perdoar pecados senão um só, Deus?
+**7** Por que este fala assim? Ele blasfema. Quem pode perdoar pecados, senão um só, que é Deus?
 
-**8** E logo Jesus, conhecendo no seu espírito que assim pensavam dentro de si, disse-lhes: Por que pensais estas coisas nos vossos corações?
+**8** Conhecendo logo Jesus, no seu espírito, que assim pensavam entre si, disse a eles: Por que pensais essas coisas nos vossos corações?
 
 ### João 1,47–48
 
-**47** Jesus viu Natanael, que vinha ao seu encontro, e disse dele: Eis um verdadeiro israelita, em quem não há fingimento.
+**47** Jesus viu Natanael vir ao seu encontro e disse dele: Eis um verdadeiro israelita, em quem não há falsidade.
 
-**48** Disse-lhe Natanael: De onde me conheces? Respondeu-lhe Jesus: Antes que Filipe te chamasse, quando estavas debaixo da figueira, eu te vi.
+**48** Natanael perguntou: Donde me conheces? Jesus respondeu: Antes de Filipe te chamar, eu te vi, quando estavas debaixo da figueira.
 
 ---
 
@@ -4272,13 +4272,13 @@ _O Verbo feito carne é cheio de graça e de verdade, e nele estão escondidos t
 
 ### João 1,14.16
 
-**14** E o Verbo se fez carne e habitou entre nós, e vimos a sua glória, glória como do Unigênito do Pai, cheio de graça e de verdade.
+**14** E o Verbo se fez carne e habitou entre nós; e vimos a sua glória, glória como do Unigênito do Pai, cheio de graça e de verdade.
 
-**16** Pois da sua plenitude todos nós recebemos, e graça sobre graça.
+**16** Da sua plenitude todos nós recebemos, e graça sobre graça.
 
 ### Colossenses 2,2–3
 
-**2** para que os seus corações sejam consolados e, unidos no amor, cheguem a toda a riqueza da plena certeza da inteligência, ao conhecimento do mistério de Deus, Cristo,
+**2** para que os seus corações se animem e, unidos no amor, alcancem toda a riqueza de uma plena inteligência, no conhecimento do mistério de Deus, que é Cristo,
 
 **3** em quem estão escondidos todos os tesouros da sabedoria e da ciência.
 
@@ -4292,13 +4292,13 @@ _Provado em tudo, exceto no pecado; santo, inocente, sem mancha; não conheceu p
 
 ### Hebreus 4,15
 
-**15** Pois não temos um sumo sacerdote incapaz de se compadecer das nossas fraquezas, mas um que foi provado em tudo à nossa semelhança, exceto no pecado.
+**15** Porque não temos um sumo sacerdote incapaz de compadecer-se das nossas fraquezas: ele foi provado em tudo, à nossa semelhança, exceto no pecado.
 
 ### Hebreus 7,26–27
 
-**26** Tal era, com efeito, o sumo sacerdote que nos convinha: santo, inocente, sem mancha, separado dos pecadores e elevado acima dos céus;
+**26** Convinha-nos, de fato, um sumo sacerdote assim: santo, inocente, imaculado, separado dos pecadores e elevado acima dos céus;
 
-**27** que não tem necessidade, como os sumos sacerdotes, de oferecer cada dia sacrifícios, primeiro pelos seus próprios pecados, depois pelos do povo; porque isto ele o fez uma vez por todas, oferecendo-se a si mesmo.
+**27** que não precisa, como os sumos sacerdotes, de oferecer cada dia sacrifícios, primeiro pelos próprios pecados e depois pelos do povo — porque isso o fez de uma vez por todas, oferecendo-se a si mesmo.
 
 ### 2 Coríntios 5,21
 
@@ -4310,11 +4310,11 @@ _Provado em tudo, exceto no pecado; santo, inocente, sem mancha; não conheceu p
 
 ### 1 João 3,5
 
-**5** E sabeis que ele se manifestou para tirar os pecados, e nele não há pecado.
+**5** E sabeis que ele se manifestou para tirar os pecados; e nele não há pecado.
 
 ### João 8,46
 
-**46** Quem de vós me convence de pecado? Se digo a verdade, por que não me credes?
+**46** Quem de vós me convence de pecado? Se digo a verdade, por que não credes em mim?
 
 ---
 
@@ -4332,29 +4332,29 @@ _Jesus foi tentado pelo diabo, de fora, sem que houvesse nele desordem alguma, e
 
 **1** Então Jesus foi conduzido pelo Espírito ao deserto, para ser tentado pelo diabo.
 
-**2** E, tendo jejuado quarenta dias e quarenta noites, por fim teve fome.
+**2** Depois de jejuar quarenta dias e quarenta noites, teve fome.
 
-**3** Aproximou-se então o tentador e disse-lhe: Se és Filho de Deus, dize que estas pedras se tornem pães.
+**3** O tentador aproximou-se e disse a ele: Se és Filho de Deus, manda que estas pedras se tornem pães.
 
-**4** Mas ele respondeu: Está escrito: Não só de pão viverá o homem, mas de toda palavra que sai da boca de Deus.
+**4** Ele respondeu: Está escrito: Não só de pão viverá o homem, mas de toda palavra que sai da boca de Deus.
 
-**5** Então o diabo levou-o à cidade santa, colocou-o sobre o pináculo do templo
+**5** Então o diabo o levou à Cidade Santa, colocou-o sobre o pináculo do Templo
 
-**6** e disse-lhe: Se és Filho de Deus, lança-te daqui abaixo, pois está escrito: Aos seus anjos dará ordens a teu respeito, e eles te tomarão nas mãos, para que não tropeces com o teu pé em alguma pedra.
+**6** e disse a ele: Se és Filho de Deus, lança-te daqui abaixo, pois está escrito: Aos seus anjos dará ordens a teu respeito, e eles te sustentarão nas mãos, para que não tropeces em alguma pedra.
 
-**7** Disse-lhe Jesus: Também está escrito: Não tentarás o Senhor teu Deus.
+**7** Jesus respondeu: Também está escrito: Não tentarás o Senhor, teu Deus.
 
-**8** De novo o diabo levou-o a um monte muito alto, mostrou-lhe todos os reinos do mundo e a sua glória
+**8** De novo o diabo o levou a um monte muito alto, mostrou a ele todos os reinos do mundo e a sua glória
 
-**9** e disse-lhe: Tudo isto te darei, se, prostrado, me adorares.
+**9** e disse: Tudo isto darei a ti, se, prostrado, me adorares.
 
-**10** Disse-lhe então Jesus: Vai-te, Satanás, pois está escrito: Adorarás o Senhor teu Deus, e só a ele prestarás culto.
+**10** Então Jesus disse a ele: Vai-te, Satanás, pois está escrito: Adorarás o Senhor, teu Deus, e só a ele prestarás culto.
 
-**11** Então o diabo deixou-o, e eis que se aproximaram anjos e o serviam.
+**11** Então o diabo o deixou; e eis que os anjos se aproximaram e o serviam.
 
 ### Hebreus 2,18
 
-**18** Pois, porque ele mesmo sofreu ao ser provado, pode socorrer os que são provados.
+**18** E, porque ele mesmo sofreu e foi provado, pode socorrer os que são provados.
 
 ---
 
@@ -4444,11 +4444,11 @@ _O que se lê é o erro condenado: que o sentido natural dos evangelhos não se 
 
 _As proposições estão enunciadas na forma em que são condenadas, isto é, como teses rejeitadas_
 
-**32.** Não se pode conciliar o sentido natural dos textos evangélicos com o que os nossos teólogos ensinam sobre a consciência e a ciência infalível de Jesus Cristo.
+**32.** O sentido natural dos textos evangélicos não pode conciliar-se com o que os nossos teólogos ensinam sobre a consciência e a ciência infalível de Jesus Cristo.
 
-**33.** É evidente para todo aquele que não se deixa guiar por opiniões preconcebidas que Jesus ou professou um erro acerca da vinda messiânica próxima, ou a maior parte da sua doutrina contida nos evangelhos sinóticos carece de autenticidade.
+**33.** É evidente para todo aquele que não se deixa levar por opiniões preconcebidas que, ou Jesus professou um erro sobre a próxima vinda messiânica, ou a maior parte da sua doutrina contida nos Evangelhos sinóticos carece de autenticidade.
 
-**34.** O crítico não pode atribuir a Cristo uma ciência não circunscrita por limite algum, a não ser fazendo uma hipótese que historicamente não se pode conceber e que repugna ao senso moral: a saber, que Cristo, enquanto homem, teve a ciência de Deus e, não obstante, não quis comunicar aos discípulos e à posteridade o conhecimento de tantas coisas.
+**34.** O crítico não pode atribuir a Cristo uma ciência não circunscrita por limite algum, a não ser fazendo uma hipótese que historicamente não se pode conceber e que repugna ao senso moral, a saber, que Cristo, como homem, teve a ciência de Deus e, não obstante, não quis comunicar o conhecimento de tantas coisas aos discípulos e à posteridade.
 
 **35.** Cristo nem sempre teve consciência da sua dignidade messiânica.
 
@@ -4662,37 +4662,37 @@ _O Servo do Senhor, desfigurado e desprezado, traspassado pelas nossas transgres
 
 ### Isaías 52,13–15
 
-**13** Eis que o meu servo terá êxito; será exaltado, elevado e posto muito alto.
+**13** Eis que o meu servo terá êxito; será exaltado, elevado e engrandecido ao extremo.
 
-**14** Assim como muitos ficaram pasmados diante de ti — tão desfigurado estava o seu aspecto, mais que o de qualquer homem, e a sua figura, mais que a dos filhos dos homens —,
+**14** Assim como muitos ficaram horrorizados ao vê-lo, tão desfigurado estava o seu aspecto, que não parecia um homem, e a sua aparência não era a de um ser humano,
 
-**15** assim ele aspergirá muitas nações; diante dele os reis fecharão a boca, porque verão o que não lhes fora contado, e compreenderão o que não tinham ouvido.
+**15** assim ele aspergirá muitas nações; diante dele os reis fecharão a boca, pois verão o que nunca lhes foi contado e compreenderão o que nunca ouviram.
 
 ### Isaías 53,1–12
 
-**1** Quem creu no que ouvimos? E a quem foi revelado o braço do Senhor?
+**1** Quem acreditou no que ouvimos? A quem foi revelado o braço do Senhor?
 
-**2** Cresceu diante dele como um rebento, como uma raiz que sai de terra árida; não tinha aparência nem beleza que atraísse o nosso olhar, nem aspecto que nos agradasse.
+**2** Ele cresceu diante dele como um rebento, como uma raiz em terra seca; não tinha beleza nem esplendor que atraísse os nossos olhares, nem aparência que nos agradasse.
 
-**3** Desprezado e rejeitado pelos homens, homem de dores, que conhecia o sofrimento, como alguém diante de quem se esconde o rosto, era desprezado, e não fizemos caso dele.
+**3** Era desprezado e rejeitado pelos homens, homem das dores, familiarizado com o sofrimento, como alguém diante de quem se esconde o rosto; desprezado, não fazíamos caso dele.
 
-**4** Na verdade, ele tomou sobre si as nossas enfermidades e carregou as nossas dores; e nós o tínhamos por castigado, ferido por Deus e humilhado.
+**4** No entanto, eram as nossas doenças que ele carregava, eram as nossas dores que ele levava; e nós o considerávamos um castigado, ferido por Deus e humilhado.
 
-**5** Mas ele foi traspassado pelas nossas transgressões, esmagado pelas nossas iniquidades; o castigo que nos dá a paz caiu sobre ele, e pelas suas chagas fomos curados.
+**5** Mas ele foi traspassado por causa das nossas transgressões, esmagado por causa das nossas iniquidades; o castigo que nos traz a paz caiu sobre ele, e pelas suas feridas fomos curados.
 
-**6** Todos nós andávamos errantes como ovelhas, cada um se desviava pelo seu caminho; e o Senhor fez cair sobre ele a iniquidade de todos nós.
+**6** Todos nós, como ovelhas, andávamos errantes, cada um seguia o seu próprio caminho; e o Senhor fez cair sobre ele a iniquidade de todos nós.
 
-**7** Foi maltratado, e ele se humilhou e não abriu a boca; como o cordeiro que é levado ao matadouro, e como a ovelha muda diante dos que a tosquiam, ele não abriu a boca.
+**7** Foi maltratado, mas se humilhou e não abriu a boca; como um cordeiro levado ao matadouro, como a ovelha muda diante dos tosquiadores, ele não abriu a boca.
 
-**8** Pela opressão e pelo julgamento foi arrebatado; e, da sua geração, quem considerou que ele era cortado da terra dos vivos, ferido pela transgressão do meu povo?
+**8** Pela opressão e pelo julgamento foi levado; e quem se preocupou com a sua sorte? Pois foi arrancado da terra dos vivos; foi ferido de morte pela transgressão do meu povo.
 
-**9** Deram-lhe sepultura com os ímpios, e com o rico na sua morte, embora não tivesse cometido violência nem houvesse engano na sua boca.
+**9** Deram-lhe a sepultura com os ímpios, e o túmulo com os ricos, embora ele não tivesse cometido violência nem houvesse engano na sua boca.
 
-**10** Mas aprouve ao Senhor esmagá-lo com o sofrimento. Quando ele oferecer a sua vida como sacrifício de expiação, verá uma descendência, prolongará os seus dias, e a vontade do Senhor prosperará pela sua mão.
+**10** Mas o Senhor quis esmagá-lo com o sofrimento. Se ele oferecer a sua vida em sacrifício de expiação, verá uma descendência, prolongará os seus dias, e a vontade do Senhor terá êxito por meio dele.
 
-**11** Depois do sofrimento da sua alma verá a luz e ficará saciado; pelo seu conhecimento, o justo, meu servo, justificará a muitos, e ele mesmo carregará as iniquidades deles.
+**11** Depois das angústias da sua alma, verá a luz e se saciará com o seu conhecimento. O justo, meu servo, justificará a muitos e carregará as iniquidades deles.
 
-**12** Por isso lhe darei a sua parte entre os grandes, e com os poderosos repartirá os despojos, porque entregou a sua vida à morte e foi contado entre os transgressores; ele carregou o pecado de muitos e intercedeu pelos transgressores.
+**12** Por isso lhe darei a multidão como herança, e com os poderosos repartirá os despojos, porque entregou a sua vida à morte e foi contado entre os malfeitores; ele carregou o pecado de muitos e intercedeu pelos transgressores.
 
 ---
 
@@ -4704,13 +4704,13 @@ _O Filho do homem veio para dar a vida em resgate por muitos, e o seu sangue é 
 
 ### Marcos 10,45
 
-**45** Pois também o Filho do homem não veio para ser servido, mas para servir e dar a sua vida em resgate por muitos.
+**45** Pois também o Filho do Homem não veio para ser servido, mas para servir e dar a sua vida em resgate por muitos.
 
 ### Mateus 26,27–28
 
-**27** E, tomando um cálice e dando graças, deu-o a eles, dizendo: Bebei dele todos,
+**27** E, tomando o cálice, deu graças e deu-o a eles, dizendo: Bebei dele todos,
 
-**28** pois isto é o meu sangue, o sangue da aliança, derramado por muitos para a remissão dos pecados.
+**28** porque isto é o meu sangue, o sangue da aliança, que é derramado por muitos para remissão dos pecados.
 
 ---
 
@@ -4720,7 +4720,7 @@ _O Filho do homem veio para dar a vida em resgate por muitos, e o seu sangue é 
 
 _Eis o Cordeiro de Deus, que tira o pecado do mundo: o Batista aponta em Jesus a vítima que o magistério dirá oferecida por todos_
 
-**29** No dia seguinte, João viu Jesus que vinha ao seu encontro, e disse: Eis o Cordeiro de Deus, que tira o pecado do mundo.
+**29** No dia seguinte, viu Jesus vir ao seu encontro e disse: Eis o Cordeiro de Deus, que tira o pecado do mundo.
 
 ---
 
@@ -4732,19 +4732,19 @@ _O bom pastor dá a vida pelas ovelhas, e ninguém a tira dele: ele a dá por si
 
 **11** Eu sou o bom pastor. O bom pastor dá a sua vida pelas ovelhas.
 
-**12** O mercenário, que não é pastor e a quem as ovelhas não pertencem, vê chegar o lobo, abandona as ovelhas e foge; e o lobo as arrebata e dispersa.
+**12** O mercenário, que não é pastor e a quem as ovelhas não pertencem, vê vir o lobo, abandona as ovelhas e foge — e o lobo as arrebata e dispersa —,
 
-**13** Ele foge porque é mercenário e não se importa com as ovelhas.
+**13** porque é mercenário e não se importa com as ovelhas.
 
-**14** Eu sou o bom pastor; conheço as minhas ovelhas, e as minhas ovelhas me conhecem,
+**14** Eu sou o bom pastor; conheço as minhas, e as minhas me conhecem,
 
 **15** assim como o Pai me conhece e eu conheço o Pai; e dou a minha vida pelas ovelhas.
 
-**16** Tenho ainda outras ovelhas, que não são deste redil; também a essas devo conduzir, e elas ouvirão a minha voz, e haverá um só rebanho e um só pastor.
+**16** Tenho ainda outras ovelhas, que não são deste redil; também a essas é necessário que eu conduza, e ouvirão a minha voz; e haverá um só rebanho e um só pastor.
 
-**17** É por isso que o Pai me ama: porque dou a minha vida, para retomá-la.
+**17** Por isso o Pai me ama: porque eu dou a minha vida, para de novo a receber.
 
-**18** Ninguém a tira de mim, mas eu a dou por mim mesmo. Tenho o poder de dá-la e tenho o poder de retomá-la. Este é o mandamento que recebi de meu Pai.
+**18** Ninguém a tira de mim, mas eu a dou por mim mesmo. Tenho poder de a dar e poder de a receber de novo. Este mandamento recebi de meu Pai.
 
 ---
 
@@ -4754,17 +4754,17 @@ _O bom pastor dá a vida pelas ovelhas, e ninguém a tira dele: ele a dá por si
 
 _Todos pecaram, e todos são justificados gratuitamente pela redenção que está em Cristo Jesus, a quem Deus expôs como propiciação no seu sangue: o texto que Trento cita para dizer quem Deus enviou e para quê_
 
-**21** Mas agora, sem a lei, manifestou-se a justiça de Deus, testemunhada pela lei e pelos profetas,
+**21** Agora, porém, sem a lei, manifestou-se a justiça de Deus, testemunhada pela Lei e pelos Profetas:
 
-**22** a justiça de Deus pela fé em Jesus Cristo, para todos os que creem. Pois não há distinção:
+**22** justiça de Deus pela fé em Jesus Cristo, para todos os que creem. Não há distinção:
 
-**23** todos pecaram e estão privados da glória de Deus,
+**23** todos pecaram e estão privados da glória de Deus;
 
-**24** e são justificados gratuitamente pela sua graça, por meio da redenção que está em Cristo Jesus,
+**24** e são justificados gratuitamente, pela graça dele, mediante a redenção que está em Cristo Jesus.
 
-**25** a quem Deus expôs como propiciação, pela fé, no seu sangue, para mostrar a sua justiça, por ter deixado passar os pecados cometidos outrora,
+**25** A ele Deus propôs como propiciação, pela fé, em seu sangue, para manifestar a sua justiça — pois deixara passar, na sua paciência, os pecados cometidos antes;
 
-**26** no tempo da paciência de Deus; para mostrar a sua justiça no tempo presente, de modo a ser ele justo e a justificar aquele que tem fé em Jesus.
+**26** para manifestar a sua justiça no tempo presente, a fim de ser ele justo e justificar aquele que vive da fé em Jesus.
 
 ---
 
@@ -4774,21 +4774,21 @@ _Todos pecaram, e todos são justificados gratuitamente pela redenção que est�
 
 _Cristo morreu pelos ímpios quando ainda éramos pecadores e inimigos, e pela obediência de um só muitos serão constituídos justos: a redenção como obra do amor de Deus que vem antes de qualquer mérito nosso_
 
-**6** Pois Cristo, quando ainda éramos fracos, no tempo devido morreu pelos ímpios.
+**6** Com efeito, quando ainda éramos fracos, Cristo, no tempo devido, morreu pelos ímpios.
 
-**7** Dificilmente alguém morrerá por um justo; por um homem de bem talvez alguém ainda tenha a coragem de morrer.
+**7** Dificilmente alguém morre por um justo; por um homem de bem, talvez haja quem se atreva a morrer.
 
-**8** Mas Deus mostra o seu amor para conosco em que, quando ainda éramos pecadores, Cristo morreu por nós.
+**8** Mas Deus prova o seu amor para conosco: quando ainda éramos pecadores, Cristo morreu por nós.
 
-**9** Com muito mais razão, pois, justificados agora pelo seu sangue, seremos por ele salvos da ira.
+**9** Muito mais, pois, agora que fomos justificados em seu sangue, seremos por ele salvos da ira.
 
-**10** Porque, se, quando éramos inimigos, fomos reconciliados com Deus pela morte do seu Filho, com muito mais razão, uma vez reconciliados, seremos salvos pela sua vida.
+**10** Porque, se, quando éramos inimigos, fomos reconciliados com Deus pela morte de seu Filho, muito mais, já reconciliados, seremos salvos pela sua vida.
 
-**11** E não só isso: também nos gloriamos em Deus por nosso Senhor Jesus Cristo, por meio do qual agora recebemos a reconciliação.
+**11** E não só isso: gloriamo-nos em Deus, por nosso Senhor Jesus Cristo, por quem agora recebemos a reconciliação.
 
-**18** Portanto, assim como pela queda de um só veio a condenação a todos os homens, assim também pelo ato de justiça de um só veio a todos os homens a justificação que dá a vida.
+**18** Assim, pois, como por uma só falta veio a condenação para todos os homens, assim também por um só ato de justiça vem para todos os homens a justificação que dá a vida.
 
-**19** Pois, assim como pela desobediência de um só homem muitos foram constituídos pecadores, assim também pela obediência de um só muitos serão constituídos justos.
+**19** Porque, como pela desobediência de um só homem muitos se tornaram pecadores, assim também pela obediência de um só muitos se tornarão justos.
 
 ---
 
@@ -4800,25 +4800,25 @@ _Um só morreu por todos, em Cristo Deus reconciliava consigo o mundo, aquele qu
 
 ### 2 Coríntios 5,14–21
 
-**14** Pois o amor de Cristo nos impele, a nós que julgamos assim: se um só morreu por todos, logo todos morreram.
+**14** Porque o amor de Cristo nos pressiona, convencidos de que um só morreu por todos; logo, todos morreram.
 
-**15** E ele morreu por todos, para que os que vivem já não vivam para si mesmos, mas para aquele que por eles morreu e ressuscitou.
+**15** E ele morreu por todos, para que os que vivem já não vivam para si, mas para aquele que por eles morreu e ressuscitou.
 
-**16** De modo que nós, desde agora, não conhecemos ninguém segundo a carne; e, ainda que tenhamos conhecido Cristo segundo a carne, agora já não o conhecemos assim.
+**16** Por isso, de agora em diante, a ninguém conhecemos segundo a carne; e, ainda que tenhamos conhecido Cristo segundo a carne, agora já não o conhecemos assim.
 
-**17** Portanto, se alguém está em Cristo, é uma nova criatura; as coisas antigas passaram, eis que se fizeram novas.
+**17** Portanto, se alguém está em Cristo, é nova criatura: as coisas antigas passaram; eis que surgiram coisas novas.
 
-**18** E tudo vem de Deus, que nos reconciliou consigo por meio de Cristo e nos confiou o ministério da reconciliação.
+**18** E tudo isso vem de Deus, que nos reconciliou consigo por Cristo e nos confiou o ministério da reconciliação.
 
-**19** Pois era Deus que, em Cristo, reconciliava consigo o mundo, não lhes imputando as suas faltas, e pôs em nós a palavra da reconciliação.
+**19** Porque Deus estava em Cristo reconciliando consigo o mundo, não imputando aos homens as suas transgressões, e pôs em nós a palavra da reconciliação.
 
-**20** Somos, pois, embaixadores em nome de Cristo, como se Deus exortasse por meio de nós. Em nome de Cristo vos suplicamos: reconciliai-vos com Deus.
+**20** Somos, pois, embaixadores de Cristo, como se Deus exortasse por meio de nós. Em nome de Cristo vos suplicamos: deixai-vos reconciliar com Deus.
 
 **21** Aquele que não conheceu pecado, Deus o fez pecado por nós, para que nele nos tornássemos justiça de Deus.
 
 ### Gálatas 3,13
 
-**13** Cristo resgatou-nos da maldição da lei, fazendo-se maldição por nós, pois está escrito: Maldito todo aquele que é suspenso no madeiro.
+**13** Cristo resgatou-nos da maldição da lei, fazendo-se por nós maldição — porque está escrito: Maldito todo aquele que é suspenso no madeiro —,
 
 ---
 
@@ -4830,21 +4830,21 @@ _Nele temos a redenção pelo seu sangue; pelo sangue da sua cruz Deus reconcili
 
 ### Efésios 1,7
 
-**7** Nele temos a redenção pelo seu sangue, a remissão das faltas, segundo a riqueza da sua graça,
+**7** Nele temos a redenção pelo seu sangue, a remissão dos pecados, segundo a riqueza da sua graça,
 
 ### Colossenses 1,19–20
 
-**19** Pois aprouve a Deus que nele habitasse toda a plenitude,
+**19** porque aprouve a Deus que nele habitasse toda a plenitude,
 
-**20** e por meio dele reconciliar consigo todas as coisas, pacificando pelo sangue da sua cruz, por meio dele, tanto as que estão na terra como as que estão nos céus.
+**20** e que por ele reconciliasse consigo todas as coisas, pacificando pelo sangue da sua cruz tanto as da terra como as dos céus.
 
 ### Colossenses 2,13–15
 
-**13** E a vós, que estáveis mortos pelas vossas faltas e pela incircuncisão da vossa carne, Deus vos deu a vida juntamente com ele, perdoando-nos todas as faltas;
+**13** E a vós, que estáveis mortos pelas vossas faltas e pela incircuncisão da vossa carne, deu-vos vida com ele, perdoando-nos todas as faltas.
 
-**14** cancelou o título de dívida que pesava contra nós, com as suas prescrições, e que nos era contrário, e o eliminou, cravando-o na cruz;
+**14** Cancelou o documento que nos era contrário, com as suas exigências, e o suprimiu, cravando-o na cruz.
 
-**15** e, despojando os principados e as potestades, expôs-os publicamente ao ridículo, triunfando deles na cruz.
+**15** Despojou os principados e as potestades, e os expôs publicamente, levando-os no seu cortejo de triunfo.
 
 ---
 
@@ -4856,11 +4856,11 @@ _Deus quer que todos os homens sejam salvos, e há um só mediador, o homem Cris
 
 **3** Isto é bom e agradável diante de Deus, nosso Salvador,
 
-**4** que quer que todos os homens sejam salvos e cheguem ao conhecimento da verdade.
+**4** que quer que todos os homens se salvem e cheguem ao conhecimento da verdade.
 
-**5** Porque há um só Deus, e um só mediador entre Deus e os homens, o homem Cristo Jesus,
+**5** Porque há um só Deus, e um só mediador entre Deus e os homens: Cristo Jesus, homem,
 
-**6** que se deu a si mesmo em resgate por todos: é este o testemunho dado no tempo devido.
+**6** que se entregou a si mesmo em resgate por todos — testemunho dado a seu tempo.
 
 ---
 
@@ -4872,13 +4872,13 @@ _Cristo é propiciação pelos nossos pecados, e não só pelos nossos, mas pelo
 
 ### 1 João 2,1–2
 
-**1** Filhinhos meus, escrevo-vos estas coisas para que não pequeis. Mas, se alguém pecar, temos um advogado junto do Pai, Jesus Cristo, o justo.
+**1** Meus filhinhos, escrevo-vos estas coisas para que não pequeis. Mas, se alguém pecar, temos junto do Pai um advogado: Jesus Cristo, o justo.
 
-**2** Ele é propiciação pelos nossos pecados, e não só pelos nossos, mas também pelos do mundo inteiro.
+**2** Ele é a vítima de expiação pelos nossos pecados; e não só pelos nossos, mas também pelos do mundo inteiro.
 
 ### 1 João 4,10
 
-**10** Nisto está o amor: não fomos nós que amamos a Deus, mas foi ele que nos amou e enviou o seu Filho como propiciação pelos nossos pecados.
+**10** Nisto está o amor: não fomos nós que amamos a Deus, mas foi ele que nos amou e enviou o seu Filho como vítima de expiação pelos nossos pecados.
 
 ---
 
@@ -4888,9 +4888,9 @@ _Cristo é propiciação pelos nossos pecados, e não só pelos nossos, mas pelo
 
 _Jesus, feito por um pouco menor que os anjos, provou a morte em favor de todos, e foi levado à perfeição pelos sofrimentos como autor da salvação: a morte de Cristo é por todos, e é o caminho da sua glória_
 
-**9** Mas aquele que por um pouco foi feito menor que os anjos, Jesus, nós o vemos coroado de glória e de honra por causa da morte que padeceu, para que, pela graça de Deus, provasse a morte em favor de todos.
+**9** Vemos, porém, Jesus, que por um pouco foi feito menor que os anjos, coroado de glória e de honra por ter sofrido a morte — para que, pela graça de Deus, experimentasse a morte em favor de todos.
 
-**10** Convinha, de fato, que aquele para quem e por meio de quem todas as coisas existem, querendo conduzir muitos filhos à glória, levasse à perfeição pelos sofrimentos o autor da salvação deles.
+**10** Convinha, com efeito, que aquele por quem e para quem tudo existe, querendo conduzir muitos filhos à glória, levasse à perfeição, pelo sofrimento, o autor da sua salvação.
 
 ---
 
@@ -4902,91 +4902,91 @@ _Cristo, sacerdote para sempre, ofereceu-se a si mesmo uma vez por todas, entrou
 
 ### Hebreus 7,23–27
 
-**23** Além disso, aqueles foram feitos sacerdotes em grande número, porque a morte os impedia de permanecer;
+**23** Além disso, aqueles sacerdotes foram muitos, porque a morte os impedia de permanecer;
 
-**24** mas este, porque permanece para sempre, possui um sacerdócio que não passa.
+**24** este, porém, porque permanece para sempre, tem um sacerdócio que não passa a outro.
 
-**25** Por isso pode também salvar de modo definitivo os que por meio dele se aproximam de Deus, visto que vive sempre para interceder por eles.
+**25** Por isso pode salvar definitivamente os que por ele se aproximam de Deus, sempre vivo para interceder por eles.
 
-**26** Tal era, com efeito, o sumo sacerdote que nos convinha: santo, inocente, sem mancha, separado dos pecadores e elevado acima dos céus;
+**26** Convinha-nos, de fato, um sumo sacerdote assim: santo, inocente, imaculado, separado dos pecadores e elevado acima dos céus;
 
-**27** que não tem necessidade, como os sumos sacerdotes, de oferecer cada dia sacrifícios, primeiro pelos seus próprios pecados, depois pelos do povo; porque isto ele o fez uma vez por todas, oferecendo-se a si mesmo.
+**27** que não precisa, como os sumos sacerdotes, de oferecer cada dia sacrifícios, primeiro pelos próprios pecados e depois pelos do povo — porque isso o fez de uma vez por todas, oferecendo-se a si mesmo.
 
 ### Hebreus 9,11–28
 
-**11** Mas Cristo, vindo como sumo sacerdote dos bens que já vieram, por meio de uma tenda maior e mais perfeita, não feita por mãos humanas, isto é, que não é desta criação,
+**11** Cristo, porém, veio como sumo sacerdote dos bens vindouros, por meio de uma tenda maior e mais perfeita, não feita por mão de homem — isto é, não deste mundo criado —,
 
-**12** e não com o sangue de bodes e de novilhos, mas com o seu próprio sangue, entrou uma vez por todas no santuário, tendo obtido uma redenção eterna.
+**12** e entrou uma vez por todas no santuário, não com sangue de bodes e de novilhos, mas com o próprio sangue, obtendo uma redenção eterna.
 
-**13** Pois, se o sangue de bodes e de touros e a cinza de uma novilha, aspergida sobre os que estão impuros, os santifica quanto à pureza da carne,
+**13** Porque, se o sangue de bodes e de touros e a cinza de uma novilha, aspergidos sobre os contaminados, os santificam para a pureza da carne,
 
-**14** quanto mais o sangue de Cristo, que pelo Espírito eterno se ofereceu a si mesmo a Deus como vítima sem mancha, purificará a nossa consciência das obras mortas, para servirmos ao Deus vivo!
+**14** quanto mais o sangue de Cristo, que, pelo Espírito eterno, se ofereceu a si mesmo, imaculado, a Deus, purificará a nossa consciência das obras mortas, para servirmos ao Deus vivo!
 
-**15** E por isso ele é mediador de uma aliança nova, para que, tendo havido uma morte para a redenção das transgressões cometidas sob a primeira aliança, os que foram chamados recebam a herança eterna prometida.
+**15** Por isso é mediador de uma aliança nova: uma vez sobrevinda a morte para remir as transgressões cometidas sob a primeira aliança, os chamados recebem a herança eterna prometida.
 
-**16** Pois, onde há testamento, é necessário que se comprove a morte do testador;
+**16** Onde há testamento, é necessário que se verifique a morte do testador.
 
-**17** porque um testamento só tem valor depois da morte, visto que não tem força enquanto vive o testador.
+**17** O testamento só tem valor depois da morte; não entra em vigor enquanto vive o testador.
 
-**18** Por isso nem mesmo a primeira aliança foi inaugurada sem sangue.
+**18** Por isso nem a primeira aliança foi inaugurada sem sangue.
 
-**19** Pois, depois de ter Moisés proclamado a todo o povo cada mandamento segundo a lei, tomou o sangue dos novilhos e dos bodes, com água, lã escarlate e hissopo, e aspergiu o próprio livro e todo o povo,
+**19** Moisés, com efeito, depois de promulgar a toda a assembleia todos os preceitos da lei, tomou o sangue dos novilhos e dos bodes, com água, lã escarlate e hissopo, e aspergiu o próprio livro e todo o povo,
 
-**20** dizendo: Este é o sangue da aliança que Deus vos ordenou.
+**20** dizendo: Este é o sangue da aliança que Deus prescreveu para vós.
 
-**21** E aspergiu igualmente com o sangue a tenda e todos os objetos do culto.
+**21** Do mesmo modo aspergiu com sangue o tabernáculo e todos os objetos do culto.
 
-**22** E, segundo a lei, quase todas as coisas se purificam com sangue, e sem efusão de sangue não há remissão.
+**22** Segundo a lei, quase tudo se purifica com sangue; e sem derramamento de sangue não há remissão.
 
-**23** Era, pois, necessário que as figuras das realidades celestes fossem purificadas com estes ritos, mas as próprias realidades celestes, com sacrifícios melhores do que estes.
+**23** Era, pois, necessário que as figuras das realidades celestes fossem purificadas desse modo; mas as próprias realidades celestes, por sacrifícios superiores a esses.
 
-**24** Pois Cristo não entrou num santuário feito por mãos humanas, figura do verdadeiro, mas no próprio céu, para comparecer agora diante da face de Deus em nosso favor;
+**24** Porque Cristo não entrou num santuário feito por mão de homem, figura do verdadeiro, mas no próprio céu, para comparecer agora, por nós, diante de Deus.
 
-**25** e não para se oferecer muitas vezes a si mesmo, como o sumo sacerdote entra cada ano no santuário com sangue alheio;
+**25** E não para se oferecer muitas vezes, como o sumo sacerdote, que entra cada ano no santuário com sangue alheio;
 
-**26** de outro modo, deveria ter padecido muitas vezes desde a fundação do mundo. Mas agora, uma só vez, na consumação dos séculos, manifestou-se para abolir o pecado pelo sacrifício de si mesmo.
+**26** do contrário, teria sido necessário que padecesse muitas vezes desde a criação do mundo. Agora, porém, manifestou-se uma só vez, no fim dos tempos, para destruir o pecado pelo sacrifício de si mesmo.
 
-**27** E, assim como está determinado que os homens morram uma só vez, e depois disso vem o juízo,
+**27** E, assim como aos homens está determinado morrer uma só vez, e depois disso o juízo,
 
-**28** assim também Cristo, oferecido uma só vez para tirar os pecados de muitos, aparecerá uma segunda vez, já sem relação com o pecado, aos que o esperam para a salvação.
+**28** assim também Cristo, oferecido uma só vez para tirar os pecados de muitos, aparecerá segunda vez, sem relação com o pecado, aos que o esperam para a salvação.
 
 ### Hebreus 10,1–18
 
-**1** Pois a lei, tendo apenas a sombra dos bens futuros, e não a própria imagem das realidades, nunca pode, com os mesmos sacrifícios que se oferecem sem cessar cada ano, levar à perfeição os que se aproximam.
+**1** A lei, tendo apenas a sombra dos bens futuros, e não a imagem real das coisas, jamais pode, com os mesmos sacrifícios oferecidos continuamente, ano após ano, levar à perfeição os que se aproximam.
 
-**2** Do contrário, não se teria deixado de oferecê-los, visto que os que prestam o culto, purificados uma vez por todas, já não teriam consciência alguma de pecados?
+**2** Do contrário, não teriam deixado de ser oferecidos? Pois os que prestam o culto, uma vez purificados, não teriam mais consciência de pecado.
 
-**3** Mas nesses sacrifícios se faz cada ano a lembrança dos pecados;
+**3** Mas, por esses sacrifícios, faz-se cada ano a memória dos pecados;
 
-**4** porque é impossível que o sangue de touros e de bodes tire pecados.
+**4** porque é impossível que o sangue de touros e de bodes tire os pecados.
 
-**5** Por isso, ao entrar no mundo, ele diz: Não quiseste sacrifício nem oferenda, mas preparaste-me um corpo;
+**5** Por isso, ao entrar no mundo, Cristo diz: Não quiseste sacrifício nem oblação, mas um corpo me formaste.
 
-**6** holocaustos e sacrifícios pelo pecado não te agradaram.
+**6** Não te agradaram holocaustos nem sacrifícios pelo pecado.
 
 **7** Então eu disse: Eis que venho — no rolo do livro está escrito a meu respeito — para fazer, ó Deus, a tua vontade.
 
-**8** Depois de dizer acima: Sacrifícios e oferendas, holocaustos e sacrifícios pelo pecado não quiseste nem te agradaram — e são oferecidos segundo a lei —,
+**8** Dizendo primeiro: Sacrifícios e oblações, holocaustos e sacrifícios pelo pecado não quiseste nem te agradaram — coisas que são oferecidas segundo a lei —,
 
-**9** disse então: Eis que venho para fazer a tua vontade. Suprime o primeiro para estabelecer o segundo.
+**9** acrescenta depois: Eis que venho para fazer a tua vontade. Assim suprime o primeiro regime, para estabelecer o segundo.
 
-**10** É por essa vontade que fomos santificados, pela oblação do corpo de Jesus Cristo, feita uma vez por todas.
+**10** É por essa vontade que somos santificados, pela oblação do corpo de Jesus Cristo, feita uma vez por todas.
 
-**11** E todo sacerdote se apresenta cada dia para exercer o seu ministério e oferecer muitas vezes os mesmos sacrifícios, que nunca podem tirar pecados;
+**11** Todo sacerdote está de pé, dia após dia, oferecendo muitas vezes os mesmos sacrifícios, que jamais podem tirar os pecados.
 
-**12** ele, porém, tendo oferecido pelos pecados um só sacrifício, sentou-se para sempre à direita de Deus,
+**12** Este, porém, tendo oferecido um único sacrifício pelos pecados, sentou-se para sempre à direita de Deus,
 
-**13** esperando daí em diante até que os seus inimigos sejam postos por escabelo dos seus pés.
+**13** aguardando que os seus inimigos sejam postos por escabelo dos seus pés.
 
-**14** Pois com uma só oblação levou à perfeição para sempre os que são santificados.
+**14** Porque, com uma só oblação, levou à perfeição para sempre os que são santificados.
 
-**15** E também o Espírito Santo nos dá testemunho disso; pois, depois de ter dito:
+**15** E disso nos dá testemunho também o Espírito Santo; pois, depois de dizer:
 
-**16** Esta é a aliança que farei com eles depois daqueles dias, diz o Senhor: porei as minhas leis nos seus corações e as escreverei na sua mente,
+**16** Esta é a aliança que firmarei com eles depois daqueles dias, diz o Senhor: porei as minhas leis nos seus corações e as escreverei no seu entendimento —
 
 **17** acrescenta: E dos seus pecados e das suas iniquidades não me lembrarei mais.
 
-**18** Ora, onde há remissão destas coisas, já não há oblação pelo pecado.
+**18** Ora, onde há remissão, já não há oblação pelo pecado.
 
 ---
 
@@ -4998,21 +4998,21 @@ _Fomos resgatados, não com ouro ou prata, mas com o sangue precioso de Cristo, 
 
 ### 1 Pedro 1,18–19
 
-**18** sabendo que não foi com coisas corruptíveis, com prata ou ouro, que fostes resgatados da vã conduta herdada de vossos pais,
+**18** sabendo que fostes resgatados do vosso vão modo de viver, herdado dos pais, não com coisas corruptíveis, como a prata ou o ouro,
 
-**19** mas com o sangue precioso de Cristo, como de um cordeiro sem defeito e sem mancha.
+**19** mas com o sangue precioso de Cristo, cordeiro sem defeito e sem mancha.
 
 ### 1 Pedro 2,21–25
 
-**21** Pois para isto fostes chamados, porque também Cristo padeceu por vós, deixando-vos um exemplo, para que sigais as suas pegadas.
+**21** É para isso que fostes chamados; porque também Cristo sofreu por vós, deixando-vos o exemplo, para que sigais os seus passos.
 
 **22** Ele não cometeu pecado, nem se achou engano na sua boca.
 
-**23** Quando o insultavam, não respondia com insultos; quando padecia, não ameaçava, mas entregava-se àquele que julga com justiça.
+**23** Injuriado, não injuriava; maltratado, não ameaçava; ao contrário, entregava-se àquele que julga com justiça.
 
-**24** Ele mesmo levou os nossos pecados no seu corpo sobre o madeiro, para que, mortos para os pecados, vivamos para a justiça; pelas suas chagas fostes curados.
+**24** Ele mesmo levou os nossos pecados no seu corpo, sobre o madeiro, para que, mortos aos pecados, vivamos para a justiça. Pelas suas chagas fostes curados.
 
-**25** Pois éreis como ovelhas desgarradas, mas agora voltastes ao pastor e guardião das vossas almas.
+**25** Porque éreis como ovelhas desgarradas; agora, porém, voltastes ao pastor e guardião das vossas almas.
 
 ---
 
@@ -5024,11 +5024,11 @@ _Não há salvação em nenhum outro, e ninguém vem ao Pai senão por Cristo: a
 
 ### Atos 4,12
 
-**12** E não há salvação em nenhum outro; pois não há debaixo do céu outro nome dado aos homens pelo qual devamos ser salvos.
+**12** E não há salvação em nenhum outro, pois não há debaixo do céu outro nome dado aos homens pelo qual devamos ser salvos.
 
 ### João 14,6
 
-**6** Disse-lhe Jesus: Eu sou o caminho, e a verdade, e a vida. Ninguém vem ao Pai senão por mim.
+**6** Disse-lhe Jesus: Eu sou o caminho, a verdade e a vida; ninguém vem ao Pai senão por mim.
 
 ---
 
@@ -5532,7 +5532,7 @@ Pela antiguidade dos tempos, estamos longe das origens e dos primórdios da salv
 
 _O que se lê é o erro condenado: que a morte expiatória de Cristo seria doutrina de Paulo, e não do Evangelho_
 
-**38.** A doutrina da morte expiatória de Cristo não é evangélica, mas somente paulina.
+**38.** A doutrina da morte expiatória de Cristo não é evangélica, mas apenas paulina.
 
 ---
 
@@ -5892,17 +5892,17 @@ Os mistérios da glorificação de Cristo.
 
 _Cristo morreu pelos nossos pecados, foi sepultado, ressuscitou ao terceiro dia e apareceu a Cefas, aos Doze e a mais de quinhentos irmãos: o anúncio mais antigo da ressurreição, com a cadeia das testemunhas_
 
-**3** Pois eu vos transmiti, em primeiro lugar, o que também recebi: que Cristo morreu pelos nossos pecados, segundo as Escrituras;
+**3** Porque vos transmiti, em primeiro lugar, o que também recebi: que Cristo morreu pelos nossos pecados, segundo as Escrituras;
 
 **4** que foi sepultado; que ressuscitou ao terceiro dia, segundo as Escrituras;
 
-**5** que apareceu a Cefas, e depois aos Doze.
+**5** e que apareceu a Cefas e, depois, aos Doze.
 
-**6** Depois apareceu a mais de quinhentos irmãos de uma só vez, dos quais a maior parte ainda vive, e alguns já adormeceram.
+**6** Depois apareceu a mais de quinhentos irmãos de uma só vez, dos quais a maioria vive até hoje, embora alguns tenham adormecido.
 
-**7** Depois apareceu a Tiago, e em seguida a todos os apóstolos.
+**7** Depois apareceu a Tiago e, em seguida, a todos os apóstolos.
 
-**8** Por último, depois de todos, apareceu também a mim, como a um abortivo.
+**8** Por último, apareceu também a mim, como a um abortivo.
 
 ---
 
@@ -5914,25 +5914,25 @@ _Se Cristo não ressuscitou, é vã a nossa fé; mas Cristo ressuscitou dos mort
 
 **12** Ora, se se prega que Cristo ressuscitou dos mortos, como dizem alguns dentre vós que não há ressurreição dos mortos?
 
-**13** Se não há ressurreição dos mortos, também Cristo não ressuscitou.
+**13** Se não há ressurreição dos mortos, então nem Cristo ressuscitou;
 
-**14** E, se Cristo não ressuscitou, vazia é a nossa pregação, e vazia também a vossa fé.
+**14** e, se Cristo não ressuscitou, vã é a nossa pregação, vã também é a vossa fé.
 
-**15** E somos até achados falsas testemunhas de Deus, porque demos testemunho contra Deus de que ele ressuscitou Cristo, a quem não ressuscitou, se de fato os mortos não ressuscitam.
+**15** E somos até encontrados como falsas testemunhas de Deus, porque testemunhamos contra Deus que ele ressuscitou a Cristo, a quem não ressuscitou, se de fato os mortos não ressuscitam.
 
-**16** Pois, se os mortos não ressuscitam, também Cristo não ressuscitou.
+**16** Porque, se os mortos não ressuscitam, nem Cristo ressuscitou;
 
-**17** E, se Cristo não ressuscitou, vã é a vossa fé; ainda estais nos vossos pecados.
+**17** e, se Cristo não ressuscitou, é inútil a vossa fé: ainda estais nos vossos pecados.
 
-**18** Então também os que adormeceram em Cristo pereceram.
+**18** E também os que adormeceram em Cristo pereceram.
 
-**19** Se é só para esta vida que pusemos a nossa esperança em Cristo, somos os mais dignos de compaixão de todos os homens.
+**19** Se é somente para esta vida que temos esperança em Cristo, somos os mais miseráveis de todos os homens.
 
-**20** Mas agora Cristo ressuscitou dos mortos, primícias dos que adormeceram.
+**20** Mas, de fato, Cristo ressuscitou dos mortos, como primícias dos que adormeceram.
 
-**21** Porque, visto que por um homem veio a morte, também por um homem veio a ressurreição dos mortos.
+**21** Porque, assim como por um homem veio a morte, também por um homem veio a ressurreição dos mortos.
 
-**22** Pois, assim como em Adão todos morrem, assim também em Cristo todos serão vivificados.
+**22** E, assim como em Adão todos morrem, assim também em Cristo todos serão vivificados.
 
 ---
 
@@ -5944,63 +5944,63 @@ _O sepulcro vazio, o anúncio do anjo, os panos de linho no chão e a primeira a
 
 ### Mateus 28,1–10
 
-**1** Passado o sábado, ao raiar o primeiro dia da semana, Maria Madalena e a outra Maria foram ver o sepulcro.
+**1** Passado o sábado, ao raiar do primeiro dia da semana, Maria Madalena e a outra Maria foram ver o sepulcro.
 
-**2** E eis que houve um grande terremoto; pois um anjo do Senhor desceu do céu, aproximou-se, removeu a pedra e sentou-se sobre ela.
+**2** E eis que houve um grande terremoto: um anjo do Senhor desceu do céu, aproximou-se, rolou a pedra e sentou-se sobre ela.
 
 **3** O seu aspecto era como o relâmpago, e a sua veste, branca como a neve.
 
-**4** Com medo dele, os guardas tremeram e ficaram como mortos.
+**4** De medo dele, os guardas tremeram e ficaram como mortos.
 
-**5** Mas o anjo, tomando a palavra, disse às mulheres: Vós, não temais; pois sei que procurais Jesus, o crucificado.
+**5** Mas o anjo, tomando a palavra, disse às mulheres: Vós não temais! Sei que procurais Jesus, o crucificado.
 
-**6** Não está aqui; pois ressuscitou, como tinha dito. Vinde, vede o lugar onde jazia.
+**6** Não está aqui: ressuscitou, como tinha dito. Vinde ver o lugar onde jazia.
 
-**7** E ide depressa dizer aos seus discípulos que ressuscitou dos mortos, e eis que vai à vossa frente para a Galileia; lá o vereis. Eis o que eu vos disse.
+**7** E ide depressa dizer aos seus discípulos: Ressuscitou dos mortos, e eis que vai à vossa frente para a Galileia; lá o vereis. Eis que eu vos disse.
 
-**8** E, saindo depressa do sepulcro, com temor e grande alegria, correram a dar a notícia aos seus discípulos.
+**8** Elas partiram depressa do sepulcro, com temor e grande alegria, e correram a dar a notícia aos discípulos.
 
-**9** E eis que Jesus lhes saiu ao encontro, dizendo: Alegrai-vos. Elas se aproximaram, abraçaram-lhe os pés e o adoraram.
+**9** E eis que Jesus veio ao encontro delas e disse: Salve! Elas aproximaram-se, abraçaram-lhe os pés e o adoraram.
 
-**10** Então Jesus lhes disse: Não temais; ide anunciar a meus irmãos que vão para a Galileia, e lá me verão.
+**10** Então Jesus disse-lhes: Não temais; ide anunciar a meus irmãos que vão para a Galileia, e lá me verão.
 
 ### João 20,1–18
 
-**1** No primeiro dia da semana, Maria Madalena foi ao sepulcro de madrugada, estando ainda escuro, e viu a pedra retirada do sepulcro.
+**1** No primeiro dia da semana, Maria Madalena foi ao sepulcro de madrugada, quando ainda estava escuro, e viu que a pedra tinha sido retirada do sepulcro.
 
-**2** Correu então e foi ter com Simão Pedro e com o outro discípulo, aquele que Jesus amava, e disse-lhes: Tiraram o Senhor do sepulcro, e não sabemos onde o puseram.
+**2** Correu, então, e foi ter com Simão Pedro e com o outro discípulo, aquele que Jesus amava, e disse-lhes: Tiraram o Senhor do sepulcro, e não sabemos onde o puseram!
 
-**3** Saiu então Pedro com o outro discípulo, e foram ao sepulcro.
+**3** Saíram, pois, Pedro e o outro discípulo, e foram ao sepulcro.
 
-**4** Corriam os dois juntos, mas o outro discípulo correu adiante, mais depressa que Pedro, e chegou primeiro ao sepulcro.
+**4** Corriam os dois juntos, mas o outro discípulo correu mais depressa do que Pedro e chegou primeiro ao sepulcro;
 
-**5** E, inclinando-se, viu os panos de linho postos no chão; mas não entrou.
+**5** e, inclinando-se, viu os panos de linho postos no chão, mas não entrou.
 
-**6** Chegou então também Simão Pedro, que o seguia, e entrou no sepulcro; e viu os panos de linho postos no chão,
+**6** Chegou também Simão Pedro, que o seguia, e entrou no sepulcro; e viu os panos de linho postos no chão
 
-**7** e o sudário que estivera sobre a cabeça dele, não posto com os panos de linho, mas enrolado à parte, num lugar.
+**7** e o sudário que tinha estado sobre a cabeça dele, não posto com os panos de linho, mas enrolado num lugar à parte.
 
-**8** Então entrou também o outro discípulo, que chegara primeiro ao sepulcro, e viu e creu.
+**8** Então entrou também o outro discípulo, que tinha chegado primeiro ao sepulcro; e viu, e creu.
 
 **9** Pois ainda não tinham compreendido a Escritura, segundo a qual ele devia ressuscitar dos mortos.
 
-**10** Os discípulos voltaram então para casa.
+**10** E os discípulos voltaram para casa.
 
-**11** Maria, porém, estava junto ao sepulcro, do lado de fora, chorando. Enquanto chorava, inclinou-se para dentro do sepulcro
+**11** Maria, porém, estava junto ao sepulcro, do lado de fora, chorando. Enquanto chorava, inclinou-se para o sepulcro
 
-**12** e viu dois anjos vestidos de branco, sentados onde tinha jazido o corpo de Jesus, um à cabeceira e outro aos pés.
+**12** e viu dois anjos vestidos de branco, sentados onde tinha sido posto o corpo de Jesus, um à cabeceira e outro aos pés.
 
-**13** E eles lhe disseram: Mulher, por que choras? Ela lhes disse: Porque tiraram o meu Senhor, e não sei onde o puseram.
+**13** Eles disseram-lhe: Mulher, por que choras? Ela respondeu: Tiraram o meu Senhor, e não sei onde o puseram.
 
-**14** Dito isto, voltou-se para trás e viu Jesus de pé, mas não sabia que era Jesus.
+**14** Dito isso, voltou-se para trás e viu Jesus de pé, mas não sabia que era Jesus.
 
-**15** Disse-lhe Jesus: Mulher, por que choras? A quem procuras? Ela, pensando que era o jardineiro, disse-lhe: Senhor, se foste tu que o levaste, dize-me onde o puseste, e eu irei buscá-lo.
+**15** Disse-lhe Jesus: Mulher, por que choras? A quem procuras? Ela, julgando que era o jardineiro, disse-lhe: Senhor, se foste tu que o levaste, dize-me onde o puseste, e eu o irei buscar.
 
 **16** Disse-lhe Jesus: Maria! Ela, voltando-se, disse-lhe em hebraico: Rabbuni! — que quer dizer Mestre.
 
-**17** Disse-lhe Jesus: Não me retenhas, pois ainda não subi para o Pai; mas vai a meus irmãos e dize-lhes: Subo para meu Pai e vosso Pai, meu Deus e vosso Deus.
+**17** Disse-lhe Jesus: Não me retenhas, pois ainda não subi para o Pai; mas vai ter com os meus irmãos e dize-lhes: Subo para meu Pai e vosso Pai, para meu Deus e vosso Deus.
 
-**18** Maria Madalena foi anunciar aos discípulos: Vi o Senhor! E contou que ele lhe tinha dito estas coisas.
+**18** Maria Madalena foi anunciar aos discípulos: Vi o Senhor! E contou o que ele lhe tinha dito.
 
 ---
 
@@ -6010,35 +6010,35 @@ _O sepulcro vazio, o anúncio do anjo, os panos de linho no chão e a primeira a
 
 _Deus ressuscitou Jesus, porque não era possível que a morte o retivesse; não foi abandonado na mansão dos mortos, nem a sua carne viu a corrupção; exaltado à direita de Deus, foi feito Senhor e Cristo: no primeiro discurso de Pedro, os três mistérios desta parte_
 
-**22** Homens de Israel, ouvi estas palavras: Jesus, o Nazareno, homem acreditado por Deus junto de vós com milagres, prodígios e sinais, que Deus realizou por meio dele no meio de vós, como vós mesmos sabeis,
+**22** Israelitas, ouvi estas palavras: Jesus, o Nazareno, homem que Deus acreditou diante de vós com milagres, prodígios e sinais, que Deus realizou por meio dele no meio de vós, como vós mesmos sabeis —
 
-**23** este, entregue segundo o desígnio determinado e a presciência de Deus, vós o matastes, cravando-o na cruz pela mão de ímpios.
+**23** este homem, entregue segundo o desígnio determinado e a presciência de Deus, vós o matastes, pregando-o na cruz pelas mãos de gente sem lei.
 
-**24** Mas Deus o ressuscitou, livrando-o das dores da morte, porque não era possível que fosse retido por ela.
+**24** Mas Deus o ressuscitou, libertando-o das dores da morte, porque não era possível que ela o retivesse em seu poder.
 
-**25** Pois Davi diz a respeito dele: Eu tinha sempre o Senhor diante de mim, porque ele está à minha direita, para que eu não vacile.
+**25** Pois Davi diz a respeito dele: Eu via sempre o Senhor diante de mim; ele está à minha direita, para que eu não vacile.
 
-**26** Por isso se alegrou o meu coração e exultou a minha língua; e até a minha carne repousará na esperança,
+**26** Por isso alegrou-se o meu coração, e a minha língua exultou; e até a minha carne repousará na esperança,
 
-**27** porque não abandonarás a minha alma na mansão dos mortos, nem permitirás que o teu Santo veja a corrupção.
+**27** porque não abandonarás a minha alma na morada dos mortos, nem permitirás que o teu Santo veja a corrupção.
 
-**28** Deste-me a conhecer os caminhos da vida; tu me encherás de alegria com a tua presença.
+**28** Deste-me a conhecer os caminhos da vida; tu me encherás de alegria na tua presença.
 
-**29** Irmãos, seja-me permitido dizer-vos com franqueza, a respeito do patriarca Davi, que ele morreu e foi sepultado, e o seu túmulo está entre nós até o dia de hoje.
+**29** Irmãos, seja-me permitido dizer-vos com franqueza, a respeito do patriarca Davi, que ele morreu e foi sepultado, e o seu sepulcro está entre nós até o dia de hoje.
 
-**30** Sendo, pois, profeta, e sabendo que Deus lhe tinha jurado com juramento que um descendente do seu sangue se sentaria no seu trono,
+**30** Mas, sendo profeta e sabendo que Deus lhe jurara solenemente que faria sentar no seu trono um descendente seu,
 
-**31** previu e falou da ressurreição do Cristo: que ele não foi abandonado na mansão dos mortos, nem a sua carne viu a corrupção.
+**31** previu a ressurreição de Cristo e falou dela: que ele não foi abandonado na morada dos mortos, e a sua carne não viu a corrupção.
 
-**32** A este Jesus, Deus o ressuscitou, e disso todos nós somos testemunhas.
+**32** Foi a este Jesus que Deus ressuscitou, e disso todos nós somos testemunhas.
 
-**33** Exaltado, pois, à direita de Deus, e tendo recebido do Pai o Espírito Santo prometido, derramou isto que vós vedes e ouvis.
+**33** Exaltado, pois, à direita de Deus, e tendo recebido do Pai o Espírito Santo prometido, ele o derramou, como estais vendo e ouvindo.
 
-**34** Pois Davi não subiu aos céus, mas ele mesmo diz: Disse o Senhor ao meu Senhor: Senta-te à minha direita,
+**34** Pois Davi não subiu aos céus; mas ele mesmo diz: Disse o Senhor ao meu Senhor: Senta-te à minha direita,
 
 **35** até que eu ponha os teus inimigos por escabelo dos teus pés.
 
-**36** Saiba, pois, com certeza toda a casa de Israel que Deus o fez Senhor e Cristo, a este Jesus que vós crucificastes.
+**36** Saiba, pois, com certeza toda a casa de Israel que Deus fez Senhor e Cristo este Jesus que vós crucificastes.
 
 ---
 
@@ -6050,15 +6050,15 @@ _Durante quarenta dias o Ressuscitado apresentou-se vivo com muitas provas, não
 
 ### Atos 1,3
 
-**3** A eles também, depois da sua paixão, se apresentou vivo com muitas provas, aparecendo-lhes durante quarenta dias e falando-lhes do reino de Deus.
+**3** A eles se mostrou vivo depois da sua paixão, com muitas provas, aparecendo-lhes durante quarenta dias e falando-lhes do Reino de Deus.
 
 ### Atos 10,39–41
 
-**39** E nós somos testemunhas de tudo o que ele fez na região dos judeus e em Jerusalém. Eles o mataram, suspendendo-o num madeiro.
+**39** E nós somos testemunhas de tudo o que ele fez na terra dos judeus e em Jerusalém. Eles o mataram, suspendendo-o num madeiro.
 
-**40** Deus o ressuscitou ao terceiro dia e concedeu-lhe que se manifestasse,
+**40** Mas Deus o ressuscitou ao terceiro dia e concedeu-lhe manifestar-se,
 
-**41** não a todo o povo, mas às testemunhas escolhidas de antemão por Deus, a nós, que comemos e bebemos com ele depois que ressuscitou dos mortos.
+**41** não a todo o povo, mas às testemunhas que Deus escolhera de antemão, a nós, que comemos e bebemos com ele depois que ressuscitou dos mortos;
 
 ---
 
@@ -6070,17 +6070,17 @@ _Constituído Filho de Deus com poder pela ressurreição, entregue pelos nossos
 
 ### Romanos 1,4
 
-**4** constituído Filho de Deus com poder, segundo o Espírito de santidade, pela ressurreição dos mortos: Jesus Cristo, nosso Senhor.
+**4** constituído Filho de Deus em poder, segundo o Espírito de santidade, pela ressurreição dos mortos: Jesus Cristo, nosso Senhor.
 
 ### Romanos 4,25
 
-**25** o qual foi entregue por causa das nossas faltas e ressuscitado por causa da nossa justificação.
+**25** o qual foi entregue por causa das nossas faltas e ressuscitado para a nossa justificação.
 
 ### Romanos 6,4.9
 
-**4** Fomos, pois, sepultados com ele pelo batismo na morte, para que, assim como Cristo foi ressuscitado dos mortos pela glória do Pai, assim também nós caminhemos numa vida nova.
+**4** Fomos, pois, sepultados com ele pelo batismo na morte, para que, como Cristo ressuscitou dos mortos pela glória do Pai, assim também nós caminhemos em novidade de vida.
 
-**9** sabendo que Cristo, ressuscitado dos mortos, já não morre: a morte já não tem domínio sobre ele.
+**9** sabendo que Cristo, ressuscitado dos mortos, já não morre: a morte não tem mais domínio sobre ele.
 
 ---
 
@@ -6092,15 +6092,15 @@ _Morto na carne e vivificado no espírito, Cristo foi pregar aos espíritos que 
 
 ### 1 Pedro 3,18–20
 
-**18** Pois também Cristo padeceu uma vez pelos pecados, o justo pelos injustos, para vos conduzir a Deus; morto na carne, mas vivificado no espírito,
+**18** Também Cristo morreu uma vez pelos pecados, o justo pelos injustos, para vos conduzir a Deus; morto na carne, foi vivificado no Espírito.
 
-**19** no qual foi também pregar aos espíritos que estavam na prisão,
+**19** Nele foi também pregar aos espíritos que estavam na prisão,
 
-**20** os quais outrora tinham sido desobedientes, quando a paciência de Deus esperava, nos dias de Noé, enquanto se construía a arca, na qual poucas pessoas, isto é, oito almas, foram salvas por meio da água.
+**20** aos que outrora foram rebeldes, quando a paciência de Deus esperava, nos dias de Noé, enquanto se construía a arca, na qual poucos — isto é, oito pessoas — foram salvos através da água.
 
 ### 1 Pedro 4,6
 
-**6** Pois para isto foi o Evangelho anunciado também aos mortos: para que, julgados na carne segundo os homens, vivam no espírito segundo Deus.
+**6** Foi para isso que se anunciou o Evangelho também aos mortos: para que, julgados segundo os homens na carne, vivam segundo Deus no espírito.
 
 ---
 
@@ -6112,21 +6112,21 @@ _O que subiu acima dos céus é o mesmo que desceu às regiões inferiores da te
 
 ### Efésios 4,8–10
 
-**8** Por isso diz: Subindo ao alto, levou cativo o cativeiro, deu dons aos homens.
+**8** Por isso diz: Subindo ao alto, levou cativo o cativeiro e deu dons aos homens.
 
-**9** Que quer dizer subiu, senão que também desceu às regiões inferiores da terra?
+**9** Ora, que quer dizer subiu, senão que primeiro havia descido às regiões inferiores da terra?
 
 **10** Aquele que desceu é o mesmo que subiu acima de todos os céus, para encher todas as coisas.
 
 ### Mateus 12,40
 
-**40** Pois, assim como Jonas esteve três dias e três noites no ventre do monstro marinho, assim estará o Filho do homem três dias e três noites no coração da terra.
+**40** Porque, assim como Jonas esteve três dias e três noites no ventre do grande peixe, assim estará o Filho do Homem três dias e três noites no coração da terra.
 
 ### Apocalipse 1,17–18
 
-**17** Quando o vi, caí a seus pés como morto. Mas ele pôs sobre mim a sua mão direita, dizendo: Não temas; eu sou o Primeiro e o Último,
+**17** Ao vê-lo, caí a seus pés como morto. Mas ele pôs sobre mim a mão direita e disse: Não temas. Eu sou o primeiro e o último,
 
-**18** e o que vive; estive morto, e eis que estou vivo pelos séculos dos séculos, e tenho as chaves da morte e da mansão dos mortos.
+**18** o que vive. Estive morto, e eis que vivo pelos séculos dos séculos, e tenho as chaves da morte e do abismo.
 
 ---
 
@@ -6142,17 +6142,17 @@ _Enquanto os abençoava, foi elevado ao céu à vista deles, uma nuvem o subtrai
 
 **51** E aconteceu que, enquanto os abençoava, separou-se deles e foi elevado ao céu.
 
-**52** E eles, tendo-o adorado, voltaram para Jerusalém com grande alegria;
+**52** Eles o adoraram e voltaram para Jerusalém com grande alegria;
 
 **53** e estavam continuamente no templo, bendizendo a Deus.
 
 ### Atos 1,9–11
 
-**9** Dito isto, foi elevado à vista deles, e uma nuvem o subtraiu aos seus olhos.
+**9** Dito isso, foi elevado à vista deles, e uma nuvem o ocultou aos seus olhos.
 
-**10** E, estando eles com os olhos fitos no céu enquanto ele se ia, eis que se puseram junto deles dois homens vestidos de branco,
+**10** E, enquanto tinham os olhos fixos no céu, para onde ele ia, eis que dois homens vestidos de branco se apresentaram junto deles
 
-**11** que disseram: Homens da Galileia, por que estais olhando para o céu? Este Jesus, que do meio de vós foi elevado ao céu, virá do mesmo modo como o vistes ir para o céu.
+**11** e disseram: Homens da Galileia, por que ficais aí olhando para o céu? Este Jesus, que do meio de vós foi elevado ao céu, virá do mesmo modo como o vistes partir para o céu.
 
 ### Marcos 16,19
 
@@ -6168,33 +6168,33 @@ _Senta-te à minha direita: ressuscitado, Cristo está sentado à direita de Deu
 
 ### Salmo 109 (110),1
 
-**1** De Davi. Salmo. Oráculo do Senhor ao meu senhor: Senta-te à minha direita, até que eu ponha os teus inimigos por escabelo dos teus pés.
+**1** De Davi. Salmo. Disse o Senhor ao meu senhor: Senta-te à minha direita, até que eu ponha os teus inimigos por escabelo dos teus pés.
 
 ### Efésios 1,20–23
 
-**20** que ele operou em Cristo, ressuscitando-o dos mortos e fazendo-o sentar à sua direita nos céus,
+**20** que ele exerceu em Cristo, ressuscitando-o dos mortos e fazendo-o sentar-se à sua direita, nos céus,
 
-**21** acima de todo principado, potestade, poder e dominação, e de todo nome que se nomeia, não só neste século, mas também no futuro.
+**21** acima de todo principado, potestade, poder e dominação, e de todo nome que se possa nomear, não só neste século, mas também no vindouro.
 
-**22** E tudo sujeitou debaixo dos seus pés, e o deu por cabeça, acima de todas as coisas, à Igreja,
+**22** Tudo sujeitou debaixo dos seus pés, e o constituiu, acima de tudo, cabeça da Igreja,
 
-**23** que é o seu corpo, a plenitude daquele que tudo plenifica em todos.
+**23** que é o seu corpo, a plenitude daquele que a tudo enche em todas as coisas.
 
 ### Romanos 8,34
 
-**34** Quem condenará? Cristo Jesus, que morreu, ou antes, que ressuscitou, que está à direita de Deus, que também intercede por nós?
+**34** Quem condenará? Cristo Jesus, que morreu, ou antes, que ressuscitou, está à direita de Deus e intercede por nós.
 
 ### Hebreus 7,25
 
-**25** Por isso pode também salvar perfeitamente os que por meio dele se aproximam de Deus, visto que vive sempre para interceder por eles.
+**25** Por isso pode salvar definitivamente os que por ele se aproximam de Deus, sempre vivo para interceder por eles.
 
 ### Hebreus 9,24
 
-**24** Pois Cristo não entrou num santuário feito por mãos humanas, figura do verdadeiro, mas no próprio céu, para se apresentar agora diante da face de Deus em nosso favor.
+**24** Porque Cristo não entrou num santuário feito por mão de homem, figura do verdadeiro, mas no próprio céu, para comparecer agora, por nós, diante de Deus.
 
 ### Colossenses 3,1
 
-**1** Se, pois, ressuscitastes com Cristo, buscai as coisas do alto, onde Cristo está sentado à direita de Deus.
+**1** Portanto, se ressuscitastes com Cristo, buscai as coisas do alto, onde Cristo está sentado à direita de Deus.
 
 ---
 
@@ -6456,9 +6456,9 @@ _O que se lê é o erro condenado: que a ressurreição do Salvador não é prop
 
 _As proposições estão enunciadas na forma em que são condenadas, isto é, como teses rejeitadas_
 
-**36.** A ressurreição do Salvador não é propriamente um fato de ordem histórica, mas um fato de ordem puramente sobrenatural, nem demonstrado nem demonstrável, que a consciência cristã derivou pouco a pouco de outros.
+**36.** A ressurreição do Salvador não é propriamente um fato de ordem histórica, mas um fato de ordem meramente sobrenatural, nem demonstrado nem demonstrável, que a consciência cristã derivou pouco a pouco de outros.
 
-**37.** A fé na ressurreição de Cristo foi, no princípio, fé não tanto no próprio fato da ressurreição quanto na vida imortal de Cristo junto de Deus.
+**37.** A fé na ressurreição de Cristo foi, no início, não tanto a fé no próprio fato da ressurreição quanto na vida imortal de Cristo junto de Deus.
 
 ---
 
@@ -6560,17 +6560,17 @@ _Eu mesmo consagrei o meu rei sobre Sião; senta-te à minha direita: os dois sa
 
 ### Salmo 2,6–8
 
-**6** Eu mesmo consagrei o meu rei sobre Sião, o meu monte santo.
+**6** Fui eu que constituí o meu rei sobre Sião, meu monte santo.
 
-**7** Anunciarei o decreto do Senhor. Ele me disse: Tu és meu filho, eu hoje te gerei.
+**7** Anunciarei o decreto do Senhor. Ele me disse: Tu és meu filho; eu hoje te gerei.
 
-**8** Pede-me, e eu te darei as nações por herança, e por possessão os confins da terra.
+**8** Pede-me, e te darei as nações por herança, e os confins da terra por possessão.
 
 ### Salmo 109 (110),1–2
 
-**1** De Davi. Salmo. Oráculo do Senhor ao meu senhor: Senta-te à minha direita, até que eu ponha os teus inimigos por escabelo dos teus pés.
+**1** De Davi. Salmo. Disse o Senhor ao meu senhor: Senta-te à minha direita, até que eu ponha os teus inimigos por escabelo dos teus pés.
 
-**2** O Senhor estenderá desde Sião o cetro do teu poder: domina no meio dos teus inimigos.
+**2** O cetro do teu poder estenderá o Senhor desde Sião: domina no meio dos teus inimigos.
 
 ---
 
@@ -6586,15 +6586,15 @@ _Um menino nos nasceu, e o principado está sobre os seus ombros; ao Filho do ho
 
 ### Isaías 9,5–6
 
-**5** Porque um menino nasceu para nós, um filho nos foi dado; o principado está sobre os seus ombros, e o seu nome será: Conselheiro admirável, Deus forte, Pai para sempre, Príncipe da paz.
+**5** Pois um menino nasceu para nós, um filho nos foi dado; o poder repousa sobre os seus ombros, e ele será chamado Maravilhoso Conselheiro, Deus forte, Pai para sempre, Príncipe da paz.
 
-**6** Grande será o seu principado, e a paz não terá fim, sobre o trono de Davi e sobre o seu reino, para o firmar e sustentar pelo direito e pela justiça, desde agora e para sempre. O zelo do Senhor dos exércitos fará isto.
+**6** Grande será o seu domínio, e a paz não terá fim sobre o trono de Davi e sobre o seu reino, para firmá-lo e consolidá-lo com o direito e a justiça, desde agora e para sempre: o zelo do Senhor dos exércitos fará isso.
 
 ### Daniel 7,13–14
 
-**13** Eu olhava nas visões da noite, e eis que vinha com as nuvens do céu um como filho de homem; chegou até o Ancião de dias, e fizeram-no aproximar-se dele.
+**13** Eu olhava, nas visões da noite, e eis que, com as nuvens do céu, vinha um como Filho de homem; chegou até o Ancião dos dias e foi levado à sua presença;
 
-**14** E foi-lhe dado o domínio, a glória e o reino, e todos os povos, nações e línguas o serviram. O seu domínio é um domínio eterno, que não passará, e o seu reino não será destruído.
+**14** e lhe foram dados o domínio, a glória e o reino; todos os povos, nações e línguas o serviram: o seu domínio é um domínio eterno, que não passará, e o seu reino jamais será destruído.
 
 ---
 
@@ -6608,9 +6608,9 @@ _O Senhor Deus lhe dará o trono de Davi, e o seu reino não terá fim: o anúnc
 >
 > **Por que não.** A parte sobre a realeza de Cristo ainda está em avaliação; e a anunciação inteira (Lc 1,26–38) já está no dossiê bíblico, bloco 7, de modo que estes dois versículos a repetem.
 
-**32** Este será grande e será chamado Filho do Altíssimo, e o Senhor Deus lhe dará o trono de Davi, seu pai;
+**32** Ele será grande, será chamado Filho do Altíssimo, e o Senhor Deus dará a ele o trono de Davi, seu pai;
 
-**33** e reinará sobre a casa de Jacó para sempre, e o seu reino não terá fim.
+**33** reinará para sempre sobre a casa de Jacó, e o seu reino não terá fim.
 
 ---
 
@@ -6624,15 +6624,15 @@ _Diante de Pilatos, Jesus declara-se rei e diz que o seu reino não é deste mun
 >
 > **Por que não.** A parte sobre a realeza de Cristo ainda está em avaliação, e o texto só entra com ela.
 
-**33** Pilatos entrou de novo no pretório, chamou Jesus e disse-lhe: Tu és o rei dos judeus?
+**33** Pilatos entrou de novo no pretório, chamou Jesus e disse-lhe: És tu o rei dos judeus?
 
-**34** Jesus respondeu: Dizes isto por ti mesmo, ou outros te disseram isto de mim?
+**34** Jesus respondeu: Dizes isso por ti mesmo, ou outros te disseram isso de mim?
 
-**35** Pilatos respondeu: Acaso sou eu judeu? A tua nação e os sumos sacerdotes entregaram-te a mim. Que fizeste?
+**35** Respondeu Pilatos: Porventura sou eu judeu? A tua nação e os sumos sacerdotes entregaram-te a mim. Que fizeste?
 
-**36** Jesus respondeu: O meu reino não é deste mundo. Se o meu reino fosse deste mundo, os meus servidores teriam lutado para que eu não fosse entregue aos judeus. Mas o meu reino não é daqui.
+**36** Jesus respondeu: O meu Reino não é deste mundo. Se o meu Reino fosse deste mundo, os meus servidores teriam lutado para que eu não fosse entregue aos judeus; mas o meu Reino não é daqui.
 
-**37** Disse-lhe então Pilatos: Logo, tu és rei? Jesus respondeu: Tu o dizes: eu sou rei. Para isto nasci e para isto vim ao mundo: para dar testemunho da verdade. Todo aquele que é da verdade ouve a minha voz.
+**37** Disse-lhe então Pilatos: Logo, tu és rei? Jesus respondeu: Tu dizes que eu sou rei. Para isso nasci e para isso vim ao mundo: para dar testemunho da verdade. Todo o que é da verdade ouve a minha voz.
 
 ---
 
@@ -6648,17 +6648,17 @@ _Todo o poder no céu e na terra foi dado ao Ressuscitado, que há de reinar at�
 
 ### Mateus 28,18
 
-**18** E Jesus, aproximando-se, falou-lhes dizendo: Foi-me dado todo poder no céu e na terra.
+**18** Jesus aproximou-se e falou-lhes, dizendo: Foi-me dado todo o poder no céu e na terra.
 
 ### 1 Coríntios 15,24–28
 
-**24** Depois virá o fim, quando ele entregar o reino a Deus Pai, depois de ter destruído todo principado, toda potestade e todo poder.
+**24** em seguida, o fim, quando ele entregar o Reino a Deus e Pai, depois de destruir todo principado e toda autoridade e poder.
 
-**25** Pois é preciso que ele reine até que ponha todos os inimigos debaixo dos seus pés.
+**25** Porque é preciso que ele reine, até que ponha todos os inimigos debaixo dos seus pés.
 
 **26** O último inimigo a ser destruído é a morte.
 
-**27** Pois ele sujeitou todas as coisas debaixo dos seus pés. Mas, quando diz que todas as coisas lhe estão sujeitas, é claro que se excetua aquele que lhe sujeitou todas as coisas.
+**27** Porque todas as coisas ele sujeitou debaixo dos seus pés. E, quando diz que todas as coisas estão sujeitas, é claro que se excetua aquele que lhe sujeitou todas as coisas.
 
 **28** E, quando todas as coisas lhe estiverem sujeitas, então também o próprio Filho se sujeitará àquele que lhe sujeitou todas as coisas, para que Deus seja tudo em todos.
 
@@ -6666,15 +6666,15 @@ _Todo o poder no céu e na terra foi dado ao Ressuscitado, que há de reinar at�
 
 _Saudação às sete igrejas: graça e paz da parte daquele que é, que era e que vem, e dos sete espíritos diante do seu trono_
 
-**5** e da parte de Jesus Cristo, a testemunha fiel, o primogênito dos mortos e o príncipe dos reis da terra. Àquele que nos ama e nos libertou dos nossos pecados com o seu sangue,
+**5** e da parte de Jesus Cristo, a testemunha fiel, o primogênito dentre os mortos e o príncipe dos reis da terra. Àquele que nos ama e nos libertou dos nossos pecados pelo seu sangue,
 
-**6** e fez de nós um reino, sacerdotes para Deus, seu Pai, a ele a glória e o poder pelos séculos dos séculos. Amém.
+**6** e fez de nós um reino, sacerdotes para Deus, seu Pai — a ele a glória e o poder pelos séculos dos séculos. Amém.
 
 ### Apocalipse 19,16
 
 _O cavaleiro que sai do céu aberto, chamado Fiel e Verdadeiro, cujo nome é o Verbo de Deus_
 
-**16** E no manto e na coxa tem escrito um nome: Rei dos reis e Senhor dos senhores.
+**16** No manto e na coxa traz escrito um nome: Rei dos reis e Senhor dos senhores.
 
 ---
 
@@ -6710,7 +6710,7 @@ _Cristo tem o domínio de todas as criaturas, não arrancado pela força nem rec
 >
 > **Por que não.** É uma frase só, que o leitor já encontra dentro da encíclica, e o seu lugar exato no comentário, conservado em grande parte só em siríaco, é incerto; não foi possível conferi-la pelo grego, e a tradução segue o latim da encíclica.
 
-Ele tem, para dizê-lo numa palavra, o domínio de todas as criaturas, não arrancado pela força nem recebido de outra parte, mas pela sua própria essência e natureza.
+Ele tem, numa palavra, o domínio de todas as criaturas, não arrancado pela força nem trazido de fora, mas pela sua essência e natureza.
 
 ---
 
@@ -6772,19 +6772,19 @@ _Cristo é rei não só em sentido figurado, mas próprio, e enquanto homem: o f
 
 ### Rei em sentido próprio, e enquanto homem
 
-Que Cristo seja chamado rei em sentido figurado, pelo supremo grau de excelência com que sobressai e se eleva acima de todas as coisas criadas, é uso já antigo e comum. Assim se diz que ele reina nas mentes dos homens, não tanto pela agudeza da sua mente e pela amplitude da sua ciência, quanto porque ele mesmo é a Verdade, e é necessário que os mortais bebam dele a verdade e a recebam com obediência; e nas vontades dos homens, porque nele não só à santidade da vontade divina corresponde perfeitamente a integridade e a obediência da vontade humana, mas também porque, com a sua moção e inspiração, sujeita a si a nossa vontade livre, de modo que nos inflamemos pelas coisas mais nobres. Cristo é reconhecido, enfim, como rei dos corações, pela sua caridade, que excede todo conhecimento, e pela mansidão e bondade com que atrai os ânimos: pois ninguém jamais foi amado, nem jamais há de ser amado, por todos os povos como Cristo Jesus. Mas, para entrar mais a fundo no assunto, todos veem que o nome e o poder de rei, no sentido próprio da palavra, devem ser reivindicados para Cristo enquanto homem; pois só enquanto homem se pode dizer que recebeu do Pai o poder, a honra e o reino, uma vez que o Verbo de Deus, que tem com o Pai a mesma substância, não pode deixar de ter tudo em comum com o Pai, e por conseguinte o império supremo e absolutíssimo sobre todas as coisas criadas.
+Que, em sentido figurado, se chame rei a Cristo, pelo sumo grau de excelência com que sobressai e se eleva entre todas as coisas criadas, é uso antigo e comum. Assim, diz-se que Ele reina *nas inteligências dos homens*, não tanto pela agudeza da sua mente e pela amplitude da sua ciência, quanto porque Ele mesmo é a Verdade, e é dele que os mortais precisam haurir e receber com obediência a verdade; reina também *nas vontades dos homens*, porque nele não só à santidade da vontade divina corresponde inteiramente a perfeita integridade e submissão da vontade humana, mas também porque Ele, com o seu impulso e a sua inspiração, de tal modo submete a nossa livre vontade que nos inflamamos para tudo o que há de mais nobre. Reconhece-se, enfim, Cristo como *rei dos corações*, por aquela sua *caridade que excede toda a ciência* e pela mansidão e benignidade que atraem as almas: com efeito, nunca aconteceu, nem acontecerá jamais, que alguém seja tão amado por todos os povos como Cristo Jesus. Mas, para entrar mais a fundo na questão, todos veem que o nome e o poder de rei, no sentido próprio da palavra, se devem atribuir a Cristo homem; pois só enquanto homem se pode dizer que recebeu do Pai *o poder e a honra e o reino*, visto que o Verbo de Deus, que tem com o Pai a mesma substância, não pode deixar de ter em comum com o Pai todas as coisas e, por isso, o próprio império supremo e absolutíssimo sobre todas as coisas criadas.
 
 ### O fundamento: a união hipostática e a redenção
 
-Em que fundamento assentam esta dignidade e este poder de nosso Senhor, observa-o com acerto Cirilo de Alexandria: Ele tem, para dizê-lo numa palavra, o domínio de todas as criaturas, não arrancado pela força nem recebido de outra parte, mas pela sua própria essência e natureza; isto é, o seu principado apoia-se naquela admirável união a que chamam hipostática. Daí se segue não só que Cristo deve ser adorado como Deus pelos anjos e pelos homens, mas também que os anjos e os homens obedeçam e estejam sujeitos ao seu império de homem: de modo que, só pelo título da união hipostática, Cristo tem poder sobre todas as criaturas. — Mas que pode haver de mais agradável e mais suave de pensar do que isto: que Cristo impera sobre nós não só por direito nativo, mas também por direito adquirido, isto é, pelo direito da redenção? Oxalá todos os homens esquecidos se lembrassem de quanto custamos ao nosso Salvador: Não fostes resgatados com coisas corruptíveis, ouro ou prata, … mas com o sangue precioso de Cristo, como de cordeiro imaculado e sem mancha. Já não somos nossos, pois Cristo nos comprou por grande preço; os nossos próprios corpos são membros de Cristo.
+Sobre que fundamento assentam essa dignidade e esse poder de Nosso Senhor, adverte-o com acerto Cirilo de Alexandria: *Ele tem, numa palavra, o domínio de todas as criaturas, não arrancado pela força nem trazido de fora, mas pela sua essência e natureza*; isto é, o seu principado se apoia naquela admirável união a que chamam hipostática. Daí se segue não só que Cristo, como Deus, deve ser adorado pelos anjos e pelos homens, mas também que os anjos e os homens devem obedecer e estar sujeitos ao seu império de Homem: ou seja, que só pelo título da união hipostática Cristo tem poder sobre todas as criaturas. — Mas que pode ocorrer-nos de mais agradável e mais suave ao pensamento do que saber que Cristo reina sobre nós não só por direito nativo, mas também por direito adquirido, isto é, pelo da redenção? Oxalá se lembrem todos os homens esquecidos de quanto custamos ao nosso Salvador: *Não fostes resgatados com coisas corruptíveis, com ouro ou prata..., mas com o sangue precioso de Cristo, como de um cordeiro imaculado e sem mancha*. Já não somos nossos, porque Cristo nos comprou *por grande preço*; os nossos próprios corpos *são membros de Cristo*.
 
 ### O tríplice poder
 
-E, para declarar em poucas palavras a força e a natureza deste principado, quase não é preciso dizer que ele consiste num tríplice poder, sem o qual mal se entende um principado. Os testemunhos tirados das Sagradas Letras sobre o império universal do nosso Redentor, que acima aduzimos, dizem-no mais que suficientemente; e é de fé católica que Cristo Jesus foi dado aos homens como Redentor, em quem confiem, mas ao mesmo tempo como legislador, a quem obedeçam. Os evangelhos, por sua vez, não tanto narram que ele fez leis, quanto o apresentam fazendo-as; e dos que guardarem esses preceitos diz o divino Mestre, ora com umas palavras, ora com outras, que hão de provar o seu amor por ele e permanecer no seu amor. Quanto ao poder judicial que o Pai lhe atribuiu, o próprio Jesus o declara aos judeus, que o acusavam de ter violado o descanso do sábado com a cura milagrosa de um enfermo: Pois o Pai não julga ninguém, mas deu todo o julgamento ao Filho. Nisto se compreende também — uma vez que isso não se pode separar do julgamento — que ele confere por direito próprio prêmios e penas aos homens, ainda em vida. Mas, além disso, deve atribuir-se a Cristo aquele poder a que chamam executivo, visto que é necessário que todos obedeçam ao seu império, e isso sob a ameaça, para os rebeldes, de castigos a que ninguém pode escapar.
+Ora, para declarar em poucas palavras a força e a natureza deste principado, quase não é preciso dizer que ele consiste num tríplice poder, sem o qual mal se concebe um principado. Isso mesmo o mostram mais que suficientemente os testemunhos tirados e aduzidos das Sagradas Letras sobre o império universal do nosso Redentor; e é de fé católica que Cristo Jesus foi dado aos homens como Redentor, em quem confiem, e ao mesmo tempo como legislador, a quem obedeçam. Os Evangelhos, por sua vez, não tanto narram que Ele fez leis, quanto o apresentam fazendo-as; e de todos os que guardarem esses preceitos diz o divino Mestre, ora com umas, ora com outras palavras, que hão de provar o seu amor por Ele e que permanecerão no seu amor. Quanto ao poder judiciário que lhe foi atribuído pelo Pai, o próprio Jesus o anuncia aos judeus, que o acusavam de ter violado o descanso do sábado com a cura milagrosa de um enfermo: *Pois o Pai não julga ninguém, mas deu todo o juízo ao Filho*. Nisso se inclui também — já que isso não se pode separar do juízo — que Ele, por direito próprio, dê aos homens, ainda em vida, prêmios e castigos. Mas, além disso, deve-se atribuir a Cristo aquele poder a que chamam executivo, visto que todos são obrigados a obedecer ao seu império, e isso sob a cominação, para os contumazes, de castigos a que ninguém pode escapar.
 
 ### Um reino sobretudo espiritual
 
-Todavia, que tal reino seja de modo principal espiritual e diga respeito às coisas espirituais, mostram-no com toda a clareza as palavras da Bíblia acima aduzidas, e confirma-o o próprio Cristo Senhor com o seu modo de agir. Pois, mais de uma vez, quando os judeus, e até os próprios Apóstolos, pensavam por engano que o Messias havia de libertar o povo e restabelecer o reino de Israel, ele tirou-lhes e desfez essa vã opinião e esperança; quando a multidão que o rodeava, cheia de admiração, estava para proclamá-lo rei, recusou o nome e a honra, fugindo e escondendo-se; diante do governador romano declarou que o seu reino não é deste mundo. Este reino é apresentado nos evangelhos como um reino em que os homens se preparam para entrar fazendo penitência, e em que não podem entrar senão pela fé e pelo batismo, o qual, embora seja um rito externo, significa e produz a regeneração interior; opõe-se unicamente ao reino de Satanás e ao poder das trevas, e pede aos seus seguidores não só que, com o ânimo desapegado das riquezas e das coisas terrenas, mostrem mansidão de costumes e tenham fome e sede de justiça, mas também que se neguem a si mesmos e tomem a sua cruz. E, uma vez que Cristo, como Redentor, adquiriu a Igreja com o seu sangue, e, como Sacerdote, se ofereceu a si mesmo como vítima pelos pecados e perpetuamente se oferece, a quem não há de parecer que o próprio múnus régio se reveste da natureza de um e de outro destes múnus e dela participa? De resto, erraria torpemente quem negasse a Cristo homem o império sobre quaisquer coisas civis, uma vez que ele recebeu do Pai sobre as coisas criadas um direito tão absoluto que todas estão postas no seu arbítrio. E todavia, enquanto viveu na terra, absteve-se inteiramente de exercer tal domínio, e, assim como então desprezou a posse e a administração das coisas humanas, assim as deixou então, e as deixa hoje, aos seus possuidores. Nisto se diz muito bem: Não tira os reinos mortais quem dá os reinos celestes.
+Todavia, que este reino é, de modo principal, espiritual e diz respeito às coisas espirituais, mostram-no com toda a clareza as palavras da Bíblia que citamos acima, e confirma-o Cristo Senhor com o seu modo de agir. Com efeito, em mais de uma ocasião, quando os judeus, e até os próprios Apóstolos, pensavam erradamente que o Messias havia de libertar o povo e restaurar o reino de Israel, Ele lhes tirou e arrancou essa vã opinião e esperança; quando a multidão que o rodeava, cheia de admiração, queria proclamá-lo rei, recusou o título e a honra, fugindo e escondendo-se; diante do Governador romano declarou que o seu reino não era *deste mundo*. Esse reino apresenta-se nos Evangelhos como tal que os homens se preparam para entrar nele fazendo penitência, e não podem entrar senão pela fé e pelo batismo, o qual, embora seja um rito exterior, significa e opera a regeneração interior; opõe-se unicamente ao reino de Satanás e ao poder das trevas, e exige dos seus seguidores não só que, com o ânimo desapegado das riquezas e das coisas terrenas, mostrem mansidão nos costumes e tenham fome e sede de justiça, mas também que se neguem a si mesmos e tomem a sua cruz. E, como Cristo, Redentor, adquiriu a Igreja com o seu sangue, e, Sacerdote, se ofereceu a si mesmo como vítima pelos pecados e perpetuamente se oferece, a quem não parecerá que o próprio ofício real reveste a natureza de um e outro daqueles ofícios e dela participa? Erraria vergonhosamente, por outro lado, quem negasse a Cristo homem o império sobre as coisas civis, sejam quais forem, já que Ele recebeu do Pai sobre as coisas criadas um direito tão absoluto que todas estão postas no seu arbítrio. Contudo, enquanto viveu na terra, absteve-se inteiramente de exercer esse domínio; e, assim como outrora desprezou a posse e a administração das coisas humanas, assim as deixou então e as deixa hoje aos seus possuidores. A esse propósito, diz-se muito bem: *Não arrebata os reinos mortais quem dá os reinos celestes*.
 
 ---
 

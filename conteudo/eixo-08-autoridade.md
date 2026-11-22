@@ -18,31 +18,31 @@ _Jesus chama os que ele quer e constitui doze, para estarem com ele e para os en
 
 ### Marcos 3,13–19
 
-**13** Subiu ao monte e chamou a si os que ele quis, e foram ter com ele.
+**13** Subiu ao monte e chamou a si os que ele quis; e foram a ele.
 
-**14** E constituiu doze, para que estivessem com ele e para os enviar a pregar,
+**14** Constituiu doze, aos quais deu o nome de apóstolos, para que estivessem com ele e para os enviar a pregar,
 
 **15** com poder de expulsar os demônios.
 
-**16** Constituiu, pois, os Doze: a Simão impôs o nome de Pedro;
+**16** Constituiu os doze: Simão, a quem pôs o nome de Pedro;
 
-**17** Tiago, filho de Zebedeu, e João, irmão de Tiago, aos quais impôs o nome de Boanerges, isto é, filhos do trovão;
+**17** Tiago, filho de Zebedeu, e João, irmão de Tiago, aos quais pôs o nome de Boanerges, isto é, filhos do trovão;
 
 **18** André, Filipe, Bartolomeu, Mateus, Tomé, Tiago, filho de Alfeu, Tadeu, Simão, o Cananeu,
 
-**19** e Judas Iscariotes, aquele que o entregou.
+**19** e Judas Iscariotes, que o entregou.
 
 ### Lucas 6,12–16
 
 _A escolha é precedida de uma noite de oração, e é o próprio Jesus quem lhes dá o nome de apóstolos_
 
-**12** Naqueles dias, ele saiu para o monte a fim de orar, e passou a noite toda em oração a Deus.
+**12** Naqueles dias, saiu ao monte para orar, e passou a noite em oração a Deus.
 
-**13** Quando se fez dia, chamou os seus discípulos e escolheu doze dentre eles, aos quais deu também o nome de apóstolos:
+**13** Sendo dia, chamou a si os seus discípulos e escolheu doze deles, aos quais também deu o nome de apóstolos:
 
-**14** Simão, a quem deu também o nome de Pedro, e André, seu irmão; Tiago e João; Filipe e Bartolomeu;
+**14** Simão, a quem pôs o nome de Pedro, e André, seu irmão; Tiago e João; Filipe e Bartolomeu;
 
-**15** Mateus e Tomé; Tiago, filho de Alfeu, e Simão, chamado Zelota;
+**15** Mateus e Tomé; Tiago, filho de Alfeu, e Simão, chamado Zelote;
 
 **16** Judas, filho de Tiago, e Judas Iscariotes, que veio a ser o traidor.
 
@@ -56,11 +56,11 @@ _Quem recebe e ouve os enviados recebe e ouve o próprio Cristo: o fundamento da
 
 ### Mateus 10,40
 
-**40** Quem vos recebe, a mim recebe; e quem me recebe, recebe aquele que me enviou.
+**40** Quem vos recebe, a mim me recebe; e quem me recebe, recebe aquele que me enviou.
 
 ### Lucas 10,16
 
-**16** Quem vos ouve, a mim ouve; quem vos rejeita, a mim rejeita; e quem me rejeita, rejeita aquele que me enviou.
+**16** Quem vos ouve, a mim me ouve; e quem vos rejeita, a mim me rejeita; e quem me rejeita, rejeita aquele que me enviou.
 
 ---
 
@@ -70,9 +70,9 @@ _Quem recebe e ouve os enviados recebe e ouve o próprio Cristo: o fundamento da
 
 _Todo o poder foi dado a Cristo, e é dele que parte o mandato de ensinar, batizar e fazer guardar; a promessa de estar com os enviados até o fim do mundo é o argumento da sucessão_
 
-**18** E Jesus, aproximando-se, falou-lhes dizendo: Foi-me dado todo poder no céu e na terra.
+**18** Jesus aproximou-se e falou-lhes, dizendo: Foi-me dado todo o poder no céu e na terra.
 
-**19** Ide, pois, e fazei discípulos de todas as nações, batizando-os em nome do Pai e do Filho e do Espírito Santo,
+**19** Ide, pois, e fazei discípulos todos os povos, batizando-os em nome do Pai e do Filho e do Espírito Santo,
 
 **20** ensinando-os a observar tudo o que vos mandei. E eis que eu estou convosco todos os dias, até o fim do mundo.
 
@@ -84,9 +84,9 @@ _Todo o poder foi dado a Cristo, e é dele que parte o mandato de ensinar, batiz
 
 _Assim como o Pai me enviou, eu vos envio: a missão dos apóstolos prolonga a do Filho, e com ela lhes é dado o Espírito_
 
-**21** Disse-lhes, pois, Jesus de novo: A paz esteja convosco. Assim como o Pai me enviou, também eu vos envio.
+**21** Jesus disse-lhes de novo: A paz esteja convosco! Assim como o Pai me enviou, também eu vos envio.
 
-**22** E, tendo dito isto, soprou sobre eles e disse-lhes: Recebei o Espírito Santo.
+**22** Dito isso, soprou sobre eles e disse-lhes: Recebei o Espírito Santo.
 
 **23** Àqueles a quem perdoardes os pecados, serão perdoados; àqueles a quem os retiverdes, serão retidos.
 
@@ -98,29 +98,29 @@ _Assim como o Pai me enviou, eu vos envio: a missão dos apóstolos prolonga a d
 
 _O lugar de Judas não fica vago — que outro receba o seu encargo —: é a primeira sucessão num ofício apostólico, e o texto chama-o ministério, de onde a Lumen gentium tira que o ofício dos bispos é serviço_
 
-**15** Naqueles dias, Pedro levantou-se no meio dos irmãos — estava reunida uma multidão de cerca de cento e vinte pessoas — e disse:
+**15** Naqueles dias, Pedro levantou-se no meio dos irmãos — o grupo reunido era de umas cento e vinte pessoas — e disse:
 
-**16** Irmãos, era preciso que se cumprisse a Escritura que o Espírito Santo predisse, pela boca de Davi, a respeito de Judas, que se fez guia dos que prenderam Jesus;
+**16** Irmãos, era necessário que se cumprisse a Escritura que o Espírito Santo predisse pela boca de Davi a respeito de Judas, que se fez guia dos que prenderam Jesus.
 
-**17** pois ele era contado entre nós e recebeu a sua parte neste ministério.
+**17** Ele era contado entre nós e tinha recebido a sua parte neste ministério.
 
-**18** Ora, este adquiriu um campo com o salário da iniquidade e, caindo de cabeça, rebentou pelo meio, e derramaram-se todas as suas entranhas.
+**18** Com o salário da sua iniquidade, adquiriu um campo; e, caindo de cabeça, arrebentou-se pelo meio, e todas as suas entranhas se derramaram.
 
-**19** E isto se tornou conhecido de todos os habitantes de Jerusalém, de modo que aquele campo foi chamado, na língua deles, Hacéldama, isto é, Campo de Sangue.
+**19** O fato tornou-se conhecido de todos os habitantes de Jerusalém, de modo que aquele campo foi chamado, na língua deles, Hacéldama, isto é, Campo de Sangue.
 
-**20** Pois está escrito no livro dos Salmos: Fique deserta a sua morada, e não haja quem nela habite; e: Que outro receba o seu encargo.
+**20** Pois está escrito no livro dos Salmos: Fique deserta a sua morada, e não haja quem nela habite; e ainda: Outro receba o seu cargo.
 
-**21** É preciso, pois, que, dos homens que nos acompanharam durante todo o tempo em que o Senhor Jesus entrou e saiu entre nós,
+**21** É necessário, pois, que, dentre os homens que nos acompanharam durante todo o tempo em que o Senhor Jesus viveu no meio de nós,
 
-**22** começando do batismo de João até o dia em que foi elevado do meio de nós, um deles se torne conosco testemunha da sua ressurreição.
+**22** a começar do batismo de João até o dia em que do meio de nós foi elevado ao céu, um deles se torne conosco testemunha da sua ressurreição.
 
 **23** Apresentaram dois: José, chamado Barsabás, que tinha o sobrenome de Justo, e Matias.
 
-**24** E, orando, disseram: Tu, Senhor, que conheces os corações de todos, mostra qual destes dois escolheste
+**24** E oraram assim: Tu, Senhor, que conheces o coração de todos, mostra qual destes dois escolheste
 
-**25** para receber o lugar deste ministério e apostolado, do qual Judas se desviou para ir ao seu próprio lugar.
+**25** para ocupar, neste ministério e apostolado, o lugar que Judas abandonou para ir para o seu próprio lugar.
 
-**26** Lançaram sortes sobre eles, e a sorte caiu em Matias, que foi agregado aos onze apóstolos.
+**26** Lançaram sortes sobre eles, e a sorte caiu sobre Matias, que foi agregado aos onze apóstolos.
 
 ---
 
@@ -142,23 +142,23 @@ _Paulo deixa Tito em Creta para constituir presbíteros em cada cidade, e manda 
 
 ### Tito 1,5–9
 
-**5** Por isto te deixei em Creta: para que pusesses em ordem o que faltava e constituísses presbíteros em cada cidade, como eu te ordenei:
+**5** Deixei-te em Creta para que pusesses em ordem o que falta e constituísses presbíteros em cada cidade, como te ordenei:
 
-**6** alguém que seja irrepreensível, marido de uma só mulher, que tenha filhos fiéis, não acusados de devassidão nem insubmissos.
+**6** alguém irrepreensível, marido de uma só mulher, com filhos crentes, que não sejam acusados de devassidão nem de rebeldia.
 
-**7** Pois é preciso que o bispo seja irrepreensível, como administrador de Deus: não arrogante, não irascível, não dado ao vinho, não violento, não ávido de lucro torpe;
+**7** Porque é preciso que o bispo, como administrador de Deus, seja irrepreensível: não arrogante, nem irascível, nem dado ao vinho, nem violento, nem ávido de lucro desonesto;
 
-**8** mas hospitaleiro, amigo do bem, sensato, justo, santo, senhor de si,
+**8** mas hospitaleiro, amigo do bem, prudente, justo, santo, senhor de si;
 
-**9** apegado à palavra fiel, que é conforme à doutrina, para que seja capaz tanto de exortar na sã doutrina como de refutar os que a contradizem.
+**9** firmemente apegado à palavra fiel, conforme a doutrina, para ser capaz de exortar na sã doutrina e de refutar os que a contradizem.
 
 ### 2 Timóteo 2,2
 
-**2** e o que de mim ouviste diante de muitas testemunhas, confia-o a homens fiéis, que sejam capazes de ensinar também a outros.
+**2** E o que de mim ouviste diante de muitas testemunhas, confia-o a homens fiéis, que sejam capazes de instruir também a outros.
 
 ### 1 Timóteo 5,22
 
-**22** Não imponhas as mãos a ninguém precipitadamente, nem te faças participante dos pecados alheios; conserva-te puro.
+**22** A ninguém imponhas as mãos precipitadamente, nem te faças cúmplice dos pecados alheios. Conserva-te puro.
 
 ---
 
@@ -174,13 +174,13 @@ _O dom que está em Timóteo foi-lhe dado pela imposição das mãos: o ofício 
 
 ### 1 Timóteo 4,14
 
-**14** Não descuides o dom que há em ti, que te foi dado por meio de profecia, com a imposição das mãos do presbitério.
+**14** Não descuides do dom que há em ti, que te foi conferido pela profecia, com a imposição das mãos do colégio dos presbíteros.
 
 ### 2 Timóteo 1,6–7
 
-**6** Por este motivo te recordo que reavives o dom de Deus, que está em ti pela imposição das minhas mãos.
+**6** Por isso te lembro que reavives o dom de Deus, que está em ti pela imposição das minhas mãos.
 
-**7** Pois Deus não nos deu um espírito de timidez, mas de fortaleza, de caridade e de sobriedade.
+**7** Porque Deus não nos deu um espírito de timidez, mas de fortaleza, de amor e de sobriedade.
 
 ---
 
@@ -196,15 +196,15 @@ _Nem todos são apóstolos, nem todos doutores: a Igreja tem ofícios distintos,
 
 ### 1 Coríntios 12,28–29
 
-**28** E a uns Deus estabeleceu na Igreja: primeiro, apóstolos; segundo, profetas; terceiro, doutores; depois, os milagres; depois, os dons de curar, de assistir, de governar, as diversas línguas.
+**28** E Deus estabeleceu na Igreja, em primeiro lugar, apóstolos; em segundo, profetas; em terceiro, mestres; depois, milagres; depois, dons de curas, assistências, governos, variedades de línguas.
 
-**29** Acaso são todos apóstolos? São todos profetas? São todos doutores? Fazem todos milagres?
+**29** Acaso são todos apóstolos? Todos, profetas? Todos, mestres? Todos operam milagres?
 
 ### Efésios 4,11–12
 
-**11** E foi ele que a uns constituiu apóstolos, a outros profetas, a outros evangelistas, a outros pastores e doutores,
+**11** E ele mesmo constituiu uns apóstolos, outros profetas, outros evangelistas, outros pastores e mestres,
 
-**12** para aperfeiçoar os santos na obra do ministério, para a edificação do corpo de Cristo,
+**12** para o aperfeiçoamento dos santos, para a obra do ministério, para a edificação do corpo de Cristo,
 
 ---
 
@@ -214,13 +214,13 @@ _Nem todos são apóstolos, nem todos doutores: a Igreja tem ofícios distintos,
 
 _O maior seja como o mais jovem, e quem governa como quem serve: a medida da autoridade na Igreja, que a Lumen gentium 27 propõe aos bispos_
 
-**24** Surgiu também entre eles uma discussão sobre qual deles devia ser tido como o maior.
+**24** Surgiu também entre eles uma discussão sobre qual deles parecia ser o maior.
 
-**25** Ele, porém, disse-lhes: Os reis das nações dominam sobre elas, e os que têm poder sobre elas são chamados benfeitores.
+**25** Jesus disse-lhes: Os reis das nações dominam sobre elas, e os que exercem autoridade sobre elas são chamados benfeitores.
 
-**26** Vós, porém, não sejais assim; pelo contrário, o maior entre vós torne-se como o mais jovem, e quem governa, como quem serve.
+**26** Mas entre vós não seja assim; pelo contrário, o maior entre vós seja como o mais novo, e o que governa, como o que serve.
 
-**27** Pois quem é maior: o que está à mesa, ou o que serve? Não é o que está à mesa? Eu, porém, estou no meio de vós como quem serve.
+**27** Pois qual é o maior: o que está à mesa ou o que serve? Não é o que está à mesa? Eu, porém, estou no meio de vós como aquele que serve.
 
 ---
 
@@ -234,7 +234,7 @@ _Obedecei aos vossos guias, que velam pelas vossas almas como quem há de presta
 >
 > **Por que não.** É um versículo solto, de exortação, e nenhuma definição se apoia nele.
 
-**17** Obedecei aos vossos guias e sede-lhes submissos, pois eles velam pelas vossas almas, como quem há de prestar contas; para que o façam com alegria, e não gemendo, pois isso não vos seria proveitoso.
+**17** Obedecei aos vossos guias e sede-lhes submissos, porque velam pelas vossas almas, como quem há de prestar contas; para que o façam com alegria, e não a gemer, o que não vos seria proveitoso.
 
 ---
 
@@ -250,9 +250,9 @@ _A Igreja é edificada sobre o fundamento dos apóstolos, e os doze nomes estão
 
 ### Efésios 2,19–20
 
-**19** Assim, pois, já não sois estrangeiros nem forasteiros, mas sois concidadãos dos santos e membros da casa de Deus,
+**19** Já não sois, portanto, estrangeiros nem hóspedes, mas concidadãos dos santos e membros da casa de Deus,
 
-**20** edificados sobre o fundamento dos apóstolos e dos profetas, tendo por pedra angular o próprio Cristo Jesus.
+**20** edificados sobre o fundamento dos apóstolos e dos profetas, sendo o próprio Cristo Jesus a pedra angular.
 
 ### Apocalipse 21,14
 
@@ -278,23 +278,23 @@ _Cristo vem de Deus, e os apóstolos, de Cristo; os apóstolos constituíram as 
 
 _A ordem da missão: de Deus a Cristo, de Cristo aos apóstolos, dos apóstolos aos bispos e diáconos_
 
-**1.** Os apóstolos receberam para nós a boa-nova da parte do Senhor Jesus Cristo; Jesus, o Cristo, foi enviado da parte de Deus.
+**1.** Os apóstolos receberam para nós a boa-nova da parte do Senhor Jesus Cristo; Jesus, o Cristo, foi enviado por Deus.
 
-**2.** Cristo vem, pois, de Deus, e os apóstolos, de Cristo: uma e outra coisa se fizeram em boa ordem, pela vontade de Deus.
+**2.** Cristo, portanto, vem de Deus, e os apóstolos vêm de Cristo; as duas coisas, pois, vieram em boa ordem da vontade de Deus.
 
-**3.** Tendo, pois, recebido as instruções, e plenamente certificados pela ressurreição de nosso Senhor Jesus Cristo, e confirmados na fé pela palavra de Deus, saíram, com a plena certeza do Espírito Santo, a anunciar a boa-nova de que o reino de Deus estava para vir.
+**3.** Tendo, pois, recebido instruções, e cheios de certeza pela ressurreição de nosso Senhor Jesus Cristo, e confirmados na fé pela palavra de Deus, saíram, com a certeza do Espírito Santo, anunciando a boa-nova de que o reino de Deus estava para vir.
 
-**4.** Pregando, pois, por regiões e cidades, constituíam as suas primícias, depois de as provarem pelo Espírito, como bispos e diáconos dos que haviam de crer.
+**4.** Pregando, pois, pelas regiões e cidades, estabeleciam as suas primícias, depois de prová-las pelo Espírito, como bispos e diáconos dos que haviam de crer.
 
 ### 44,1–3
 
 _Os apóstolos previram a contenda e proveram à sucessão; por isso não é justo depor os que serviram sem culpa_
 
-**1.** Também os nossos apóstolos souberam, por nosso Senhor Jesus Cristo, que haveria contenda por causa do nome do episcopado.
+**1.** Também os nossos apóstolos souberam, por nosso Senhor Jesus Cristo, que haveria contenda a respeito do título do episcopado.
 
-**2.** Por esta razão, tendo recebido perfeita presciência, constituíram os que acima foram ditos e, em seguida, deram a norma de que, quando viessem a adormecer, outros homens provados lhes sucedessem no ministério.
+**2.** Por essa razão, tendo recebido perfeito conhecimento prévio, estabeleceram os que já mencionamos e deram depois a norma de que, se viessem a adormecer, outros homens provados lhes sucedessem no ministério.
 
-**3.** Aqueles, pois, que foram constituídos por eles ou, depois, por outros homens eminentes, com a aprovação de toda a Igreja, e que serviram irrepreensivelmente ao rebanho de Cristo, com humildade, serena e desinteressadamente, e de quem todos, por longo tempo, deram bom testemunho — esses, julgamos que não é justo afastá-los do ministério.
+**3.** Aqueles, pois, que foram estabelecidos por eles, ou depois por outros homens eminentes, com a aprovação da igreja inteira, e que serviram irrepreensivelmente ao rebanho de Cristo, com humildade, com tranquilidade e desinteresse, e de quem todos deram bom testemunho por muito tempo, julgamos que não é justo depô-los do ministério.
 
 ---
 
@@ -316,23 +316,23 @@ _O bispo preside em lugar de Deus; nada se faça sem ele do que diz respeito à 
 
 _O bispo preside em lugar de Deus, e os presbíteros, em lugar do senado dos apóstolos_
 
-**1.** Visto, pois, que nas pessoas acima mencionadas contemplei na fé e amei toda a comunidade, exorto-vos: empenhai-vos em fazer todas as coisas na concórdia de Deus, sob a presidência do bispo, em lugar de Deus, e dos presbíteros, em lugar do senado dos apóstolos, e dos diáconos, que me são caríssimos, aos quais foi confiado o serviço de Jesus Cristo, que antes dos séculos estava junto do Pai e no fim se manifestou.
+**1.** Visto, pois, que nas pessoas acima mencionadas contemplei na fé toda a vossa multidão e a amei, exorto-vos: esforçai-vos por fazer tudo na concórdia de Deus, presidindo o bispo no lugar de Deus, e os presbíteros no lugar do conselho dos apóstolos, e estando os diáconos, para mim dulcíssimos, encarregados do serviço de Jesus Cristo, que antes dos séculos estava junto do Pai e no fim se manifestou.
 
 ### *Aos Esmirnenses* 8,1–2
 
 _Nada sem o bispo; é aqui que aparece pela primeira vez a expressão Igreja católica_
 
-**1.** Segui todos o bispo, como Jesus Cristo ao Pai, e o presbitério, como aos apóstolos; quanto aos diáconos, respeitai-os como a um mandamento de Deus. Ninguém faça, sem o bispo, coisa alguma do que diz respeito à Igreja. Tenha-se por firme aquela eucaristia que se celebra sob o bispo ou sob aquele a quem ele a tiver confiado.
+**1.** Segui todos o bispo, como Jesus Cristo segue o Pai, e o presbitério como os apóstolos; e respeitai os diáconos como o mandamento de Deus. Que ninguém faça sem o bispo coisa alguma das que dizem respeito à igreja. Tenha-se por legítima a Eucaristia que está sob o bispo ou sob aquele a quem ele a confiar.
 
-**2.** Onde aparecer o bispo, aí esteja a comunidade, assim como, onde estiver Jesus Cristo, aí está a Igreja católica. Sem o bispo não é lícito batizar nem celebrar o ágape; mas o que ele aprovar, isso é também agradável a Deus, para que seja seguro e firme tudo o que fazeis.
+**2.** Onde aparecer o bispo, ali esteja a multidão, assim como onde estiver Jesus Cristo, ali está a Igreja católica. Não é permitido, sem o bispo, nem batizar nem celebrar o ágape; mas o que ele aprovar, isso é também agradável a Deus, para que seja seguro e firme tudo o que fizerdes.
 
 ### *Aos Filadélfios*, saudação e 1,1
 
 _O bispo, os presbíteros e os diáconos foram designados segundo o pensamento de Cristo; o bispo não recebeu de si mesmo nem dos homens o seu ministério_
 
-Inácio, também chamado Teóforo, à Igreja de Deus Pai e do Senhor Jesus Cristo que está em Filadélfia da Ásia, que alcançou misericórdia e está firmada na concórdia de Deus, que exulta sem hesitação na paixão de nosso Senhor e, em toda misericórdia, tem plena certeza da sua ressurreição; a ela saúdo no sangue de Jesus Cristo, ela que é alegria eterna e duradoura, sobretudo se estiverem unidos ao bispo e aos presbíteros e diáconos que estão com ele, designados segundo o pensamento de Jesus Cristo, os quais ele, por sua própria vontade, firmou solidamente pelo seu Espírito Santo.
+Inácio, também chamado Teóforo, à igreja de Deus Pai e do Senhor Jesus Cristo que está em Filadélfia da Ásia, que alcançou misericórdia e está firmada na concórdia de Deus, que exulta sem hesitação na paixão de nosso Senhor e, em toda misericórdia, está plenamente convencida da sua ressurreição; a qual saúdo no sangue de Jesus Cristo, e que é alegria eterna e duradoura, sobretudo se estiverem unidos ao bispo e aos presbíteros e diáconos que estão com ele, designados segundo o pensamento de Jesus Cristo, os quais, segundo a sua própria vontade, ele firmou com segurança pelo seu Santo Espírito.
 
-**1.** Soube que esse bispo não obteve por si mesmo, nem por meio de homens, nem por vanglória, o ministério que diz respeito à comunidade, mas na caridade de Deus Pai e do Senhor Jesus Cristo. Admira-me a sua mansidão: calando-se, ele pode mais do que os que falam coisas vãs.
+**1.** Desse bispo sei que obteve o ministério que diz respeito à comunidade não por si mesmo nem por meio de homens, nem por vanglória, mas no amor de Deus Pai e do Senhor Jesus Cristo. Fico assombrado com a sua mansidão: calando, ele pode mais do que os que falam coisas vãs.
 
 ---
 
@@ -532,13 +532,13 @@ _O que se lê são os erros condenados: que a hierarquia teria nascido pouco a p
 
 _As proposições estão enunciadas na forma em que são condenadas, isto é, como teses rejeitadas_
 
-**49.** Tendo a ceia cristã assumido pouco a pouco o caráter de ação litúrgica, aqueles que costumavam presidir à ceia adquiriram o caráter sacerdotal.
+**49.** À medida que a Ceia cristã foi tomando pouco a pouco o caráter de ação litúrgica, aqueles que costumavam presidir à Ceia adquiriram o caráter sacerdotal.
 
-**50.** Os anciãos que exerciam nas assembleias dos cristãos o encargo de vigiar foram instituídos pelos apóstolos presbíteros ou bispos para prover à ordem necessária das comunidades que cresciam, e não propriamente para perpetuar a missão e o poder apostólico.
+**50.** Os anciãos que exerciam a função de vigiar nas assembleias dos cristãos foram instituídos pelos Apóstolos como presbíteros ou bispos para prover à organização necessária das comunidades que cresciam, e não propriamente para perpetuar a missão e o poder apostólico.
 
-**53.** A constituição orgânica da Igreja não é imutável; mas a sociedade cristã, tal como a sociedade humana, está sujeita a uma evolução perpétua.
+**53.** A constituição orgânica da Igreja não é imutável; a sociedade cristã, assim como a sociedade humana, está sujeita a uma perpétua evolução.
 
-**54.** Os dogmas, os sacramentos e a hierarquia, tanto no que respeita à noção como no que respeita à realidade, não são senão interpretações e evoluções da inteligência cristã, que, com acréscimos externos, fizeram crescer e aperfeiçoaram o pequeno germe latente no Evangelho.
+**54.** Os dogmas, os sacramentos, a hierarquia, tanto no que toca à noção como à realidade, não são mais que interpretações e evoluções da inteligência cristã, que fizeram crescer e aperfeiçoaram, com acréscimos externos, um pequeno germe latente no Evangelho.
 
 ---
 
@@ -668,11 +668,11 @@ Pedro, pedra e pastor, constituído por Cristo chefe dos apóstolos.
 
 _No primeiro encontro, antes de qualquer promessa, Jesus dá a Simão um nome novo, Cefas, que quer dizer Pedro: é com este passo que a Pastor aeternus abre o capítulo sobre a instituição do primado_
 
-**40** André, irmão de Simão Pedro, era um dos dois que tinham ouvido João e tinham seguido Jesus.
+**40** André, irmão de Simão Pedro, era um dos dois que tinham ouvido João e seguido Jesus.
 
-**41** Ele encontrou primeiro o seu irmão Simão e disse-lhe: Encontramos o Messias — que quer dizer Cristo.
+**41** Ele encontrou primeiro o seu irmão Simão e disse: Encontramos o Messias — que quer dizer Cristo —
 
-**42** E levou-o a Jesus. Jesus, fitando-o, disse: Tu és Simão, filho de João; tu serás chamado Cefas — que quer dizer Pedro.
+**42** e o levou a Jesus. Fixando nele o olhar, Jesus disse: Tu és Simão, filho de João; tu te chamarás Cefas — que quer dizer Pedra.
 
 ---
 
@@ -682,19 +682,19 @@ _No primeiro encontro, antes de qualquer promessa, Jesus dá a Simão um nome no
 
 _À confissão de Pedro responde a promessa: sobre esta pedra a Igreja, a Pedro as chaves do reino e o poder de ligar e desligar — o texto que a Pastor aeternus transcreve inteiro e que toda a tradição romana leu como fundamento do primado_
 
-**13** Chegando Jesus à região de Cesareia de Filipe, perguntava aos seus discípulos: Quem dizem os homens que é o Filho do homem?
+**13** Chegando Jesus à região de Cesareia de Filipe, perguntava aos seus discípulos: Quem dizem os homens ser o Filho do Homem?
 
-**14** Eles disseram: Uns, João Batista; outros, Elias; outros, Jeremias ou algum dos profetas.
+**14** Eles responderam: Uns, João Batista; outros, Elias; outros, Jeremias ou um dos profetas.
 
-**15** Disse-lhes: E vós, quem dizeis que eu sou?
+**15** Disse-lhes ele: E vós, quem dizeis que eu sou?
 
-**16** Respondeu Simão Pedro: Tu és o Cristo, o Filho do Deus vivo.
+**16** Respondendo Simão Pedro, disse: Tu és o Cristo, o Filho do Deus vivo.
 
-**17** Respondeu-lhe Jesus: Bem-aventurado és tu, Simão, filho de Jonas, porque não foi a carne nem o sangue que te revelou isto, mas meu Pai que está nos céus.
+**17** Jesus lhe respondeu: Bem-aventurado és tu, Simão, filho de Jonas, porque não foi carne nem sangue que te revelou isso, mas meu Pai, que está nos céus.
 
-**18** E eu te digo: tu és Pedro, e sobre esta pedra edificarei a minha Igreja, e as portas do inferno não prevalecerão contra ela.
+**18** E eu te digo que tu és Pedro, e sobre esta pedra edificarei a minha Igreja; e as portas do inferno não prevalecerão contra ela.
 
-**19** Eu te darei as chaves do reino dos céus: tudo o que ligares na terra será ligado nos céus, e tudo o que desligares na terra será desligado nos céus.
+**19** E a ti darei as chaves do Reino dos céus; e tudo o que ligares na terra será ligado nos céus, e tudo o que desligares na terra será desligado nos céus.
 
 ---
 
@@ -704,23 +704,23 @@ _À confissão de Pedro responde a promessa: sobre esta pedra a Igreja, a Pedro 
 
 _Na mesma ceia em que manda que o maior seja como quem serve, Jesus reza só por Simão, para que a sua fé não desfaleça, e encarrega-o de confirmar os irmãos: o primado nasce dentro do serviço, e o v. 32 é o que a Pastor aeternus invoca para o magistério de Pedro_
 
-**24** Surgiu também entre eles uma discussão sobre qual deles devia ser tido como o maior.
+**24** Surgiu também entre eles uma discussão sobre qual deles parecia ser o maior.
 
-**25** Ele, porém, disse-lhes: Os reis das nações dominam sobre elas, e os que têm poder sobre elas são chamados benfeitores.
+**25** Jesus disse-lhes: Os reis das nações dominam sobre elas, e os que exercem autoridade sobre elas são chamados benfeitores.
 
-**26** Vós, porém, não sejais assim; pelo contrário, o maior entre vós torne-se como o mais jovem, e quem governa, como quem serve.
+**26** Mas entre vós não seja assim; pelo contrário, o maior entre vós seja como o mais novo, e o que governa, como o que serve.
 
-**27** Pois quem é maior: o que está à mesa, ou o que serve? Não é o que está à mesa? Eu, porém, estou no meio de vós como quem serve.
+**27** Pois qual é o maior: o que está à mesa ou o que serve? Não é o que está à mesa? Eu, porém, estou no meio de vós como aquele que serve.
 
 **28** Vós sois os que permanecestes comigo nas minhas provações;
 
-**29** e eu disponho para vós um reino, como meu Pai o dispôs para mim,
+**29** e eu disponho para vós um Reino, como meu Pai o dispôs para mim,
 
-**30** para que comais e bebais à minha mesa no meu reino, e vos senteis em tronos para julgar as doze tribos de Israel.
+**30** para que comais e bebais à minha mesa no meu Reino, e vos senteis em tronos para julgar as doze tribos de Israel.
 
-**31** Simão, Simão, eis que Satanás vos reclamou para vos peneirar como o trigo;
+**31** Simão, Simão, eis que Satanás pediu para vos peneirar como o trigo;
 
-**32** mas eu roguei por ti, para que a tua fé não desfaleça; e tu, uma vez convertido, confirma os teus irmãos.
+**32** mas eu roguei por ti, para que a tua fé não desfaleça; e tu, quando te converteres, confirma os teus irmãos.
 
 ---
 
@@ -730,15 +730,15 @@ _Na mesma ceia em que manda que o maior seja como quem serve, Jesus reza só por
 
 _Depois da ressurreição, a Pedro só, que o tinha negado três vezes, Jesus pede três vezes o amor e confia três vezes o rebanho inteiro: é o cumprimento da promessa de Mt 16, e a Pastor aeternus vê aqui conferida a jurisdição de pastor supremo_
 
-**15** Depois de comerem, Jesus disse a Simão Pedro: Simão, filho de João, amas-me mais do que estes? Ele respondeu: Sim, Senhor, tu sabes que te amo. Jesus disse-lhe: Apascenta os meus cordeiros.
+**15** Depois de comerem, Jesus disse a Simão Pedro: Simão, filho de João, tu me amas mais do que estes? Ele respondeu: Sim, Senhor, tu sabes que te quero bem. Jesus disse-lhe: Apascenta os meus cordeiros.
 
-**16** Disse-lhe de novo, pela segunda vez: Simão, filho de João, amas-me? Ele respondeu: Sim, Senhor, tu sabes que te amo. Disse-lhe: Apascenta as minhas ovelhas.
+**16** Disse-lhe de novo, pela segunda vez: Simão, filho de João, tu me amas? Ele respondeu: Sim, Senhor, tu sabes que te quero bem. Jesus disse-lhe: Apascenta as minhas ovelhas.
 
-**17** Disse-lhe pela terceira vez: Simão, filho de João, amas-me? Pedro entristeceu-se por lhe ter perguntado pela terceira vez: Amas-me?, e respondeu-lhe: Senhor, tu sabes tudo; tu sabes que te amo. Disse-lhe Jesus: Apascenta as minhas ovelhas.
+**17** Disse-lhe pela terceira vez: Simão, filho de João, tu me queres bem? Pedro entristeceu-se por lhe ter perguntado pela terceira vez: Tu me queres bem?, e respondeu-lhe: Senhor, tu sabes tudo; tu sabes que te quero bem. Jesus disse-lhe: Apascenta as minhas ovelhas.
 
-**18** Em verdade, em verdade te digo: quando eras mais jovem, tu mesmo te cingias e andavas por onde querias; mas, quando fores velho, estenderás as mãos, e outro te cingirá e te levará para onde não queres.
+**18** Em verdade, em verdade te digo: quando eras mais novo, tu mesmo te cingias e andavas por onde querias; mas, quando fores velho, estenderás as mãos, e outro te cingirá e te levará para onde não queres.
 
-**19** Disse isto para indicar com que morte ele havia de glorificar a Deus. E, dito isto, acrescentou: Segue-me.
+**19** Disse isso para indicar com que morte ele havia de glorificar a Deus. E, depois de dizer isso, acrescentou: Segue-me.
 
 ---
 
@@ -756,51 +756,51 @@ _Nos Atos, Pedro está à frente em cada passo decisivo da primeira Igreja: pres
 
 _Pedro toma a palavra no meio dos irmãos para que se complete o número dos Doze_
 
-**15** Naqueles dias, Pedro levantou-se no meio dos irmãos — estava reunida uma multidão de cerca de cento e vinte pessoas — e disse:
+**15** Naqueles dias, Pedro levantou-se no meio dos irmãos — o grupo reunido era de umas cento e vinte pessoas — e disse:
 
-**16** Irmãos, era preciso que se cumprisse a Escritura que o Espírito Santo predisse, pela boca de Davi, a respeito de Judas, que se fez guia dos que prenderam Jesus;
+**16** Irmãos, era necessário que se cumprisse a Escritura que o Espírito Santo predisse pela boca de Davi a respeito de Judas, que se fez guia dos que prenderam Jesus.
 
-**17** pois ele era contado entre nós e recebeu a sua parte neste ministério.
+**17** Ele era contado entre nós e tinha recebido a sua parte neste ministério.
 
-**18** Ora, este adquiriu um campo com o salário da iniquidade e, caindo de cabeça, rebentou pelo meio, e derramaram-se todas as suas entranhas.
+**18** Com o salário da sua iniquidade, adquiriu um campo; e, caindo de cabeça, arrebentou-se pelo meio, e todas as suas entranhas se derramaram.
 
-**19** E isto se tornou conhecido de todos os habitantes de Jerusalém, de modo que aquele campo foi chamado, na língua deles, Hacéldama, isto é, Campo de Sangue.
+**19** O fato tornou-se conhecido de todos os habitantes de Jerusalém, de modo que aquele campo foi chamado, na língua deles, Hacéldama, isto é, Campo de Sangue.
 
-**20** Pois está escrito no livro dos Salmos: Fique deserta a sua morada, e não haja quem nela habite; e: Que outro receba o seu encargo.
+**20** Pois está escrito no livro dos Salmos: Fique deserta a sua morada, e não haja quem nela habite; e ainda: Outro receba o seu cargo.
 
-**21** É preciso, pois, que, dos homens que nos acompanharam durante todo o tempo em que o Senhor Jesus entrou e saiu entre nós,
+**21** É necessário, pois, que, dentre os homens que nos acompanharam durante todo o tempo em que o Senhor Jesus viveu no meio de nós,
 
-**22** começando do batismo de João até o dia em que foi elevado do meio de nós, um deles se torne conosco testemunha da sua ressurreição.
+**22** a começar do batismo de João até o dia em que do meio de nós foi elevado ao céu, um deles se torne conosco testemunha da sua ressurreição.
 
 ### Atos 2,14.37–41
 
 _No Pentecostes, Pedro fala com os Onze, e é a ele que se dirigem os que perguntam o que fazer_
 
-**14** Então Pedro, de pé com os Onze, levantou a voz e falou-lhes: Homens da Judeia e todos vós que habitais em Jerusalém, seja-vos isto conhecido, e prestai ouvidos às minhas palavras.
+**14** Então Pedro, de pé com os Onze, levantou a voz e falou-lhes: Homens da Judeia e todos vós que residis em Jerusalém, ficai sabendo isto e prestai atenção às minhas palavras.
 
-**37** Ao ouvirem isto, sentiram o coração compungido e perguntaram a Pedro e aos demais apóstolos: Irmãos, que havemos de fazer?
+**37** Ao ouvirem isso, sentiram o coração traspassado e perguntaram a Pedro e aos outros apóstolos: Irmãos, que devemos fazer?
 
-**38** Pedro respondeu-lhes: Convertei-vos, e cada um de vós seja batizado em nome de Jesus Cristo, para a remissão dos vossos pecados; e recebereis o dom do Espírito Santo.
+**38** Pedro respondeu-lhes: Convertei-vos, e cada um de vós seja batizado em nome de Jesus Cristo, para o perdão dos vossos pecados; e recebereis o dom do Espírito Santo.
 
-**39** Pois a promessa é para vós e para os vossos filhos, e para todos os que estão longe, quantos o Senhor nosso Deus chamar.
+**39** Porque a promessa é para vós e para os vossos filhos, e para todos os que estão longe, tantos quantos o Senhor nosso Deus chamar.
 
-**40** E com muitas outras palavras dava testemunho e exortava-os, dizendo: Salvai-vos desta geração perversa.
+**40** Com muitas outras palavras dava testemunho e os exortava, dizendo: Salvai-vos desta geração perversa.
 
-**41** Os que acolheram a sua palavra foram batizados, e naquele dia juntaram-se a eles cerca de três mil pessoas.
+**41** Os que acolheram a sua palavra foram batizados; e naquele dia juntaram-se a eles cerca de três mil pessoas.
 
 ### Atos 10,44–48
 
 _Em casa de Cornélio, o Espírito desce sobre os gentios, e Pedro manda batizá-los_
 
-**44** Pedro ainda dizia estas palavras, quando o Espírito Santo desceu sobre todos os que ouviam a palavra.
+**44** Pedro ainda estava falando, quando o Espírito Santo desceu sobre todos os que ouviam a palavra.
 
-**45** E os fiéis vindos da circuncisão, que tinham acompanhado Pedro, ficaram admirados de que o dom do Espírito Santo se derramasse também sobre os gentios;
+**45** E os fiéis da circuncisão que tinham vindo com Pedro ficaram espantados de que o dom do Espírito Santo fosse derramado também sobre os gentios;
 
-**46** pois ouviam-nos falar em línguas e engrandecer a Deus. Então Pedro tomou a palavra:
+**46** pois ouviam-nos falar em línguas e glorificar a Deus. Então Pedro disse:
 
-**47** Pode alguém recusar a água do batismo a estes, que receberam o Espírito Santo assim como nós?
+**47** Pode alguém recusar a água do batismo a estes, que receberam o Espírito Santo como nós?
 
-**48** E mandou que fossem batizados em nome de Jesus Cristo. Então pediram-lhe que ficasse alguns dias.
+**48** E mandou batizá-los em nome de Jesus Cristo. Então pediram-lhe que ficasse com eles alguns dias.
 
 ### Atos 11,15–18
 
@@ -808,25 +808,25 @@ _Em Jerusalém, Pedro dá conta do que fez, e a Igreja reconhece nisso a obra de
 
 **15** Quando comecei a falar, o Espírito Santo desceu sobre eles, como sobre nós no princípio.
 
-**16** Lembrei-me então da palavra do Senhor, quando dizia: João batizou com água, mas vós sereis batizados no Espírito Santo.
+**16** Lembrei-me então da palavra do Senhor, que dizia: João batizou com água, mas vós sereis batizados no Espírito Santo.
 
-**17** Se, pois, Deus lhes deu o mesmo dom que a nós, que cremos no Senhor Jesus Cristo, quem era eu para poder impedir a Deus?
+**17** Se, pois, Deus lhes concedeu o mesmo dom que a nós, que cremos no Senhor Jesus Cristo, quem era eu para me opor a Deus?
 
-**18** Ouvindo isto, acalmaram-se e glorificaram a Deus, dizendo: Logo, também aos gentios Deus concedeu a conversão que leva à vida.
+**18** Ao ouvirem isso, acalmaram-se e glorificaram a Deus, dizendo: Então Deus concedeu também aos gentios a conversão que leva à vida.
 
 ### Atos 15,7–11
 
 _No concílio de Jerusalém, depois de longa discussão, é Pedro quem se levanta primeiro e diz a palavra que decide a questão_
 
-**7** Depois de longa discussão, Pedro levantou-se e disse-lhes: Irmãos, sabeis que desde os primeiros dias Deus me escolheu entre vós, para que por minha boca os gentios ouvissem a palavra do Evangelho e cressem.
+**7** Depois de uma longa discussão, Pedro levantou-se e disse-lhes: Irmãos, sabeis que desde os primeiros dias Deus me escolheu entre vós para que, pela minha boca, os gentios ouvissem a palavra do Evangelho e cressem.
 
-**8** E Deus, que conhece os corações, deu-lhes testemunho, concedendo-lhes o Espírito Santo, assim como a nós;
+**8** E Deus, que conhece os corações, deu testemunho a favor deles, concedendo-lhes o Espírito Santo assim como a nós;
 
-**9** e não fez distinção alguma entre nós e eles, purificando-lhes os corações pela fé.
+**9** e não fez nenhuma distinção entre nós e eles, purificando os seus corações pela fé.
 
-**10** Por que, pois, tentais agora a Deus, impondo ao pescoço dos discípulos um jugo que nem nossos pais nem nós pudemos suportar?
+**10** Por que, pois, tentais agora a Deus, querendo pôr sobre o pescoço dos discípulos um jugo que nem os nossos pais nem nós pudemos suportar?
 
-**11** Pelo contrário, cremos que somos salvos pela graça do Senhor Jesus, do mesmo modo que eles.
+**11** Nós cremos, pelo contrário, que somos salvos pela graça do Senhor Jesus, do mesmo modo que eles.
 
 ---
 
@@ -842,37 +842,37 @@ _Paulo sobe a Jerusalém para conhecer Cefas, recebe das colunas a mão direita 
 
 ### Gálatas 1,18
 
-**18** Depois, três anos mais tarde, subi a Jerusalém para conhecer Cefas, e fiquei com ele quinze dias.
+**18** Três anos mais tarde, subi a Jerusalém para conhecer Cefas, e fiquei com ele quinze dias.
 
 ### Gálatas 2,1–14
 
-**1** Depois, catorze anos mais tarde, subi de novo a Jerusalém com Barnabé, levando também Tito comigo.
+**1** Catorze anos depois, subi outra vez a Jerusalém, com Barnabé, levando também Tito comigo.
 
-**2** Subi segundo uma revelação, e expus-lhes o Evangelho que prego entre os gentios — em particular aos que eram tidos por notáveis —, para não correr nem ter corrido em vão.
+**2** Subi em virtude de uma revelação, e expus-lhes o Evangelho que prego entre os gentios — em particular, porém, aos mais considerados —, para não correr, ou ter corrido, em vão.
 
-**3** Mas nem Tito, que estava comigo, sendo grego, foi obrigado a circuncidar-se,
+**3** Ora, nem sequer Tito, que estava comigo, sendo grego, foi obrigado a circuncidar-se.
 
-**4** por causa dos falsos irmãos intrometidos, que se infiltraram para espiar a liberdade que temos em Cristo Jesus, a fim de nos reduzirem à escravidão.
+**4** E isso por causa dos falsos irmãos intrusos, que se infiltraram para espiar a liberdade que temos em Cristo Jesus, a fim de nos reduzirem à escravidão.
 
-**5** A eles não cedemos, submetendo-nos, nem por um instante, para que a verdade do Evangelho permanecesse convosco.
+**5** A esses não cedemos nem por um instante, para que a verdade do Evangelho permanecesse entre vós.
 
-**6** Quanto aos que eram tidos por alguma coisa — o que outrora eram pouco me importa: Deus não faz acepção de pessoas —, esses notáveis nada me acrescentaram.
+**6** Quanto aos que eram tidos por alguma coisa — o que tenham sido não me importa: Deus não faz acepção de pessoas —, esses, digo, nada me acrescentaram.
 
-**7** Pelo contrário, vendo que me fora confiado o Evangelho dos incircuncisos, como a Pedro o dos circuncisos
+**7** Ao contrário, vendo que me fora confiado o Evangelho dos incircuncisos, como a Pedro o dos circuncisos
 
-**8** — pois aquele que agiu em Pedro para o apostolado dos circuncisos agiu também em mim para os gentios —,
+**8** — pois aquele que agiu em Pedro para o apostolado dos circuncisos agiu também em mim para o dos gentios —,
 
-**9** e reconhecendo a graça que me foi dada, Tiago, Cefas e João, tidos por colunas, deram a mim e a Barnabé a mão direita em sinal de comunhão, para que nós fôssemos aos gentios, e eles aos circuncisos;
+**9** e reconhecendo a graça que me fora dada, Tiago, Cefas e João, tidos por colunas, deram-nos a mão, a mim e a Barnabé, em sinal de comunhão: nós iríamos aos gentios; eles, aos circuncisos.
 
-**10** só nos pediram que nos lembrássemos dos pobres, o que também me esforcei por fazer.
+**10** Pediram-nos apenas que nos lembrássemos dos pobres — o que justamente me esforcei por fazer.
 
-**11** Mas, quando Cefas veio a Antioquia, resisti-lhe em face, porque se tinha tornado censurável.
+**11** Mas, quando Cefas veio a Antioquia, resisti-lhe face a face, porque era repreensível.
 
-**12** Pois, antes que chegassem alguns da parte de Tiago, ele comia com os gentios; mas, quando eles chegaram, foi-se retraindo e separando, com medo dos da circuncisão.
+**12** Com efeito, antes de chegarem alguns da parte de Tiago, comia com os gentios; quando chegaram, porém, retraiu-se e apartou-se, com medo dos circuncisos.
 
-**13** E os demais judeus fingiram com ele, de modo que até Barnabé se deixou arrastar pela hipocrisia deles.
+**13** E os demais judeus dissimularam com ele, a ponto de o próprio Barnabé se deixar levar pela dissimulação.
 
-**14** Mas, quando vi que não andavam retamente segundo a verdade do Evangelho, disse a Cefas diante de todos: Se tu, sendo judeu, vives como os gentios e não como os judeus, como obrigas os gentios a viverem como judeus?
+**14** Ao ver que não andavam retamente, segundo a verdade do Evangelho, disse a Cefas, diante de todos: Se tu, sendo judeu, vives como os gentios e não como os judeus, como obrigas os gentios a viver como judeus?
 
 ---
 
@@ -886,13 +886,13 @@ _Pedro, presbítero como os demais, exorta os pastores a apascentar o rebanho se
 >
 > **Por que não.** Nenhum dos documentos desta parte a cita.
 
-**1** Aos presbíteros que estão entre vós exorto eu, presbítero como eles, testemunha dos sofrimentos de Cristo e participante da glória que há de revelar-se:
+**1** Aos presbíteros que estão entre vós, exorto eu, presbítero como eles, testemunha dos sofrimentos de Cristo e participante da glória que há de manifestar-se:
 
-**2** apascentai o rebanho de Deus que vos foi confiado, velando por ele, não por constrangimento, mas de bom grado, segundo Deus; não por torpe ganância, mas com dedicação;
+**2** apascentai o rebanho de Deus que vos foi confiado, velando por ele, não por obrigação, mas de boa vontade, segundo Deus; não por torpe ganância, mas com generosidade;
 
-**3** não como senhores dos que vos couberam em partilha, mas fazendo-vos modelos do rebanho.
+**3** não como quem domina sobre os que lhe couberam em partilha, mas tornando-vos modelo do rebanho.
 
-**4** E, quando aparecer o Príncipe dos pastores, recebereis a coroa de glória que não murcha.
+**4** E, quando aparecer o pastor supremo, recebereis a coroa imarcescível da glória.
 
 ---
 
@@ -922,11 +922,11 @@ Quem não guarda esta unidade da Igreja crê que guarda a fé? Quem se opõe e r
 
 ### Capítulo 5
 
-Esta unidade devemos guardá-la firmemente e defendê-la, sobretudo nós, os bispos, que presidimos na Igreja, para provarmos que também o próprio episcopado é uno e indiviso. Ninguém engane a fraternidade com a mentira; ninguém corrompa a verdade da fé com pérfida prevaricação. O episcopado é um só, e cada um possui dele uma parte solidariamente.
+Esta unidade devemos guardar firmemente e defender, sobretudo nós, bispos, que presidimos na Igreja, para provar que também o próprio episcopado é um só e indiviso. Ninguém engane a fraternidade com a mentira, ninguém corrompa a fé da verdade com uma traição pérfida. O episcopado é um só, e cada um tem dele uma parte, solidariamente pelo todo.
 
-A Igreja também é uma só, e estende-se cada vez mais numa multidão, pelo crescimento da sua fecundidade. Assim como os raios do sol são muitos, mas a luz é una; e os ramos da árvore são muitos, mas o tronco é um só, fundado em raiz tenaz; e assim como de uma só fonte correm muitos regatos, e, embora a multiplicidade pareça espalhada pela largueza da abundância que transborda, a unidade, porém, conserva-se na origem. Separa um raio do corpo do sol: a unidade não admite divisão da luz. Quebra um ramo da árvore: quebrado, não poderá brotar. Corta o regato da fonte: cortado, seca.
+A Igreja é uma só, e ela se estende mais e mais pela multidão, com o crescimento da sua fecundidade; como há muitos raios do sol, mas uma só luz, e muitos ramos da árvore, mas um só tronco, fundado na raiz tenaz; e como, quando de uma só fonte correm muitos regatos, ainda que a quantidade pareça dispersa pela largueza da abundância que transborda, a unidade se conserva na origem. Arranca um raio do corpo do sol: a unidade não admite divisão da luz. Quebra um ramo da árvore: quebrado, não poderá brotar. Corta o regato da fonte: cortado, seca.
 
-Assim também a Igreja do Senhor, inundada de luz, estende os seus raios pelo mundo inteiro; mas é uma só a luz que se difunde por toda parte, e a unidade do corpo não se separa. Estende os seus ramos por toda a terra com a abundância da sua fertilidade, espalha cada vez mais longe os seus regatos que correm largamente; mas uma só é a cabeça e uma só a origem, e uma só a mãe, rica dos frutos da sua fecundidade. Do seu parto nascemos, com o seu leite somos nutridos, com o seu espírito somos animados.
+Assim também a Igreja do Senhor, banhada de luz, estende os seus raios pelo mundo inteiro; mas é uma só a luz que se espalha por toda parte, e a unidade do corpo não se separa. Estende os seus ramos por toda a terra com a abundância da sua fertilidade, derrama mais e mais os regatos que correm com largueza; mas uma só é a cabeça, uma só a origem, uma só a mãe, rica dos frutos da sua fecundidade: do seu parto nascemos, do seu leite nos alimentamos, do seu espírito recebemos a vida.
 
 ---
 
@@ -1242,11 +1242,11 @@ _O que se lê é o erro condenado: Pedro nunca teria sequer suspeitado que Crist
 
 _A proposição está enunciada na forma em que é condenada, isto é, como tese rejeitada_
 
-**55.** Simão Pedro nunca sequer suspeitou que Cristo lhe tinha confiado o primado na Igreja.
+**55.** Simão Pedro nunca sequer suspeitou que Cristo lhe tivesse confiado o primado na Igreja.
 
 ### Censura do Sumo Pontífice
 
-Sua Santidade aprovou e confirmou o decreto dos eminentíssimos Padres, e mandou que todas e cada uma das proposições acima enumeradas sejam tidas por todos como reprovadas e proscritas.
+Sua Santidade aprovou e confirmou o Decreto dos Eminentíssimos Padres, e mandou que todas e cada uma das proposições acima enumeradas fossem tidas por todos como reprovadas e proscritas.
 
 ---
 
@@ -1296,13 +1296,13 @@ _Sem ter sido chamada, a Igreja de Roma intervém na discórdia de Corinto e adv
 
 ### Caps. 58–59
 
-**58,2** Aceitai o nosso conselho, e não tereis de que vos arrepender. Pois vive Deus, e vive o Senhor Jesus Cristo, e o Espírito Santo, que são a fé e a esperança dos eleitos: aquele que cumprir com humildade, com mansidão constante e sem arrependimento, os preceitos e mandamentos dados por Deus, esse será inscrito e contado no número dos que se salvam por Jesus Cristo, por meio do qual lhe seja dada a glória pelos séculos dos séculos. Amém.
+**58,2** Aceitai o nosso conselho, e não vos arrependereis. Pois vive Deus, e vive o Senhor Jesus Cristo, e o Espírito Santo, a fé e a esperança dos eleitos: quem cumprir com humildade e brandura fervorosa, sem se arrepender, os preceitos e mandamentos dados por Deus, esse será contado e incluído no número dos que são salvos por Jesus Cristo, por quem a ele pertence a glória pelos séculos dos séculos. Amém.
 
-**59,1** Se, porém, alguns desobedecerem ao que por ele foi dito por meio de nós, saibam que se enredarão em transgressão e em perigo não pequeno. **2** Nós, porém, seremos inocentes deste pecado. …
+**59,1** Mas, se alguns desobedecerem ao que ele disse por meio de nós, saibam que se enredarão em falta e perigo não pequenos. **2** Nós, porém, seremos inocentes desse pecado. …
 
 ### Cap. 63
 
-**63,2** Pois nos dareis alegria e júbilo se, obedecendo ao que vos escrevemos pelo Espírito Santo, cortardes a ira ilegítima do vosso ciúme, segundo a exortação que fizemos nesta carta pela paz e pela concórdia.
+**63,2** Pois nos dareis alegria e júbilo se, obedientes ao que vos escrevemos pelo Espírito Santo, cortardes a ira ilícita do vosso ciúme, conforme o pedido de paz e concórdia que fizemos nesta carta.
 
 ---
 
@@ -1320,7 +1320,7 @@ _Ao saudar a Igreja de Roma, Inácio, que não lhe dá ordens nem conselhos, cha
 >
 > **Por que não.** O Concílio só remete a Inácio em nota, sem citá-lo; o sentido de presidir à caridade é discutido, e pode ser elogio da caridade daquela Igreja, mais do que afirmação de autoridade. A decisão depende da que se tomar sobre Inácio na parte I, onde a pesquisa se inclina a deixá-lo fora do corpo e citá-lo só na introdução.
 
-Inácio, também chamado Teóforo, à Igreja que alcançou misericórdia na magnificência do Pai altíssimo e de Jesus Cristo, seu único Filho; Igreja amada e iluminada pela vontade daquele que quis todas as coisas que existem, segundo a caridade de Jesus Cristo, nosso Deus; que também preside no lugar da região dos romanos, digna de Deus, digna de honra, digna de ser chamada bem-aventurada, digna de louvor, digna de alcançar o que deseja, digna em pureza, e que preside à caridade, que traz o nome de Cristo e o nome do Pai; a qual também saúdo em nome de Jesus Cristo, Filho do Pai. Aos que, segundo a carne e o espírito, estão unidos a todo mandamento seu, cheios da graça de Deus sem divisão e purificados de toda cor estranha: muitíssima saudação, sem mancha, em Jesus Cristo, nosso Deus.
+Inácio, também chamado Teóforo, à igreja que alcançou misericórdia na magnificência do Pai altíssimo e de Jesus Cristo, seu único Filho; à igreja amada e iluminada pela vontade daquele que quis todas as coisas que existem, segundo o amor de Jesus Cristo, nosso Deus; àquela que também preside no lugar da região dos romanos, digna de Deus, digna de honra, digna de ser chamada bem-aventurada, digna de louvor, digna de alcançar o que pede, digna de pureza, e que preside ao amor, que leva o nome de Cristo, que leva o nome do Pai; a ela também eu saúdo em nome de Jesus Cristo, Filho do Pai. Aos que estão unidos, na carne e no espírito, a todo mandamento dele, cheios da graça de Deus sem divisão e filtrados de toda cor estranha, deseja muitíssimas saudações, sem mácula, em Jesus Cristo, nosso Deus.
 
 _Caridade traduz o grego agápe, que pode designar também a comunidade dos fiéis unidos pela caridade; daí a leitura do Vaticano II: a assembleia universal da caridade_
 
@@ -2222,7 +2222,7 @@ Os Romanos Pontífices, porém, lembrados do seu ofício, querem mais que todos 
 
 _O que se lê é o erro condenado: que o primado da Igreja romana tenha nascido de circunstâncias políticas, e não da disposição da Providência_
 
-**56.** A Igreja romana tornou-se cabeça de todas as Igrejas não por disposição da divina Providência, mas por condições meramente políticas.
+**56.** A Igreja Romana tornou-se cabeça de todas as Igrejas não por disposição da divina providência, mas por condições meramente políticas.
 
 ---
 
@@ -2426,9 +2426,9 @@ Quando define ex cathedra, o Papa goza da infalibilidade de que Cristo dotou a s
 
 _Cristo rogou para que a fé de Pedro não desfaleça e encarregou-o de confirmar os irmãos: o único lugar bíblico que a Pastor aeternus cita ao definir a infalibilidade do Papa_
 
-**31** Simão, Simão, eis que Satanás vos reclamou para vos peneirar como o trigo;
+**31** Simão, Simão, eis que Satanás pediu para vos peneirar como o trigo;
 
-**32** mas eu roguei por ti, para que a tua fé não desfaleça; e tu, uma vez convertido, confirma os teus irmãos.
+**32** mas eu roguei por ti, para que a tua fé não desfaleça; e tu, quando te converteres, confirma os teus irmãos.
 
 ---
 
@@ -2440,11 +2440,11 @@ _O Espírito da verdade permanece com a Igreja e a guia a toda a verdade: a infa
 
 **14,16** E eu rogarei ao Pai, e ele vos dará outro Paráclito, para que esteja convosco para sempre:
 
-**17** o Espírito da verdade, que o mundo não pode receber, porque não o vê nem o conhece; vós o conheceis, porque permanece junto de vós e estará em vós.
+**17** o Espírito da verdade, que o mundo não pode receber, porque não o vê nem o conhece; vós o conheceis, porque permanece convosco e estará em vós.
 
-**26** Mas o Paráclito, o Espírito Santo, que o Pai enviará em meu nome, ele vos ensinará todas as coisas e vos recordará tudo o que eu vos disse.
+**26** Mas o Paráclito, o Espírito Santo, que o Pai enviará em meu nome, esse vos ensinará todas as coisas e vos recordará tudo o que eu vos disse.
 
-**16,13** Quando vier aquele, o Espírito da verdade, ele vos guiará a toda a verdade; pois não falará por si mesmo, mas dirá tudo o que ouvir, e vos anunciará as coisas que hão de vir.
+**16,13** Quando, porém, vier ele, o Espírito da verdade, ele vos guiará a toda a verdade; porque não falará por si mesmo, mas dirá tudo o que tiver ouvido e vos anunciará as coisas que hão de vir.
 
 ---
 
@@ -2810,63 +2810,63 @@ _O poder de ligar e desligar, prometido a Pedro em Mt 16,19, é dado aqui ao con
 
 _A questão sobe a Jerusalém, aos apóstolos e aos presbíteros; Pedro fala, Tiago propõe, e a decisão sai em nome de todos — pareceu bem ao Espírito Santo e a nós —: é o modelo de todo concílio_
 
-**1** Alguns, que tinham descido da Judeia, ensinavam aos irmãos: Se não vos circuncidardes segundo o costume de Moisés, não podeis ser salvos.
+**1** Alguns que tinham descido da Judeia ensinavam aos irmãos: Se não vos circuncidardes segundo o costume de Moisés, não podeis ser salvos.
 
-**2** Tendo havido, por isso, grande discussão e debate da parte de Paulo e Barnabé contra eles, decidiu-se que Paulo, Barnabé e alguns outros dentre eles subissem a Jerusalém, aos apóstolos e aos presbíteros, por causa desta questão.
+**2** Como houvesse uma discussão e um debate nada pequeno de Paulo e Barnabé com eles, decidiu-se que Paulo, Barnabé e alguns outros subissem a Jerusalém, aos apóstolos e aos anciãos, para tratar desta questão.
 
 **3** Eles, pois, enviados pela Igreja, atravessaram a Fenícia e a Samaria, contando a conversão dos gentios, e causavam grande alegria a todos os irmãos.
 
-**4** Chegados a Jerusalém, foram recebidos pela Igreja, pelos apóstolos e pelos presbíteros, e contaram tudo o que Deus fizera com eles.
+**4** Chegando a Jerusalém, foram recebidos pela Igreja, pelos apóstolos e pelos anciãos, e contaram tudo o que Deus fizera com eles.
 
-**5** Mas alguns da seita dos fariseus, que tinham abraçado a fé, levantaram-se dizendo: É preciso circuncidá-los e mandar que observem a Lei de Moisés.
+**5** Mas alguns do partido dos fariseus, que tinham abraçado a fé, levantaram-se e disseram: É preciso circuncidá-los e mandar-lhes observar a Lei de Moisés.
 
-**6** Reuniram-se então os apóstolos e os presbíteros para examinar esta questão.
+**6** Os apóstolos e os anciãos reuniram-se para examinar esta questão.
 
-**7** Depois de longa discussão, Pedro levantou-se e disse-lhes: Irmãos, sabeis que desde os primeiros dias Deus me escolheu entre vós, para que por minha boca os gentios ouvissem a palavra do Evangelho e cressem.
+**7** Depois de uma longa discussão, Pedro levantou-se e disse-lhes: Irmãos, sabeis que desde os primeiros dias Deus me escolheu entre vós para que, pela minha boca, os gentios ouvissem a palavra do Evangelho e cressem.
 
-**8** E Deus, que conhece os corações, deu-lhes testemunho, concedendo-lhes o Espírito Santo, assim como a nós;
+**8** E Deus, que conhece os corações, deu testemunho a favor deles, concedendo-lhes o Espírito Santo assim como a nós;
 
-**9** e não fez distinção alguma entre nós e eles, purificando-lhes os corações pela fé.
+**9** e não fez nenhuma distinção entre nós e eles, purificando os seus corações pela fé.
 
-**10** Por que, pois, tentais agora a Deus, impondo ao pescoço dos discípulos um jugo que nem nossos pais nem nós pudemos suportar?
+**10** Por que, pois, tentais agora a Deus, querendo pôr sobre o pescoço dos discípulos um jugo que nem os nossos pais nem nós pudemos suportar?
 
-**11** Pelo contrário, cremos que somos salvos pela graça do Senhor Jesus, do mesmo modo que eles.
+**11** Nós cremos, pelo contrário, que somos salvos pela graça do Senhor Jesus, do mesmo modo que eles.
 
-**12** Toda a assembleia se calou, e escutavam Barnabé e Paulo, que contavam quantos sinais e prodígios Deus fizera por meio deles entre os gentios.
+**12** Toda a assembleia se calou, e escutavam Barnabé e Paulo, que contavam quantos sinais e prodígios Deus tinha realizado por meio deles entre os gentios.
 
-**13** Depois que se calaram, Tiago tomou a palavra e disse: Irmãos, ouvi-me.
+**13** Quando terminaram, Tiago tomou a palavra e disse: Irmãos, escutai-me.
 
-**14** Simão contou como Deus, desde o princípio, cuidou de tomar dentre os gentios um povo para o seu nome.
+**14** Simeão contou como, desde o início, Deus se dignou tomar dentre os gentios um povo para o seu nome.
 
-**15** E com isto concordam as palavras dos profetas, como está escrito:
+**15** Com isso concordam as palavras dos profetas, como está escrito:
 
-**16** Depois disto voltarei e reedificarei a tenda de Davi, que tinha caído; reedificarei as suas ruínas e a levantarei,
+**16** Depois disso voltarei e reconstruirei a tenda de Davi, que tinha caído; reconstruirei as suas ruínas e a reerguerei,
 
-**17** para que o resto dos homens busque o Senhor, e todas as nações sobre as quais é invocado o meu nome, diz o Senhor, que faz estas coisas,
+**17** para que o resto dos homens busque o Senhor, e todas as nações sobre as quais foi invocado o meu nome, diz o Senhor, que faz estas coisas
 
 **18** conhecidas desde sempre.
 
-**19** Por isso julgo que não se deve inquietar aqueles que, dentre os gentios, se convertem a Deus,
+**19** Por isso, julgo que não se devem inquietar os gentios que se convertem a Deus,
 
-**20** mas escrever-lhes que se abstenham das contaminações dos ídolos, da fornicação, das carnes sufocadas e do sangue.
+**20** mas que se lhes escreva que se abstenham das contaminações dos ídolos, das uniões ilegítimas, das carnes sufocadas e do sangue.
 
-**21** Pois Moisés, desde as gerações antigas, tem em cada cidade quem o pregue, sendo lido nas sinagogas todos os sábados.
+**21** Porque Moisés, desde tempos antigos, tem em cada cidade quem o pregue, e é lido nas sinagogas todos os sábados.
 
-**22** Então pareceu bem aos apóstolos e aos presbíteros, com toda a Igreja, escolher alguns dentre eles e enviá-los a Antioquia com Paulo e Barnabé: Judas, chamado Barsabás, e Silas, homens eminentes entre os irmãos.
+**22** Então os apóstolos e os anciãos, com toda a Igreja, resolveram escolher alguns dentre eles e enviá-los a Antioquia com Paulo e Barnabé: Judas, chamado Barsabás, e Silas, homens de destaque entre os irmãos.
 
-**23** E escreveram por mão deles: Os apóstolos e os presbíteros, irmãos, aos irmãos dentre os gentios que estão em Antioquia, na Síria e na Cilícia, saudação.
+**23** E por meio deles escreveram: Os apóstolos e os anciãos, vossos irmãos, aos irmãos vindos dos gentios que estão em Antioquia, na Síria e na Cilícia, saudações!
 
-**24** Tendo sabido que alguns, saídos de entre nós sem nenhum mandato nosso, vos perturbaram com palavras, transtornando as vossas almas,
+**24** Tendo sabido que alguns dos nossos, sem mandato nosso, vos perturbaram com as suas palavras e inquietaram os vossos ânimos,
 
-**25** pareceu-nos bem, reunidos em assembleia, escolher alguns homens e enviá-los a vós com os nossos caríssimos Barnabé e Paulo,
+**25** pareceu-nos bem, reunidos de comum acordo, escolher alguns homens e enviá-los a vós com os nossos queridos Barnabé e Paulo,
 
 **26** homens que expuseram a vida pelo nome de nosso Senhor Jesus Cristo.
 
-**27** Enviamos, pois, Judas e Silas, que também de viva voz vos anunciarão as mesmas coisas.
+**27** Enviamos, pois, Judas e Silas, que vos transmitirão de viva voz as mesmas coisas.
 
-**28** Pois pareceu bem ao Espírito Santo e a nós não vos impor nenhum outro encargo além destas coisas necessárias:
+**28** Pareceu bem ao Espírito Santo e a nós não vos impor nenhum outro peso além destas coisas necessárias:
 
-**29** que vos abstenhais das carnes sacrificadas aos ídolos, do sangue, das carnes sufocadas e da fornicação. Fareis bem em guardar-vos destas coisas. Passai bem.
+**29** que vos abstenhais das carnes sacrificadas aos ídolos, do sangue, das carnes sufocadas e das uniões ilegítimas. Fareis bem em guardar-vos disso. Passai bem.
 
 ---
 
@@ -2880,13 +2880,13 @@ _Tiago, Cefas e João, tidos por colunas, dão a Paulo e a Barnabé a mão direi
 >
 > **Por que não.** O critério bíblico pede passagens que sustentaram definições, e esta não sustentou nenhuma. Decide-se junto com Gl 1,18 e 2,1–14, em avaliação na parte II.
 
-**7** Pelo contrário, vendo que me fora confiado o Evangelho dos incircuncisos, como a Pedro o dos circuncisos
+**7** Ao contrário, vendo que me fora confiado o Evangelho dos incircuncisos, como a Pedro o dos circuncisos
 
-**8** — pois aquele que agiu em Pedro para o apostolado dos circuncisos agiu também em mim para os gentios —,
+**8** — pois aquele que agiu em Pedro para o apostolado dos circuncisos agiu também em mim para o dos gentios —,
 
-**9** e reconhecendo a graça que me foi dada, Tiago, Cefas e João, tidos por colunas, deram a mim e a Barnabé a mão direita em sinal de comunhão, para que nós fôssemos aos gentios, e eles aos circuncisos;
+**9** e reconhecendo a graça que me fora dada, Tiago, Cefas e João, tidos por colunas, deram-nos a mão, a mim e a Barnabé, em sinal de comunhão: nós iríamos aos gentios; eles, aos circuncisos.
 
-**10** só nos pediram que nos lembrássemos dos pobres, o que também me esforcei por fazer.
+**10** Pediram-nos apenas que nos lembrássemos dos pobres — o que justamente me esforcei por fazer.
 
 ---
 
@@ -3538,7 +3538,7 @@ Definição solene, magistério ordinário e universal, magistério autêntico; 
 
 _Quem ouve os enviados ouve o próprio Cristo: a palavra que a Humani generis 20 aplica ao magistério ordinário dos papas, para dizer que também ele pede assentimento_
 
-**16** Quem vos ouve, a mim ouve; quem vos rejeita, a mim rejeita; e quem me rejeita, rejeita aquele que me enviou.
+**16** Quem vos ouve, a mim me ouve; e quem vos rejeita, a mim me rejeita; e quem me rejeita, rejeita aquele que me enviou.
 
 ---
 
@@ -3550,7 +3550,7 @@ _Os fiéis têm a unção que vem do Santo e que permanece neles: o fundamento b
 
 **20** Vós, porém, tendes a unção que vem do Santo, e todos vós o sabeis.
 
-**27** E quanto a vós, a unção que dele recebestes permanece em vós, e não tendes necessidade de que alguém vos ensine; mas, como a sua unção vos ensina acerca de todas as coisas, e é verdadeira e não é mentira, assim como ela vos ensinou, permanecei nele.
+**27** Quanto a vós, a unção que dele recebestes permanece em vós, e não tendes necessidade de que alguém vos ensine. Mas, assim como a sua unção vos ensina acerca de tudo — e é verdadeira, não mentira —, permanecei nele, como ela vos ensinou.
 
 ---
 
@@ -3562,11 +3562,11 @@ _A palavra pregada é recebida como palavra de Deus, e a fé foi transmitida de 
 
 ### 1 Tessalonicenses 2,13
 
-**13** Por isso também nós damos graças a Deus sem cessar, porque, tendo recebido a palavra de Deus que de nós ouvistes, a acolhestes não como palavra de homens, mas como ela é verdadeiramente, palavra de Deus, que também opera em vós, os que credes.
+**13** Por isso também damos graças a Deus sem cessar: porque, ao receberdes a palavra de Deus que de nós ouvistes, acolhestes não uma palavra humana, mas, como é na verdade, a palavra de Deus, que age em vós, os que credes.
 
 ### Judas 3
 
-**3** Caríssimos, estando muito empenhado em vos escrever acerca da nossa salvação comum, senti a necessidade de vos escrever para vos exortar a combater pela fé que de uma vez para sempre foi transmitida aos santos.
+**3** Caríssimos, tendo grande empenho em vos escrever a respeito da nossa comum salvação, senti a necessidade de o fazer, para vos exortar a combater pela fé que de uma vez por todas foi transmitida aos santos.
 
 ---
 
@@ -3582,17 +3582,17 @@ _O escriba que tira do seu tesouro coisas novas e velhas, e o mandato de pregar 
 
 ### Mateus 13,52
 
-**52** E ele lhes disse: Por isso, todo escriba que se tornou discípulo do reino dos céus é semelhante a um pai de família que tira do seu tesouro coisas novas e velhas.
+**52** E ele lhes disse: Por isso, todo escriba que se tornou discípulo do Reino dos céus é semelhante a um pai de família que tira do seu tesouro coisas novas e velhas.
 
 ### 2 Timóteo 4,1–4
 
-**1** Eu te conjuro diante de Deus e de Cristo Jesus, que há de julgar os vivos e os mortos, pela sua manifestação e pelo seu reino:
+**1** Conjuro-te diante de Deus e de Cristo Jesus, que há de julgar os vivos e os mortos, pela sua manifestação e pelo seu Reino:
 
-**2** prega a palavra, insiste a tempo e fora de tempo, repreende, admoesta, exorta, com toda paciência e doutrina.
+**2** prega a palavra, insiste oportuna e inoportunamente, argumenta, repreende, exorta, com toda paciência e doutrina.
 
-**3** Porque virá o tempo em que não suportarão a sã doutrina; mas, levados pelos próprios desejos, ajuntarão para si mestres, com comichão nos ouvidos,
+**3** Porque virá tempo em que não suportarão a sã doutrina; ao contrário, seguindo os próprios desejos, acumularão mestres que lhes agradem os ouvidos,
 
-**4** e afastarão os ouvidos da verdade, e se desviarão para as fábulas.
+**4** e desviarão os ouvidos da verdade, voltando-se para as fábulas.
 
 ---
 
@@ -3770,15 +3770,15 @@ Mas, como não basta evitar a pravidade herética se não se foge também com di
 
 _O que se lê são os erros modernistas condenados sobre o assentimento: que a Igreja docente só sancione as opiniões da discente, que a Igreja não possa exigir assentimento interno aos seus juízos, e que não haja culpa em desprezar as condenações das Congregações romanas_
 
-**6.** A Igreja discente e a Igreja docente concorrem de tal modo na definição das verdades, que à Igreja docente nada resta senão sancionar as opiniões comuns da Igreja discente.
+**6.** Na definição das verdades, a Igreja discente e a Igreja docente colaboram de tal modo que à Igreja docente nada mais resta senão sancionar as opiniões comuns da discente.
 
 _(ou seja, a Igreja docente - a hierarquia - não está limitada a sancionar as opiniões da Igreja discente - o corpo dos fiéis)_
 
-**7.** A Igreja, quando proscreve erros, não pode exigir dos fiéis nenhum assentimento interno com que abracem os juízos por ela emitidos.
+**7.** A Igreja, quando proscreve erros, não pode exigir dos fiéis nenhum assentimento interno com que abracem os juízos dados por ela.
 
 _(ou seja, a Igreja, ao proscrever erros, pode exigir dos fiéis o assentimento interno)_
 
-**8.** Devem considerar-se isentos de toda culpa os que não fazem caso algum das reprovações emitidas pela Sagrada Congregação do Índice ou pelas outras Sagradas Congregações romanas.
+**8.** Devem ser tidos por isentos de toda culpa os que não fazem caso nenhum das reprovações pronunciadas pela Sagrada Congregação do Índice ou pelas outras Sagradas Congregações Romanas.
 
 _(ou seja, não está isento de culpa quem despreza as reprovações das Congregações romanas)_
 
@@ -3818,11 +3818,11 @@ _O magistério exerce-se todos os dias pelo papa e pelos bispos em comunhão com
 >
 > **Por que não.** A encíclica pertence ao eixo 7 (parte IV), e o parágrafo é incidental dentro dela.
 
-Além disso, quanto às coisas a crer, de modo algum é lícito usar aquela distinção que se quis introduzir entre artigos de fé fundamentais e não fundamentais, como lhes chamam, como se uns devessem ser recebidos por todos, e os outros, ao contrário, pudessem ser deixados ao livre assentimento dos fiéis; pois a virtude sobrenatural da fé tem por causa formal a autoridade de Deus que revela, a qual não admite nenhuma distinção desse gênero. Por isso, todos os que são verdadeiramente de Cristo prestam ao dogma da Mãe de Deus concebida sem mancha de origem a mesma fé que prestam, por exemplo, ao mistério da augusta Trindade; e à Encarnação do Senhor não prestam fé diferente da que prestam ao magistério infalível do Romano Pontífice, no sentido, bem entendido, em que foi definido pelo Concílio ecumênico do Vaticano. Nem, pelo fato de a Igreja ter sancionado e definido por decreto solene essas verdades, umas numa época, outras noutra, algumas em tempos bem próximos de nós, são elas por isso menos certas ou menos de crer: não foi Deus quem as revelou todas?
+Além disso, no que toca às verdades que se devem crer, de modo nenhum é lícito usar aquela distinção que se houve por bem introduzir entre os chamados artigos de fé fundamentais e não fundamentais, como se uns devessem ser recebidos por todos, e os outros, ao contrário, pudessem ser deixados ao livre assentimento dos fiéis; pois a virtude sobrenatural da fé tem por causa formal a autoridade de Deus que revela, a qual não admite nenhuma distinção desse gênero. Por isso, todos os que são verdadeiramente de Cristo dão, por exemplo, ao dogma da Mãe de Deus concebida sem mancha de origem a mesma fé que dão ao mistério da augusta Trindade, e não dão à Encarnação do Senhor fé diferente da que dão ao magistério infalível do Romano Pontífice, no sentido preciso em que foi definido pelo Concílio Ecumênico do Vaticano. Pois não é por ter a Igreja sancionado e definido com decreto solene essas verdades, umas numa época, outras noutra, ou mesmo em tempos bem próximos, que elas deixam de ser igualmente certas e de se dever crer igualmente; não as revelou Deus todas?
 
-Com efeito, o magistério da Igreja — que, por desígnio divino, foi constituído na terra para que as doutrinas reveladas permanecessem intactas para sempre e fossem levadas com facilidade e segurança ao conhecimento dos homens —, embora se exerça todos os dias pelo Romano Pontífice e pelos bispos que estão em comunhão com ele, compreende contudo também este ofício: quando for preciso resistir com mais eficácia aos erros e aos ataques dos hereges, ou imprimir na mente dos fiéis pontos da doutrina sagrada explicados com mais clareza e precisão, proceder oportunamente a definir alguma coisa com ritos e decretos solenes.
+Com efeito, o magistério da Igreja — que por desígnio divino foi constituído na terra para que as doutrinas reveladas não só permanecessem intactas para sempre, mas também fossem levadas, fácil e seguramente, ao conhecimento dos homens —, embora se exerça todos os dias pelo Romano Pontífice e pelos Bispos em comunhão com ele, abrange também o encargo de proceder oportunamente a definir alguma coisa com ritos e decretos solenes, quando for preciso resistir com mais eficácia aos erros e aos ataques dos hereges, ou imprimir na mente dos fiéis artigos da sagrada doutrina explicados com mais clareza e precisão.
 
-Com este uso extraordinário do magistério, certamente não se introduz nenhuma invenção, nem se acrescenta nada de novo à soma das verdades que estão contidas, ao menos implicitamente, no depósito da revelação divinamente entregue à Igreja; mas ou se declaram as que talvez ainda pareçam obscuras a muitos, ou se estabelece que se devem ter por de fé as que antes alguns punham em controvérsia.
+Por esse uso extraordinário do magistério não se introduz, certamente, nenhuma invenção, nem se acrescenta nada de novo à soma das verdades que estão contidas, ao menos implicitamente, no depósito da Revelação, entregue por Deus à Igreja; mas ou se declaram aquelas que talvez ainda pudessem parecer obscuras a muitos, ou se estabelece que se devem ter como de fé aquelas que antes alguns punham em discussão.
 
 ---
 
@@ -4386,21 +4386,21 @@ _Dai a César o que é de César, e a Deus o que é de Deus: a palavra em que a 
 >
 > **Por que não.** Só tem lugar se a parte VII existir: a parte inteira está em avaliação, por encostar na doutrina social e no disciplinar (critério 2.2).
 
-**15** Então os fariseus retiraram-se e tomaram conselho sobre o modo de o apanhar em alguma palavra.
+**15** Então os fariseus retiraram-se e deliberaram como o apanhariam em alguma palavra.
 
-**16** E enviaram-lhe os seus discípulos, com os herodianos, a dizer: Mestre, sabemos que és verdadeiro e ensinas o caminho de Deus segundo a verdade, e não te importas com ninguém, porque não olhas à aparência dos homens.
+**16** E enviaram-lhe os seus discípulos, juntamente com os herodianos, dizendo: Mestre, sabemos que és verdadeiro e ensinas o caminho de Deus segundo a verdade, sem te importares com ninguém, porque não olhas à aparência dos homens.
 
-**17** Dize-nos, pois, o que te parece: é lícito pagar o tributo a César, ou não?
+**17** Dize-nos, pois, que te parece: é lícito pagar tributo a César, ou não?
 
-**18** Mas Jesus, conhecendo a malícia deles, disse: Por que me tentais, hipócritas?
+**18** Jesus, conhecendo a sua malícia, disse: Por que me tentais, hipócritas?
 
-**19** Mostrai-me a moeda do tributo. E eles apresentaram-lhe um denário.
+**19** Mostrai-me a moeda do tributo. Eles apresentaram-lhe um denário.
 
-**20** Ele perguntou-lhes: De quem é esta imagem e esta inscrição?
+**20** E ele lhes perguntou: De quem é esta imagem e esta inscrição?
 
-**21** Responderam-lhe: De César. Então disse-lhes: Dai, pois, a César o que é de César, e a Deus o que é de Deus.
+**21** Responderam-lhe: De César. Então lhes disse: Dai, pois, a César o que é de César, e a Deus o que é de Deus.
 
-**22** Ao ouvirem isto, ficaram admirados e, deixando-o, foram-se embora.
+**22** Ouvindo isso, ficaram admirados; e, deixando-o, foram-se embora.
 
 ---
 
@@ -4416,23 +4416,23 @@ _O meu reino não é deste mundo, e o poder de Pilatos vem-lhe do alto: o reino 
 
 ### João 18,33–37
 
-**33** Pilatos entrou de novo no pretório, chamou Jesus e disse-lhe: Tu és o rei dos judeus?
+**33** Pilatos entrou de novo no pretório, chamou Jesus e disse-lhe: És tu o rei dos judeus?
 
-**34** Jesus respondeu: Dizes isso por ti mesmo, ou foram outros que te falaram de mim?
+**34** Jesus respondeu: Dizes isso por ti mesmo, ou outros te disseram isso de mim?
 
-**35** Pilatos respondeu: Porventura sou eu judeu? A tua nação e os sumos sacerdotes entregaram-te a mim. Que fizeste?
+**35** Respondeu Pilatos: Porventura sou eu judeu? A tua nação e os sumos sacerdotes entregaram-te a mim. Que fizeste?
 
-**36** Jesus respondeu: O meu reino não é deste mundo. Se o meu reino fosse deste mundo, os meus servidores teriam lutado para que eu não fosse entregue aos judeus; mas o meu reino não é daqui.
+**36** Jesus respondeu: O meu Reino não é deste mundo. Se o meu Reino fosse deste mundo, os meus servidores teriam lutado para que eu não fosse entregue aos judeus; mas o meu Reino não é daqui.
 
-**37** Disse-lhe então Pilatos: Logo, tu és rei? Jesus respondeu: Tu dizes que eu sou rei. Para isto nasci e para isto vim ao mundo: para dar testemunho da verdade. Todo aquele que é da verdade ouve a minha voz.
+**37** Disse-lhe então Pilatos: Logo, tu és rei? Jesus respondeu: Tu dizes que eu sou rei. Para isso nasci e para isso vim ao mundo: para dar testemunho da verdade. Todo o que é da verdade ouve a minha voz.
 
 ### João 19,10–11
 
 _Diante de Pilatos, que se gaba de ter poder para soltar e para crucificar_
 
-**10** Disse-lhe então Pilatos: Não me falas? Não sabes que tenho poder para te soltar e poder para te crucificar?
+**10** Disse-lhe, então, Pilatos: Não me falas? Não sabes que tenho poder para te soltar e poder para te crucificar?
 
-**11** Jesus respondeu: Não terias poder algum sobre mim, se não te fosse dado do alto; por isso, aquele que me entregou a ti tem maior pecado.
+**11** Respondeu Jesus: Não terias nenhum poder sobre mim, se não te fosse dado do alto; por isso, quem me entregou a ti tem maior pecado.
 
 ---
 
@@ -4448,21 +4448,21 @@ _Importa obedecer antes a Deus que aos homens: a resposta dos apóstolos ao sin�
 
 ### Atos 4,18–20
 
-**18** E, tendo-os chamado, ordenaram-lhes que de modo algum falassem nem ensinassem em nome de Jesus.
+**18** Chamaram-nos e ordenaram-lhes que de modo nenhum falassem nem ensinassem em nome de Jesus.
 
-**19** Mas Pedro e João responderam-lhes: Julgai vós se é justo diante de Deus ouvir-vos antes a vós do que a Deus;
+**19** Mas Pedro e João responderam-lhes: Julgai vós mesmos se é justo, diante de Deus, obedecer antes a vós do que a Deus;
 
-**20** porque nós não podemos deixar de falar do que vimos e ouvimos.
+**20** quanto a nós, não podemos deixar de falar do que vimos e ouvimos.
 
 ### Atos 5,27–29
 
 _Presos de novo, por terem continuado a pregar_
 
-**27** Tendo-os trazido, apresentaram-nos ao sinédrio. E o sumo sacerdote interrogou-os,
+**27** Trouxeram-nos e os apresentaram ao Sinédrio. O sumo sacerdote interrogou-os,
 
-**28** dizendo: Não vos ordenamos expressamente que não ensinásseis neste nome? E eis que enchestes Jerusalém com a vossa doutrina, e quereis fazer cair sobre nós o sangue deste homem.
+**28** dizendo: Não vos ordenamos expressamente que não ensinásseis neste nome? E eis que enchestes Jerusalém com a vossa doutrina e quereis fazer cair sobre nós o sangue desse homem!
 
-**29** Pedro e os apóstolos responderam: Importa obedecer antes a Deus que aos homens.
+**29** Pedro e os apóstolos responderam: É preciso obedecer antes a Deus do que aos homens.
 
 ---
 
@@ -4478,31 +4478,31 @@ _Não há poder que não venha de Deus, e por isso o cristão se sujeita à auto
 
 ### Romanos 13,1–7
 
-**1** Toda pessoa esteja sujeita aos poderes superiores; porque não há poder que não venha de Deus, e os que existem foram ordenados por Deus.
+**1** Toda alma se submeta às autoridades constituídas; porque não há autoridade que não venha de Deus, e as que existem foram por ele ordenadas.
 
-**2** De modo que quem se opõe ao poder resiste à ordenação de Deus; e os que resistem atrairão sobre si a condenação.
+**2** Quem, portanto, resiste à autoridade, resiste à disposição de Deus; e os que resistem atraem sobre si a condenação.
 
-**3** Porque os governantes não são de temer quando se faz o bem, mas quando se faz o mal. Queres não ter medo do poder? Faze o bem, e terás o louvor dele;
+**3** Porque os governantes não são temor para as boas obras, mas para as más. Queres não temer a autoridade? Faze o bem, e dela receberás louvor;
 
-**4** porque ele é ministro de Deus para o teu bem. Mas, se fizeres o mal, teme, porque não é em vão que traz a espada: é ministro de Deus, vingador para castigar quem pratica o mal.
+**4** pois ela é ministra de Deus para o teu bem. Mas, se fizeres o mal, teme: não é sem motivo que traz a espada; é ministra de Deus, vingadora para castigar quem pratica o mal.
 
-**5** Por isso é necessário sujeitar-se, não só por causa do castigo, mas também por causa da consciência.
+**5** Por isso é necessário submeter-se, não só por causa do castigo, mas também por causa da consciência.
 
-**6** É também por isso que pagais tributos; porque são ministros de Deus, aplicados constantemente a este mesmo ofício.
+**6** É ainda por isso que pagais tributos; porque os que governam são servidores de Deus, aplicados a essa mesma função.
 
-**7** Dai a cada um o que lhe é devido: a quem tributo, tributo; a quem imposto, imposto; a quem temor, temor; a quem honra, honra.
+**7** Dai a cada um o que lhe é devido: a quem o tributo, o tributo; a quem o imposto, o imposto; a quem o temor, o temor; a quem a honra, a honra.
 
 ### 1 Pedro 2,13–17
 
 _A sujeição por causa do Senhor, como homens livres e servos de Deus_
 
-**13** Sujeitai-vos a toda instituição humana por causa do Senhor: quer ao rei, como soberano,
+**13** Sujeitai-vos, por causa do Senhor, a toda instituição humana: seja ao rei, como soberano,
 
-**14** quer aos governadores, como enviados por ele para castigo dos malfeitores e louvor dos que fazem o bem.
+**14** seja aos governadores, como enviados por ele para castigo dos malfeitores e louvor dos que fazem o bem.
 
-**15** Porque esta é a vontade de Deus: que, fazendo o bem, façais calar a ignorância dos homens insensatos;
+**15** Porque esta é a vontade de Deus: que, fazendo o bem, façais calar a ignorância dos insensatos.
 
-**16** como livres, e não usando a liberdade como véu para a maldade, mas como servos de Deus.
+**16** Vivei como homens livres — não usando a liberdade como véu para a malícia —, mas como servos de Deus.
 
 **17** Honrai a todos, amai os irmãos, temei a Deus, honrai o rei.
 
@@ -4524,23 +4524,23 @@ _Na última ceia, antes da paixão: a hora da prova chegou_
 
 **35** E disse-lhes: Quando vos enviei sem bolsa, sem alforje e sem sandálias, faltou-vos alguma coisa? Eles responderam: Nada.
 
-**36** Disse-lhes então: Mas agora, quem tem bolsa, tome-a, e também o alforje; e quem não tem espada, venda o seu manto e compre uma.
+**36** Disse-lhes então: Mas agora, quem tem bolsa tome-a, e do mesmo modo o alforje; e quem não tem espada venda o manto e compre uma.
 
-**37** Porque eu vos digo que é necessário que se cumpra em mim isto que está escrito: E foi contado entre os malfeitores. Pois o que me diz respeito chega ao seu fim.
+**37** Porque eu vos digo que é necessário que se cumpra em mim o que está escrito: Foi contado entre os malfeitores. Pois o que me diz respeito está chegando ao fim.
 
-**38** Eles disseram: Senhor, eis aqui duas espadas. Ele respondeu-lhes: Basta.
+**38** Eles disseram: Senhor, eis aqui duas espadas. Ele lhes disse: Basta.
 
 ### Jeremias 1,10
 
 _A vocação do profeta_
 
-**10** Vê: eu te constituo hoje sobre as nações e sobre os reinos, para arrancar e para derrubar, para destruir e para demolir, para edificar e para plantar.
+**10** vê: hoje te constituo sobre as nações e sobre os reinos, para arrancar e para derrubar, para destruir e para demolir, para construir e para plantar.
 
 ### 1 Coríntios 2,15
 
 _O homem que tem o Espírito discerne as coisas de Deus_
 
-**15** O homem espiritual, porém, julga todas as coisas, e ele mesmo não é julgado por ninguém.
+**15** O homem espiritual, porém, discerne todas as coisas, e ele não é discernido por ninguém.
 
 ---
 
@@ -4860,27 +4860,27 @@ _Deus repartiu o cuidado do gênero humano entre dois poderes, cada um supremo n
 
 _Do n. 5: o poder da Igreja não vem do Estado, e os apóstolos foram os primeiros a defendê-lo_
 
-Esta sociedade, embora conste de homens, assim como a comunidade civil, é contudo sobrenatural e espiritual, por causa do fim que lhe foi proposto e dos meios com que tende a esse fim; e por isso distingue-se e difere da sociedade civil; e, o que é da maior importância, é sociedade perfeita no seu gênero e no seu direito, pois possui em si e por si mesma, por vontade e benefício do seu fundador, todos os recursos necessários à sua conservação e à sua ação. Assim como o fim a que a Igreja tende é de longe o mais nobre, assim o seu poder é o mais excelente de todos, e não pode ser tido por inferior ao poder civil, nem estar-lhe de modo algum sujeito.
+Esta sociedade, embora composta de homens, como a comunidade civil, é contudo sobrenatural e espiritual, por causa do fim que lhe foi assinalado e dos meios com que tende para esse fim; e por isso se distingue e difere da sociedade civil; e, o que é sumamente importante, é uma sociedade perfeita em seu gênero e em seu direito, pois possui em si e por si mesma, por vontade e benefício do seu Fundador, todos os recursos necessários à sua conservação e à sua ação. Assim como o fim a que tende a Igreja é de longe o mais nobre, assim também o seu poder é o mais excelente de todos, e não pode ser tido por inferior ao poder civil nem estar de modo algum sujeito a ele.
 
-Com efeito, Jesus Cristo deu aos seus apóstolos mandato livre sobre as coisas sagradas, juntamente com a faculdade de dar leis propriamente ditas e com o duplo poder, que daí decorre, de julgar e de punir: Foi-me dado todo o poder no céu e na terra; ide, pois, ensinai todas as nações… ensinando-as a guardar tudo o que vos mandei [Mt 28,18–20]. E noutro lugar: Se não os ouvir, dize-o à Igreja [Mt 18,17]. E ainda: Prontos a castigar toda desobediência [2Cor 10,6]. E de novo: Procederei com mais rigor, segundo o poder que o Senhor me deu para edificar, e não para destruir [2Cor 13,10]. Por isso, quem deve guiar os homens às coisas celestes não é o Estado, mas a Igreja; e a ela foi confiado por Deus este ofício: ver e decidir por si mesma sobre o que toca à religião, ensinar todas as nações, estender quanto puder as fronteiras do nome cristão; em suma, administrar livre e desembaraçadamente, segundo o seu juízo, a causa cristã.
+De fato, Jesus Cristo deu aos seus Apóstolos um mandato livre nas coisas sagradas, junto com a faculdade de fazer leis propriamente ditas e com o duplo poder, que daí decorre, de julgar e de punir. “*Foi-me dado todo o poder no céu e na terra: ide, pois, e ensinai todas as nações* ... *ensinando-as a observar tudo o que vos mandei*”. E em outro lugar: “*Se não os ouvir, dize-o à Igreja*”. E ainda: “*Prontos para castigar toda desobediência*”. E de novo: “*Procederei com mais rigor, segundo o poder que o Senhor me deu para edificação, e não para destruição*”. Portanto, quem deve guiar os homens para as coisas celestes não é o Estado, mas a Igreja; e a ela foi confiado por Deus este ofício: julgar e decidir por si mesma sobre as coisas que dizem respeito à religião; ensinar todas as nações; estender quanto puder as fronteiras do nome cristão; em suma, administrar livre e desembaraçadamente, segundo o seu juízo, as coisas cristãs.
 
-Esta autoridade, absoluta em si mesma e plenamente senhora de si, que uma filosofia aduladora dos príncipes há muito combate, a Igreja nunca deixou de reivindicá-la e de exercê-la publicamente. Os primeiros a combater por ela foram os apóstolos, que, proibidos pelos chefes da sinagoga de espalhar o Evangelho, respondiam com firmeza: Importa obedecer antes a Deus que aos homens [At 5,29]. Os santos Padres da Igreja procuraram defendê-la com o peso das razões, conforme a ocasião; e os romanos pontífices nunca deixaram de vindicá-la, com invicta constância de ânimo, contra os seus impugnadores. Mais ainda: os próprios príncipes e governantes dos Estados a reconheceram, na opinião e nos fatos, pois costumaram tratar com a Igreja como com um poder supremo legítimo, celebrando pactos, concluindo negócios, enviando e recebendo embaixadores e trocando outros ofícios. E certamente não se deve julgar que tenha acontecido sem particular desígnio da providência de Deus que este mesmo poder fosse protegido por um principado civil, como a melhor tutela da sua liberdade.
+Esta autoridade, absoluta em si mesma e plenamente independente, que há muito tempo é combatida por uma filosofia aduladora dos príncipes, a Igreja nunca deixou de reivindicá-la para si e de exercê-la publicamente; e os primeiros a lutar por ela foram os Apóstolos, que, quando os chefes da Sinagoga os proibiam de difundir o Evangelho, respondiam com firmeza: *É preciso obedecer antes a Deus que aos homens*. Os santos Padres da Igreja procuraram defendê-la, conforme a ocasião, com o peso das suas razões; e os Romanos Pontífices, com invencível constância de ânimo, nunca deixaram de reivindicá-la contra os que a atacavam. Mais ainda: os próprios príncipes e governantes dos Estados a reconheceram, de opinião e de fato, pois costumaram tratar com a Igreja como com um poder supremo e legítimo, ao celebrar pactos, ao concluir negócios, ao enviar e receber embaixadores e na troca de outros ofícios. — E não se deve julgar que tenha acontecido sem um especial desígnio da providência de Deus que este mesmo poder fosse protegido pelo principado civil, como pela melhor salvaguarda da sua liberdade.
 
 ### Os dois poderes e a sua concórdia
 
 _O n. 6 inteiro: cada poder é supremo no seu gênero; o que é sagrado está no poder da Igreja, o resto no da autoridade civil_
 
-Deus, portanto, repartiu o cuidado do gênero humano entre dois poderes, o eclesiástico e o civil, um posto à frente das coisas divinas, o outro das humanas. Cada um é o maior no seu gênero; cada um tem limites certos que o contêm, definidos pela natureza e pela causa próxima de cada um; de modo que se traça como que um círculo dentro do qual a ação de cada um se exerce por direito próprio. Mas, como o império de ambos se exerce sobre os mesmos homens, e pode acontecer que uma só e mesma coisa — ainda que de modo diverso, mas a mesma coisa — pertença ao direito e ao juízo de ambos, Deus providentíssimo, que constituiu os dois, deve ter ordenado com retidão e boa ordem o caminho de cada um. As que existem foram ordenadas por Deus [Rm 13,1]. Se assim não fosse, nasceriam muitas vezes causas de funestas contendas e conflitos; e não raro o homem haveria de ficar hesitante, como numa encruzilhada, ansioso sobre o que devesse fazer, se os dois poderes mandassem coisas contrárias, e ele não pudesse recusar a obediência a nenhum deles sem faltar ao dever. Ora, isto repugna sumamente a quem pensa na sabedoria e na bondade de Deus, que, mesmo nas coisas físicas, embora sejam de ordem muito inferior, conciliou entre si as forças e as causas naturais com medida e como que num maravilhoso concerto, de modo que nenhuma delas impeça as outras, e todas juntas conspirem, com toda a conveniência e harmonia, para o fim a que o mundo se ordena.
+Assim, Deus repartiu o governo do gênero humano entre dois poderes, a saber, o eclesiástico e o civil, um posto à frente das coisas divinas, o outro das humanas. Cada um deles é supremo em seu gênero; cada um tem limites determinados, dentro dos quais se contém, definidos pela natureza e pela causa próxima de cada um; e assim se traça como que um círculo, dentro do qual cada um exerce a sua ação por direito próprio. Mas, como o poder de ambos se exerce sobre os mesmos súditos, e pode acontecer que uma só e mesma coisa — embora de modo diverso, mas ainda assim a mesma coisa — pertença à jurisdição e ao juízo de ambos, Deus, que é providentíssimo e por quem ambos foram constituídos, deve ter ordenado com retidão e com ordem os caminhos de um e de outro. *E as que existem foram ordenadas por Deus*. Se assim não fosse, nasceriam muitas vezes causas de funestas contendas e conflitos; e não raro o homem, inquieto, teria de ficar parado, como numa encruzilhada, sem saber o que fazer, porque os dois poderes lhe mandariam coisas contrárias, e ele, sem faltar ao dever, não pode recusar a obediência a nenhum deles. Ora, pensar isso repugna sumamente à sabedoria e à bondade de Deus, que, até nas coisas físicas, embora sejam de ordem muito inferior, harmonizou entre si as forças e as causas naturais com tão bem regulada medida e como que com um concerto tão admirável, que nenhuma delas impede as outras, e todas juntas conspiram, de modo conveniente e aptíssimo, para o fim a que tende o mundo.
 
-É necessário, pois, que entre os dois poderes haja uma ligação ordenada, que não sem razão se compara à união pela qual, no homem, a alma e o corpo estão unidos. Qual e quanta seja essa ligação, não se pode julgar de outro modo senão olhando, como dissemos, para a natureza de cada um, e tendo em conta a excelência e a nobreza das causas; pois a um cabe próxima e principalmente cuidar das vantagens das coisas mortais, ao outro proporcionar os bens celestes e eternos. Tudo, portanto, o que nas coisas humanas é de algum modo sagrado, tudo o que pertence à salvação das almas ou ao culto de Deus, seja tal por sua natureza, seja entendido como tal por causa do fim a que se refere, tudo isso está no poder e no arbítrio da Igreja; as demais coisas, que o gênero civil e político abrange, é justo que estejam sujeitas à autoridade civil, pois Jesus Cristo mandou dar a César o que é de César, e a Deus o que é de Deus.
+É necessário, pois, que haja entre os dois poderes uma certa ligação ordenada, que não sem razão se compara à união pela qual a alma e o corpo se juntam no homem. Qual e quão grande seja essa ligação, não se pode julgar de outro modo senão atendendo, como dissemos, à natureza de cada um e levando em conta a excelência e a nobreza das suas causas; pois a um cabe, de modo próximo e principal, cuidar dos interesses das coisas mortais, ao outro proporcionar os bens celestes e eternos. Tudo, portanto, o que nas coisas humanas é de algum modo sagrado, tudo o que diz respeito à salvação das almas ou ao culto de Deus, quer o seja por sua natureza, quer se entenda como tal por causa do fim a que se refere, tudo isso está sob o poder e o arbítrio da Igreja; as demais coisas, que abrangem a ordem civil e política, é justo que estejam sujeitas à autoridade civil, pois Jesus Cristo mandou dar a César o que é de César, e a Deus o que é de Deus.
 
-Às vezes, porém, sobrevêm tempos em que vale também outro modo de concórdia para uma liberdade tranquila: quando os governantes dos Estados e o Romano Pontífice chegam a acordo sobre algum assunto particular. Nesses tempos a Igreja dá provas eminentes da sua bondade materna, pois costuma usar de toda a condescendência e indulgência que lhe é possível.
+Às vezes, porém, sobrevêm tempos em que vale também outro modo de concórdia em favor de uma liberdade tranquila: a saber, quando os governantes dos Estados e o Romano Pontífice se põem de acordo sobre alguma questão particular. Nesses tempos, a Igreja dá provas extraordinárias da sua piedade materna, pois costuma usar de toda a condescendência e indulgência que lhe é possível.
 
 ### Resumo da doutrina
 
 _Do n. 17: a Igreja é sociedade tão perfeita quanto o Estado, e nas matérias mistas a regra é a concórdia_
 
-Do mesmo modo, deve entender-se que a Igreja é sociedade perfeita no seu gênero e no seu direito, não menos que o próprio Estado; e que os que têm o supremo poder não devem permitir-se forçar a Igreja a servi-los ou a sujeitar-se a eles, nem deixá-la menos livre para tratar dos seus assuntos, nem tirar-lhe coisa alguma dos outros direitos que lhe foram conferidos por Jesus Cristo. Nos negócios de direito misto, porém, o que é sumamente conforme à natureza, e também aos desígnios de Deus, não é a separação de um poder do outro, e muito menos a contenda, mas plena concórdia, e concórdia que corresponda às causas próximas que deram origem a uma e a outra sociedade.
+Do mesmo modo, deve-se entender que a Igreja é uma sociedade não menos perfeita que o próprio Estado, em seu gênero e em seu direito; e que os que detêm o poder supremo não devem pretender obrigá-la a servi-los ou a sujeitar-se a eles, nem permitir que seja menos livre para tratar dos seus assuntos, nem tirar-lhe nada dos demais direitos que lhe foram conferidos por Jesus Cristo. Nas questões de direito misto, porém, o que é sumamente conforme à natureza e também aos desígnios de Deus não é a separação de um poder do outro, e muito menos o conflito, mas a plena concórdia, e uma concórdia que corresponda às causas próximas que deram origem a uma e a outra sociedade.
 
 ---
 

@@ -14,11 +14,11 @@ Um só Deus, eterno, imutável e incompreensível, distinto do mundo que criou.
 
 _Deus dá a conhecer o seu nome — Eu sou aquele que sou —, de onde a tradição tirou a doutrina de Deus como o próprio ser, que o Credo de Paulo VI retoma no fim desta parte_
 
-**13** Moisés disse a Deus: Eis que irei aos filhos de Israel e lhes direi: O Deus de vossos pais enviou-me a vós. E, se me perguntarem: Qual é o seu nome?, que lhes direi?
+**13** Moisés disse a Deus: Quando eu for aos filhos de Israel e lhes disser: O Deus de vossos pais me enviou a vós, e eles me perguntarem qual é o seu nome, que lhes direi?
 
-**14** Disse Deus a Moisés: Eu sou aquele que sou. E acrescentou: Assim dirás aos filhos de Israel: Eu sou enviou-me a vós.
+**14** Deus disse a Moisés: Eu sou aquele que sou. E acrescentou: Assim dirás aos filhos de Israel: Eu Sou me enviou a vós.
 
-**15** Disse ainda Deus a Moisés: Assim dirás aos filhos de Israel: O Senhor, o Deus de vossos pais, o Deus de Abraão, o Deus de Isaac e o Deus de Jacó, enviou-me a vós. Este é o meu nome para sempre, e este é o meu memorial de geração em geração.
+**15** Deus disse ainda a Moisés: Assim dirás aos filhos de Israel: O Senhor, o Deus de vossos pais, o Deus de Abraão, o Deus de Isaac e o Deus de Jacó, enviou-me a vós. Este é o meu nome para sempre, e assim serei lembrado de geração em geração.
 
 ---
 
@@ -36,19 +36,19 @@ _A fé de Israel começa pela unicidade de Deus, que toda a doutrina trinitária
 
 _Jesus confirma o Ouve, Israel como o primeiro dos mandamentos, e o escriba conclui: ele é único, e não há outro além dele — a fé no Filho não revoga a unicidade de Deus_
 
-**28** Aproximou-se um dos escribas, que os tinha ouvido discutir, e, vendo que Jesus lhes respondera bem, perguntou-lhe: Qual é o primeiro de todos os mandamentos?
+**28** Aproximou-se um dos escribas, que os tinha ouvido discutir e, vendo que lhes respondera bem, perguntou-lhe: Qual é o primeiro de todos os mandamentos?
 
 **29** Jesus respondeu: O primeiro é: Ouve, Israel: o Senhor nosso Deus é o único Senhor;
 
-**30** e amarás o Senhor teu Deus de todo o teu coração, de toda a tua alma, de todo o teu entendimento e de todas as tuas forças.
+**30** e amarás o Senhor teu Deus de todo o teu coração, de toda a tua alma, de todo o teu entendimento e com todas as tuas forças.
 
 **31** O segundo é este: Amarás o teu próximo como a ti mesmo. Não há outro mandamento maior do que estes.
 
-**32** Disse-lhe o escriba: Muito bem, Mestre; disseste com verdade que ele é único, e não há outro além dele;
+**32** Disse-lhe o escriba: Muito bem, Mestre; disseste com verdade que ele é único e que não há outro além dele;
 
-**33** e que amá-lo de todo o coração, de toda a inteligência e de todas as forças, e amar o próximo como a si mesmo, vale mais do que todos os holocaustos e sacrifícios.
+**33** e que amá-lo de todo o coração, com todo o entendimento e com todas as forças, e amar o próximo como a si mesmo, vale mais do que todos os holocaustos e sacrifícios.
 
-**34** Jesus, vendo que ele respondera com sabedoria, disse-lhe: Não estás longe do reino de Deus. E ninguém mais ousava interrogá-lo.
+**34** Vendo Jesus que ele respondera sabiamente, disse-lhe: Não estás longe do Reino de Deus. E ninguém mais ousava interrogá-lo.
 
 ---
 
@@ -58,23 +58,23 @@ _Fora do Senhor não há Deus, nem um segundo princípio: é ele quem forma a lu
 
 ### Isaías 44,6–8
 
-**6** Assim diz o Senhor, rei de Israel e seu redentor, o Senhor dos exércitos: Eu sou o primeiro e eu sou o último, e fora de mim não há Deus.
+**6** Assim diz o Senhor, rei de Israel, e o seu redentor, o Senhor dos exércitos: Eu sou o primeiro e eu sou o último, e fora de mim não há Deus.
 
-**7** Quem é como eu? Que o proclame, que o anuncie e o exponha diante de mim, desde que estabeleci o povo antigo; que anunciem as coisas futuras e o que há de vir.
+**7** Quem é como eu? Que o proclame, que o anuncie e o exponha diante de mim, desde que estabeleci o povo antigo; que anuncie as coisas futuras, as que hão de acontecer.
 
-**8** Não temais nem vos assusteis: não fiz que o ouvisses desde há muito, e não o anunciei? Vós sois as minhas testemunhas. Há acaso Deus fora de mim? Não há outra Rocha; não conheço nenhuma.
+**8** Não tenhais medo, não vos assusteis: não vos fiz ouvir e não vos anunciei isso há muito tempo? Vós sois as minhas testemunhas. Existe algum Deus fora de mim? Não há outra Rocha; não conheço nenhuma.
 
 ### Isaías 45,5–7.21–22
 
-**5** Eu sou o Senhor, e não há outro; fora de mim não há Deus. Eu te cingi, embora não me conhecesses,
+**5** Eu sou o Senhor, e não há outro: fora de mim não há Deus. Eu te cingi, embora não me conhecesses,
 
-**6** para que se saiba, desde o nascer do sol até o poente, que não há nada fora de mim. Eu sou o Senhor, e não há outro.
+**6** para que se saiba, do nascer ao pôr do sol, que não há nenhum fora de mim. Eu sou o Senhor, e não há outro;
 
-**7** Eu formo a luz e crio as trevas, faço a paz e crio a desgraça; eu, o Senhor, faço todas estas coisas.
+**7** eu formo a luz e crio as trevas, faço a paz e crio a desgraça: eu, o Senhor, faço todas estas coisas.
 
-**21** Anunciai, apresentai as vossas provas; aconselhem-se todos juntos! Quem fez ouvir isto desde o princípio, quem o anunciou desde há muito? Não fui eu, o Senhor? Não há outro Deus fora de mim; Deus justo e salvador, não há nenhum além de mim.
+**21** Anunciai, apresentai as provas, consultai-vos juntos: quem anunciou isto desde o princípio, quem o predisse há muito tempo? Não fui eu, o Senhor? Não há outro Deus fora de mim; Deus justo e salvador, não há nenhum além de mim.
 
-**22** Voltai-vos para mim e sereis salvos, todos os confins da terra, porque eu sou Deus, e não há outro.
+**22** Voltai-vos para mim e sereis salvos, todos os confins da terra, pois eu sou Deus, e não há outro.
 
 ---
 
@@ -82,11 +82,11 @@ _Fora do Senhor não há Deus, nem um segundo princípio: é ele quem forma a lu
 
 _Não há Deus senão um só; e Paulo, ao repetir a fórmula, põe dentro dela o Pai e o Senhor Jesus Cristo — a frase que Constantinopla II completará com o Espírito Santo_
 
-**4** Quanto, pois, a comer das carnes sacrificadas aos ídolos, sabemos que o ídolo nada é no mundo, e que não há Deus senão um só.
+**4** Quanto, pois, ao comer das carnes imoladas aos ídolos, sabemos que o ídolo não é nada no mundo e que não há Deus senão um só.
 
-**5** Porque, ainda que haja os chamados deuses, quer no céu quer na terra — e de fato há muitos deuses e muitos senhores —,
+**5** Porque, ainda que haja os chamados deuses, seja no céu, seja na terra — como de fato há muitos deuses e muitos senhores —,
 
-**6** para nós, contudo, há um só Deus, o Pai, de quem são todas as coisas, e nós para ele; e um só Senhor, Jesus Cristo, por meio de quem são todas as coisas, e nós por meio dele.
+**6** para nós, contudo, há um só Deus, o Pai, de quem procedem todas as coisas e para quem nós existimos, e um só Senhor, Jesus Cristo, por quem são todas as coisas e por quem nós existimos.
 
 ---
 
@@ -98,23 +98,23 @@ _Tudo o que foi feito passa, e Deus permanece o mesmo: a imutabilidade que Latr�
 
 _Os céus envelhecerão como uma veste; tu és sempre o mesmo_
 
-**26** Desde o princípio fundaste a terra, e os céus são obra das tuas mãos.
+**26** No princípio fundaste a terra, e os céus são obra das tuas mãos.
 
-**27** Eles perecerão, mas tu permaneces; todos eles envelhecerão como uma veste; como roupa os mudarás, e serão mudados.
+**27** Eles perecerão, mas tu permaneces; todos envelhecerão como um vestido; como uma roupa os mudarás, e serão mudados.
 
-**28** Mas tu és sempre o mesmo, e os teus anos não terão fim.
+**28** Tu, porém, és o mesmo, e os teus anos não terão fim.
 
 ### Malaquias 3,6
 
 _Eu, o Senhor, não mudo_
 
-**6** Pois eu, o Senhor, não mudo; e vós, filhos de Jacó, não fostes consumidos.
+**6** Pois eu, o Senhor, não mudo; mas vós, filhos de Jacó, ainda não chegastes ao fim.
 
 ### Tiago 1,17
 
 _No Pai das luzes não há variação_
 
-**17** Toda dádiva boa e todo dom perfeito vêm do alto, e descem do Pai das luzes, em quem não há variação nem sombra de mudança.
+**17** Toda dádiva boa e todo dom perfeito vêm do alto, descem do Pai das luzes, em quem não há mudança nem sombra de variação.
 
 ---
 
@@ -122,13 +122,13 @@ _No Pai das luzes não há variação_
 
 _Os juízos de Deus são insondáveis, e dele, por meio dele e para ele são todas as coisas: a incompreensibilidade que Latrão IV e o Vaticano I professam_
 
-**33** Ó profundidade da riqueza, e da sabedoria, e da ciência de Deus! Quão insondáveis são os seus juízos, e impenetráveis os seus caminhos!
+**33** Ó profundidade da riqueza, da sabedoria e da ciência de Deus! Quão insondáveis são os seus juízos e quão inescrutáveis, os seus caminhos!
 
-**34** Pois quem conheceu a mente do Senhor? Ou quem foi o seu conselheiro?
+**34** Pois quem conheceu o pensamento do Senhor? Ou quem foi o seu conselheiro?
 
-**35** Ou quem lhe deu primeiro, para que tenha de ser retribuído?
+**35** Ou quem lhe deu primeiro, para que lhe seja retribuído?
 
-**36** Porque dele, e por meio dele, e para ele são todas as coisas. A ele a glória pelos séculos. Amém.
+**36** Porque dele, por ele e para ele são todas as coisas. A ele a glória pelos séculos. Amém.
 
 ---
 
@@ -138,15 +138,15 @@ _O único Deus, invisível, que habita uma luz inacessível e a quem nenhum home
 
 ### 1 Timóteo 1,17
 
-**17** Ao rei dos séculos, incorruptível, invisível, único Deus, honra e glória pelos séculos dos séculos. Amém.
+**17** Ao Rei dos séculos, imortal, invisível, único Deus, honra e glória pelos séculos dos séculos. Amém.
 
 ### 1 Timóteo 6,15–16
 
 _A frase começa no v. 14, com a manifestação de nosso Senhor Jesus Cristo; quem a mostrará é Deus_
 
-**15** manifestação que, no tempo fixado, há de mostrar o bem-aventurado e único Soberano, o Rei dos que reinam e Senhor dos que dominam,
+**15** que há de mostrar, a seu tempo, o bem-aventurado e único Soberano, o Rei dos reis e Senhor dos senhores,
 
-**16** o único que possui a imortalidade, que habita uma luz inacessível, a quem nenhum dos homens viu nem pode ver. A ele honra e poder eterno. Amém.
+**16** o único que possui a imortalidade e habita uma luz inacessível, a quem nenhum homem viu nem pode ver. A ele honra e poder eterno. Amém.
 
 ---
 
@@ -160,13 +160,13 @@ _Deus é luz, e Deus é amor — o segundo nome que o Credo de Paulo VI põe ao 
 
 ### 1 João 4,7–10
 
-**7** Caríssimos, amemo-nos uns aos outros, porque o amor vem de Deus, e todo aquele que ama nasceu de Deus e conhece a Deus.
+**7** Caríssimos, amemo-nos uns aos outros, porque o amor vem de Deus; e todo o que ama nasceu de Deus e conhece a Deus.
 
 **8** Quem não ama não conheceu a Deus, porque Deus é amor.
 
-**9** Nisto se manifestou o amor de Deus entre nós: Deus enviou ao mundo o seu Filho unigênito, para que vivamos por meio dele.
+**9** Nisto se manifestou entre nós o amor de Deus: Deus enviou ao mundo o seu Filho único, para que por ele vivamos.
 
-**10** Nisto está o amor: não fomos nós que amamos a Deus, mas foi ele que nos amou e enviou o seu Filho como propiciação pelos nossos pecados.
+**10** Nisto está o amor: não fomos nós que amamos a Deus, mas foi ele que nos amou e enviou o seu Filho como vítima de expiação pelos nossos pecados.
 
 ---
 
@@ -296,9 +296,9 @@ Os textos em que o Pai, o Filho e o Espírito Santo aparecem juntos, e as profis
 
 _No batismo do Senhor os três aparecem ao mesmo tempo e distintos: a voz do Pai, o Filho, o Espírito_
 
-**16** Batizado, Jesus subiu logo da água; e eis que se lhe abriram os céus, e viu o Espírito de Deus descendo como pomba e vindo sobre ele.
+**16** Batizado, Jesus saiu logo da água; e eis que os céus se abriram, e ele viu o Espírito de Deus descer como pomba e vir sobre ele.
 
-**17** E eis uma voz dos céus que dizia: Este é o meu Filho amado, em quem me comprazi.
+**17** E uma voz dos céus dizia: Este é o meu Filho amado, em quem me comprazo.
 
 ---
 
@@ -310,11 +310,11 @@ _O Filho rogará ao Pai, e o Pai dará outro Paráclito, o Espírito da verdade:
 
 **16** E eu rogarei ao Pai, e ele vos dará outro Paráclito, para que esteja convosco para sempre:
 
-**17** o Espírito da verdade, que o mundo não pode receber, porque não o vê nem o conhece; vós o conheceis, porque permanece junto de vós e estará em vós.
+**17** o Espírito da verdade, que o mundo não pode receber, porque não o vê nem o conhece; vós o conheceis, porque permanece convosco e estará em vós.
 
-**25** Estas coisas vos disse, permanecendo convosco.
+**25** Disse-vos estas coisas enquanto permaneço convosco.
 
-**26** Mas o Paráclito, o Espírito Santo, que o Pai enviará em meu nome, ele vos ensinará todas as coisas e vos recordará tudo o que eu vos disse.
+**26** Mas o Paráclito, o Espírito Santo, que o Pai enviará em meu nome, esse vos ensinará todas as coisas e vos recordará tudo o que eu vos disse.
 
 ---
 
@@ -322,9 +322,9 @@ _O Filho rogará ao Pai, e o Pai dará outro Paráclito, o Espírito da verdade:
 
 _A fórmula do batismo nomeia os três sob um só nome, no singular; é o dado que toda a doutrina posterior teve de explicar_
 
-**18** E Jesus, aproximando-se, falou-lhes dizendo: Foi-me dado todo poder no céu e na terra.
+**18** Jesus aproximou-se e falou-lhes, dizendo: Foi-me dado todo o poder no céu e na terra.
 
-**19** Ide, pois, e fazei discípulos de todas as nações, batizando-os em nome do Pai e do Filho e do Espírito Santo,
+**19** Ide, pois, e fazei discípulos todos os povos, batizando-os em nome do Pai e do Filho e do Espírito Santo,
 
 **20** ensinando-os a observar tudo o que vos mandei. E eis que eu estou convosco todos os dias, até o fim do mundo.
 
@@ -336,9 +336,9 @@ _Três frases paralelas atribuem ao Espírito, ao Senhor e a Deus a mesma origem
 
 **4** Há diversidade de dons, mas o Espírito é o mesmo;
 
-**5** e há diversidade de ministérios, mas o Senhor é o mesmo;
+**5** há diversidade de ministérios, mas o Senhor é o mesmo;
 
-**6** e há diversidade de operações, mas é o mesmo Deus que opera todas as coisas em todos.
+**6** há diversidade de operações, mas é o mesmo Deus que opera tudo em todos.
 
 ---
 
@@ -346,7 +346,7 @@ _Três frases paralelas atribuem ao Espírito, ao Senhor e a Deus a mesma origem
 
 _A única fórmula trinitária do Novo Testamento que é bênção e não ensinamento; passou por isso à liturgia_
 
-**13** A graça do Senhor Jesus Cristo, e o amor de Deus, e a comunhão do Espírito Santo estejam com todos vós.
+**13** A graça do Senhor Jesus Cristo, o amor de Deus e a comunhão do Espírito Santo estejam com todos vós.
 
 ---
 
@@ -354,27 +354,27 @@ _A única fórmula trinitária do Novo Testamento que é bênção e não ensina
 
 _A grande bênção: o Pai escolhe e predestina, o Filho resgata pelo seu sangue, o Espírito sela e é penhor da herança — a obra da salvação contada segundo as três pessoas_
 
-**3** Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, que nos abençoou com toda bênção espiritual nos céus, em Cristo,
+**3** Bendito seja Deus, Pai de nosso Senhor Jesus Cristo, que nos abençoou com toda bênção espiritual, nos céus, em Cristo.
 
-**4** assim como nele nos escolheu antes da fundação do mundo, para sermos santos e irrepreensíveis diante dele no amor,
+**4** Nele nos escolheu, antes da criação do mundo, para sermos santos e imaculados diante dele, no amor.
 
-**5** predestinando-nos para sermos seus filhos adotivos por meio de Jesus Cristo, segundo o beneplácito da sua vontade,
+**5** Ele nos predestinou a ser seus filhos adotivos, por Jesus Cristo, segundo o beneplácito da sua vontade,
 
-**6** para louvor da glória da sua graça, com a qual nos agraciou no Amado.
+**6** para louvor da glória da sua graça, com que nos agraciou no Amado.
 
-**7** Nele temos a redenção pelo seu sangue, a remissão das faltas, segundo a riqueza da sua graça,
+**7** Nele temos a redenção pelo seu sangue, a remissão dos pecados, segundo a riqueza da sua graça,
 
-**8** que ele fez transbordar sobre nós em toda sabedoria e inteligência,
+**8** que ele derramou sobre nós com abundância, em toda sabedoria e inteligência,
 
-**9** dando-nos a conhecer o mistério da sua vontade, segundo o beneplácito que de antemão estabelecera em Cristo,
+**9** dando-nos a conhecer o mistério da sua vontade, segundo o beneplácito que nele de antemão estabelecera,
 
-**10** para realizá-lo na plenitude dos tempos: reunir sob uma só cabeça todas as coisas em Cristo, as que estão nos céus e as que estão na terra.
+**10** para realizá-lo na plenitude dos tempos: recapitular em Cristo todas as coisas, as que estão nos céus e as que estão na terra.
 
-**11** Nele também recebemos a nossa parte na herança, predestinados segundo o desígnio daquele que realiza todas as coisas segundo o conselho da sua vontade,
+**11** Nele fomos também constituídos herdeiros, predestinados segundo o propósito daquele que tudo realiza conforme o conselho da sua vontade,
 
-**12** para sermos louvor da sua glória, nós que antes esperamos em Cristo.
+**12** para sermos, nós que primeiro esperamos em Cristo, louvor da sua glória.
 
-**13** Nele também vós, depois de ouvirdes a palavra da verdade, o Evangelho da vossa salvação, e de nele crerdes, fostes selados com o Espírito Santo da promessa,
+**13** Nele também vós, tendo ouvido a palavra da verdade, o Evangelho da vossa salvação, e nele tendo crido, fostes selados com o Espírito Santo da promessa,
 
 **14** que é o penhor da nossa herança, para a redenção do povo que ele adquiriu, para louvor da sua glória.
 
@@ -384,7 +384,7 @@ _A grande bênção: o Pai escolhe e predestina, o Filho resgata pelo seu sangue
 
 _Judeus e gentios, uns e outros, têm por meio do Filho acesso ao Pai num só Espírito; Lumen gentium 4 e Dei Verbum 2 fazem desta frase a fórmula da economia da salvação_
 
-**18** Porque por meio dele, uns e outros, temos acesso ao Pai num só Espírito.
+**18** porque, por ele, uns e outros temos acesso ao Pai, num só Espírito.
 
 ---
 
@@ -392,11 +392,11 @@ _Judeus e gentios, uns e outros, têm por meio do Filho acesso ao Pai num só Es
 
 _Sete unidades ordenadas em torno do Espírito, do Senhor e do Pai; é a forma que os símbolos de fé vão adotar_
 
-**4** Um só corpo e um só Espírito, como também fostes chamados a uma só esperança da vossa vocação;
+**4** Há um só corpo e um só Espírito, como também fostes chamados a uma só esperança, a do vosso chamamento.
 
-**5** um só Senhor, uma só fé, um só batismo;
+**5** Um só Senhor, uma só fé, um só batismo;
 
-**6** um só Deus e Pai de todos, que está acima de todos, e por meio de todos, e em todos.
+**6** um só Deus e Pai de todos, que está acima de todos, age por todos e habita em todos.
 
 ---
 
@@ -406,11 +406,11 @@ _O Espírito, a água e o sangue dão testemunho concorde de que Jesus é o Filh
 
 **5** Quem é o que vence o mundo, senão aquele que crê que Jesus é o Filho de Deus?
 
-**6** Este é aquele que veio por meio da água e do sangue: Jesus Cristo; não só na água, mas na água e no sangue. E o Espírito é o que dá testemunho, porque o Espírito é a verdade.
+**6** Ele é aquele que veio pela água e pelo sangue: Jesus Cristo; não só com a água, mas com a água e com o sangue. E é o Espírito que dá testemunho, porque o Espírito é a verdade.
 
-**7** Pois três são os que dão testemunho:
+**7** Porque são três os que dão testemunho:
 
-**8** o Espírito, e a água, e o sangue; e os três concordam num só.
+**8** o Espírito, a água e o sangue; e os três convergem no mesmo.
 
 ---
 
@@ -486,9 +486,9 @@ O Pai de Israel, o Pai de Jesus, o Pai nosso: o que a Escritura revela do Pai, e
 
 _Deus chama Israel de seu filho primogênito: a paternidade divina aparece primeiro como eleição e libertação de um povo, e quem retém esse filho tem de haver-se com o Pai_
 
-**22** E dirás ao faraó: Assim diz o Senhor: Israel é meu filho, o meu primogênito.
+**22** Dirás ao faraó: Assim diz o Senhor: Israel é o meu filho primogênito.
 
-**23** Eu te disse: Deixa ir o meu filho, para que me sirva; mas tu recusaste deixá-lo ir. Eis que eu matarei o teu filho, o teu primogênito.
+**23** Eu te digo: Deixa partir o meu filho, para que me preste culto; se te recusas a deixá-lo partir, eu matarei o teu filho primogênito.
 
 ---
 
@@ -498,15 +498,15 @@ _Deus levou Israel pelo deserto como um homem leva o filho, corrige-o como um pa
 
 ### Deuteronômio 1,31
 
-**31** E no deserto, onde viste como o Senhor teu Deus te levou, como um homem leva o seu filho, por todo o caminho que percorrestes até chegardes a este lugar.
+**31** e no deserto, onde viste como o Senhor teu Deus te levou, como um homem leva o seu filho, por todo o caminho que andastes até chegardes a este lugar.
 
 ### Deuteronômio 8,5
 
-**5** Reconhece, pois, no teu coração que, como um homem corrige o seu filho, assim o Senhor teu Deus te corrige.
+**5** Reconhece, pois, no teu coração que, como um homem corrige o seu filho, assim o Senhor teu Deus te corrige;
 
 ### Deuteronômio 32,6
 
-**6** É assim que pagais ao Senhor, povo insensato e sem sabedoria? Não é ele o teu pai, que te adquiriu, que te fez e te firmou?
+**6** É assim que retribuís ao Senhor, povo louco e sem sabedoria? Não é ele o teu pai, que te adquiriu, que te fez e te estabeleceu?
 
 ---
 
@@ -542,19 +542,19 @@ _Deus promete ser pai do descendente de Davi, e o rei responde invocando-o: Tu �
 
 _A compaixão de Deus é a de um pai pelos filhos: conhece a fragilidade de que somos feitos, e por isso não nos trata segundo os nossos pecados_
 
-**8** Compassivo e clemente é o Senhor, lento para a ira e rico em misericórdia.
+**8** Misericordioso e clemente é o Senhor, lento para a ira e rico em bondade.
 
-**9** Não está sempre a acusar, nem guarda rancor para sempre.
+**9** Não está sempre a repreender nem guarda rancor para sempre.
 
-**10** Não nos tratou segundo os nossos pecados, nem nos retribuiu segundo as nossas culpas.
+**10** Não nos trata segundo os nossos pecados nem nos retribui segundo as nossas culpas.
 
-**11** Pois, quanto os céus se elevam acima da terra, tanto prevalece a sua misericórdia sobre os que o temem.
+**11** Porque, quanto o céu se eleva sobre a terra, tão grande é a sua misericórdia para com os que o temem.
 
-**12** Quanto dista o oriente do ocidente, tanto afastou de nós as nossas transgressões.
+**12** Quanto dista o oriente do ocidente, tanto afasta de nós as nossas transgressões.
 
-**13** Como um pai se compadece dos filhos, assim o Senhor se compadece dos que o temem;
+**13** Como um pai se compadece dos filhos, assim o Senhor se compadece dos que o temem,
 
-**14** porque ele sabe de que somos feitos, lembra-se de que somos pó.
+**14** porque ele conhece a nossa condição e se lembra de que somos pó.
 
 ---
 
@@ -564,15 +564,15 @@ _Deus fala de Israel como do filho que amou, chamou do Egito, ensinou a andar e 
 
 **1** Quando Israel era menino, eu o amei, e do Egito chamei o meu filho.
 
-**2** Quanto mais os chamavam, tanto mais se afastavam deles; sacrificavam aos baais e queimavam incenso aos ídolos.
+**2** Quanto mais eu os chamava, mais se afastavam de mim; ofereciam sacrifícios aos baals e queimavam incenso aos ídolos.
 
-**3** E fui eu que ensinei Efraim a andar, tomando-os nos braços; mas eles não reconheceram que era eu quem os curava.
+**3** Fui eu que ensinei Efraim a andar, tomando-o pelos braços, mas eles não reconheceram que era eu quem cuidava deles.
 
-**4** Eu os atraía com laços humanos, com cordas de amor; fui para eles como os que levantam o jugo de sobre as suas queixadas, e, inclinando-me para ele, dava-lhe de comer.
+**4** Eu os atraía com laços humanos, com laços de amor; era para eles como quem levanta uma criança até o rosto, e me inclinava para lhe dar de comer.
 
-**8** Como te abandonaria, Efraim? Como te entregaria, Israel? Como te trataria como a Adamá, e te faria como a Seboim? O meu coração se revolve dentro de mim, e toda a minha compaixão se inflama.
+**8** Como poderia eu abandonar-te, Efraim, entregar-te, Israel? Como poderia tratar-te como Adamá, fazer-te como Seboim? O meu coração se revolve dentro de mim, toda a minha compaixão se comove.
 
-**9** Não executarei o ardor da minha ira, não voltarei a destruir Efraim; porque eu sou Deus, e não homem, o Santo no meio de ti, e não virei com furor.
+**9** Não darei curso ao ardor da minha ira, não voltarei a destruir Efraim, porque eu sou Deus, e não homem; o Santo no meio de ti, e não virei com terror.
 
 ---
 
@@ -582,13 +582,13 @@ _Na grande súplica do livro de Isaías, Deus é invocado diretamente como pai �
 
 ### Isaías 63,15–16
 
-**15** Olha dos céus e vê, da tua morada santa e gloriosa. Onde estão o teu zelo e o teu poder? A comoção das tuas entranhas e a tua compaixão retraem-se de mim.
+**15** Olha do céu e vê, da tua morada santa e gloriosa: onde estão o teu zelo e a tua força? A comoção das tuas entranhas e a tua compaixão se retraíram para comigo.
 
-**16** Pois tu és o nosso pai, ainda que Abraão não nos conheça e Israel não nos reconheça; tu, Senhor, és o nosso pai, o teu nome é desde sempre Nosso Redentor.
+**16** Pois tu és o nosso Pai. Abraão não nos conhece, e Israel não nos reconhece; tu, Senhor, és o nosso Pai, Nosso Redentor é o teu nome desde sempre.
 
 ### Isaías 64,7
 
-**7** E agora, Senhor, tu és o nosso pai; nós somos o barro, e tu o nosso oleiro; somos todos obra da tua mão.
+**7** E, no entanto, Senhor, tu és o nosso Pai; nós somos o barro, e tu, o nosso oleiro; todos nós somos obra das tuas mãos.
 
 ---
 
@@ -598,15 +598,15 @@ _Deus queria ser chamado Pai pelo seu povo, e foi abandonado; contudo é pai par
 
 ### Jeremias 3,4.19
 
-**4** Não é assim que ainda agora me chamas: Meu pai, tu és o companheiro da minha juventude?
+**4** E agora me chamas: Meu pai, tu és o amigo da minha juventude!
 
-**19** E eu dizia: Como te porei entre os filhos, e te darei uma terra desejável, a herança mais bela entre as nações! E dizia: Tu me chamarás Meu pai, e não te afastarás de mim.
+**19** Eu tinha dito: Como gostaria de te colocar entre os meus filhos e te dar uma terra desejável, a herança mais bela entre as nações! E pensava: Vós me chamareis Meu pai e não vos afastareis de mim.
 
 ### Jeremias 31,9.20
 
-**9** Virão chorando, e eu os conduzirei entre súplicas; eu os levarei às torrentes de água, por um caminho reto em que não tropeçarão; porque eu sou um pai para Israel, e Efraim é o meu primogênito.
+**9** Voltam chorando, e eu os conduzo entre súplicas; eu os levarei aos riachos de água, por um caminho plano, onde não tropeçarão; pois sou um pai para Israel, e Efraim é o meu primogênito.
 
-**20** É Efraim para mim um filho querido, uma criança em que me deleito? Pois, sempre que falo contra ele, lembro-me ainda dele; por isso as minhas entranhas se comovem por ele; hei de ter compaixão dele, diz o Senhor.
+**20** Não é Efraim para mim um filho querido, um menino que é o meu encanto? Pois, cada vez que falo dele, ainda me lembro dele com ternura; por isso as minhas entranhas se comovem por ele: terei compaixão dele, oráculo do Senhor.
 
 ---
 
@@ -616,13 +616,13 @@ _Deus compara-se também à mãe que não esquece o filho do seu ventre: ele nã
 
 ### Isaías 49,14–15
 
-**14** Mas Sião dizia: O Senhor me abandonou, o meu Senhor esqueceu-se de mim.
+**14** Sião dizia: O Senhor me abandonou, o Senhor se esqueceu de mim.
 
-**15** Pode acaso uma mulher esquecer-se do seu filhinho, deixar de ter compaixão do filho do seu ventre? Ainda que estas se esquecessem, eu não me esquecerei de ti.
+**15** Acaso uma mulher pode esquecer o seu bebê, deixar de ter compaixão do filho do seu ventre? Ainda que ela se esquecesse, eu não te esquecerei.
 
 ### Isaías 66,13
 
-**13** Como alguém a quem a mãe consola, assim eu vos consolarei; e em Jerusalém sereis consolados.
+**13** Como uma mãe consola o seu filho, assim eu vos consolarei; em Jerusalém sereis consolados.
 
 ---
 
@@ -630,11 +630,11 @@ _Deus compara-se também à mãe que não esquece o filho do seu ventre: ele nã
 
 _Só o Filho conhece o Pai, e conhece-o como o Pai o conhece: a paternidade que Israel entrevia é agora revelada de dentro, pela relação única entre os dois, e dada a conhecer aos pequeninos_
 
-**25** Naquele tempo, tomando a palavra, disse Jesus: Eu te louvo, Pai, Senhor do céu e da terra, porque escondeste estas coisas aos sábios e entendidos, e as revelaste aos pequeninos.
+**25** Naquele tempo, disse Jesus: Eu te louvo, Pai, Senhor do céu e da terra, porque escondeste estas coisas aos sábios e prudentes e as revelaste aos pequeninos.
 
 **26** Sim, Pai, porque assim foi do teu agrado.
 
-**27** Todas as coisas me foram entregues por meu Pai; e ninguém conhece o Filho senão o Pai, e ninguém conhece o Pai senão o Filho, e aquele a quem o Filho o quiser revelar.
+**27** Tudo me foi entregue por meu Pai; e ninguém conhece o Filho senão o Pai, nem ninguém conhece o Pai senão o Filho, e aquele a quem o Filho o quiser revelar.
 
 ---
 
@@ -642,15 +642,15 @@ _Só o Filho conhece o Pai, e conhece-o como o Pai o conhece: a paternidade que 
 
 _Na hora da angústia, Jesus chama a Deus Abba, a palavra com que o filho chama o pai, e entrega-se à sua vontade: é a invocação que, segundo Paulo, o Espírito põe na boca dos cristãos (Rm 8,15; Gl 4,6)_
 
-**32** E chegaram a um lugar chamado Getsêmani, e ele disse aos seus discípulos: Sentai-vos aqui, enquanto eu oro.
+**32** Chegaram a um lugar chamado Getsêmani, e ele disse aos seus discípulos: Sentai-vos aqui, enquanto eu oro.
 
 **33** E tomou consigo Pedro, Tiago e João, e começou a sentir pavor e angústia.
 
-**34** E disse-lhes: A minha alma está triste até a morte; ficai aqui e vigiai.
+**34** E disse-lhes: A minha alma está triste até à morte; ficai aqui e vigiai.
 
 **35** E, adiantando-se um pouco, caiu por terra e orava para que, se fosse possível, passasse dele aquela hora.
 
-**36** E dizia: Abba, Pai, tudo te é possível; afasta de mim este cálice; mas não o que eu quero, e sim o que tu queres.
+**36** E dizia: Abbá, Pai, tudo te é possível; afasta de mim este cálice; mas não o que eu quero, e sim o que tu queres.
 
 ---
 
@@ -658,11 +658,11 @@ _Na hora da angústia, Jesus chama a Deus Abba, a palavra com que o filho chama 
 
 _O Pai é aquele que ama: ama o Filho e pôs tudo na sua mão; e ama o mundo a ponto de lhe dar esse Filho unigênito, não para o julgar, mas para o salvar_
 
-**16** Pois Deus amou tanto o mundo, que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna.
+**16** Pois Deus amou tanto o mundo, que deu o seu Filho unigênito, para que todo o que crê nele não pereça, mas tenha a vida eterna.
 
-**17** Pois Deus não enviou o Filho ao mundo para julgar o mundo, mas para que o mundo seja salvo por meio dele.
+**17** Porque Deus não enviou o seu Filho ao mundo para julgar o mundo, mas para que o mundo seja salvo por ele.
 
-**35** O Pai ama o Filho, e pôs tudo na sua mão.
+**35** O Pai ama o Filho e entregou tudo na sua mão.
 
 ---
 
@@ -670,25 +670,25 @@ _O Pai é aquele que ama: ama o Filho e pôs tudo na sua mão; e ama o mundo a p
 
 _O Pai trabalha, ama, mostra, ressuscita, dá: tudo o que o Filho faz, vê-o fazer ao Pai, e até a vida que tem em si mesmo a recebe do Pai — é a base bíblica do que Florença dirá: tudo o que o Filho é ou tem, tem-no do Pai_
 
-**17** Jesus, porém, respondeu-lhes: Meu Pai trabalha até agora, e eu também trabalho.
+**17** Mas ele respondeu a eles: Meu Pai trabalha até agora, e eu também trabalho.
 
 **18** Por isso os judeus procuravam ainda mais matá-lo, porque não só violava o sábado, mas também dizia que Deus era seu próprio Pai, fazendo-se igual a Deus.
 
-**19** Respondeu-lhes então Jesus: Em verdade, em verdade vos digo: o Filho nada pode fazer por si mesmo, senão o que vê o Pai fazer; pois o que ele faz, isso também o Filho faz igualmente.
+**19** Jesus respondeu e disse a eles: Em verdade, em verdade vos digo: o Filho não pode fazer nada de si mesmo, senão o que vê o Pai fazer; pois o que este faz, o Filho o faz igualmente.
 
-**20** Pois o Pai ama o Filho e mostra-lhe tudo o que ele mesmo faz; e há de mostrar-lhe obras maiores do que estas, para que vos admireis.
+**20** Porque o Pai ama o Filho e mostra a ele tudo o que faz; e obras maiores do que estas mostrará a ele, para que vos admireis.
 
-**21** Pois, assim como o Pai ressuscita os mortos e lhes dá a vida, assim também o Filho dá a vida a quem quer.
+**21** Pois, como o Pai ressuscita os mortos e lhes dá a vida, assim também o Filho dá a vida a quem quer.
 
-**22** Pois o Pai não julga ninguém, mas deu ao Filho todo o julgamento,
+**22** Porque o Pai não julga ninguém, mas entregou todo o julgamento ao Filho,
 
 **23** para que todos honrem o Filho como honram o Pai. Quem não honra o Filho não honra o Pai que o enviou.
 
-**24** Em verdade, em verdade vos digo: quem ouve a minha palavra e crê naquele que me enviou tem a vida eterna, e não entra em julgamento, mas passou da morte para a vida.
+**24** Em verdade, em verdade vos digo: quem ouve a minha palavra e crê naquele que me enviou tem a vida eterna e não vem a julgamento, mas passou da morte para a vida.
 
 **25** Em verdade, em verdade vos digo: vem a hora, e é agora, em que os mortos ouvirão a voz do Filho de Deus, e os que a ouvirem viverão.
 
-**26** Pois, assim como o Pai tem a vida em si mesmo, assim também deu ao Filho ter a vida em si mesmo.
+**26** Pois, como o Pai tem a vida em si mesmo, assim também deu ao Filho ter a vida em si mesmo;
 
 ---
 
@@ -696,11 +696,11 @@ _O Pai trabalha, ama, mostra, ressuscita, dá: tudo o que o Filho faz, vê-o faz
 
 _Os discípulos estão seguros na mão do Filho porque estão na mão do Pai, e as duas mãos são uma só; o que o Pai deu ao Filho é maior que tudo — Latrão IV lerá aqui a substância que o Pai dá ao Filho ao gerá-lo_
 
-**27** As minhas ovelhas ouvem a minha voz; eu as conheço, e elas me seguem;
+**27** As minhas ovelhas ouvem a minha voz; eu as conheço, e elas me seguem.
 
-**28** eu lhes dou a vida eterna, e jamais perecerão, e ninguém as arrebatará da minha mão.
+**28** E eu lhes dou a vida eterna, e jamais perecerão, e ninguém as arrebatará da minha mão.
 
-**29** O que meu Pai me deu é maior do que tudo, e ninguém pode arrebatar da mão do Pai.
+**29** O que meu Pai me deu é maior do que tudo, e ninguém o pode arrebatar da mão do Pai.
 
 **30** Eu e o Pai somos um.
 
@@ -710,19 +710,19 @@ _Os discípulos estão seguros na mão do Filho porque estão na mão do Pai, e 
 
 _Jesus fala da casa de seu Pai e apresenta-se como o único caminho até ele: conhecer o Filho é já conhecer e ver o Pai_
 
-**1** Não se turbe o vosso coração. Credes em Deus, crede também em mim.
+**1** Não se perturbe o vosso coração. Credes em Deus, crede também em mim.
 
-**2** Na casa de meu Pai há muitas moradas; se não fosse assim, eu vos teria dito, pois vou preparar-vos lugar.
+**2** Na casa de meu Pai há muitas moradas; se não fosse assim, eu vos teria dito; pois vou preparar-vos um lugar.
 
-**3** E, quando eu for e vos preparar lugar, virei outra vez e vos tomarei comigo, para que, onde eu estou, estejais também vós.
+**3** E, quando eu for e vos tiver preparado um lugar, virei de novo e vos tomarei comigo, para que, onde eu estiver, estejais vós também.
 
-**4** E para onde eu vou, sabeis o caminho.
+**4** E para onde eu vou vós conheceis o caminho.
 
-**5** Disse-lhe Tomé: Senhor, não sabemos para onde vais; como podemos saber o caminho?
+**5** Disse-lhe Tomé: Senhor, não sabemos para onde vais; como podemos conhecer o caminho?
 
-**6** Disse-lhe Jesus: Eu sou o caminho, e a verdade, e a vida. Ninguém vem ao Pai senão por mim.
+**6** Disse-lhe Jesus: Eu sou o caminho, a verdade e a vida; ninguém vem ao Pai senão por mim.
 
-**7** Se me conhecêsseis, conheceríeis também o meu Pai; desde agora o conheceis e o vistes.
+**7** Se me conhecêsseis, conheceríeis também a meu Pai; e desde agora o conheceis e o vistes.
 
 ---
 
@@ -730,17 +730,17 @@ _Jesus fala da casa de seu Pai e apresenta-se como o único caminho até ele: co
 
 _O Filho saiu do Pai e volta para o Pai; e, porque os discípulos o amaram e creram nele, o próprio Pai os ama, e eles podem pedir-lhe diretamente em nome do Filho_
 
-**23** E naquele dia nada me perguntareis. Em verdade, em verdade vos digo: se pedirdes alguma coisa ao Pai em meu nome, ele a dará a vós.
+**23** Naquele dia nada me perguntareis. Em verdade, em verdade vos digo: se pedirdes alguma coisa ao Pai em meu nome, ele vos dará.
 
-**24** Até agora nada pedistes em meu nome; pedi e recebereis, para que a vossa alegria seja plena.
+**24** Até agora nada pedistes em meu nome; pedi, e recebereis, para que a vossa alegria seja completa.
 
-**25** Estas coisas vos disse em parábolas; vem a hora em que já não vos falarei em parábolas, mas abertamente vos anunciarei a respeito do Pai.
+**25** Disse-vos estas coisas em comparações; vem a hora em que já não vos falarei em comparações, mas vos falarei claramente a respeito do Pai.
 
-**26** Naquele dia pedireis em meu nome; e não vos digo que eu rogarei ao Pai por vós,
+**26** Naquele dia pedireis em meu nome; e não vos digo que rogarei ao Pai por vós;
 
 **27** pois o próprio Pai vos ama, porque vós me amastes e crestes que eu saí de Deus.
 
-**28** Saí do Pai e vim ao mundo; de novo deixo o mundo e vou para o Pai.
+**28** Saí do Pai e vim ao mundo; agora deixo o mundo e vou para o Pai.
 
 ---
 
@@ -806,7 +806,7 @@ _A oração do Filho ao Pai — Pai, Pai santo, Pai justo —: a glória que o F
 
 _Depois da ressurreição, Jesus chama os discípulos de irmãos, e o seu Pai passa a ser Pai deles; mas diz meu Pai e vosso Pai, e não nosso Pai: o Pai é o mesmo, e o modo de ser filho não é o mesmo_
 
-**17** Disse-lhe Jesus: Não me retenhas, pois ainda não subi para o Pai; mas vai a meus irmãos e dize-lhes: Subo para meu Pai e vosso Pai, meu Deus e vosso Deus.
+**17** Disse-lhe Jesus: Não me retenhas, pois ainda não subi para o Pai; mas vai ter com os meus irmãos e dize-lhes: Subo para meu Pai e vosso Pai, para meu Deus e vosso Deus.
 
 ---
 
@@ -952,47 +952,47 @@ _A parábola é mais do pai que dos filhos: ele reparte a herança, vê de longe
 
 **11** Disse ainda: Um homem tinha dois filhos.
 
-**12** O mais novo deles disse ao pai: Pai, dá-me a parte dos bens que me cabe. E ele repartiu entre os dois os seus haveres.
+**12** O mais novo disse ao pai: Pai, dá-me a parte dos bens que me cabe. E ele repartiu entre eles os seus haveres.
 
-**13** Poucos dias depois, o filho mais novo, juntando tudo, partiu para uma terra distante, e ali dissipou os seus bens, vivendo dissolutamente.
+**13** Poucos dias depois, o filho mais novo, juntando tudo, partiu para uma terra distante e ali dissipou os seus bens, vivendo dissolutamente.
 
-**14** Depois de ter gastado tudo, sobreveio àquela terra uma grande fome, e ele começou a passar necessidade.
+**14** Depois de ter gastado tudo, sobreveio uma grande fome naquela terra, e ele começou a passar necessidade.
 
-**15** Foi então pôr-se ao serviço de um dos habitantes daquela terra, que o mandou para os seus campos guardar porcos.
+**15** Foi então pôr-se ao serviço de um dos cidadãos daquela terra, que o mandou para os seus campos guardar porcos.
 
-**16** E desejava encher o estômago com as alfarrobas que os porcos comiam, e ninguém lhe dava nada.
+**16** E desejava encher o estômago com as alfarrobas que os porcos comiam, mas ninguém lhe dava nada.
 
-**17** Então, caindo em si, disse: Quantos empregados de meu pai têm pão com fartura, e eu aqui morro de fome!
+**17** Caindo em si, disse: Quantos empregados de meu pai têm pão em abundância, e eu aqui morro de fome!
 
 **18** Vou levantar-me, irei ter com meu pai e lhe direi: Pai, pequei contra o céu e diante de ti;
 
-**19** já não sou digno de ser chamado teu filho; trata-me como um dos teus empregados.
+**19** já não sou digno de ser chamado teu filho; trata-me como a um dos teus empregados.
 
-**20** E, levantando-se, foi ter com seu pai. Estando ele ainda longe, seu pai o viu e encheu-se de compaixão; correu, lançou-se ao seu pescoço e o beijou.
+**20** E, levantando-se, foi ter com seu pai. Estando ele ainda longe, seu pai viu-o, encheu-se de compaixão, correu, lançou-se ao seu pescoço e cobriu-o de beijos.
 
-**21** O filho disse-lhe: Pai, pequei contra o céu e diante de ti; já não sou digno de ser chamado teu filho.
+**21** E o filho lhe disse: Pai, pequei contra o céu e diante de ti; já não sou digno de ser chamado teu filho.
 
-**22** Mas o pai disse aos seus servos: Depressa, trazei a melhor túnica e vesti-o com ela; ponde-lhe um anel no dedo e sandálias nos pés.
+**22** Mas o pai disse aos seus servos: Trazei depressa a melhor túnica e vesti-o; ponde-lhe um anel no dedo e sandálias nos pés.
 
 **23** Trazei o novilho cevado e matai-o; comamos e façamos festa,
 
-**24** porque este meu filho estava morto e voltou à vida, estava perdido e foi encontrado. E começaram a festejar.
+**24** porque este meu filho estava morto e voltou à vida; estava perdido e foi encontrado. E começaram a festejar.
 
-**25** O filho mais velho estava no campo. Quando voltava e já se aproximava de casa, ouviu música e danças.
+**25** Ora, o filho mais velho estava no campo. Quando voltou e se aproximou da casa, ouviu a música e as danças.
 
-**26** Chamou um dos criados e perguntou-lhe o que era aquilo.
+**26** E, chamando um dos criados, perguntou-lhe o que era aquilo.
 
-**27** Ele respondeu: Teu irmão chegou, e teu pai matou o novilho cevado, porque o recuperou com saúde.
+**27** Este lhe disse: Teu irmão voltou, e teu pai mandou matar o novilho cevado, porque o recuperou com saúde.
 
-**28** Ele ficou irado e não queria entrar. O pai saiu e pôs-se a rogar-lhe.
+**28** Ele indignou-se e não queria entrar. Então o pai saiu e insistia com ele.
 
-**29** Mas ele respondeu ao pai: Há tantos anos que te sirvo, e nunca transgredi uma ordem tua, e nunca me deste um cabrito para eu fazer festa com os meus amigos;
+**29** Mas ele respondeu ao pai: Há tantos anos que te sirvo sem nunca transgredir uma ordem tua, e nunca me deste um cabrito para eu fazer festa com os meus amigos.
 
-**30** mas, quando chegou este teu filho, que devorou os teus bens com prostitutas, mataste para ele o novilho cevado.
+**30** Mas, quando veio este teu filho, que devorou os teus bens com prostitutas, mandaste matar para ele o novilho cevado.
 
-**31** O pai respondeu-lhe: Filho, tu estás sempre comigo, e tudo o que é meu é teu.
+**31** Disse-lhe o pai: Filho, tu estás sempre comigo, e tudo o que é meu é teu.
 
-**32** Mas era preciso fazer festa e alegrar-se, porque este teu irmão estava morto e voltou à vida, estava perdido e foi encontrado.
+**32** Mas era preciso fazer festa e alegrar-se, porque este teu irmão estava morto e voltou à vida; estava perdido e foi encontrado.
 
 ---
 
@@ -1002,7 +1002,7 @@ _Crer no Filho dá o poder de se tornar filho de Deus: uma filiação que não v
 
 **12** Mas a todos os que o receberam deu o poder de se tornarem filhos de Deus: aos que creem no seu nome,
 
-**13** os quais não foram gerados do sangue, nem da vontade da carne, nem da vontade do homem, mas de Deus.
+**13** os quais não nasceram do sangue, nem da vontade da carne, nem da vontade do homem, mas de Deus.
 
 ---
 
@@ -1012,11 +1012,11 @@ _O Espírito faz clamar Abba, Pai, e dá testemunho de que somos filhos: não es
 
 **14** Pois todos os que são conduzidos pelo Espírito de Deus, esses são filhos de Deus.
 
-**15** Não recebestes um espírito de escravidão, para recairdes no temor, mas recebestes o Espírito de adoção filial, no qual clamamos: Abba, Pai!
+**15** E não recebestes um espírito de escravidão, para recairdes no temor; recebestes o Espírito de adoção, no qual clamamos: Abba, Pai!
 
-**16** O próprio Espírito dá testemunho ao nosso espírito de que somos filhos de Deus.
+**16** O próprio Espírito dá testemunho, junto ao nosso espírito, de que somos filhos de Deus.
 
-**17** E, se filhos, também herdeiros: herdeiros de Deus e coerdeiros de Cristo, se é que sofremos com ele, para que também com ele sejamos glorificados.
+**17** E, se filhos, também herdeiros: herdeiros de Deus e coerdeiros de Cristo, contanto que soframos com ele, para com ele sermos glorificados.
 
 ---
 
@@ -1032,7 +1032,7 @@ _Paulo bendiz o Pai de Jesus Cristo como Pai das misericórdias, que consola os 
 
 ### 2 Coríntios 6,18
 
-**18** E serei para vós um pai, e vós sereis para mim filhos e filhas, diz o Senhor todo-poderoso.
+**18** Serei para vós um Pai, e vós sereis para mim filhos e filhas, diz o Senhor todo-poderoso.
 
 ---
 
@@ -1040,21 +1040,21 @@ _Paulo bendiz o Pai de Jesus Cristo como Pai das misericórdias, que consola os 
 
 _Paulo dobra os joelhos diante do Pai, de quem toda paternidade no céu e na terra recebe o nome: a paternidade de Deus não é imagem tirada da humana, mas a sua origem_
 
-**14** Por isso dobro os meus joelhos diante do Pai,
+**14** Por isso dobro os joelhos diante do Pai,
 
-**15** de quem toda paternidade, nos céus e na terra, recebe o nome,
+**15** de quem toda família, nos céus e na terra, recebe o nome,
 
-**16** para que, segundo a riqueza da sua glória, vos conceda serdes fortalecidos com poder pelo seu Espírito no homem interior,
+**16** para que vos conceda, segundo a riqueza da sua glória, que sejais robustecidos com força, pelo seu Espírito, no homem interior;
 
-**17** e que Cristo habite pela fé nos vossos corações, de modo que, enraizados e alicerçados no amor,
+**17** que Cristo habite pela fé nos vossos corações; e que, arraigados e fundados no amor,
 
-**18** possais compreender, com todos os santos, qual é a largura, o comprimento, a altura e a profundidade,
+**18** possais compreender, com todos os santos, qual seja a largura e o comprimento, a altura e a profundidade,
 
-**19** e conhecer o amor de Cristo, que excede todo conhecimento, para que sejais cheios até toda a plenitude de Deus.
+**19** e conhecer o amor de Cristo, que excede todo conhecimento, para serdes cheios de toda a plenitude de Deus.
 
-**20** Àquele que, pelo poder que atua em nós, pode fazer infinitamente mais do que tudo o que pedimos ou pensamos,
+**20** Àquele que pode fazer infinitamente mais do que tudo quanto pedimos ou pensamos, segundo o poder que age em nós,
 
-**21** a ele a glória na Igreja e em Cristo Jesus, por todas as gerações, pelos séculos dos séculos. Amém.
+**21** a ele seja a glória, na Igreja e em Cristo Jesus, por todas as gerações, pelos séculos dos séculos. Amém.
 
 ---
 
@@ -1062,9 +1062,9 @@ _Paulo dobra os joelhos diante do Pai, de quem toda paternidade no céu e na ter
 
 _O Pai das luzes, em quem não há mudança, é a fonte de todo dom; e o maior dos seus dons é ter-nos gerado pela palavra da verdade, como primícias da criação_
 
-**17** Toda dádiva boa e todo dom perfeito vêm do alto, e descem do Pai das luzes, em quem não há variação nem sombra de mudança.
+**17** Toda dádiva boa e todo dom perfeito vêm do alto, descem do Pai das luzes, em quem não há mudança nem sombra de variação.
 
-**18** Por sua vontade nos gerou pela palavra da verdade, para que fôssemos como que as primícias das suas criaturas.
+**18** Por sua vontade nos gerou pela palavra da verdade, para sermos como que as primícias das suas criaturas.
 
 ---
 
@@ -1074,25 +1074,25 @@ _A vida eterna estava junto do Pai e foi-nos manifestada, para que tenhamos comu
 
 ### 1 João 1,1–3
 
-**1** O que era desde o princípio, o que ouvimos, o que vimos com os nossos olhos, o que contemplamos e as nossas mãos apalparam, a respeito do Verbo da vida —
+**1** O que existia desde o princípio, o que ouvimos, o que vimos com os nossos olhos, o que contemplamos e as nossas mãos tocaram, a respeito do Verbo da vida —
 
-**2** pois a vida manifestou-se, e nós a vimos, e damos testemunho, e vos anunciamos a vida eterna, que estava junto do Pai e se manifestou a nós —,
+**2** porque a vida se manifestou, e nós a vimos, e damos testemunho, e vos anunciamos a vida eterna, que estava junto do Pai e se nos manifestou —,
 
-**3** o que vimos e ouvimos, isso vos anunciamos também a vós, para que também vós tenhais comunhão conosco. E a nossa comunhão é com o Pai e com o seu Filho, Jesus Cristo.
+**3** o que vimos e ouvimos, isso vos anunciamos, para que também vós tenhais comunhão conosco. E a nossa comunhão é com o Pai e com seu Filho Jesus Cristo.
 
 ### 1 João 2,22–24
 
-**22** Quem é o mentiroso, senão aquele que nega que Jesus é o Cristo? Esse é o anticristo, aquele que nega o Pai e o Filho.
+**22** Quem é o mentiroso, senão aquele que nega que Jesus é o Cristo? Esse é o anticristo, que nega o Pai e o Filho.
 
-**23** Todo aquele que nega o Filho também não tem o Pai; quem confessa o Filho tem também o Pai.
+**23** Todo o que nega o Filho não tem o Pai; quem confessa o Filho tem também o Pai.
 
-**24** Quanto a vós, permaneça em vós o que ouvistes desde o princípio. Se permanecer em vós o que ouvistes desde o princípio, também vós permanecereis no Filho e no Pai.
+**24** Permaneça em vós o que ouvistes desde o princípio. Se em vós permanecer o que ouvistes desde o princípio, também vós permanecereis no Filho e no Pai.
 
 ### 1 João 3,1–2
 
-**1** Vede que grande amor nos deu o Pai: sermos chamados filhos de Deus; e nós o somos. Por isso o mundo não nos conhece: porque não o conheceu.
+**1** Vede que amor nos deu o Pai: que fôssemos chamados filhos de Deus — e nós o somos! Se o mundo não nos conhece, é porque não o conheceu a ele.
 
-**2** Amados, agora somos filhos de Deus, e ainda não se manifestou o que havemos de ser. Sabemos que, quando se manifestar, seremos semelhantes a ele, porque o veremos tal como é.
+**2** Caríssimos, agora somos filhos de Deus, e ainda não se manifestou o que havemos de ser. Sabemos que, quando ele se manifestar, seremos semelhantes a ele, porque o veremos tal como é.
 
 ---
 
@@ -1232,15 +1232,15 @@ _O Verbo é anterior ao tempo, é distinto de Deus e é Deus — as três afirma
 
 **2** Ele estava no princípio junto de Deus.
 
-**3** Tudo foi feito por meio dele, e sem ele nada foi feito do que foi feito.
+**3** Todas as coisas foram feitas por meio dele, e sem ele nada se fez do que foi feito.
 
 **4** Nele estava a vida, e a vida era a luz dos homens;
 
 **5** e a luz brilha nas trevas, e as trevas não a apreenderam.
 
-**14** E o Verbo se fez carne e habitou entre nós, e vimos a sua glória, glória como do Unigênito do Pai, cheio de graça e de verdade.
+**14** E o Verbo se fez carne e habitou entre nós; e vimos a sua glória, glória como do Unigênito do Pai, cheio de graça e de verdade.
 
-**18** A Deus ninguém jamais viu; o Deus unigênito, que está no seio do Pai, esse o deu a conhecer.
+**18** A Deus, ninguém jamais o viu; o Deus Unigênito, que está no seio do Pai, esse o deu a conhecer.
 
 ---
 
@@ -1248,17 +1248,17 @@ _O Verbo é anterior ao tempo, é distinto de Deus e é Deus — as três afirma
 
 _Antes que Abraão viesse a existir, eu sou: Jesus opõe o começo de Abraão ao seu próprio ser sem começo, e os ouvintes pegam em pedras_
 
-**54** Respondeu Jesus: Se eu me glorifico a mim mesmo, a minha glória nada é; quem me glorifica é meu Pai, de quem vós dizeis: É o nosso Deus.
+**54** Respondeu Jesus: Se eu me glorifico a mim mesmo, a minha glória nada é; quem me glorifica é meu Pai, aquele de quem dizeis que é vosso Deus.
 
-**55** E não o conheceis; eu, porém, o conheço. E, se eu dissesse que não o conheço, seria mentiroso como vós; mas eu o conheço e guardo a sua palavra.
+**55** E vós não o conheceis; eu, porém, o conheço. E, se disser que não o conheço, serei mentiroso como vós; mas eu o conheço e guardo a sua palavra.
 
 **56** Abraão, vosso pai, exultou por ver o meu dia; viu-o e alegrou-se.
 
-**57** Disseram-lhe então os judeus: Ainda não tens cinquenta anos, e viste Abraão?
+**57** Disseram-lhe, pois, os judeus: Ainda não tens cinquenta anos, e viste Abraão?
 
-**58** Disse-lhes Jesus: Em verdade, em verdade vos digo: antes que Abraão viesse a existir, eu sou.
+**58** Disse-lhes Jesus: Em verdade, em verdade vos digo: antes que Abraão existisse, eu sou.
 
-**59** Pegaram então em pedras para atirar contra ele; Jesus, porém, escondeu-se e saiu do templo.
+**59** Então pegaram em pedras para as atirar contra ele; mas Jesus escondeu-se e saiu do templo.
 
 ---
 
@@ -1268,21 +1268,21 @@ _Jesus afirma a sua unidade com o Pai, e os ouvintes entendem imediatamente que 
 
 **30** Eu e o Pai somos um.
 
-**31** Os judeus pegaram de novo em pedras para o apedrejar.
+**31** De novo os judeus pegaram em pedras para o apedrejar.
 
-**32** Jesus respondeu-lhes: Muitas obras boas vos mostrei da parte do Pai; por qual delas me apedrejais?
+**32** Respondeu-lhes Jesus: Muitas obras boas vos mostrei, vindas do Pai; por qual delas me apedrejais?
 
-**33** Responderam-lhe os judeus: Não te apedrejamos por obra boa, mas por blasfêmia, e porque tu, sendo homem, te fazes Deus.
+**33** Responderam-lhe os judeus: Não te apedrejamos por obra boa, mas por blasfêmia; porque tu, sendo homem, te fazes Deus.
 
-**34** Respondeu-lhes Jesus: Não está escrito na vossa Lei: Eu disse: sois deuses?
+**34** Respondeu-lhes Jesus: Não está escrito na vossa lei: Eu disse: sois deuses?
 
 **35** Se chamou deuses àqueles a quem foi dirigida a palavra de Deus — e a Escritura não pode ser anulada —,
 
-**36** àquele a quem o Pai santificou e enviou ao mundo, vós dizeis: Blasfemas, porque disse: Sou Filho de Deus?
+**36** àquele que o Pai santificou e enviou ao mundo dizeis vós: Blasfemas, porque disse: Sou Filho de Deus?
 
-**37** Se não faço as obras de meu Pai, não me creiais;
+**37** Se não faço as obras de meu Pai, não creiais em mim.
 
-**38** mas, se as faço, ainda que não creiais em mim, crede nas obras, para que conheçais e saibais que o Pai está em mim e eu no Pai.
+**38** Mas, se as faço, ainda que não creiais em mim, crede nas obras, para que conheçais e reconheçais que o Pai está em mim, e eu no Pai.
 
 ---
 
@@ -1292,15 +1292,15 @@ _Quem vê o Filho vê o Pai: o Filho está no Pai e o Pai no Filho, e as obras q
 
 **8** Disse-lhe Filipe: Senhor, mostra-nos o Pai, e isso nos basta.
 
-**9** Disse-lhe Jesus: Há tanto tempo estou convosco, e não me conheceste, Filipe? Quem me viu, viu o Pai. Como dizes tu: Mostra-nos o Pai?
+**9** Disse-lhe Jesus: Há tanto tempo estou convosco, e não me conheces, Filipe? Quem me vê, vê o Pai. Como dizes tu: Mostra-nos o Pai?
 
-**10** Não credes que eu estou no Pai e o Pai está em mim? As palavras que eu vos digo, não as digo por mim mesmo; mas o Pai, que permanece em mim, faz as suas obras.
+**10** Não crês que eu estou no Pai e o Pai está em mim? As palavras que eu vos digo não as digo por mim mesmo; mas o Pai, que permanece em mim, é quem faz as suas obras.
 
-**11** Crede-me: eu estou no Pai, e o Pai em mim; ao menos crede por causa das próprias obras.
+**11** Crede-me: eu estou no Pai e o Pai está em mim; crede ao menos por causa das próprias obras.
 
-**12** Em verdade, em verdade vos digo: quem crê em mim fará também ele as obras que eu faço, e fará maiores do que estas, porque eu vou para o Pai.
+**12** Em verdade, em verdade vos digo: quem crê em mim fará também as obras que eu faço, e fará maiores do que estas, porque eu vou para o Pai.
 
-**13** E o que pedirdes em meu nome, isso farei, para que o Pai seja glorificado no Filho.
+**13** E tudo o que pedirdes em meu nome, eu o farei, para que o Pai seja glorificado no Filho.
 
 **14** Se me pedirdes alguma coisa em meu nome, eu a farei.
 
@@ -1310,13 +1310,13 @@ _Quem vê o Filho vê o Pai: o Filho está no Pai e o Pai no Filho, e as obras q
 
 _Meu Senhor e meu Deus: diante do Ressuscitado, um discípulo dá a Jesus, sem restrição, o nome de Deus_
 
-**26** Oito dias depois, estavam outra vez dentro de casa os seus discípulos, e Tomé com eles. Veio Jesus, estando as portas fechadas, pôs-se no meio deles e disse: A paz esteja convosco.
+**26** Oito dias depois, os discípulos estavam outra vez dentro de casa, e Tomé com eles. Jesus veio, estando as portas fechadas, pôs-se no meio deles e disse: A paz esteja convosco!
 
-**27** Depois disse a Tomé: Põe aqui o teu dedo e vê as minhas mãos; estende a tua mão e põe-na no meu lado; e não sejas incrédulo, mas crente.
+**27** Depois disse a Tomé: Põe aqui o teu dedo e vê as minhas mãos; estende a tua mão e põe-na no meu lado; e não sejas incrédulo, mas fiel.
 
-**28** Respondeu-lhe Tomé: Meu Senhor e meu Deus!
+**28** Tomé respondeu-lhe: Meu Senhor e meu Deus!
 
-**29** Disse-lhe Jesus: Porque me viste, creste. Bem-aventurados os que não viram e creram.
+**29** Disse-lhe Jesus: Porque me viste, creste. Felizes os que não viram e creram!
 
 ---
 
@@ -1324,11 +1324,11 @@ _Meu Senhor e meu Deus: diante do Ressuscitado, um discípulo dá a Jesus, sem r
 
 _Antes de se encarnar, o Filho subsistia em forma de Deus e era igual a Deus_
 
-**5** Tende entre vós este sentimento, que também houve em Cristo Jesus:
+**5** Tende entre vós o mesmo sentir que houve em Cristo Jesus:
 
-**6** o qual, subsistindo em forma de Deus, não julgou usurpação o ser igual a Deus,
+**6** Ele, que é de condição divina, não considerou um tesouro a reter ciosamente o ser igual a Deus;
 
-**7** mas esvaziou-se a si mesmo, tomando a forma de servo, feito à semelhança dos homens.
+**7** mas esvaziou-se a si mesmo, tomando a condição de servo, tornando-se semelhante aos homens; e, reconhecido em figura humana,
 
 ---
 
@@ -1336,11 +1336,11 @@ _Antes de se encarnar, o Filho subsistia em forma de Deus e era igual a Deus_
 
 _O Filho é imagem do Deus invisível e aquele em quem tudo foi criado — está do lado do Criador, e não do criado_
 
-**15** Ele é imagem do Deus invisível, primogênito de toda criatura,
+**15** Ele é a imagem do Deus invisível, o primogênito de toda criatura;
 
-**16** porque nele foram criadas todas as coisas nos céus e na terra, as visíveis e as invisíveis, sejam tronos, sejam dominações, sejam principados, sejam potestades: tudo foi criado por meio dele e para ele.
+**16** porque nele foram criadas todas as coisas, nos céus e na terra, as visíveis e as invisíveis: tronos, dominações, principados, potestades. Tudo foi criado por ele e para ele.
 
-**17** E ele é antes de todas as coisas, e todas as coisas nele subsistem.
+**17** Ele existe antes de tudo, e tudo nele subsiste.
 
 ---
 
@@ -1348,31 +1348,31 @@ _O Filho é imagem do Deus invisível e aquele em quem tudo foi criado — está
 
 _O Filho, por meio de quem Deus fez os séculos, é resplendor da glória e impressão da hipóstase do Pai; e os salmos que o autor lhe aplica põem-no acima de todos os anjos, do lado do Criador: o teu trono, ó Deus; tu, Senhor, no princípio fundaste a terra_
 
-**1** Muitas vezes e de muitos modos falou Deus outrora aos pais pelos profetas;
+**1** Muitas vezes e de muitos modos falou Deus, outrora, aos pais, pelos profetas;
 
-**2** nestes dias, que são os últimos, falou-nos por meio do Filho, a quem constituiu herdeiro de todas as coisas, por meio de quem também fez os séculos.
+**2** nestes dias, que são os últimos, falou-nos pelo Filho, a quem constituiu herdeiro de todas as coisas e por quem também fez os séculos.
 
-**3** Ele, que é resplendor da glória e impressão da sua hipóstase, e que sustenta todas as coisas pela palavra do seu poder, tendo realizado a purificação dos pecados, sentou-se à direita da Majestade nas alturas.
+**3** Ele é o resplendor da sua glória e a expressão do seu ser, e sustenta todas as coisas com a sua palavra poderosa. E, depois de realizar a purificação dos pecados, sentou-se à direita da Majestade, nas alturas,
 
-**4** feito tanto superior aos anjos quanto mais excelente é o nome que herdou em comparação com eles.
+**4** tornando-se tanto maior que os anjos quanto mais excelente é o nome que herdou.
 
-**5** Pois a qual dos anjos disse ele alguma vez: Tu és meu Filho, eu hoje te gerei? E ainda: Eu serei para ele Pai, e ele será para mim Filho?
+**5** Pois a qual dos anjos disse Deus alguma vez: Tu és meu Filho, eu hoje te gerei? E ainda: Eu serei para ele um pai, e ele será para mim um filho?
 
-**6** E de novo, quando introduz o primogênito no mundo, diz: E adorem-no todos os anjos de Deus.
+**6** E, ao introduzir de novo o Primogênito no mundo, diz: E adorem-no todos os anjos de Deus.
 
-**7** E dos anjos diz: Aquele que faz dos seus anjos ventos, e dos seus ministros labareda de fogo.
+**7** Quanto aos anjos, diz: Ele faz dos seus anjos ventos, e dos seus ministros, chama de fogo.
 
-**8** Mas do Filho: O teu trono, ó Deus, é pelos séculos dos séculos; e cetro de retidão é o cetro do teu reino.
+**8** Mas ao Filho: O teu trono, ó Deus, é pelos séculos dos séculos, e o cetro da retidão é o cetro do teu reino.
 
-**9** Amaste a justiça e odiaste a iniquidade; por isso Deus, o teu Deus, te ungiu com óleo de alegria, acima dos teus companheiros.
+**9** Amaste a justiça e odiaste a iniquidade; por isso Deus, o teu Deus, te ungiu com óleo de exultação, de preferência aos teus companheiros.
 
-**10** E: Tu, Senhor, no princípio fundaste a terra, e os céus são obra das tuas mãos.
+**10** E ainda: No princípio, Senhor, fundaste a terra, e os céus são obra das tuas mãos.
 
-**11** Eles perecerão, mas tu permaneces; e todos envelhecerão como uma veste,
+**11** Eles perecerão, mas tu permaneces; todos envelhecerão como um manto,
 
-**12** e como um manto os enrolarás; como uma veste, serão mudados. Mas tu és o mesmo, e os teus anos não terão fim.
+**12** e como uma capa os enrolarás, e como um manto serão mudados. Tu, porém, és o mesmo, e os teus anos não terão fim.
 
-**13** E a qual dos anjos disse ele alguma vez: Senta-te à minha direita, até que eu ponha os teus inimigos por escabelo dos teus pés?
+**13** E a qual dos anjos disse alguma vez: Senta-te à minha direita, até que eu ponha os teus inimigos por escabelo dos teus pés?
 
 ---
 
@@ -1536,9 +1536,9 @@ A divindade do Espírito Santo, definida contra os que o faziam criatura.
 
 _Pedro chama a mesma ação, na mesma frase, de mentir ao Espírito Santo e de mentir a Deus_
 
-**3** Disse Pedro: Ananias, por que encheu Satanás o teu coração, para que mentisses ao Espírito Santo e desviasses parte do preço do campo?
+**3** Pedro disse-lhe: Ananias, por que Satanás encheu o teu coração, a ponto de mentires ao Espírito Santo e reteres parte do preço do campo?
 
-**4** Porventura, permanecendo teu, não permanecia teu? E, vendido, não estava em teu poder? Por que puseste no teu coração esta ação? Não mentiste aos homens, mas a Deus.
+**4** Enquanto o tinhas, não era teu? E, depois de vendido, o dinheiro não estava em teu poder? Por que decidiste no teu coração fazer isso? Não mentiste aos homens, mas a Deus.
 
 ---
 
@@ -1546,19 +1546,19 @@ _Pedro chama a mesma ação, na mesma frase, de mentir ao Espírito Santo e de m
 
 _O Paráclito vem, convence, guia, ouve e anuncia: Jesus fala dele como de alguém, e não como de uma força_
 
-**7** Contudo, digo-vos a verdade: convém-vos que eu vá; porque, se eu não for, o Paráclito não virá a vós; mas, se eu for, eu o enviarei a vós.
+**7** Contudo, eu vos digo a verdade: convém-vos que eu vá; porque, se eu não for, o Paráclito não virá a vós; mas, se eu for, eu o enviarei a vós.
 
-**8** E, quando ele vier, convencerá o mundo a respeito do pecado, da justiça e do juízo:
+**8** E ele, quando vier, convencerá o mundo a respeito do pecado, da justiça e do juízo:
 
-**9** a respeito do pecado, porque não creem em mim;
+**9** do pecado, porque não creem em mim;
 
-**10** a respeito da justiça, porque vou para o Pai e já não me vereis;
+**10** da justiça, porque vou para o Pai, e já não me vereis;
 
-**11** a respeito do juízo, porque o príncipe deste mundo já está julgado.
+**11** do juízo, porque o príncipe deste mundo já está julgado.
 
-**12** Ainda tenho muitas coisas a vos dizer, mas não as podeis suportar agora.
+**12** Tenho ainda muitas coisas a dizer-vos, mas não as podeis suportar agora.
 
-**13** Quando vier aquele, o Espírito da verdade, ele vos guiará a toda a verdade; pois não falará por si mesmo, mas dirá tudo o que ouvir, e vos anunciará as coisas que hão de vir.
+**13** Quando, porém, vier ele, o Espírito da verdade, ele vos guiará a toda a verdade; porque não falará por si mesmo, mas dirá tudo o que tiver ouvido e vos anunciará as coisas que hão de vir.
 
 ---
 
@@ -1568,15 +1568,15 @@ _O Espírito conhece as profundezas de Deus como o espírito do homem conhece o 
 
 ### 1 Coríntios 2,10–12
 
-**10** A nós, com efeito, Deus o revelou por meio do Espírito; pois o Espírito perscruta todas as coisas, até as profundezas de Deus.
+**10** A nós, porém, Deus o revelou pelo Espírito; porque o Espírito sonda todas as coisas, até as profundezas de Deus.
 
-**11** Quem, dentre os homens, conhece o que é do homem, senão o espírito do homem que está nele? Assim também o que é de Deus ninguém o conheceu, senão o Espírito de Deus.
+**11** Pois quem, dentre os homens, conhece as coisas do homem, senão o espírito do homem, que nele está? Assim também as coisas de Deus, ninguém as conhece, senão o Espírito de Deus.
 
-**12** Nós, porém, não recebemos o espírito do mundo, mas o Espírito que vem de Deus, para conhecermos o que por Deus nos foi dado por graça.
+**12** Nós não recebemos o espírito do mundo, mas o Espírito que vem de Deus, para conhecermos o que Deus nos deu por graça;
 
 ### 1 Coríntios 12,11
 
-**11** Mas todas estas coisas as opera um só e o mesmo Espírito, distribuindo a cada um em particular como quer.
+**11** Mas tudo isto opera o único e mesmo Espírito, que distribui a cada um, em particular, como quer.
 
 ---
 
@@ -1586,7 +1586,7 @@ _O Senhor é o Espírito: daqui vem o título de Senhor que o símbolo de 381 d�
 
 **17** Ora, o Senhor é o Espírito; e onde está o Espírito do Senhor, aí há liberdade.
 
-**18** E todos nós, de rosto descoberto, contemplando como num espelho a glória do Senhor, somos transformados na mesma imagem, de glória em glória, como pelo Senhor, que é o Espírito.
+**18** E todos nós, com o rosto descoberto, contemplando como num espelho a glória do Senhor, somos transformados nessa mesma imagem, de glória em glória, como pelo Senhor, que é o Espírito.
 
 ---
 
@@ -1594,9 +1594,9 @@ _O Senhor é o Espírito: daqui vem o título de Senhor que o símbolo de 381 d�
 
 _O Espírito intercede por nós, e é distinto daquele que perscruta os corações e conhece o seu desejo_
 
-**26** Do mesmo modo, também o Espírito vem em auxílio da nossa fraqueza; pois não sabemos o que pedir como convém, mas o próprio Espírito intercede por nós com gemidos inefáveis.
+**26** Do mesmo modo, também o Espírito vem em auxílio da nossa fraqueza; porque não sabemos o que pedir como convém, mas o próprio Espírito intercede por nós com gemidos que não se podem exprimir.
 
-**27** E aquele que perscruta os corações sabe qual é o desejo do Espírito, porque é segundo Deus que ele intercede pelos santos.
+**27** E aquele que perscruta os corações sabe qual é a aspiração do Espírito, pois é segundo Deus que ele intercede pelos santos.
 
 ---
 
@@ -1804,9 +1804,9 @@ O Espírito procede do Pai e do Filho: a fórmula latina, a grega, e o que as un
 
 _O Espírito da verdade procede do Pai, e o Filho o envia da parte do Pai: é o versículo de que o símbolo de 381 tirou a sua fórmula_
 
-**26** Quando vier o Paráclito, que eu vos enviarei da parte do Pai, o Espírito da verdade, que procede do Pai, ele dará testemunho de mim;
+**26** Quando vier o Paráclito, que eu vos enviarei da parte do Pai, o Espírito da verdade, que procede do Pai, ele dará testemunho de mim.
 
-**27** e vós também dareis testemunho, porque estais comigo desde o princípio.
+**27** E também vós dareis testemunho, porque estais comigo desde o princípio.
 
 ---
 
@@ -1816,7 +1816,7 @@ _O Espírito recebe do que é do Filho, e tudo o que o Pai tem é do Filho: é o
 
 **14** Ele me glorificará, porque receberá do que é meu e o anunciará a vós.
 
-**15** Tudo o que o Pai tem é meu; por isso vos disse que recebe do que é meu e o anunciará a vós.
+**15** Tudo o que o Pai tem é meu; por isso disse que ele receberá do que é meu e o anunciará a vós.
 
 ---
 
@@ -1824,15 +1824,15 @@ _O Espírito recebe do que é do Filho, e tudo o que o Pai tem é do Filho: é o
 
 _Na tarde da ressurreição, o Filho sopra sobre os discípulos e dá-lhes o Espírito; Agostinho vê no sopro o sinal de que o Espírito procede também dele_
 
-**19** Chegada a tarde daquele dia, o primeiro da semana, e estando fechadas as portas do lugar onde se achavam os discípulos, por medo dos judeus, veio Jesus, pôs-se no meio deles e disse-lhes: A paz esteja convosco.
+**19** Ao entardecer daquele dia, o primeiro da semana, estando fechadas as portas do lugar onde os discípulos se encontravam, por medo dos judeus, Jesus veio, pôs-se no meio deles e disse-lhes: A paz esteja convosco!
 
-**20** E, dito isto, mostrou-lhes as mãos e o lado. Alegraram-se então os discípulos, vendo o Senhor.
+**20** Dito isso, mostrou-lhes as mãos e o lado. E os discípulos alegraram-se, vendo o Senhor.
 
-**21** Disse-lhes de novo Jesus: A paz esteja convosco. Como o Pai me enviou, também eu vos envio.
+**21** Jesus disse-lhes de novo: A paz esteja convosco! Assim como o Pai me enviou, também eu vos envio.
 
-**22** E, dito isto, soprou sobre eles e disse-lhes: Recebei o Espírito Santo.
+**22** Dito isso, soprou sobre eles e disse-lhes: Recebei o Espírito Santo.
 
-**23** Àqueles a quem perdoardes os pecados, eles lhes estão perdoados; àqueles a quem os retiverdes, estão retidos.
+**23** Àqueles a quem perdoardes os pecados, serão perdoados; àqueles a quem os retiverdes, serão retidos.
 
 ---
 
@@ -2014,13 +2014,13 @@ Pessoas, relações e processões: como os três são um só Deus sem se confund
 
 _Que sejam um como nós somos um: a unidade dos discípulos tem por modelo a unidade do Pai e do Filho; Latrão IV e a Gaudium et spes 24, mais adiante nesta parte, comentam o trecho e dizem até onde vai a semelhança_
 
-**20** Não rogo somente por estes, mas também por aqueles que hão de crer em mim pela palavra deles,
+**20** Não rogo somente por estes, mas também por aqueles que, pela sua palavra, hão de crer em mim,
 
-**21** para que todos sejam um, como tu, Pai, estás em mim e eu em ti, para que também eles estejam em nós, a fim de que o mundo creia que tu me enviaste.
+**21** para que todos sejam um; como tu, Pai, estás em mim, e eu em ti, que também eles estejam em nós, para que o mundo creia que tu me enviaste.
 
-**22** E eu lhes dei a glória que me deste, para que sejam um como nós somos um:
+**22** E eu dei-lhes a glória que tu me deste, para que sejam um, como nós somos um:
 
-**23** eu neles e tu em mim, para que sejam consumados na unidade, e o mundo conheça que tu me enviaste e os amaste como me amaste.
+**23** eu neles, e tu em mim, para que sejam perfeitos na unidade, e o mundo conheça que tu me enviaste e os amaste como amaste a mim.
 
 ---
 
@@ -2464,11 +2464,11 @@ O Pai envia o Filho e o Espírito Santo, e a Trindade vem habitar no justo.
 
 _O Pai envia o Filho e envia o Espírito do Filho: as duas missões pelas quais a Trindade se dá a conhecer na história_
 
-**4** Mas, quando veio a plenitude do tempo, enviou Deus o seu Filho, nascido de mulher, nascido sob a Lei,
+**4** Mas, quando veio a plenitude do tempo, Deus enviou o seu Filho, nascido de mulher, nascido sob a lei,
 
-**5** para resgatar os que estavam sob a Lei, a fim de que recebêssemos a adoção filial.
+**5** para resgatar os que estavam sob a lei, a fim de recebermos a adoção de filhos.
 
-**6** E, porque sois filhos, enviou Deus aos nossos corações o Espírito do seu Filho, que clama: Abba, Pai!
+**6** E, porque sois filhos, Deus enviou aos nossos corações o Espírito de seu Filho, que clama: Abba, Pai!
 
 ---
 
@@ -2482,13 +2482,13 @@ _Quem ama o Filho e guarda a sua palavra recebe a morada do Pai e do Filho: é o
 
 **20** Naquele dia conhecereis que eu estou em meu Pai, e vós em mim, e eu em vós.
 
-**21** Quem tem os meus mandamentos e os guarda, esse é que me ama; e quem me ama será amado por meu Pai, e eu o amarei e me manifestarei a ele.
+**21** Quem tem os meus mandamentos e os guarda, esse é o que me ama; e quem me ama será amado por meu Pai, e eu o amarei e me manifestarei a ele.
 
-**22** Disse-lhe Judas, não o Iscariotes: Senhor, que aconteceu, para que hajas de manifestar-te a nós e não ao mundo?
+**22** Disse-lhe Judas, não o Iscariotes: Senhor, como é que te hás de manifestar a nós e não ao mundo?
 
-**23** Respondeu Jesus e disse-lhe: Se alguém me ama, guardará a minha palavra, e meu Pai o amará, e viremos a ele e nele faremos morada.
+**23** Respondeu-lhe Jesus: Se alguém me ama, guardará a minha palavra, e meu Pai o amará, e viremos a ele e faremos nele a nossa morada.
 
-**24** Quem não me ama não guarda as minhas palavras; e a palavra que ouvis não é minha, mas do Pai que me enviou.
+**24** Quem não me ama não guarda as minhas palavras. E a palavra que ouvis não é minha, mas do Pai, que me enviou.
 
 ---
 
@@ -2496,11 +2496,11 @@ _Quem ama o Filho e guarda a sua palavra recebe a morada do Pai e do Filho: é o
 
 _A partida do Filho para o Pai é a condição do envio do Espírito: o Filho, que foi enviado, envia por sua vez o Paráclito_
 
-**5** Agora, porém, vou para aquele que me enviou, e nenhum de vós me pergunta: Para onde vais?
+**5** Mas agora vou para aquele que me enviou, e nenhum de vós me pergunta: Para onde vais?
 
 **6** Mas, porque vos disse estas coisas, a tristeza encheu o vosso coração.
 
-**7** Contudo, digo-vos a verdade: convém-vos que eu vá; porque, se eu não for, o Paráclito não virá a vós; mas, se eu for, eu o enviarei a vós.
+**7** Contudo, eu vos digo a verdade: convém-vos que eu vá; porque, se eu não for, o Paráclito não virá a vós; mas, se eu for, eu o enviarei a vós.
 
 ---
 
@@ -2508,17 +2508,17 @@ _A partida do Filho para o Pai é a condição do envio do Espírito: o Filho, q
 
 _Pentecostes é a missão visível do Espírito: o Filho, exaltado à direita de Deus, recebe do Pai o Espírito prometido e derrama-o_
 
-**1** Quando se completava o dia de Pentecostes, estavam todos juntos no mesmo lugar.
+**1** Quando chegou o dia de Pentecostes, estavam todos reunidos no mesmo lugar.
 
-**2** De repente veio do céu um ruído, como de um vento impetuoso que soprava, e encheu toda a casa onde estavam sentados.
+**2** De repente, veio do céu um ruído, como de um vento impetuoso, que encheu toda a casa onde estavam sentados.
 
-**3** E apareceram-lhes línguas como de fogo, que se repartiam, e pousou uma sobre cada um deles.
+**3** Apareceram-lhes línguas como de fogo, que se repartiam e pousavam sobre cada um deles;
 
-**4** E todos ficaram cheios do Espírito Santo, e começaram a falar em outras línguas, conforme o Espírito lhes concedia que falassem.
+**4** e todos ficaram cheios do Espírito Santo e começaram a falar em outras línguas, conforme o Espírito lhes concedia que falassem.
 
-**32** A este Jesus, Deus o ressuscitou, e disso todos nós somos testemunhas.
+**32** Foi a este Jesus que Deus ressuscitou, e disso todos nós somos testemunhas.
 
-**33** Exaltado, pois, à direita de Deus, e tendo recebido do Pai o Espírito Santo prometido, derramou isto que vós vedes e ouvis.
+**33** Exaltado, pois, à direita de Deus, e tendo recebido do Pai o Espírito Santo prometido, ele o derramou, como estais vendo e ouvindo.
 
 ---
 
@@ -2526,7 +2526,7 @@ _Pentecostes é a missão visível do Espírito: o Filho, exaltado à direita de
 
 _O dom do Espírito é o amor de Deus derramado no coração: o Espírito não é só enviado, é dado_
 
-**5** E a esperança não decepciona, porque o amor de Deus foi derramado nos nossos corações pelo Espírito Santo que nos foi dado.
+**5** Ora, a esperança não engana, porque o amor de Deus foi derramado nos nossos corações pelo Espírito Santo, que nos foi dado.
 
 ---
 
@@ -2534,15 +2534,15 @@ _O dom do Espírito é o amor de Deus derramado no coração: o Espírito não �
 
 _O Espírito de Deus, o Espírito de Cristo e Cristo mesmo habitam no fiel, e o Espírito que nele habita é penhor da ressurreição_
 
-**9** Vós, porém, não estais na carne, mas no espírito, se é que o Espírito de Deus habita em vós. Se alguém não tem o Espírito de Cristo, esse não é dele.
+**9** Vós, porém, não estais na carne, mas no Espírito, se de fato o Espírito de Deus habita em vós. Se alguém não tem o Espírito de Cristo, esse não lhe pertence.
 
-**10** Mas, se Cristo está em vós, o corpo está morto por causa do pecado, e o espírito é vida por causa da justiça.
+**10** Ora, se Cristo está em vós, o corpo, na verdade, está morto por causa do pecado, mas o espírito é vida por causa da justiça.
 
-**11** E, se o Espírito daquele que ressuscitou Jesus dentre os mortos habita em vós, aquele que ressuscitou Cristo Jesus dentre os mortos dará vida também aos vossos corpos mortais, por meio do seu Espírito que habita em vós.
+**11** E, se o Espírito daquele que ressuscitou Jesus dentre os mortos habita em vós, aquele que ressuscitou Cristo Jesus dos mortos dará vida também aos vossos corpos mortais, pelo seu Espírito que habita em vós.
 
-**12** Portanto, irmãos, somos devedores, não à carne, para vivermos segundo a carne;
+**12** Assim, irmãos, somos devedores — mas não à carne, para vivermos segundo a carne.
 
-**13** porque, se viverdes segundo a carne, haveis de morrer; mas, se pelo Espírito fizerdes morrer as obras do corpo, vivereis.
+**13** Porque, se viverdes segundo a carne, morrereis; mas, se pelo Espírito fizerdes morrer as obras do corpo, vivereis.
 
 ---
 
@@ -2556,7 +2556,7 @@ _A comunidade é templo de Deus porque o Espírito de Deus habita nela_
 
 **16** Não sabeis que sois templo de Deus e que o Espírito de Deus habita em vós?
 
-**17** Se alguém destruir o templo de Deus, Deus o destruirá; pois o templo de Deus é santo, e esse templo sois vós.
+**17** Se alguém destruir o templo de Deus, Deus o destruirá; porque o templo de Deus é santo, e esse templo sois vós.
 
 ### 1 Coríntios 6,19–20
 
@@ -2564,13 +2564,13 @@ _O próprio corpo de cada fiel é templo do Espírito Santo_
 
 **19** Ou não sabeis que o vosso corpo é templo do Espírito Santo, que está em vós e que recebestes de Deus, e que não pertenceis a vós mesmos?
 
-**20** Pois fostes comprados por alto preço. Glorificai, pois, a Deus no vosso corpo.
+**20** Porque fostes comprados por um preço. Glorificai, pois, a Deus no vosso corpo.
 
 ### 2 Coríntios 6,16
 
 _A promessa da antiga aliança, habitar no meio do povo, cumpre-se na Igreja_
 
-**16** Que acordo há entre o templo de Deus e os ídolos? Pois nós somos o templo do Deus vivo, como disse Deus: Habitarei neles e entre eles andarei; e serei o seu Deus, e eles serão o meu povo.
+**16** Que entendimento há entre o templo de Deus e os ídolos? Pois nós somos o templo do Deus vivo, como Deus disse: Habitarei no meio deles e com eles andarei; serei o seu Deus, e eles serão o meu povo.
 
 ---
 
@@ -2582,7 +2582,7 @@ _Selados com o Espírito, os fiéis têm por Cristo acesso ao Pai num só Espír
 
 _O Espírito dado aos que creem é selo e penhor da herança_
 
-**13** Nele também vós, depois de ouvirdes a palavra da verdade, o Evangelho da vossa salvação, e de nele crerdes, fostes selados com o Espírito Santo da promessa,
+**13** Nele também vós, tendo ouvido a palavra da verdade, o Evangelho da vossa salvação, e nele tendo crido, fostes selados com o Espírito Santo da promessa,
 
 **14** que é o penhor da nossa herança, para a redenção do povo que ele adquiriu, para louvor da sua glória.
 
@@ -2590,15 +2590,15 @@ _O Espírito dado aos que creem é selo e penhor da herança_
 
 _Por meio do Filho, no Espírito, ao Pai: a ordem trinitária do acesso a Deus e da construção da Igreja_
 
-**18** Porque por meio dele temos, uns e outros, acesso ao Pai num só Espírito.
+**18** porque, por ele, uns e outros temos acesso ao Pai, num só Espírito.
 
-**19** Assim, pois, já não sois estrangeiros nem forasteiros, mas concidadãos dos santos e membros da casa de Deus,
+**19** Já não sois, portanto, estrangeiros nem hóspedes, mas concidadãos dos santos e membros da casa de Deus,
 
-**20** edificados sobre o fundamento dos apóstolos e dos profetas, sendo o próprio Cristo Jesus a pedra angular;
+**20** edificados sobre o fundamento dos apóstolos e dos profetas, sendo o próprio Cristo Jesus a pedra angular.
 
-**21** nele todo o edifício, bem ajustado, cresce para ser templo santo no Senhor;
+**21** Nele toda a construção, harmoniosamente ajustada, cresce para ser templo santo no Senhor;
 
-**22** nele também vós sois edificados juntamente para ser morada de Deus no Espírito.
+**22** nele também vós sois edificados juntamente, para serdes morada de Deus no Espírito.
 
 ---
 
@@ -2606,15 +2606,15 @@ _Por meio do Filho, no Espírito, ao Pai: a ordem trinitária do acesso a Deus e
 
 _O Pai envia o Filho e nos dá o seu Espírito; e Deus é definido pelo amor_
 
-**12** A Deus ninguém jamais viu; se nos amamos uns aos outros, Deus permanece em nós, e o seu amor é perfeito em nós.
+**12** Ninguém jamais viu a Deus. Se nos amamos uns aos outros, Deus permanece em nós, e o seu amor em nós é perfeito.
 
-**13** Nisto conhecemos que permanecemos nele e ele em nós: porque nos deu do seu Espírito.
+**13** Nisto conhecemos que permanecemos nele, e ele em nós: porque nos deu do seu Espírito.
 
 **14** E nós vimos e damos testemunho de que o Pai enviou o Filho como salvador do mundo.
 
-**15** Todo aquele que confessar que Jesus é o Filho de Deus, Deus permanece nele e ele em Deus.
+**15** Todo o que confessa que Jesus é o Filho de Deus, Deus permanece nele, e ele em Deus.
 
-**16** E nós conhecemos e cremos no amor que Deus tem por nós. Deus é amor, e quem permanece no amor permanece em Deus, e Deus permanece nele.
+**16** E nós conhecemos e cremos no amor que Deus nos tem. Deus é amor, e quem permanece no amor permanece em Deus, e Deus nele.
 
 ---
 
