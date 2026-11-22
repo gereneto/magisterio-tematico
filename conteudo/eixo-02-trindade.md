@@ -134,7 +134,7 @@ _Os juízos de Deus são insondáveis, e dele, por meio dele e para ele são tod
 
 ## 1 Timóteo 1,17 e 6,15–16
 
-_O único Deus, invisível, que habita uma luz inacessível e a quem nenhum homem viu nem pode ver; o Credo de Paulo VI toma-lhe as palavras_
+_O único Deus, invisível, que habita uma luz inacessível e a quem nenhum homem viu nem pode ver; o Credo de Paulo VI toma as suas palavras_
 
 ### 1 Timóteo 1,17
 

@@ -2354,7 +2354,7 @@ Mas vós, amados de Cristo e digníssimos do império que vos foi concedido por 
 
 *Carta 114, aos bispos que tinham estado reunidos em Calcedônia, 21 de março de 453. Texto inteiro. ACO II,4, 70–71; PL 54, 1027–1031. Não consta do DH.*
 
-*Autoridade: carta papal; é o ato romano de confirmação do concílio de Calcedônia, e fixa-lhe o alcance: o papa aprova o que se definiu sobre a fé, e só isso.*
+*Autoridade: carta papal; é o ato romano de confirmação do concílio de Calcedônia, e fixa o seu alcance: o papa aprova o que se definiu sobre a fé, e só isso.*
 
 _O papa confirma a definição de Calcedônia somente na causa da fé, anatematiza de novo Nestório e Êutiques, e declara nulo o que o concílio fez contra os cânones de Niceia, isto é, o cânon 28_
 

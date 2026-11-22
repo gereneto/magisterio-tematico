@@ -3290,7 +3290,7 @@ Declaramos, dizemos e definimos, pois, que estar sujeito ao Romano Pontífice é
 
 *Carta a Mekhithar (o Consolador), católico dos armênios, 29 de setembro de 1351. Do primeiro capítulo de perguntas, as duas primeiras. Raynaldus, Annales ecclesiastici, ano de 1351. Cf. DH 1050–1051.*
 
-*Autoridade: carta pontifícia. Antes de conceder aos armênios o auxílio que pediam contra o sultão, o papa examina-lhes a fé por uma série de perguntas; não define, mas supõe como fé comum aquilo sobre que interroga.*
+*Autoridade: carta pontifícia. Antes de conceder aos armênios o auxílio que pediam contra o sultão, o papa examina a fé deles por uma série de perguntas; não define, mas supõe como fé comum aquilo sobre que interroga.*
 
 _O papa pergunta aos armênios se creem que os batizados que se afastam da fé da Igreja romana são cismáticos e hereges, e que ninguém fora da fé desta Igreja e da obediência aos Romanos Pontífices pode, no fim, salvar-se: o axioma aplicado aos cristãos do Oriente_
 

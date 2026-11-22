@@ -1656,7 +1656,7 @@ _Os livros do Antigo Testamento são inteiramente palavra de Deus e parte orgân
 
 *Encíclica sobre os estudos bíblicos, 30 de setembro de 1943, no cinquentenário da* Providentissimus Deus. *Cf. DH 3825–3831.*
 
-*Autoridade: encíclica, magistério pontifício ordinário. É a carta que passou a reger os estudos bíblicos católicos, e a* Dei Verbum *12 recolhe-lhe o critério.*
+*Autoridade: encíclica, magistério pontifício ordinário. É a carta que passou a reger os estudos bíblicos católicos, e a* Dei Verbum *12 retoma o seu critério.*
 
 _Para entender a Escritura é preciso saber o que o autor sagrado quis dizer, e para isso conhecer o seu tempo e o seu modo de escrever; a autenticidade da Vulgata não impede o recurso aos textos originais_
 

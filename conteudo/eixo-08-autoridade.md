@@ -902,7 +902,7 @@ _Pedro, presbítero como os demais, exorta os pastores a apascentar o rebanho se
 
 *Tratado de Cipriano, bispo de Cartago, escrito em 251, no tempo do cisma de Novaciano em Roma e de Felicíssimo em Cartago. Caps. 4–5, segundo o texto corrente das edições antigas (PL 4), que junta as duas redações do cap. 4. Não consta no DH.*
 
-*Autoridade: obra de um Padre, sem valor magisterial próprio. A* Satis cognitum *cita-o, e o proêmio da* Pastor aeternus *retoma-lhe a ideia de um episcopado uno e indiviso.*
+*Autoridade: obra de um Padre, sem valor magisterial próprio. A* Satis cognitum *cita-o, e o proêmio da* Pastor aeternus *retoma a sua ideia de um episcopado uno e indiviso.*
 
 _O Senhor edifica a Igreja sobre um só, para que a unidade comece de um só; os outros apóstolos têm igual poder, e o episcopado é uno, possuído solidariamente por cada bispo: a fonte da ideia de que o primado existe para a unidade do episcopado_
 
@@ -1628,7 +1628,7 @@ O crime do cisma é pior que o dos que sacrificaram, os quais, contudo, postos e
 
 *Carta a Eulógio, patriarca de Alexandria, julho de 598 (*Registrum* VIII,29; na numeração antiga, VIII,30; PL 77,933). Parte final. Traduzido do latim. A* Pastor aeternus, *cap. 3, cita as três frases centrais (DH 3061).*
 
-*Autoridade: carta do Papa a um patriarca, sem forma de ensino solene. Entra porque o Vaticano I a cita literalmente para mostrar que o primado não diminui o poder dos bispos, antes o afirma; a* Lumen gentium *27 retoma-lhe as palavras.*
+*Autoridade: carta do Papa a um patriarca, sem forma de ensino solene. Entra porque o Vaticano I a cita literalmente para mostrar que o primado não diminui o poder dos bispos, antes o afirma; a* Lumen gentium *27 retoma as suas palavras.*
 
 _O Papa recusa o título de papa universal, porque a sua honra é a honra da Igreja inteira e o sólido vigor dos seus irmãos: o primado que não anula, mas sustenta, o poder de cada bispo_
 
@@ -3832,7 +3832,7 @@ Por esse uso extraordinário do magistério não se introduz, certamente, nenhum
 
 *Encíclica sobre algumas opiniões falsas que ameaçam arruinar os fundamentos da doutrina católica, 12 de agosto de 1950; nn. 18–21. Original latino. Cf. DH 3884–3886 (o n. 20 é o DH 3885; o n. 21, o DH 3886).*
 
-*Autoridade: encíclica, magistério pontifício ordinário. O n. 20 diz de si mesmo o grau de autoridade das encíclicas; a* Lumen gentium *25 recolhe-lhe a doutrina ao falar do religioso obséquio devido ao magistério autêntico do Romano Pontífice.*
+*Autoridade: encíclica, magistério pontifício ordinário. O n. 20 diz de si mesmo o grau de autoridade das encíclicas; a* Lumen gentium *25 retoma a sua doutrina ao falar do religioso obséquio devido ao magistério autêntico do Romano Pontífice.*
 
 _O que se ensina nas encíclicas exige por si assentimento, porque é ensinado pelo magistério ordinário, do qual também vale quem vos ouve, a mim ouve; e o que os papas decidem de propósito sobre matéria controvertida deixa de ser questão livre entre os teólogos_
 

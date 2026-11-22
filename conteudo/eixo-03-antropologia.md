@@ -1138,7 +1138,7 @@ _A teoria do Big Bang não contradiz a criação do nada, mas só a fé a conhec
 
 *Autoridade: encíclica, magistério pontifício ordinário. A encíclica declara-se parte da doutrina social da Igreja; o capítulo II, porém, é exposição teológica da criação.*
 
-_Criação é mais que natureza: é dom de um Pai, fruto de uma decisão livre de amor; o mundo não é divino, e Deus, presente no íntimo de cada coisa, respeita-lhe a autonomia_
+_Criação é mais que natureza: é dom de um Pai, fruto de uma decisão livre de amor; o mundo não é divino, e Deus, presente no íntimo de cada coisa, respeita a sua autonomia_
 
 > **Por que entrar.** é o único texto de encíclica, neste século, sobre a doutrina da criação, e o capítulo II é teológico, e não social.
 >
