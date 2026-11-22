@@ -10,15 +10,16 @@ Cada eixo divide-se em partes temáticas, e cada parte tem o seu índice. Cada t
 
 | Eixo | Situação |
 |---|---|
-| 1 — Revelação | 7 partes, 81 trechos (11 em avaliação) |
-| 2 — Trindade | 8 partes, 135 trechos (2 em avaliação) |
+| 1 — Revelação | 8 partes, 284 trechos (142 em avaliação) |
+| 2 — Trindade | 8 partes, 260 trechos (125 em avaliação) |
 | 3 — Antropologia | 8 partes, 210 trechos (106 em avaliação) |
 | 4 — Cristo | 10 partes, 251 trechos (98 em avaliação) |
 | 5 — Graça | 8 partes, 171 trechos (64 em avaliação) |
 | 6 — Maria | 6 partes, 169 trechos (89 em avaliação) |
 | 7 — Igreja | 8 partes, 221 trechos (92 em avaliação) |
 | 8 — Autoridade | 7 partes, 186 trechos (94 em avaliação) |
-| 9, 10, 11, 12 | a fazer |
+| 9 — Sacramentos | 11 partes, 407 trechos (196 em avaliação) |
+| 10, 11, 12 | a fazer |
 
 Os critérios de seleção e de tradução estão em [`conteudo/criterios-selecao.md`](conteudo/criterios-selecao.md) e publicados em `criterios.html`.
 
