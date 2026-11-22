@@ -10474,7 +10474,7 @@ _Contra os que proíbem o casamento: tudo o que Deus criou é bom, e o matrimôn
 
 <!-- ordem: 205 -->
 
-*Linha de fonte: Tertuliano, *Ad uxorem* II,8,6–8 (c. 200–206). Do latim (CCSL 1, 393; SC 273).*
+*Tertuliano, *Ad uxorem* II,8,6–8 (c. 200–206). Do latim (CCSL 1, 393; SC 273).*
 
 *Autoridade: escritor eclesiástico do séc. III, depois separado da Igreja; não é Padre no sentido estrito. O texto é citado literalmente pela *Familiaris consortio* 13 e pelo Catecismo (CIC 1642).*
 
@@ -10496,7 +10496,7 @@ _O matrimônio que a Igreja une, a oblação confirma, a bênção sela, os anjo
 
 <!-- ordem: 400 -->
 
-*Linha de fonte: Concílio de Toledo I, anatematismo 16 (400; na forma longa, 447), e concílio de Braga I, cân. 11 (1 de maio de 561). Do latim (DH). Cf. DH 206 e 461.*
+*Concílio de Toledo I, anatematismo 16 (400; na forma longa, 447), e concílio de Braga I, cân. 11 (1 de maio de 561). Do latim (DH). Cf. DH 206 e 461.*
 
 *Autoridade: concílios particulares, o de Toledo tido por apoiado pela carta de Leão Magno a Turíbio de Astorga; para Braga não se conhece confirmação romana.*
 
@@ -10520,7 +10520,7 @@ _Anátema a quem condene como execráveis as núpcias que a lei divina tem por l
 
 <!-- ordem: 401 -->
 
-*Linha de fonte: Agostinho de Hipona, *De bono coniugali* 24,32 (c. 401); *De Genesi ad litteram* IX,7,12 (c. 401–415); *De nuptiis et concupiscentia* I,10,11 e I,17,19 (c. 419–420). Recortes. Do latim (CSEL 41, 226–227; CSEL 28/1, 275; CSEL 42, 222–223 e 231).*
+*Agostinho de Hipona, *De bono coniugali* 24,32 (c. 401); *De Genesi ad litteram* IX,7,12 (c. 401–415); *De nuptiis et concupiscentia* I,10,11 e I,17,19 (c. 419–420). Recortes. Do latim (CSEL 41, 226–227; CSEL 28/1, 275; CSEL 42, 222–223 e 231).*
 
 *Autoridade: Padre e doutor da Igreja; a *Exsultate Deo* (DH 1327) assume a tríade sem o nomear, e a *Casti connubii* e a *Gaudium et spes* 48 remetem a estes lugares.*
 
@@ -10548,7 +10548,7 @@ Nas núpcias, porém, amem-se os bens nupciais: a prole, a fidelidade, o sacrame
 
 <!-- ordem: 458 -->
 
-*Linha de fonte: Leão Magno, carta *Regressus ad nos* (Ep. 159) a Nicetas, bispo de Aquileia, 21 de março de 458, cap. 1–4. Do latim (PL 54, 1135–1137). Cf. DH 311–314.*
+*Leão Magno, carta *Regressus ad nos* (Ep. 159) a Nicetas, bispo de Aquileia, 21 de março de 458, cap. 1–4. Do latim (PL 54, 1135–1137). Cf. DH 311–314.*
 
 *Autoridade: decretal de um papa, resposta a uma consulta, recolhida no direito comum da Igreja.*
 
@@ -10582,7 +10582,7 @@ Se, porém, algumas mulheres estão de tal modo tomadas do amor dos segundos mar
 
 <!-- ordem: 866 -->
 
-*Linha de fonte: Nicolau I, respostas *Ad consulta vestra* aos búlgaros, 13 de novembro de 866, cap. 3 (a última parte). Do latim (PL 119, 980; MGH Epp. 6, 570). Cf. DH 643.*
+*Nicolau I, respostas *Ad consulta vestra* aos búlgaros, 13 de novembro de 866, cap. 3 (a última parte). Do latim (PL 119, 980; MGH Epp. 6, 570). Cf. DH 643.*
 
 *Autoridade: resposta de um papa a uma consulta, de valor doutrinal e disciplinar, recolhida no direito comum.*
 
@@ -10596,7 +10596,7 @@ _Basta, segundo as leis, o consentimento daqueles de cuja união se trata; se fa
 
 <!-- ordem: 1139 -->
 
-*Linha de fonte: Concílio de Latrão II (X ecumênico), abril de 1139, cân. 23, o trecho sobre os hereges. Do latim (Alberigo, *COD*). Cf. DH 718.*
+*Concílio de Latrão II (X ecumênico), abril de 1139, cân. 23, o trecho sobre os hereges. Do latim (Alberigo, *COD*). Cf. DH 718.*
 
 *Autoridade: concílio ecumênico, convocado e confirmado pelo papa Inocêncio II.*
 
@@ -10610,7 +10610,7 @@ Aos que, simulando aparência de religiosidade, condenam o sacramento do corpo e
 
 <!-- ordem: 1170 -->
 
-*Linha de fonte: Alexandre III, carta *Ex publico instrumento* ao bispo de Bréscia e fragmentos da carta *Verum post* ao arcebispo de Salerno, de data incerta (entre 1159 e 1181). Do latim (DH; *Decretales* X 3,32,7 e X 4,4,3). Cf. DH 754 e 755–756.*
+*Alexandre III, carta *Ex publico instrumento* ao bispo de Bréscia e fragmentos da carta *Verum post* ao arcebispo de Salerno, de data incerta (entre 1159 e 1181). Do latim (DH; *Decretales* X 3,32,7 e X 4,4,3). Cf. DH 754 e 755–756.*
 
 *Autoridade: decretais de um papa, recolhidas no direito comum; fixaram, entre as escolas de Bolonha e de Paris, a doutrina do consentimento e da consumação.*
 
@@ -10636,7 +10636,7 @@ Se [entre o homem e a mulher] intervém o consentimento legítimo [...] de prese
 
 <!-- ordem: 1184 -->
 
-*Linha de fonte: Lúcio III, constituição *Ad abolendam*, promulgada no sínodo de Verona, fim de outubro e começo de novembro de 1184; o trecho sobre os que ensinam diversamente da Igreja romana. Do latim (DH; Mansi 22, 477). Cf. DH 761.*
+*Lúcio III, constituição *Ad abolendam*, promulgada no sínodo de Verona, fim de outubro e começo de novembro de 1184; o trecho sobre os que ensinam diversamente da Igreja romana. Do latim (DH; Mansi 22, 477). Cf. DH 761.*
 
 *Autoridade: decreto de um papa promulgado em sínodo com o imperador, de caráter disciplinar e doutrinal; é o primeiro documento que conta o matrimônio entre os sacramentos.*
 
@@ -10682,7 +10682,7 @@ Não querendo afastar-nos de súbito, neste ponto, das pegadas dos nossos predec
 
 <!-- ordem: 1199 -->
 
-*Linha de fonte: Inocêncio III, carta *Quanto te magis* a Hugo, bispo de Ferrara, 1 de maio de 1199. Do latim (PL 214, 588; *Decretales* X 4,19,7). Cf. DH 768–769.*
+*Inocêncio III, carta *Quanto te magis* a Hugo, bispo de Ferrara, 1 de maio de 1199. Do latim (PL 214, 588; *Decretales* X 4,19,7). Cf. DH 768–769.*
 
 *Autoridade: decretal de um papa, recolhida no direito comum; fundamento do privilégio paulino e da distinção entre matrimônio legítimo e matrimônio rato.*
 
@@ -10700,7 +10700,7 @@ Se, porém, um dos cônjuges fiéis cai na heresia ou passa ao erro da gentilida
 
 <!-- ordem: 1201 -->
 
-*Linha de fonte: Inocêncio III, carta *Gaudemus in Domino* ao bispo de Tiberíades, começo de 1201. Do latim (PL 216, 1269; *Decretales* X 4,19,8). Cf. DH 777–779.*
+*Inocêncio III, carta *Gaudemus in Domino* ao bispo de Tiberíades, começo de 1201. Do latim (PL 216, 1269; *Decretales* X 4,19,8). Cf. DH 777–779.*
 
 *Autoridade: decretal de um papa, recolhida no direito comum; resposta a um caso de missão.*
 

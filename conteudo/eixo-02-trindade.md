@@ -2102,7 +2102,7 @@ _Bendito o Deus e Pai de nosso Senhor Jesus Cristo, que nos fez renascer; e o me
 
 <!-- ordem: 200 -->
 
-*Linha de fonte: tratado sobre a oração do Senhor, escrito em Cartago por volta de 200, caps. 2–3 (CCSL 1, 257–259; PL 1, 1153–1156). Não consta no DH.*
+*Tratado sobre a oração do Senhor, escrito em Cartago por volta de 200, caps. 2–3 (CCSL 1, 257–259; PL 1, 1153–1156). Não consta no DH.*
 
 *Autoridade: texto patrístico, não definido por concílio nem papa; citado literalmente pelo Catecismo da Igreja Católica (n. 2779). Tertuliano passou depois ao montanismo.*
 
@@ -2122,7 +2122,7 @@ _O nome de Deus Pai a ninguém fora revelado: Moisés ouviu outro nome, e a nós
 
 <!-- ordem: 252 -->
 
-*Linha de fonte: tratado sobre a oração do Senhor, escrito em Cartago por volta de 252, caps. 9–11 (CSEL 3/1, 270–273; CCSL 3A, 93–96; PL 4, 520–523, com a mesma numeração de capítulos). Não consta no DH.*
+*Tratado sobre a oração do Senhor, escrito em Cartago por volta de 252, caps. 9–11 (CSEL 3/1, 270–273; CCSL 3A, 93–96; PL 4, 520–523, com a mesma numeração de capítulos). Não consta no DH.*
 
 *Autoridade: texto patrístico de um bispo e mártir, não definido por concílio nem papa; citado literalmente pelo Catecismo da Igreja Católica (n. 2784, cap. 11).*
 
@@ -2144,7 +2144,7 @@ _Não dizemos «meu Pai», mas «Pai nosso»: o homem renascido diz Pai porque j
 
 <!-- ordem: 393 -->
 
-*Linha de fonte: comentário ao Sermão da Montanha, escrito em Hipona por volta de 393; livro II, cap. 4, nn. 15–16 (numeração de Migne: nn. 29–30 do livro; PL 34, 1275–1276; CCSL 35). Recortado do começo do n. 15 até o fim do parágrafo sobre ricos e pobres no n. 16. Não consta no DH.*
+*Comentário ao Sermão da Montanha, escrito em Hipona por volta de 393; livro II, cap. 4, nn. 15–16 (numeração de Migne: nn. 29–30 do livro; PL 34, 1275–1276; CCSL 35). Recortado do começo do n. 15 até o fim do parágrafo sobre ricos e pobres no n. 16. Não consta no DH.*
 
 *Autoridade: texto patrístico de um Doutor da Igreja, não definido por concílio nem papa; citado pelo Catecismo da Igreja Católica (n. 2781 ou 2785, a conferir).*
 
@@ -3924,7 +3924,7 @@ No primeiro capítulo demonstra-se quão ímpio é o sentir sobre a Trindade div
 
 <!-- ordem: 521 -->
 
-*Linha de fonte: carta do papa Hormisdas ao imperador Justino, 26 de março de 521 (*Collectio Avellana*, carta 236), trecho trinitário (CSEL 35, 719–720). Cf. DH 367. A frase sobre o Espírito Santo segue a tradição hispânica da carta; a edição crítica de Günther lê apenas «é notório também o que é próprio do Espírito Santo», sem o resto.*
+*Carta do papa Hormisdas ao imperador Justino, 26 de março de 521 (*Collectio Avellana*, carta 236), trecho trinitário (CSEL 35, 719–720). Cf. DH 367. A frase sobre o Espírito Santo segue a tradição hispânica da carta; a edição crítica de Günther lê apenas «é notório também o que é próprio do Espírito Santo», sem o resto.*
 
 *Autoridade: carta de um papa ao imperador do Oriente, magistério pontifício ordinário; não é definição.*
 
@@ -4030,7 +4030,7 @@ Cumpre saber que o Pai não o dizemos de alguém, mas dizemo-lo Pai do Filho. O 
 
 <!-- ordem: 796 -->
 
-*Linha de fonte: sínodo provincial reunido por Paulino, patriarca de Aquileia, em Friuli (*Forum Iulii*), 796 ou 797, trechos da exposição da fé e do símbolo (PL 99, 287–288; ed. crítica em MGH, *Concilia* II/1, 177–195). Cf. DH 616–619.*
+*Sínodo provincial reunido por Paulino, patriarca de Aquileia, em Friuli (*Forum Iulii*), 796 ou 797, trechos da exposição da fé e do símbolo (PL 99, 287–288; ed. crítica em MGH, *Concilia* II/1, 177–195). Cf. DH 616–619.*
 
 *Autoridade: sínodo local, sem confirmação formal de Roma; não define, mas é o primeiro texto a defender expressamente o direito de acrescentar ao símbolo.*
 
@@ -4060,7 +4060,7 @@ E no Espírito Santo, Senhor e vivificante, que procede do Pai e do Filho, que c
 
 <!-- ordem: 1053 -->
 
-*Linha de fonte: profissão de fé enviada pelo papa Leão IX a Pedro, patriarca de Antioquia, na carta* Congratulamur vehementer, *13 de abril de 1053; só a cláusula sobre o Espírito Santo e o fecho trinitário (PL 143, 771–773; Denzinger-Bannwart, n. 345–346). Cf. DH 680–686 (a parte trinitária, a conferir).*
+*Profissão de fé enviada pelo papa Leão IX a Pedro, patriarca de Antioquia, na carta* Congratulamur vehementer, *13 de abril de 1053; só a cláusula sobre o Espírito Santo e o fecho trinitário (PL 143, 771–773; Denzinger-Bannwart, n. 345–346). Cf. DH 680–686 (a parte trinitária, a conferir).*
 
 *Autoridade: profissão de fé de um papa, dirigida a um patriarca oriental um ano antes do cisma; magistério pontifício ordinário, que nada define. Passou depois ao rito de sagração dos bispos.*
 
@@ -4096,7 +4096,7 @@ Mas, porque alguns, por ignorância da irrefragável verdade sobredita, caíram 
 
 <!-- ordem: 1274 -->
 
-*Linha de fonte: Concílio de Lyon II, 1274; profissão de fé do imperador Miguel VIII Paleólogo, lida no concílio, cláusula sobre o Espírito Santo (Denzinger-Bannwart, n. 463). Cf. DH 853 (a conferir). Completa o trecho trinitário da parte VII.*
+*Concílio de Lyon II, 1274; profissão de fé do imperador Miguel VIII Paleólogo, lida no concílio, cláusula sobre o Espírito Santo (Denzinger-Bannwart, n. 463). Cf. DH 853 (a conferir). Completa o trecho trinitário da parte VII.*
 
 *Autoridade: ato de adesão, e não peça de magistério: o imperador subscreve a fórmula que a Sé romana lhe propusera (redigida sob Clemente IV, em 1267), e o concílio ecumênico recebe-a.*
 
@@ -4132,7 +4132,7 @@ Definimos, além disso, que a explicação daquelas palavras e do Filho foi líc
 
 <!-- ordem: 1742 -->
 
-*Linha de fonte: constituição de Bento XIV para os ítalo-gregos, 26 de maio de 1742, § I, «Da fé católica» (*Bullarium Benedicti XIV*, I, n. 57). O trecho sobre o símbolo não consta no DH, cujo recorte (DH 2522–2524) trata da confirmação.*
+*Constituição de Bento XIV para os ítalo-gregos, 26 de maio de 1742, § I, «Da fé católica» (*Bullarium Benedicti XIV*, I, n. 57). O trecho sobre o símbolo não consta no DH, cujo recorte (DH 2522–2524) trata da confirmação.*
 
 *Autoridade: constituição pontifícia, de caráter disciplinar, para os gregos e albaneses da Itália; aplica a definição de Florença (DH 1302) e a profissão de fé prescrita por Gregório XIII, e distingue o que se deve crer do que se deve recitar.*
 
@@ -4154,7 +4154,7 @@ Embora os gregos estejam obrigados a crer que o Espírito Santo procede também 
 
 <!-- ordem: 1910 -->
 
-*Linha de fonte: carta de Pio X aos delegados apostólicos do Oriente, 26 de dezembro de 1910; trechos (*Acta Apostolicae Sedis* 3 [1911], 117–121). Cf. DH 3553–3556.*
+*Carta de Pio X aos delegados apostólicos do Oriente, 26 de dezembro de 1910; trechos (*Acta Apostolicae Sedis* 3 [1911], 117–121). Cf. DH 3553–3556.*
 
 *Autoridade: carta papal doutrinal, magistério pontifício ordinário; reprova as proposições de um artigo de revista, sem forma de definição.*
 
@@ -4178,7 +4178,7 @@ Isto vos quisemos significar, Veneráveis Irmãos, não só para que saibais que
 
 <!-- ordem: 1964 -->
 
-*Linha de fonte: Concílio Vaticano II, decreto* Unitatis redintegratio, *21 de novembro de 1964, n. 17. Cf. DH 4185–4192 (o número exato do n. 17, a conferir).*
+*Concílio Vaticano II, decreto* Unitatis redintegratio, *21 de novembro de 1964, n. 17. Cf. DH 4185–4192 (o número exato do n. 17, a conferir).*
 
 *Autoridade: decreto de concílio ecumênico, aprovado pelo papa; magistério solene, de caráter pastoral e ecumênico (não define dogma).*
 
@@ -4198,7 +4198,7 @@ Este sagrado Sínodo, dando graças a Deus porque muitos filhos orientais da Igr
 
 <!-- ordem: 1992 -->
 
-*Linha de fonte: Catecismo da Igreja Católica, nn. 246–248 (1992; edição típica latina, 1997; traduzido do latim, sem as notas). Não consta no DH.*
+*Catecismo da Igreja Católica, nn. 246–248 (1992; edição típica latina, 1997; traduzido do latim, sem as notas). Não consta no DH.*
 
 *Autoridade: exposição oficial da doutrina católica, promulgada por João Paulo II; não é definição, e as citações que traz (Florença, Leão Magno, Lyon II, Vaticano II) têm a autoridade dos textos de origem.*
 
@@ -4280,7 +4280,7 @@ O Espírito não precede o Filho, porque o Filho caracteriza como Pai o Pai de q
 
 <!-- ordem: 2000 -->
 
-*Linha de fonte: declaração* Dominus Iesus *da Congregação para a Doutrina da Fé, 6 de agosto de 2000, n. 1; traduzido do italiano, língua do original, sem a nota. Cf. DH 5085–5089 (o n. 1, a conferir). O n. 12 está na parte VIII.*
+*Declaração* Dominus Iesus *da Congregação para a Doutrina da Fé, 6 de agosto de 2000, n. 1; traduzido do italiano, língua do original, sem a nota. Cf. DH 5085–5089 (o n. 1, a conferir). O n. 12 está na parte VIII.*
 
 *Autoridade: declaração de um dicastério, aprovada pelo papa João Paulo II em forma ordinária; magistério pontifício ordinário.*
 

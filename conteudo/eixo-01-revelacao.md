@@ -280,7 +280,7 @@ _Entre a primeira vinda e a manifestação gloriosa de Cristo não há outra rev
 
 <!-- ordem: 150 -->
 
-*Linha de fonte: *Carta a Diogneto*, séc. II, cap. 7, nn. 2–4 (grego).*
+**Carta a Diogneto*, séc. II, cap. 7, nn. 2–4 (grego).*
 
 *Autoridade: escrito cristão antigo, de autor desconhecido, citado pela *Dei Verbum*, n. 4; vale como testemunho patrístico, e não como definição.*
 
@@ -300,7 +300,7 @@ Terá sido, como algum homem poderia pensar, para a tirania, o medo e o terror? 
 
 <!-- ordem: 400 -->
 
-*Linha de fonte: Agostinho, *De catechizandis rudibus* (A instrução dos catecúmenos), c. 400, cap. 4, n. 8, final (latim; PL 40,315–316). Citado no proêmio da *Dei Verbum*, n. 1.*
+*Agostinho, *De catechizandis rudibus* (A instrução dos catecúmenos), c. 400, cap. 4, n. 8, final (latim; PL 40,315–316). Citado no proêmio da *Dei Verbum*, n. 1.*
 
 *Autoridade: Padre da Igreja; o texto vale como testemunho patrístico, e não como definição.*
 
@@ -318,7 +318,7 @@ Grande miséria é o homem soberbo; maior, porém, é a misericórdia de um Deus
 
 <!-- ordem: 1266 -->
 
-*Linha de fonte: Tomás de Aquino, *Summa theologiae*, I, q. 1, a. 1, corpo do artigo, c. 1266 (latim; edição Leonina).*
+*Tomás de Aquino, *Summa theologiae*, I, q. 1, a. 1, corpo do artigo, c. 1266 (latim; edição Leonina).*
 
 *Autoridade: doutor da Igreja; não é Padre. A *Dei Filius*, cap. 2 (DH 3005), aplica quase palavra por palavra este artigo, e a *Humani generis* 3 o retoma.*
 
@@ -338,7 +338,7 @@ Também quanto às coisas de Deus que a razão humana pode investigar foi necess
 
 <!-- ordem: 1580 -->
 
-*Linha de fonte: João da Cruz, *Subida do Monte Carmelo*, livro II, cap. 22, nn. 3–5 (recorte), c. 1580 (castelhano). Citado em parte pelo Catecismo, n. 65, e pela *Verbum Domini*, n. 14.*
+*João da Cruz, *Subida do Monte Carmelo*, livro II, cap. 22, nn. 3–5 (recorte), c. 1580 (castelhano). Citado em parte pelo Catecismo, n. 65, e pela *Verbum Domini*, n. 14.*
 
 *Autoridade: doutor da Igreja e místico; texto espiritual, sem autoridade definitória. Vale pelo uso que o Catecismo e a *Verbum Domini* fazem dele.*
 
@@ -1026,7 +1026,7 @@ _A palavra que sai da boca de Deus não volta a ele vazia: a eficácia da Palavr
 
 <!-- ordem: 180 -->
 
-*Linha de fonte: obra contra os gnósticos, c. 180, livro III, cap. 1, n. 1, e cap. 11, n. 8 (texto latino da antiga versão, conferido na edição de Harvey; o grego, nestes lugares, só em fragmentos; cf. SC 211). Não consta no DH.*
+*Obra contra os gnósticos, c. 180, livro III, cap. 1, n. 1, e cap. 11, n. 8 (texto latino da antiga versão, conferido na edição de Harvey; o grego, nestes lugares, só em fragmentos; cf. SC 211). Não consta no DH.*
 
 *Autoridade: Padre da Igreja, bispo de Lião; testemunho antigo da tradição, não ato do magistério.*
 
@@ -1076,7 +1076,7 @@ Ordem das Escrituras do Novo Testamento, que a santa Igreja católica romana rec
 
 <!-- ordem: 397 -->
 
-*Linha de fonte: escrito contra a Carta do Fundamento de Manés, 397, n. 5-6 (recorte: o argumento sobre a autoridade da Igreja e o Evangelho); texto latino em PL 42,176; CSEL 25/1,197. Não consta no DH.*
+*Escrito contra a Carta do Fundamento de Manés, 397, n. 5-6 (recorte: o argumento sobre a autoridade da Igreja e o Evangelho); texto latino em PL 42,176; CSEL 25/1,197. Não consta no DH.*
 
 *Autoridade: Padre e doutor da Igreja; a frase *Evangelio non crederem, nisi me catholicae Ecclesiae commoveret auctoritas* é citada literalmente pelo *Catecismo da Igreja Católica* 119.*
 
@@ -1090,7 +1090,7 @@ Talvez vás ler-me o Evangelho e dele tentes afirmar a pessoa de Manés. Ora, se
 
 <!-- ordem: 397 -->
 
-*Linha de fonte: tratado, 397, livro II, cap. 8, nn. 12–13; texto latino em PL 34,40–41; CCSL 32. Não consta no DH.*
+*Tratado, 397, livro II, cap. 8, nn. 12–13; texto latino em PL 34,40–41; CCSL 32. Não consta no DH.*
 
 *Autoridade: Padre e doutor da Igreja; a regra e a lista que dá são as que os concílios de Hipona (393) e de Cartago (397), de que Agostinho participou, aplicaram.*
 
@@ -1148,7 +1148,7 @@ _Anátema a quem disser que um é o Deus da Lei antiga e outro o dos Evangelhos,
 
 <!-- ordem: 401 -->
 
-*Linha de fonte: comentário ao Gênesis, 401–415, livro I, cap. 19, n. 39, e livro II, cap. 9, n. 20 (recorte: dois parágrafos); texto latino em PL 34,260–262 e 270; CSEL 28/1. Não consta no DH (citado em DH 3287–3288, a conferir).*
+*Comentário ao Gênesis, 401–415, livro I, cap. 19, n. 39, e livro II, cap. 9, n. 20 (recorte: dois parágrafos); texto latino em PL 34,260–262 e 270; CSEL 28/1. Não consta no DH (citado em DH 3287–3288, a conferir).*
 
 *Autoridade: Padre e doutor da Igreja; II,9,20 é citado literalmente pela *Providentissimus Deus* n. 18 e, em nota, pela *Dei Verbum* 11.*
 
@@ -1176,7 +1176,7 @@ Costuma-se também perguntar qual é a forma e a figura do céu que se deve crer
 
 <!-- ordem: 405 -->
 
-*Linha de fonte: carta de Agostinho a Jerônimo, c. 405, n. 3 (recorte: da profissão de fé na inerrância dos autores canônicos ao fim do período); texto latino em PL 33,277; CSEL 34/2,354. Não consta no DH (citada na *Providentissimus Deus* n. 21, cf. DH 3293, a conferir).*
+*Carta de Agostinho a Jerônimo, c. 405, n. 3 (recorte: da profissão de fé na inerrância dos autores canônicos ao fim do período); texto latino em PL 33,277; CSEL 34/2,354. Não consta no DH (citada na *Providentissimus Deus* n. 21, cf. DH 3293, a conferir).*
 
 *Autoridade: Padre e doutor da Igreja; texto citado literalmente pela *Providentissimus Deus* n. 21 e, em nota, pela *Dei Verbum* 11.*
 
@@ -1206,7 +1206,7 @@ Quanto ao mais, o que circula sob o nome de Matias ou de Tiago, o Menor, ou sob 
 
 <!-- ordem: 408 -->
 
-*Linha de fonte: comentário a Isaías, prólogo, parágrafo inicial, dirigido a Eustóquio, c. 408; texto latino em PL 24,17; CCSL 73,1. Não consta no DH.*
+*Comentário a Isaías, prólogo, parágrafo inicial, dirigido a Eustóquio, c. 408; texto latino em PL 24,17; CCSL 73,1. Não consta no DH.*
 
 *Autoridade: Padre e doutor da Igreja; a frase final foi citada literalmente pela *Dei Verbum* 25, e antes pela *Spiritus Paraclitus* e pela *Divino afflante Spiritu*.*
 
@@ -1220,7 +1220,7 @@ Terminados enfim, depois de longo tempo, os vinte livros de explicações sobre 
 
 <!-- ordem: 419 -->
 
-*Linha de fonte: questões sobre o Heptateuco, c. 419, livro II, questão 73 (sobre Ex 20,19); texto latino em PL 34,623; CCSL 33. Não consta no DH.*
+*Questões sobre o Heptateuco, c. 419, livro II, questão 73 (sobre Ex 20,19); texto latino em PL 34,623; CCSL 33. Não consta no DH.*
 
 *Autoridade: Padre e doutor da Igreja; a frase sobre o Novo oculto no Antigo é citada literalmente pela *Dei Verbum* 16.*
 
@@ -1238,7 +1238,7 @@ Fala tu a nós, e que não nos fale Deus, para que não morramos. Isto indica co
 
 <!-- ordem: 420 -->
 
-*Linha de fonte: tratado, c. 420, livro XVII, cap. 6 (recorte: o fim do capítulo, sobre 1Sm 13,14); texto latino em PL 41,537; CCSL 48. Não consta no DH.*
+*Tratado, c. 420, livro XVII, cap. 6 (recorte: o fim do capítulo, sobre 1Sm 13,14); texto latino em PL 41,537; CCSL 48. Não consta no DH.*
 
 *Autoridade: Padre e doutor da Igreja; a frase *per hominem more hominum loquitur* é citada literalmente pela *Dei Verbum* 12.*
 
@@ -1286,7 +1286,7 @@ V. Tudo o mais que foi escrito ou pregado por hereges ou cismáticos, de modo al
 
 <!-- ordem: 595 -->
 
-*Linha de fonte: obra exegética, c. 595, prefácio, cap. 1, n. 2 (PL 75,517; texto latino da edição beneditina, conferido com a citação da *Providentissimus Deus*). Não consta no DH; é citado literalmente pela *Providentissimus Deus* (cf. DH 3293, a conferir).*
+*Obra exegética, c. 595, prefácio, cap. 1, n. 2 (PL 75,517; texto latino da edição beneditina, conferido com a citação da *Providentissimus Deus*). Não consta no DH; é citado literalmente pela *Providentissimus Deus* (cf. DH 3293, a conferir).*
 
 *Autoridade: Padre da Igreja, papa e doutor; testemunho da tradição, não ato do magistério.*
 
@@ -1332,7 +1332,7 @@ Cremos também que o autor do Novo e do Antigo Testamento, da Lei, dos Profetas 
 
 <!-- ordem: 1266 -->
 
-*Linha de fonte: obra teológica, c. 1266, primeira parte, questão 1, artigo 10: o corpo do artigo e a resposta à primeira objeção (latim; corpusthomisticum.org). Não consta no DH.*
+*Obra teológica, c. 1266, primeira parte, questão 1, artigo 10: o corpo do artigo e a resposta à primeira objeção (latim; corpusthomisticum.org). Não consta no DH.*
 
 *Autoridade: doutor da Igreja; teólogo medieval, não Padre; citado pela *Divino afflante Spiritu* e à letra pelo Catecismo (n. 116).*
 
@@ -2547,7 +2547,7 @@ E se, na própria antiguidade, se descobrir o erro de dois ou três homens, ou m
 
 <!-- ordem: 180 -->
 
-*Linha de fonte: Irineu de Lião, *Adversus haereses* (Contra as heresias) III,4,1–2, c. 180; recorte do início do capítulo até o elogio dos povos bárbaros que creem sem letras. Latim da antiga versão latina (o grego se perdeu); cf. SC 211.*
+*Irineu de Lião, *Adversus haereses* (Contra as heresias) III,4,1–2, c. 180; recorte do início do capítulo até o elogio dos povos bárbaros que creem sem letras. Latim da antiga versão latina (o grego se perdeu); cf. SC 211.*
 
 *Autoridade: Padre da Igreja; o texto vale como testemunho patrístico, e não como definição. Não consta no DH.*
 
@@ -2567,7 +2567,7 @@ _Os apóstolos depositaram na Igreja toda a verdade; e, ainda que não tivessem 
 
 <!-- ordem: 181 -->
 
-*Linha de fonte: Irineu de Lião, *Adversus haereses* I,10,2 e III,24,1, c. 180. I,10,2: texto grego conservado em Epifânio, conferido com a antiga versão latina (cf. SC 264); só o § 2, sem a regra de fé do § 1. III,24,1: antiga versão latina (o grego se perdeu; cf. SC 211), do início do período até a «escada da ascensão a Deus».*
+*Irineu de Lião, *Adversus haereses* I,10,2 e III,24,1, c. 180. I,10,2: texto grego conservado em Epifânio, conferido com a antiga versão latina (cf. SC 264); só o § 2, sem a regra de fé do § 1. III,24,1: antiga versão latina (o grego se perdeu; cf. SC 211), do início do período até a «escada da ascensão a Deus».*
 
 *Autoridade: Padre da Igreja; o texto vale como testemunho patrístico, e não como definição. Citados literalmente pelo* Catecismo da Igreja Católica *nn. 173–175. Não constam no DH.*
 
@@ -2591,7 +2591,7 @@ A pregação da Igreja, porém, que por toda parte se mantém firme e permanece 
 
 <!-- ordem: 225 -->
 
-*Linha de fonte: Orígenes, *De principiis* (Sobre os princípios) I, prefácio, 2, c. 225; só o final do parágrafo. Latim da tradução de Rufino (c. 398), única forma em que o texto se conserva; cf. SC 252. Não consta no DH.*
+*Orígenes, *De principiis* (Sobre os princípios) I, prefácio, 2, c. 225; só o final do parágrafo. Latim da tradução de Rufino (c. 398), única forma em que o texto se conserva; cf. SC 252. Não consta no DH.*
 
 *Autoridade: teólogo e exegeta antigo, que não é Padre da Igreja no sentido estrito, e algumas de cujas doutrinas foram depois condenadas; o texto vale como testemunho da regra da fé no séc. III, e não como definição.*
 
@@ -2609,7 +2609,7 @@ Pois, assim como, prometendo muitos entre os gregos e os bárbaros a verdade, de
 
 <!-- ordem: 256 -->
 
-*Linha de fonte: Estêvão I, carta a Cipriano de Cartago sobre o batismo dos hereges (fragmento), 256, conservado por Cipriano, *Epístola* 74,1 (CSEL 3/2,799); latim, na forma dada pelo DH. Cf. DH 110.*
+*Estêvão I, carta a Cipriano de Cartago sobre o batismo dos hereges (fragmento), 256, conservado por Cipriano, *Epístola* 74,1 (CSEL 3/2,799); latim, na forma dada pelo DH. Cf. DH 110.*
 
 *Autoridade: carta de um papa, sem definição solene, em questão de prática batismal; a prática que ele defendia prevaleceu na Igreja, e a frase passou a ser invocada como princípio geral (Vicente de Lérins, *Commonitorium* 6; Bento XV, *Ad beatissimi*, DH 3626).*
 
@@ -2623,7 +2623,7 @@ Se, portanto, alguns vierem a vós de qualquer heresia, nada se inove senão o q
 
 <!-- ordem: 400 -->
 
-*Linha de fonte: João Crisóstomo, *Homilias sobre a segunda carta aos Tessalonicenses*, hom. 4, n. 2, sobre 2Ts 2,15, c. 400; grego (PG 62,488). Não consta no DH.*
+*João Crisóstomo, *Homilias sobre a segunda carta aos Tessalonicenses*, hom. 4, n. 2, sobre 2Ts 2,15, c. 400; grego (PG 62,488). Não consta no DH.*
 
 *Autoridade: Padre e doutor da Igreja; o texto vale como testemunho patrístico, e não como definição.*
 
@@ -2659,7 +2659,7 @@ Além destas invioláveis sanções da beatíssima Sé Apostólica, pelas quais 
 
 <!-- ordem: 553 -->
 
-*Linha de fonte: Concílio de Constantinopla II (quinto ecumênico), sessão (*collatio*) VIII, 2 de junho de 553, sentença contra os Três Capítulos, parte inicial (a profissão de fé que precede o exame dos Três Capítulos), antes dos anátemas. Latim da versão conservada; o grego se perdeu em grande parte. Cf. DH 421–438 (os anátemas da mesma sessão; este trecho não está no excerto do DH).*
+*Concílio de Constantinopla II (quinto ecumênico), sessão (*collatio*) VIII, 2 de junho de 553, sentença contra os Três Capítulos, parte inicial (a profissão de fé que precede o exame dos Três Capítulos), antes dos anátemas. Latim da versão conservada; o grego se perdeu em grande parte. Cf. DH 421–438 (os anátemas da mesma sessão; este trecho não está no excerto do DH).*
 
 *Autoridade: concílio ecumênico; a profissão é a declaração de fé com que o concílio abre a sua sentença.*
 
@@ -2677,7 +2677,7 @@ E os que, em seu tempo, foram condenados ou anatematizados pela Igreja católica
 
 <!-- ordem: 649 -->
 
-*Linha de fonte: Concílio de Latrão (sínodo romano presidido por Martinho I), cânones 17–20, 31 de outubro de 649; latim, na forma dada pelo DH (o texto se conserva também em grego). Cf. DH 517–522.*
+*Concílio de Latrão (sínodo romano presidido por Martinho I), cânones 17–20, 31 de outubro de 649; latim, na forma dada pelo DH (o texto se conserva também em grego). Cf. DH 517–522.*
 
 *Autoridade: sínodo romano, e não ecumênico, presidido por Martinho I e reunido contra o monotelismo; a sua doutrina foi recebida por Constantinopla III (680–681).*
 
@@ -2713,7 +2713,7 @@ Se alguém, à maneira dos celerados hereges, de qualquer modo removendo ilicita
 
 <!-- ordem: 680 -->
 
-*Linha de fonte: Agatão, carta aos imperadores *Consideranti mihi*, 27 de março de 680 (a primeira das duas cartas do mesmo dia; a outra é a carta sinodal *Omnium bonorum spes*), lida e aprovada na sessão 4 de Constantinopla III, 15 de novembro de 680; recorte de um só período, que está no texto da carta, mas não no excerto do DH 542–545. Latim (Mansi 11, ato IV; PL 87,1161ss).*
+*Agatão, carta aos imperadores *Consideranti mihi*, 27 de março de 680 (a primeira das duas cartas do mesmo dia; a outra é a carta sinodal *Omnium bonorum spes*), lida e aprovada na sessão 4 de Constantinopla III, 15 de novembro de 680; recorte de um só período, que está no texto da carta, mas não no excerto do DH 542–545. Latim (Mansi 11, ato IV; PL 87,1161ss).*
 
 *Autoridade: carta de um papa, lida em concílio ecumênico e por ele acolhida (Constantinopla III a recebeu como expressão da fé de Pedro).*
 
@@ -5093,7 +5093,7 @@ _Se não crerdes, não entendereis: o versículo, na forma grega e latina antiga
 
 <!-- ordem: 155 -->
 
-*Linha de fonte: obras de Justino, mártir, escritas em Roma por volta de 155; Apologia II, 10,1–3 e 13, e Diálogo com Trifão 8,1. Grego. Não consta no DH.*
+*Obras de Justino, mártir, escritas em Roma por volta de 155; Apologia II, 10,1–3 e 13, e Diálogo com Trifão 8,1. Grego. Não consta no DH.*
 
 *Autoridade: texto patrístico, sem autoridade magisterial própria; o Diálogo 8,1 é citado à letra pela Fides et ratio 38, e as sementes do Verbo voltam na Ad gentes 11 e na Lumen gentium 17.*
 
@@ -5121,7 +5121,7 @@ Tendo dito isto e muitas outras coisas, que agora não é tempo de referir, aque
 
 <!-- ordem: 200 -->
 
-*Linha de fonte: obra de Clemente de Alexandria, escrita por volta de 200; Stromata I,5,28 e I,20,100,1. Grego. Não consta no DH.*
+*Obra de Clemente de Alexandria, escrita por volta de 200; Stromata I,5,28 e I,20,100,1. Grego. Não consta no DH.*
 
 *Autoridade: texto patrístico, sem autoridade magisterial própria; I,20,100 é citado à letra pela Fides et ratio 38.*
 
@@ -5145,7 +5145,7 @@ O ensinamento segundo o Salvador é, pois, perfeito em si e de nada necessita, s
 
 <!-- ordem: 200 -->
 
-*Linha de fonte: obra de Tertuliano, escrita em Cartago por volta de 200; capítulo 7 inteiro. Latim. Não consta no DH.*
+*Obra de Tertuliano, escrita em Cartago por volta de 200; capítulo 7 inteiro. Latim. Não consta no DH.*
 
 *Autoridade: texto patrístico, sem autoridade magisterial própria. Tertuliano rompeu mais tarde com a Igreja, mas este livro é anterior à ruptura; a frase sobre Atenas e Jerusalém é citada à letra pela Fides et ratio 41.*
 
@@ -5187,7 +5187,7 @@ _Aqui a voz é a contrária à que a parte ensina: Tertuliano rejeita a filosofi
 
 <!-- ordem: 400 -->
 
-*Linha de fonte: sermão de Agostinho, por volta de 400; nn. 4 e 7–9 (omitidos os nn. 5–6, sobre Pedro e o pescador). Latim (CCSL 41,508–512; PL 38,254–258). Não consta no DH.*
+*Sermão de Agostinho, por volta de 400; nn. 4 e 7–9 (omitidos os nn. 5–6, sobre Pedro e o pescador). Latim (CCSL 41,508–512; PL 38,254–258). Não consta no DH.*
 
 *Autoridade: texto de um Padre e Doutor da Igreja; a fórmula central é citada à letra pelo Catecismo da Igreja Católica, n. 158, e dá título aos capítulos II e III da Fides et ratio.*
 
