@@ -92,7 +92,7 @@ A resposta: quem é o Redentor, e o que ele fez.
 | VIII. A redenção | sacrifício, satisfação, mérito; morreu por todos; único mediador: Is 53; Rm 3,21–26; Hb 9–10; 1Tm 2,5–6; Quiercy; Trento VI, cap. 7; *Cum occasione* 5; *Gaudium et spes* 22; *Redemptor hominis*; *Dominus Iesus* 13–15 |
 | IX. Descida à mansão dos mortos, ressurreição e ascensão | os símbolos; 1Cor 15,3–8; 1Pd 3,18–19; Sens contra Abelardo; Latrão IV; *Lamentabili* 36–37 |
 
-**Sobre a sua sugestão.** A *parusia* ficou no eixo 12, onde faz corpo com a ressurreição e o juízo; aqui o mistério de Cristo termina na ascensão e no *sentado à direita do Pai*. As *outras definições dogmáticas* desdobraram-se nas partes II a VII, que seguem a ordem dos concílios: cada uma é uma controvérsia encerrada.
+**Sobre a sua sugestão.** A *parusia* ficou no eixo 11 (parte V), onde faz corpo com a ressurreição e o juízo; aqui o mistério de Cristo termina na ascensão e no *sentado à direita do Pai*. As *outras definições dogmáticas* desdobraram-se nas partes II a VII, que seguem a ordem dos concílios: cada uma é uma controvérsia encerrada.
 
 **Em avaliação como parte:** *a realeza de Cristo* (*Quas primas*, 1925). É doutrinal, mas toca a doutrina social, que o critério 2.2 exclui.
 
@@ -229,38 +229,22 @@ Como o homem justificado age.
 
 ---
 
-## Eixo 11 — Depois da morte *(hoje: Escatologia intermédia)*
+## Eixo 11 — Escatologia
 
-O que acontece a cada um entre a morte e a ressurreição.
-
-**O que é este eixo.** A fé antiga pensava o fim sobretudo como fim de todos: Cristo volta, os mortos ressuscitam, vem o juízo. Ficava uma pergunta: e até lá? Onde estão agora os que morreram? Dormem? Esperam? Já veem a Deus? No século XIV o papa João XXII pregou, como opinião, que as almas dos justos só teriam a visão de Deus depois do juízo final; o sucessor, Bento XII, definiu o contrário na *Benedictus Deus* (1336): *logo depois da morte* as almas vão para o céu, para o purgatório ou para o inferno. É este *logo depois* que o nome técnico — escatologia intermédia — designa. É também o terreno em que a doutrina católica mais se distingue: o purgatório e os sufrágios foram contestados pelos orientais e pelos reformadores, e a sobrevivência consciente da alma, por parte da teologia do século XX (daí a carta da CDF de 1979).
+O que acontece a cada um depois da morte, e o fim de todos: Cristo volta, os mortos ressuscitam, o mundo é julgado e renovado. Fusão dos antigos eixos 11 e 12, por decisão do editor (2026-11-22): céu e inferno aparecem uma só vez, depois do juízo, e os textos que falam dos novíssimos em conjunto não se cortam entre eixos.
 
 | Parte | Recolhe |
 |---|---|
-| I. A morte, fim da peregrinação | morre-se uma só vez; com a morte acaba o tempo de merecer: Hb 9,27; Jo 9,4; *Exsurge Domine* 38; *Lumen gentium* 48; a alma subsiste (*Recentiores episcoporum synodi*, 1979) |
-| II. O juízo particular e a retribuição imediata | Lc 16,19–31; Lc 23,43; 2Cor 5,6–10; Fl 1,21–23; Lyon II; *Benedictus Deus*; Florença, *Laetentur caeli* |
-| III. O céu: a visão de Deus | 1Cor 13,12; 1Jo 3,2; Ap 22,4; *Benedictus Deus*; Vienne (a luz da glória); Florença (*pro meritorum diversitate*) |
-| IV. O purgatório e os sufrágios | 2Mc 12,39–46; 1Cor 3,10–15; Inocêncio IV (1254); Lyon II; Clemente VI; Florença; *Exsurge Domine* 37–40; Trento VI, cân. 30; Trento XXII, cap. 2; Trento XXV; *Spe salvi* 45–48 |
-| V. O inferno | Mt 25,41; Mc 9,43–48; Lc 16,26; *Quicumque*; *Benedictus Deus*; as penas desiguais (Lyon II; Florença) |
-| VI. As crianças mortas sem batismo *(em avaliação)* | Inocêncio III, *Maiores Ecclesiae*; Lyon II e Florença; *Auctorem fidei* 26; o documento da Comissão Teológica Internacional (2007), que não é magistério |
-
----
-
-## Eixo 12 — A consumação *(hoje: Escatologia final)*
-
-O fim de todos e de tudo: Cristo volta, os mortos ressuscitam, o mundo é julgado e renovado.
-
-| Parte | Recolhe |
-|---|---|
-| I. A vinda gloriosa de Cristo | Mt 24–25; At 1,11; 1Ts 4,13–18; 2Ts 2,1–12; os símbolos (*de novo há de vir*); o milenarismo (Santo Ofício, 1944) |
-| II. A ressurreição da carne | Dn 12,2; Jo 5,28–29; 1Cor 15,12–58; *Fides Damasi*; *Quicumque*; Toledo XI; Latrão IV (*com os próprios corpos que agora têm*); contra Orígenes (543); a CDF (1979; 1983) |
-| III. O juízo final | Mt 25,31–46; Ap 20,11–15; os símbolos; *Benedictus Deus*, parágrafo final |
-| IV. A vida eterna e a morte eterna | o estado definitivo; a eternidade do inferno, contra a apocatástase: Mt 25,46; Constantinopla (543), cân. 9; Latrão IV; Credo do Povo de Deus 12 |
-| V. Novos céus e nova terra | Is 65,17; Rm 8,19–23; 2Pd 3,10–13; Ap 21,1–5; *Lumen gentium* 48; *Gaudium et spes* 39 |
-
-**Onde pôr o céu, o purgatório e o inferno.** Na sua lista os três estavam no eixo 12. O **purgatório** só pode estar no 11: é por definição intermédio, acaba no juízo final. Para o **céu e o inferno**, que começam logo depois da morte e nunca acabam, proponho dividir pelo que o texto afirma: se diz que a retribuição começa *logo depois da morte* (*Benedictus Deus*, Lyon II, Florença), eixo 11; se fala da retribuição que se segue à ressurreição e ao juízo de todos, e da sua eternidade (Latrão IV, o anátema contra a apocatástase), eixo 12. Os textos dividem-se assim sem violência, porque foram escritos para responder a uma pergunta ou à outra.
-
-**Alternativa.** Fundir os dois num só eixo *Escatologia*, com nove ou dez partes. Evita a repartição do céu e do inferno, mas perde a nitidez que a separação dá ao eixo 11, que é justamente o das definições católicas mais características. Recomendo manter os dois.
+| I. A morte | morre-se uma só vez; com a morte acaba o tempo de merecer: Hb 9,27; Jo 9,4; *Exsurge Domine* 38; *Lumen gentium* 48; a alma subsiste (*Recentiores episcoporum synodi*, 1979) |
+| II. A retribuição logo depois da morte | Lc 16,19–31; Lc 23,43; 2Cor 5,6–10; Fl 1,21–23; Lyon II; *Benedictus Deus*; Florença, *Laetentur caeli* |
+| III. O purgatório e os sufrágios | 2Mc 12,39–46; 1Cor 3,10–15; Inocêncio IV (1254); Lyon II; Clemente VI; Florença; *Exsurge Domine* 37–40; Trento VI, XXII e XXV; *Spe salvi* 45–48 |
+| IV. As crianças mortas sem batismo *(em avaliação)* | Inocêncio III, *Maiores Ecclesiae*; Lyon II e Florença; *Auctorem fidei* 26; a Comissão Teológica Internacional (2007), que não é magistério |
+| V. A vinda gloriosa de Cristo | Mt 24–25; At 1,11; 1Ts 4,13–18; 2Ts 2,1–12; os símbolos; o milenarismo (Santo Ofício, 1944) |
+| VI. A ressurreição da carne | Dn 12,2; Jo 5,28–29; 1Cor 15,12–58; *Fides Damasi*; *Quicumque*; Toledo XI; Latrão IV; contra Orígenes (543); a CDF (1979; 1983) |
+| VII. O juízo final | Mt 25,31–46; Ap 20,11–15; os símbolos; *Benedictus Deus*, parágrafo final; *Spe salvi* 41–44 |
+| VIII. O céu: a visão de Deus e a vida eterna | 1Cor 13,12; 1Jo 3,2; Ap 22,4; *Benedictus Deus*; Vienne (a luz da glória); Florença; Agostinho, *De civitate Dei* XXII,30 |
+| IX. O inferno e a sua eternidade | Mt 25,41.46; Mc 9,43–48; 2Ts 1,9; as penas desiguais (Lyon II; Florença); a eternidade, contra a apocatástase: Constantinopla (543), cân. 9; Latrão IV; Credo do Povo de Deus 12 |
+| X. Novos céus e nova terra | Is 65,17; Rm 8,19–23; 2Pd 3,10–13; Ap 21,1–5; *Lumen gentium* 48; *Gaudium et spes* 39 |
 
 ---
 

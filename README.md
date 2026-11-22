@@ -20,7 +20,7 @@ Cada eixo divide-se em partes temáticas, e cada parte tem o seu índice. Cada t
 | 8 — Autoridade | 7 partes, 186 trechos (94 em avaliação) |
 | 9 — Sacramentos | 11 partes, 407 trechos (196 em avaliação) |
 | 10 — Lei e moral | 9 partes, 239 trechos (141 em avaliação) |
-| 11, 12 | a fazer |
+| 11 — Escatologia | 10 partes, 184 trechos (101 em avaliação) |
 
 Os critérios de seleção e de tradução estão em [`conteudo/criterios-selecao.md`](conteudo/criterios-selecao.md) e publicados em `criterios.html`.
 

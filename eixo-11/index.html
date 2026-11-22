@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Eixo 11 — Escatologia — Magistério temático</title>
+<meta name="description" content="O que acontece a cada um depois da morte, e o fim de todos: Cristo volta, os mortos ressuscitam, o mundo é julgado e renovado.">
+<meta name="theme-color" content="#131110">
+<script>try{if(localStorage.getItem('tema')==='claro')document.documentElement.setAttribute('data-tema','claro')}catch(e){}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../assets/style.css?v=de50a3f2">
+</head>
+<body class="pg-indice pg-eixo">
+<header class="topo">
+  <a class="marca" href="../index.html">Magistério temático</a>
+  <nav>
+    <a class="crit" href="../criterios.html">Critérios</a>
+    <button class="tema" type="button" aria-label="Alternar tema claro e escuro">
+      <svg viewBox="0 0 16 16" aria-hidden="true" focusable="false">
+        <path class="lua" d="M13.4 10.3A5.6 5.6 0 0 1 5.7 2.6a5.9 5.9 0 1 0 7.7 7.7z"/>
+        <g class="sol">
+          <circle cx="8" cy="8" r="3"/>
+          <path d="M8 .8v2M8 13.2v2M.8 8h2M13.2 8h2M2.9 2.9l1.4 1.4M11.7 11.7l1.4 1.4M13.1 2.9l-1.4 1.4M4.3 11.7l-1.4 1.4"/>
+        </g>
+      </svg>
+    </button>
+  </nav>
+</header>
+<main>
+<h1>Eixo 11 — Escatologia</h1>
+<p class="resumo">O que acontece a cada um depois da morte, e o fim de todos: Cristo volta, os mortos ressuscitam, o mundo é julgado e renovado.</p>
+<div class="eixos partes">
+<a class="cartao" href="parte-01.html"><em class="num">Parte I</em><b>A morte</b><span>Morre-se uma só vez, e com a morte acaba o tempo de merecer.</span><em>17 trechos · 11 em avaliação</em></a>
+<a class="cartao" href="parte-02.html"><em class="num">Parte II</em><b>A retribuição logo depois da morte</b><span>O juízo de cada um, e a retribuição que começa logo depois da morte.</span><em>22 trechos · 9 em avaliação</em></a>
+<a class="cartao" href="parte-03.html"><em class="num">Parte III</em><b>O purgatório e os sufrágios</b><span>A purificação depois da morte, e o socorro dos vivos aos defuntos.</span><em>24 trechos · 13 em avaliação</em></a>
+<a class="cartao" href="parte-04.html"><em class="num">Parte IV</em><b>As crianças mortas sem batismo</b><span>Parte em avaliação: o que a Igreja ensina, e o que não definiu.</span><em>9 trechos · 8 em avaliação</em></a>
+<a class="cartao" href="parte-05.html"><em class="num">Parte V</em><b>A vinda gloriosa de Cristo</b><span>Há de vir com glória julgar os vivos e os mortos.</span><em>17 trechos · 6 em avaliação</em></a>
+<a class="cartao" href="parte-06.html"><em class="num">Parte VI</em><b>A ressurreição da carne</b><span>Todos ressuscitarão com os próprios corpos que agora têm.</span><em>33 trechos · 16 em avaliação</em></a>
+<a class="cartao" href="parte-07.html"><em class="num">Parte VII</em><b>O juízo final</b><span>O juízo de todos, no último dia.</span><em>15 trechos · 8 em avaliação</em></a>
+<a class="cartao" href="parte-08.html"><em class="num">Parte VIII</em><b>O céu: a visão de Deus e a vida eterna</b><span>Os justos veem a Deus face a face, para sempre.</span><em>18 trechos · 13 em avaliação</em></a>
+<a class="cartao" href="parte-09.html"><em class="num">Parte IX</em><b>O inferno e a sua eternidade</b><span>A pena dos que morrem em pecado mortal, e a sua eternidade.</span><em>15 trechos · 9 em avaliação</em></a>
+<a class="cartao" href="parte-10.html"><em class="num">Parte X</em><b>Novos céus e nova terra</b><span>A renovação do mundo.</span><em>14 trechos · 8 em avaliação</em></a>
+</div>
+</main>
+<footer class="rodape">
+  <a href="../index.html">Índice geral</a> &middot;
+  <a href="https://github.com/gereneto/magisterio-tematico">Repositório</a>
+</footer>
+<script>
+document.querySelector('.tema').addEventListener('click',function(){
+  var r=document.documentElement,
+      claro=r.getAttribute('data-tema')==='claro';
+  if(claro){r.removeAttribute('data-tema')}else{r.setAttribute('data-tema','claro')}
+  try{localStorage.setItem('tema',claro?'escuro':'claro')}catch(e){}
+});
+</script>
+</body>
+</html>

@@ -1,5 +1,7 @@
 # Eixo 11 — Depois da morte: candidatos
 
+> Fundido em 2026-11-22 no eixo 11, Escatologia. A fonte dos lotes é `eixo-11-escatologia-candidatos.md`; este arquivo fica como registro.
+
 Levantamento da fase 2. Nada aqui está traduzido. Convenções:
 
 - Nas fichas da Escritura omitem-se as linhas **DH** e **Língua** (grego, salvo indicação; 2Mc e Sb, grego da Septuaginta). O critério é sempre o 3, e a justificação diz que documento cita a passagem.

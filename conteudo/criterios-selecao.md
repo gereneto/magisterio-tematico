@@ -85,7 +85,7 @@ De qualquer modo, podem entrar todos os trechos que auxiliem na compreensão da 
 
 ## 4. Organização
 
-### 4.1. Doze eixos temáticos
+### 4.1. Onze eixos temáticos
 
 A ordem entre os eixos é **sistemática**, não histórica — segue a estrutura da própria fé, e coincide com a ordem do Catecismo e dos símbolos.
 
@@ -99,8 +99,7 @@ A ordem entre os eixos é **sistemática**, não histórica — segue a estrutur
 8. **Autoridade** — estrutura e magistério; serve o que a precede
 9. **Sacramentos** — por que meios a graça é dada
 10. **Lei e moral** — como o homem justificado age; segue-se da graça e dos sacramentos
-11. **Escatologia intermédia** — estado das almas antes da ressurreição
-12. **Escatologia final** — ressurreição, parusia, juízo
+11. **Escatologia** — a morte e o estado das almas; parusia, ressurreição, juízo, céu e inferno
 
 (Esse é o ponto de partida, poderei desmembrar esses eixos ou criar novos eixos ao longo do projeto)
 

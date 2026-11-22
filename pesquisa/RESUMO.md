@@ -39,7 +39,7 @@ Treze levantamentos, um por eixo (o eixo 9 em dois arquivos). Cada arquivo traz,
 | 8 | A regra de fronteira com o eixo 1 sustenta-se; a parte VII existe, pequena, com o nome *A Igreja e o poder civil*; na V, uma subseção *Papa e concílio* | aceitar |
 | 9 | Renomear a IV (*A eucaristia: o sacramento e a presença real*), para receber matéria e forma; a eucaristia soma quase tanto quanto batismo, confirmação e sacramentos em geral juntos — candidata a eixo próprio; seções internas nas partes VII, X e XI | aceitar; eixo próprio só se o índice pesar |
 | 10 | Divisão por mandamento inviável (5.º: 19 fichas; 6.º: 11; 4.º, 9.º e 10.º: nenhuma) — em troca, um índice por mandamento no fim do eixo; dividir a VI em *Não matarás* e *O início e o fim da vida*; reunir os casos de fronteira com a doutrina social numa parte final, a decidir em bloco | aceitar |
-| 11–12 | **Fundir num só eixo *Escatologia*, com dez partes**; o céu e o inferno aparecem uma só vez, depois do juízo. Segunda opção: manter dois eixos, levando céu e inferno inteiros para o 12 | fundir |
+| 11–12 | **Fundir num só eixo *Escatologia*, com dez partes**; o céu e o inferno aparecem uma só vez, depois do juízo. Segunda opção: manter dois eixos, levando céu e inferno inteiros para o 12 | **fundido** (decisão do editor, 2026-11-22) |
 
 ## 3. Decisões de critério que se repetem em todos os eixos
 

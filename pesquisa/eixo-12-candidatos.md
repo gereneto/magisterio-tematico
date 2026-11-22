@@ -1,5 +1,7 @@
 # Eixo 12 — A consumação: candidatos
 
+> Fundido em 2026-11-22 no eixo 11, Escatologia. A fonte dos lotes é `eixo-11-escatologia-candidatos.md`; este arquivo fica como registro.
+
 Levantamento da fase 2. Nada aqui está traduzido, salvo indicação. Convenções iguais às do arquivo do eixo 11:
 
 - Nas fichas da Escritura omitem-se as linhas **DH** e **Língua** (grego, salvo indicação; hebraico/aramaico para Is e Dn; grego da Septuaginta para 2Mc). O critério é sempre o 3.
