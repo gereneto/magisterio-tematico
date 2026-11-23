@@ -1682,7 +1682,7 @@ _O fogo eterno foi preparado para o diabo e os seus anjos: a queda dos demônios
 
 > **Por que entrar.** Diz que a condenação dos demônios é definitiva, e está por trás de Latrão IV (DH 801) e do anatematismo 9 do sínodo de 543.
 >
-> **Por que não.** Pertence à escatologia: o plano põe o versículo nos eixos 11 e 12, e a ficha propunha aqui só uma remissão.
+> **Por que não.** Pertence à escatologia: o plano põe o versículo no eixo 12, e a ficha propunha aqui só uma remissão.
 
 **41** Depois dirá também aos que estiverem à esquerda: Afastai-vos de mim, malditos, para o fogo eterno, preparado para o diabo e os seus anjos.
 
@@ -2894,7 +2894,7 @@ _Contra quem punha em dúvida a existência da alma, a Igreja afirma que depois 
 
 > **Por que entrar.** É o único texto recente do magistério que defende expressamente a noção e a própria palavra alma, e o faz em termos que servem à antropologia desta parte.
 >
-> **Por que não.** A pergunta a que a carta responde é escatológica, e o plano a põe no eixo 11, parte I.
+> **Por que não.** A pergunta a que a carta responde é escatológica, e o plano a põe no eixo 12, parte I.
 
 Esta Sagrada Congregação, a quem compete promover e defender a doutrina da fé, propõe-se aqui recordar o que a Igreja ensina em nome de Cristo, particularmente sobre o que se passa entre a morte do cristão e a ressurreição universal.
 
@@ -4144,7 +4144,7 @@ _Não há, no reino dos céus nem em parte alguma, um lugar intermédio onde viv
 
 > **Por que entrar.** Mostra até onde os bispos africanos levaram a consequência do cân. 2, e é o texto antigo mais invocado na questão do destino das crianças mortas sem batismo.
 >
-> **Por que não.** A autenticidade e a transmissão são discutidas, e o assunto não é o pecado de Adão em si, mas a sorte dos que morrem só com ele, que pertence ao eixo 11, parte VI.
+> **Por que não.** A autenticidade e a transmissão são discutidas, e o assunto não é o pecado de Adão em si, mas a sorte dos que morrem só com ele, que pertence ao eixo 12, parte IV.
 
 Aprouve igualmente: quem disser que o Senhor disse: Na casa de meu Pai há muitas moradas, para que se entenda que no reino dos céus haverá algum lugar intermédio, ou algum lugar em qualquer outra parte, onde vivam felizes as crianças que saíram desta vida sem o batismo, sem o qual não podem entrar no reino dos céus, que é a vida eterna, seja anátema. Pois, dizendo o Senhor: Quem não renascer da água e do Espírito Santo não entrará no reino dos céus, que católico duvidará de que há de ter parte com o diabo aquele que não mereceu ser coerdeiro de Cristo? Porque quem não tem lugar à direita incorrerá, sem dúvida alguma, na parte esquerda.
 

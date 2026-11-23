@@ -3557,7 +3557,7 @@ _Conhecemos em parte, e agora vemos em espelho: todo conhecimento de fé é parc
 
 > **Por que entrar.** Dá a razão última de o dogma poder crescer: todo conhecimento de fé, nesta vida, é parcial.
 >
-> **Por que não.** O contraste do texto é entre esta vida e a outra, e não entre épocas da Igreja; o trecho já está previsto para o eixo 11 (parte III, a visão de Deus).
+> **Por que não.** O contraste do texto é entre esta vida e a outra, e não entre épocas da Igreja; o trecho já está previsto para o eixo 12 (parte VIII, a visão de Deus).
 
 **9** porque conhecemos em parte e profetizamos em parte.
 

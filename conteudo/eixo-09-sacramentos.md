@@ -4302,7 +4302,7 @@ _Consumado o sacrifício espiritual, o culto incruento, a Igreja reza sobre essa
 
 > **Por que entrar.** Traz no século IV os dois adjetivos com que Trento descreverá o sacrifício da missa, incruento e propiciatório, e a oferta pelos vivos e pelos defuntos que o cân. 3 da sessão XXII define.
 >
-> **Por que não.** É citado só pelo Catecismo, e depende por isso da decisão geral sobre o Catecismo como documento que cita; a oração pelos defuntos toca também o eixo 11, parte IV.
+> **Por que não.** É citado só pelo Catecismo, e depende por isso da decisão geral sobre o Catecismo como documento que cita; a oração pelos defuntos toca também o eixo 12, parte III.
 
 **8.** Depois, consumado o sacrifício espiritual, o culto incruento, sobre aquele sacrifício de propiciação suplicamos a Deus pela paz comum das Igrejas, pela tranquilidade do mundo, pelos imperadores, pelos soldados e aliados, pelos que estão doentes, pelos que sofrem tribulação; e, numa palavra, por todos os que precisam de socorro todos nós rogamos e oferecemos este sacrifício.
 
@@ -6504,7 +6504,7 @@ Todos e cada um dos sobreditos artigos ou erros, como, segundo se disse antes, r
 
 <!-- ordem: 1547 -->
 
-*Decreto sobre a justificação, sessão VI, 13 de janeiro de 1547. Capítulo 14, Dos que caíram e da sua reparação, e cânones 29 e 30. O decreto inteiro está no eixo 5; o cân. 30 é também do eixo 11. Cf. DH 1542–1543 e 1579–1580.*
+*Decreto sobre a justificação, sessão VI, 13 de janeiro de 1547. Capítulo 14, Dos que caíram e da sua reparação, e cânones 29 e 30. O decreto inteiro está no eixo 5; o cân. 30 é também do eixo 12. Cf. DH 1542–1543 e 1579–1580.*
 
 *Autoridade: concílio ecumênico. O capítulo expõe a doutrina; os cânones, com anátema, definem-na.*
 
@@ -7642,7 +7642,7 @@ _Judas Macabeu manda oferecer em Jerusalém um sacrifício pelos soldados mortos
 
 > **Por que entrar.** Sem este texto o leitor não entende a expressão por modo de sufrágio, que Sisto IV e a norma 3 da Indulgentiarum doctrina empregam para as indulgências aplicadas aos defuntos.
 >
-> **Por que não.** Nenhum documento sobre as indulgências o cita; é o lugar clássico do purgatório, que pertence ao eixo 11, parte IV, e daqui bastaria remeter para lá.
+> **Por que não.** Nenhum documento sobre as indulgências o cita; é o lugar clássico do purgatório, que pertence ao eixo 12, parte III, e daqui bastaria remeter para lá.
 
 **39** No dia seguinte, os homens de Judas foram, como era necessário, recolher os corpos dos que tinham caído, para sepultá-los com os seus parentes nos túmulos dos seus pais.
 

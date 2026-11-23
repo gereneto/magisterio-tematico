@@ -3,7 +3,7 @@
 Levantamento de 2026-11-23, a partir de `eixo-11-oracao-plano.md`. Nada aqui está traduzido. Enquanto este eixo não for publicado, «eixo 11» em `conteudo/` é a Escatologia, que depois passa a 12.
 
 - Nas fichas da Escritura omitem-se as linhas **DH** e **Língua**. «A conferir» = não verificado.
-- Texto já publicado fica onde está; aqui, remissão ou recorte próprio, como a ficha disser.
+- Texto já publicado fica onde está. O que trata de oração repete-se aqui, mesmo onde a ficha diz «só remissão» (decisão do editor, 2026-11-23). Para traduzir, valem as regras e a tabela de `trabalho/TRADUCAO-ORACAO.md`.
 
 ---
 
@@ -703,7 +703,7 @@ Jesus ensinou a orar com palavras suas; a Igreja vê nelas o resumo do Evangelho
 
 ---
 
-## Parte V — A oração da Igreja
+## Parte V — A oração da Igreja: a Liturgia das Horas e o canto
 
 A Igreja, corpo de Cristo, ora sem cessar com a voz do seu Esposo: a Liturgia das Horas, os salmos, o hino, o canto.
 

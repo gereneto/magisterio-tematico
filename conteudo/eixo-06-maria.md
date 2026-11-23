@@ -2410,7 +2410,7 @@ Entretanto, assim como no céu a Mãe de Jesus, já glorificada em corpo e alma,
 
 *Carta a todos os bispos sobre algumas questões referentes à escatologia, 17 de maio de 1979, aprovada por João Paulo II. A frase com que a Congregação introduz a lista das sete afirmações, e a sexta delas. AAS 71 (1979), 941. Cf. DH 4650 e 4656.*
 
-*Autoridade: carta de uma congregação da Cúria Romana, aprovada pelo Papa e mandada publicar; não define, mas recorda o que a Igreja ensina. O resto da carta pertence ao eixo 11.*
+*Autoridade: carta de uma congregação da Cúria Romana, aprovada pelo Papa e mandada publicar; não define, mas recorda o que a Igreja ensina. O resto da carta pertence ao eixo 12.*
 
 _Nenhuma explicação da sorte do homem depois da morte é aceitável se faz desaparecer o que a Assunção tem de próprio: a glorificação corporal da Virgem antecipa a que está reservada a todos os outros eleitos, e por isso não pode ser a mesma que eles já recebem ao morrer_
 

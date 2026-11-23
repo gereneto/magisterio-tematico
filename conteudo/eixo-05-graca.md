@@ -1958,7 +1958,7 @@ _O reino foi preparado para os justos desde a fundação do mundo, e o fogo eter
 
 > **Por que entrar.** É a base bíblica da tese de que a predestinação à vida e a reprovação não são simétricas: Deus prepara o reino para os homens, e o fogo não foi preparado para eles.
 >
-> **Por que não.** O texto trata do juízo final, e a perícope pertence ao eixo 12, parte III; aqui usam-se apenas dois versículos arrancados dela, e a citação pelos concílios do século IX está por conferir.
+> **Por que não.** O texto trata do juízo final, e a perícope pertence ao eixo 12, parte VII; aqui usam-se apenas dois versículos arrancados dela, e a citação pelos concílios do século IX está por conferir.
 
 _Os dois versículos são as duas sentenças do juízo sobre as nações, em Mt 25,31–46_
 
@@ -4148,7 +4148,7 @@ Do mesmo modo quanto ao dom da perseverança, do qual está escrito: Quem persev
 
 <!-- ordem: 1547 -->
 
-*Decreto sobre a justificação, sessão VI, 13 de janeiro de 1547. Capítulos 14 e 15 e cânones 27–30. O cap. 14 e o cân. 29 são também do eixo 9, parte VII; o cân. 30, do eixo 11, parte IV; o cân. 28, do eixo 1, parte VII. Cf. DH 1542–1544 e 1577–1580.*
+*Decreto sobre a justificação, sessão VI, 13 de janeiro de 1547. Capítulos 14 e 15 e cânones 27–30. O cap. 14 e o cân. 29 são também do eixo 9, parte VII; o cân. 30, do eixo 12, parte III; o cân. 28, do eixo 1, parte VII. Cf. DH 1542–1544 e 1577–1580.*
 
 *Autoridade: concílio ecumênico. Os capítulos expõem a doutrina; os cânones, com anátema, definem-na.*
 
