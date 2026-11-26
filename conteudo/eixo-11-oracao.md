@@ -2596,6 +2596,38 @@ Deus mandou que na sua casa fôssemos pacíficos, concordes e unânimes; e quer 
 
 ---
 
+## Cirilo de Jerusalém, *Catequese mistagógica* V,11–18
+
+<!-- ordem: 350 -->
+
+*Quinta catequese mistagógica, dirigida aos recém-batizados na semana da Páscoa, em Jerusalém, na segunda metade do séc. IV; nn. 11–18, inteiros. A autoria é discutida: Cirilo (bispo de 348 a 386) ou o seu sucessor João. Grego da edição de A. Piédagnel, Sources Chrétiennes 126 bis (1966; 1988), na transcrição do Oxford Text Archive (ota:1730). Não consta no DH.*
+
+*Autoridade: texto patrístico de um Doutor da Igreja, sem autoridade magisterial própria; o Catecismo da Igreja Católica cita-o nos nn. 2794, 2819 e 2856.*
+
+_O Pai-nosso explicado aos recém-batizados, pedido por pedido: o Deus que deixa os pecadores chamá-lo Pai, o pão supersubstancial, o pacto do perdão, a tentação como torrente a atravessar e o Amém que sela a oração ensinada por Deus_
+
+> **Por que entrar.** É a catequese batismal em que o Pai-nosso aparece já dentro da liturgia, e o Catecismo a cita três vezes.
+>
+> **Por que não.** A autoria das *Catequeses mistagógicas* é discutida, e o texto está preso ao rito do batismo e da eucaristia; Cipriano e Agostinho já explicam o Pai-nosso nesta parte.
+
+**11.** Depois disso, dizes aquela oração que o Salvador transmitiu aos seus discípulos íntimos, chamando a Deus de Pai com consciência pura e dizendo: Pai nosso, que estás nos céus. Ó imenso amor de Deus pelos homens! Aos que se afastaram dele e caíram nos piores males concedeu tamanho esquecimento dos males e tamanha participação na graça, que até o invocam como Pai. Pai nosso, que estás nos céus. Céus seriam também os que trazem a imagem do celeste, nos quais Deus está, habitando e andando neles.
+
+**12.** Santificado seja o teu nome. Santo por natureza é o nome de Deus, quer o digamos, quer não. Mas, como entre os pecadores às vezes é profanado, conforme aquilo: Por vossa causa o meu nome é sempre blasfemado entre as nações, pedimos que em nós seja santificado o nome de Deus: não porque passe de não ser santo a ser santo, mas porque se torna santo em nós, quando somos santificados e fazemos o que é digno da santificação.
+
+**13.** Venha o teu reino. É de uma alma pura dizer com franqueza: Venha o teu reino. Pois quem ouviu Paulo dizer: Não reine, pois, o pecado no vosso corpo mortal, e se purificou em obra, pensamento e palavra, dirá a Deus: Venha o teu reino.
+
+**14.** Seja feita a tua vontade, como no céu, assim também sobre a terra. Os divinos e bem-aventurados anjos de Deus fazem a vontade de Deus, como dizia Davi ao salmodiar: Bendizei o Senhor, todos os seus anjos, poderosos em força, que cumpris a sua palavra. Orando, pois, é isto o que dizes: assim como nos anjos se faz a tua vontade, assim também sobre a terra se faça em mim, ó Soberano.
+
+**15.** O pão nosso supersubstancial dá-nos hoje. Este pão comum não é supersubstancial; mas este pão santo é supersubstancial, isto é, ordenado à substância da alma. Este pão não vai ao ventre nem é lançado na latrina, mas se distribui por todo o teu ser, para proveito da alma e do corpo. E o hoje diz-se em lugar de cada dia, como também Paulo dizia: Enquanto se chama hoje.
+
+**16.** E perdoa-nos as nossas dívidas, como também nós perdoamos aos nossos devedores. Temos muitos pecados: tropeçamos em palavra e em pensamento, e fazemos muitíssimas coisas dignas de condenação. E, se dissermos que não temos pecado, mentimos, como diz João. E fazemos um pacto com Deus, rogando-lhe que nos perdoe os pecados, como também nós perdoamos ao próximo as suas dívidas. Considerando, pois, quão grandes coisas recebemos em troca de quão pequenas, não adiemos nem protelemos o perdão uns aos outros. As faltas cometidas contra nós são pequenas, leves e fáceis de desfazer; mas as que nós cometemos contra Deus são grandes, e para elas precisamos só do seu amor pelos homens. Toma cuidado, pois: por pecados pequenos e leves cometidos contra ti, não feches a ti mesmo o perdão de Deus para os pecados gravíssimos.
+
+**17.** E não nos induzas em tentação, Senhor. Será que o Senhor nos ensina a pedir que de modo algum sejamos tentados? E como se diz em outro lugar: Homem não tentado, homem não provado; e ainda: Tende por grande alegria, irmãos meus, quando cairdes em tentações diversas? Mas talvez entrar em tentação seja ser submergido pela tentação. Pois a tentação parece-se com uma torrente difícil de atravessar. Os que nas tentações não são submergidos atravessam, como exímios nadadores, sem serem de modo algum arrastados por ela; mas os que não são assim, ao entrar, são submergidos. Por exemplo, Judas, entrando na tentação da avareza, não a atravessou a nado, mas, submergido, afogou-se no corpo e no espírito. Pedro entrou na tentação da negação; mas, tendo entrado, não foi submergido: atravessou-a valentemente a nado e foi livrado da tentação. Ouve ainda, em outro lugar, o coro dos santos perfeitos dar graças por ter sido arrancado da tentação: Provaste-nos, ó Deus, acrisolaste-nos como se acrisola a prata; fizeste-nos cair no laço, puseste tribulações sobre o nosso dorso, fizeste homens passar sobre as nossas cabeças; passamos pelo fogo e pela água, e nos levaste ao refrigério. Vês como falam com confiança por terem atravessado sem ficar presos? E nos levaste ao refrigério: chegar ao refrigério é o mesmo que ser livrado da tentação.
+
+**18.** Mas livra-nos do maligno. Se o não nos induzas em tentação significasse não ser tentado de modo algum, não diria: Mas livra-nos do maligno. O maligno é o demônio adversário, do qual pedimos ser livrados. Depois, terminada a oração, dizes Amém, selando com o Amém, que significa assim seja, o que está na oração ensinada por Deus.
+
+---
+
 ## Ambrósio, *De sacramentis* V,4,18–30
 
 <!-- ordem: 390 -->
@@ -2635,6 +2667,36 @@ _O Pai-nosso explicado aos neófitos: o filho que ousa dizer «Pai nosso», o p�
 **29.** E não permitas que sejamos induzidos em tentação, mas livra-nos do mal. Olha o que diz: E não permitas que sejamos induzidos em tentação que não possamos suportar. Não diz: Não induzas em tentação, mas, como atleta, quer uma tentação tal que a condição humana possa suportar; e que cada um seja livrado do mal, isto é, do inimigo, do pecado.
 
 **30.** Poderoso é o Senhor, que tirou o vosso pecado e perdoou os vossos delitos, para vos proteger e guardar contra as ciladas do diabo adversário, a fim de que não vos surpreenda o inimigo, que costuma gerar a culpa. Mas quem se entrega a Deus não teme o diabo: Se Deus é por nós, quem será contra nós? A ele, pois, louvor e glória pelos séculos, e agora, e sempre, e por todos os séculos dos séculos. Amém.
+
+---
+
+## João Crisóstomo, *Homilias sobre Mateus* 19,4–5
+
+<!-- ordem: 390 -->
+
+*Homilia 19 sobre o Evangelho de Mateus (Mt 6,1–15), pregada em Antioquia por volta de 390; n. 4 inteiro e n. 5 até o fim do comentário a «seja feita a tua vontade». Grego da PG 57, 278–280, no OCR do volume no archive.org. Não consta no DH.*
+
+*Autoridade: texto patrístico de um Doutor da Igreja, sem autoridade magisterial própria; o Catecismo da Igreja Católica cita-o nos nn. 2768 e 2825.*
+
+_Por que orar, se Deus sabe do que precisamos; o Pai-nosso como oração em comum, que faz iguais o rico e o pobre; os três primeiros pedidos como desejo da glória do Pai, dos bens futuros e de uma terra feita céu_
+
+> **Por que entrar.** É o pregador grego mais lido sobre o Pai-nosso, e o Catecismo o cita em dois pontos: a oração em comum e a vontade de Deus feita em toda a terra.
+>
+> **Por que não.** O Catecismo só o cita duas vezes, e Cipriano e Agostinho já tratam nesta parte dos mesmos pedidos.
+
+**4.** Depois disso, parece-me que manda também não fazer longas as orações; longas, digo, não no tempo, mas na quantidade e no comprimento das palavras. Pois é preciso perseverar pedindo as mesmas coisas: Perseverantes, diz, na oração. E ele mesmo, pelo exemplo da viúva, que dobrou o juiz impiedoso e cruel pela insistência do pedido, e pelo do amigo que chegou fora de hora, no meio da noite, e fez levantar-se da cama o que dormia, não pela amizade, mas pela importunação, outra coisa não estabeleceu senão que todos lhe dirijam pedidos sem cessar; não manda, porém, que nos aproximemos dele compondo uma oração de dez mil linhas e simplesmente recitando-a. Foi isso o que insinuou ao dizer: Pensam que serão ouvidos pelo seu muito falar. Pois ele sabe, diz, de que tendes necessidade. E, se sabe, dirá alguém, de que temos necessidade, por que é preciso orar? Não para que o instruas, mas para que o dobres; para que te tornes familiar dele pela assiduidade do pedido; para que te humilhes; para que te lembres dos teus pecados.
+
+Orai, pois, vós assim, diz: Pai nosso, que estás nos céus. Vê como logo despertou o ouvinte e, já no começo, lhe lembrou todo o benefício. Pois quem chama Deus de Pai confessou, por esta única invocação, a remissão dos pecados, a supressão do castigo, a justiça, a santificação, a redenção, a adoção, a herança, a fraternidade com o Unigênito e o dom do Espírito. Não é possível chamar Deus de pai sem ter alcançado todos esses bens. Desperta-lhes, pois, o ânimo de dois modos: pela dignidade daquele a quem chamam e pela grandeza dos benefícios que receberam. E, quando diz: Nos céus, não o diz para encerrar Deus lá, mas para afastar da terra aquele que ora e fixá-lo nos lugares altos e nas moradas do alto.
+
+Ensina também a fazer a oração em comum, pelos irmãos. Pois não diz: Pai meu, que estás nos céus, mas: Pai nosso, apresentando as súplicas pelo corpo comum, sem olhar em parte alguma o próprio interesse, mas em toda parte o do próximo. Com isso suprime a inimizade, abate a soberba, expulsa a inveja, introduz a caridade, mãe de todos os bens, afasta a desigualdade das coisas humanas e mostra quanta igualdade de honra há entre o rei e o pobre, já que nas coisas maiores e mais necessárias todos participamos em comum. Que dano vem do parentesco cá de baixo, quando, segundo o do alto, estamos todos unidos e ninguém tem mais que outro em coisa alguma: nem o rico mais que o pobre, nem o senhor mais que o escravo, nem o governante mais que o governado, nem o rei mais que o soldado, nem o filósofo mais que o bárbaro, nem o sábio mais que o ignorante? Pois a todos deu uma só nobreza, dignando-se ser chamado igualmente Pai de todos.
+
+Tendo-lhes, pois, lembrado esta nobreza, o dom do alto, a igualdade de honra com os irmãos e a caridade, e tendo-os afastado da terra e fixado nos céus, vejamos o que manda pedir em seguida. Na verdade, já esta palavra basta para ensinar toda virtude. Pois quem chamou Deus de Pai, e de Pai comum, deve mostrar uma conduta tal que não pareça indigno desta nobreza, e um empenho à altura do dom. Mas não se contenta com isso, e acrescenta outro pedido, dizendo: Santificado seja o teu nome. Digna de quem chama Deus de Pai é a oração que nada pede antes da glória do Pai, e que tem tudo por secundário em relação ao louvor dele. Pois Santificado seja quer dizer: Seja glorificado. Ele tem a sua própria glória, plena e sempre igual; mas manda que quem ora peça que ele seja glorificado também pela nossa vida. É o que dizia antes: Brilhe a vossa luz diante dos homens, para que vejam as vossas boas obras e glorifiquem o vosso Pai, que está nos céus. Também os serafins, glorificando-o, diziam assim: Santo, santo, santo. De modo que Santificado seja quer dizer: Seja glorificado. Concede-nos, diz, viver com tal pureza, que por nós todos te glorifiquem. Isso, por sua vez, é próprio de uma sabedoria perfeita: mostrar a todos uma vida tão irrepreensível, que cada um dos que a veem dê por ela louvor ao Senhor.
+
+Venha o teu reino. Também esta é palavra de filho de boa índole: não se prender às coisas visíveis nem ter por grande o presente, mas apressar-se para o Pai e desejar os bens futuros; o que nasce de uma boa consciência e de uma alma livre das coisas da terra.
+
+**5.** Era isso o que Paulo desejava cada dia; por isso também dizia: Também nós, que temos as primícias do Espírito, gememos, esperando a adoção, a redenção do nosso corpo. Quem tem esse amor não pode ser ensoberbecido pelos bens desta vida nem abatido pelas suas tristezas, mas, como quem vive já nos próprios céus, fica livre de uma e outra desigualdade.
+
+Seja feita a tua vontade, assim no céu como na terra. Vês que sequência excelente? Mandou desejar os bens futuros e apressar-se para aquela partida; mas, enquanto isso não acontece e vivemos aqui, empenhar-nos em mostrar a mesma conduta dos que estão no alto. É preciso desejar o céu, diz, e as coisas do céu; mas, ainda antes do céu, mandou fazer da terra um céu, e, vivendo nela como quem vive lá, fazer e dizer tudo de modo a poder também por isso suplicar ao Senhor. Pois nada impede que alcancemos a perfeição das potências do alto por habitarmos a terra: é possível, mesmo vivendo aqui, fazer tudo como quem já está no alto. O que ele diz, então, é isto: assim como lá tudo se faz sem impedimento, e os anjos não obedecem numas coisas e desobedecem noutras, mas em tudo cedem e obedecem (poderosos em força, diz, que cumprem a sua palavra), assim também a nós, homens, concede fazer a tua vontade não pela metade, mas cumprir tudo como queres. Vês como ensinou também a ser modesto, mostrando que a virtude não é só do nosso empenho, mas também da graça do alto? E mandou ainda que cada um de nós, ao orar, tome sobre si o cuidado de toda a terra. Pois não disse: Seja feita a tua vontade em mim, ou em nós, mas: Por toda a terra; para que se desfaça o erro e se plante a verdade, se expulse toda maldade e volte a virtude, e em nada mais difira o céu da terra. Se isso acontecer, diz, em nada diferirão as coisas de baixo das do alto, embora difiram por natureza, porque a terra nos mostrará outros anjos.
 
 ---
 
